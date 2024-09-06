@@ -337,7 +337,12 @@ form {
 }
 
 @media screen and (max-width: 1280px) {
-
+	section#recent-past ul#myTab {
+        right: 41px !important;
+        display: block !important;
+        position: unset !important;
+        margin: 0 !important;
+    }
 	.container {
 		width: calc(100% - 100px);
 	}
@@ -4727,9 +4732,14 @@ section#contact-sec {
 	padding-left: 0px;
 }
 
-.about-banner-buttons.animate__animated.animate__bounce {
+.cnhhh .about-banner-buttons.animate__animated.animate__bounce {
 	display: flex;
 	justify-content: center;
+	align-items: center;
+}
+ .about-banner-buttons.animate__animated.animate__bounce {
+	display: flex !important;
+	justify-content: flex-start;
 	align-items: center;
 }
 
@@ -6651,6 +6661,18 @@ span.close {
     right: 0;
     top: 0;
     cursor: pointer;
+}
+form.innerpagescalltoaction button.btn.btn-primary {
+    width: 100%;
+    color: #fff;
+    border-radius: 20px;
+    font-family: 'Anek Tamil';
+    letter-spacing: 1px;
+    font-size: 20px;
+    height: 59px;
+    font-weight: 400;
+    background-image: -webkit-gradient(linear, left bottom, right top, color-stop(0.33, #7d5ce0), color-stop(0.67, #27D6FC));
+    border: 0px;
 }
 @media only screen and (max-width:1024px) {
 	.my-connect-inner img {

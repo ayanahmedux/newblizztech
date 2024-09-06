@@ -33,24 +33,24 @@
 					</div>
 					<div class="col-6 col-12-medium">
 						<div class="log-quote-form">
-							<form class="animate__animated animate__fadeInRight" id="contact" action="" method="post">
-								<fieldset>
-									<input placeholder="Full Name" type="text" tabindex="1" required autofocus>
-								</fieldset>
-								<fieldset>
-									<input placeholder="Email Address" type="email" tabindex="2" required>
-								</fieldset>
-								<fieldset>
-									<input placeholder="Phone" type="tel" tabindex="3" required>
-								</fieldset>
+							<form class="innerpagescalltoaction" method="post" id="contact" action="">
 
-								<fieldset>
-									<textarea placeholder="Project Discription" tabindex="5" required></textarea>
-								</fieldset>
-								<fieldset>
-									<button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
-								</fieldset>
-							</form>
+
+
+ 
+<input type="text" class="form-control" name="name" placeholder="Name" required>
+
+<input type="email" class="form-control" name="email" placeholder="Email" required>
+
+
+
+<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+
+
+<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
+
+<button class="btn btn-primary" type="submit" name="submit">Submit</button>
+</form>
 						</div>
 					</div>
 				</div>
@@ -992,24 +992,24 @@
 				<div class="row contact-inner">
 					<div class="col-6 col-12-medium">
 						<div class="logo-conactfomrinner">
-							<form class="animate__animated animate__pulse" id="contact" action="" method="post">
-								<fieldset>
-									<input placeholder="Full Name" type="text" tabindex="1" required autofocus>
-								</fieldset>
-								<fieldset>
-									<input placeholder="Email Address" type="email" tabindex="2" required>
-								</fieldset>
-								<fieldset>
-									<input placeholder="Phone" type="tel" tabindex="3" required>
-								</fieldset>
+						<form class="innerpagescalltoaction" method="post" action="">
 
-								<fieldset>
-									<textarea placeholder="Project Discription" tabindex="5" required></textarea>
-								</fieldset>
-								<fieldset>
-									<button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
-								</fieldset>
-							</form>
+
+
+ 
+<input type="text" class="form-control" name="name" placeholder="Name" required>
+
+<input type="email" class="form-control" name="email" placeholder="Email" required>
+
+
+
+<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+
+
+<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
+
+<button class="btn btn-primary" type="submit" name="submit">Submit</button>
+</form>
 						</div>
 					</div>
 

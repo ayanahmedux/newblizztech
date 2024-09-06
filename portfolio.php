@@ -277,7 +277,7 @@
                     <div class="row contact-inner">
                         <div class="col-6 col-12-medium">
                             <div class="logo-conactfomrinner">
-							<form method="post" action="">
+							<form class="innerpagescalltoaction" method="post" action="">
 
 
 
