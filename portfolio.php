@@ -16,7 +16,7 @@
                                     <div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
                                         <ul>
                                             <li><div class="brand-button">
-                                                <h6><a href="#">Get Started</a></h6>
+                                                <h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
                                             </div></li>
                                             <li><div class="brand-button">
                                                 <h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
@@ -262,7 +262,7 @@
 			<div class="custom-portoflio-button" style="padding-top: 40px;">
 				<ul>
 					<li><div class="brand-button">
-						<h6><a href="#">Get Started</a></h6>
+						<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 					</div></li>
 					<li><div class="brand-button">
 						<h6><a href="#">View Portfolio</a></h6>
@@ -279,7 +279,7 @@
                             <div class="logo-conactfomrinner">
                                 <form class="animate__animated animate__pulse" id="contact" action="" method="post">
                                     <fieldset>
-                                      <input placeholder="Full Name" type="text" tabindex="1" required autofocus>
+                                      <input placeholder="Full Name" type="text" tabindex="1" required>
                                     </fieldset>
                                     <fieldset>
                                       <input placeholder="Email Address" type="email" tabindex="2" required>
@@ -309,7 +309,7 @@
                                          <div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
                                             <ul>
                                                 <li><div class="brand-button">
-                                                    <h6><a href="#">Get Started</a></h6>
+                                                    <h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
                                                 </div></li>
                                                 <li><div class="brand-button">
                                                     <h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>

@@ -4729,7 +4729,7 @@ section#contact-sec {
 
 .about-banner-buttons.animate__animated.animate__bounce {
 	display: flex;
-	justify-content: flex-start;
+	justify-content: center;
 	align-items: center;
 }
 
@@ -6554,10 +6554,12 @@ div#quoteModal .modal-content {
     background: #fff;
     border: 1px solid #27d5fc;
     margin: 4px 1px;
-    padding: 8px 20px;
+    padding: 7px 20px;
     border-radius: 30px;
-	font-size: 12px;
+    font-size: 15px;
     font-family: 'Anek Tamil';
+    letter-spacing: normal;
+    height: auto;
 }
 
 .mycustom-buttons ul li {

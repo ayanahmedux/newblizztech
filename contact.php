@@ -18,7 +18,7 @@
 										<div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px; text-align: center;">
 											<ul style="text-align: center;">
 												<li><div class="brand-button">
-													<h6><a href="#">Get Started</a></h6>
+													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 												</div></li>
 												<li><div class="brand-button">
 													<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
@@ -75,7 +75,7 @@
 											 <div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
 												<ul>
 													<li><div class="brand-button">
-														<h6><a href="#">Get Started</a></h6>
+														<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 													</div></li>
 													<li><div class="brand-button">
 														<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>

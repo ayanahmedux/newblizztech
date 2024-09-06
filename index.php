@@ -113,7 +113,7 @@
 							<p>	We streamline the daily ins and outs of branding and create a cohesive brand identity your audience recognizes across all channels. </p>
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 						<div class="col-3 col-12-medium">
@@ -126,7 +126,7 @@
 							<p>Our innovative approach to designing and marketing is access to the newest technology, such as design software and digital marketing tools.</p>
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 						<div class="col-3 col-12-medium">
@@ -139,7 +139,7 @@
 							<p>We are more than one head in the game - from ideation to creation and revision; you are our ‘Perfect’ collaborative partners.</p>
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 						<div class="col-3 col-12-medium">
@@ -152,7 +152,7 @@
 							<p>We don’t hide costs behind “fine” print. We offer pricing and work processes transparency, clarifying time allocation and deliverables.</p>
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 					</div>
@@ -250,7 +250,7 @@
 							</div>
 							</div>
 							<div class="brand-button" style="padding-top: 40px;">
-								<h6><a href="#">Get Started</a></h6>
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 							</div>
 					</div>
 				</div>
@@ -349,7 +349,7 @@
 									<div class="call-to">
 										<img class="line" src="./images/Line 4.png"/>
 									</div>
-									<div class="button-text"><a href="#">Get Started <img class="arrow" 
+									<div class="button-text"><a href="javascript:;" class="quote-button">Get Started <img class="arrow" 
 										src="./images/buttonarrow.png"/></a></div>
 								</div>
 							</div>
@@ -415,7 +415,7 @@
 									<div class="call-to">
 										<img class="line" src="./images/Line 4.png"/>
 									</div>
-									<div class="button-text"><a href="#">Get Started <img class="arrow" 
+									<div class="button-text"><a href="javascript:;" class="quote-button">Get Started <img class="arrow" 
 										src="./images/buttonarrow.png" /></a></div>
 								</div>
 							</div>
@@ -480,7 +480,7 @@
 									<div class="call-to">
 										<img class="line" src="./images/Line 4.png"/>
 									</div>
-									<div class="button-text"><a href="#">Get Started <img class="arrow" 
+									<div class="button-text"><a href="javascript:;" class="quote-button">Get Started <img class="arrow" 
 										src="./images/buttonarrow.png"/></a></div>
 								</div>
 							</div>
@@ -547,7 +547,7 @@
 									<div class="call-to">
 										<img class="line" src="./images/Line 4.png"/>
 									</div>
-									<div class="button-text"><a href="#">Get Started <img class="arrow" 
+									<div class="button-text"><a href="javascript:;" class="quote-button">Get Started <img class="arrow" 
 										src="./images/buttonarrow.png"/></a></div>
 								</div>
 							</div>
@@ -614,7 +614,7 @@
 									<div class="call-to">
 										<img class="line" src="./images/Line 4.png"/>
 									</div>
-									<div class="button-text"><a href="#">Get Started <img class="arrow" 
+									<div class="button-text"><a href="javascript:;" class="quote-button">Get Started <img class="arrow" 
 										src="./images/buttonarrow.png"/></a></div>
 								</div>
 								
@@ -845,7 +845,7 @@
 			<div class="custom-portoflio-button" style="padding-top: 40px;">
 				<ul>
 					<li><div class="brand-button">
-						<h6><a href="#">Get Started</a></h6>
+						<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 					</div></li>
 					<li><div class="brand-button">
 						<h6><a href="#">View Portfolio</a></h6>
@@ -986,7 +986,7 @@
 						<div class="custom-price-button" style="padding-top: 70px;">
 							<ul>
 								<li><div class="brand-button">
-									<h6><a href="#">Get Started</a></h6>
+									<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 								</div></li>
 								<li><div class="brand-button">
 									<h6><a href="#">View More</a></h6>
@@ -1096,7 +1096,7 @@
 							<div class="custom-price-button" style="padding-top: 70px;">
 								<ul>
 									<li><div class="brand-button">
-										<h6><a href="#">Get Started</a></h6>
+										<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 									</div></li>
 									<li><div class="brand-button">
 										<h6><a href="#">View More</a></h6>
@@ -1204,7 +1204,7 @@
 							<div class="custom-price-button" style="padding-top: 70px;">
 								<ul>
 									<li><div class="brand-button">
-										<h6><a href="#">Get Started</a></h6>
+										<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 									</div></li>
 									<li><div class="brand-button">
 										<h6><a href="#">View More</a></h6>
@@ -1312,7 +1312,7 @@
 							<div class="custom-price-button" style="padding-top: 70px;">
 								<ul>
 									<li><div class="brand-button">
-										<h6><a href="#">Get Started</a></h6>
+										<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 									</div></li>
 									<li><div class="brand-button">
 										<h6><a href="#">View More</a></h6>
@@ -1420,7 +1420,7 @@
 							<div class="custom-price-button" style="padding-top: 70px;">
 								<ul>
 									<li><div class="brand-button">
-										<h6><a href="#">Get Started</a></h6>
+										<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 									</div></li>
 									<li><div class="brand-button">
 										<h6><a href="#">View More</a></h6>

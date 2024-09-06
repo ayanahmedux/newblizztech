@@ -200,7 +200,7 @@
                     <div class="custom-portoflio-button" style="padding-top: 40px;">
                         <ul>
                             <li><div class="brand-button">
-                                <h6><a href="#">Get Started</a></h6>
+                                <h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
                             </div></li>
                             
                         </ul>
@@ -232,7 +232,7 @@
                                             <div class="custom-portoflio-button" style="padding-top: 40px;">
                                                 <ul>
                                                     <li><div class="brand-button">
-                                                        <h6><a href="#">Get Started</a></h6>
+                                                        <h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
                                                     </div></li>
                                                     
                                                 </ul>
@@ -756,7 +756,7 @@
 								<div class="custom-price-button" style="padding-top: 70px;">
 									<ul>
 										<li><div class="brand-button">
-											<h6><a href="#">Get Started</a></h6>
+											<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 										</div></li>
 										<li><div class="brand-button">
 											<h6><a href="#">View More</a></h6>
@@ -811,7 +811,7 @@
 											 <div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
 												<ul>
 													<li><div class="brand-button">
-														<h6><a href="#">Get Started</a></h6>
+														<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 													</div></li>
 													<li><div class="brand-button">
 														<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>

@@ -20,7 +20,7 @@
 									<ul>
 										<li>
 											<div class="brand-button">
-												<h6><a href="#">Get Started</a></h6>
+												<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 											</div>
 										</li>
 										<li>
@@ -110,7 +110,7 @@
 
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 					<div class="col">
@@ -124,7 +124,7 @@
 
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 					<div class="col">
@@ -136,7 +136,7 @@
 							<h3>Allows You To Personalize</h3>
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 					<div class="col">
@@ -150,7 +150,7 @@
 
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 					<div class="col">
@@ -163,7 +163,7 @@
 
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 				</div>
@@ -185,7 +185,7 @@
 									<ul style="text-align: left;">
 										<li>
 											<div class="brand-button">
-												<h6><a href="#">Get Started</a></h6>
+												<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 											</div>
 										</li>
 										<li>
@@ -277,7 +277,7 @@
 					<ul>
 						<li>
 							<div class="brand-button">
-								<h6><a href="#">Get Started</a></h6>
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 							</div>
 						</li>
 						<li>
@@ -328,7 +328,7 @@
 								leverage the full potential of Android&#39;s features and performance for exceptional user
 								experiences.</p>
 							<h5><a href="#">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></h5>
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 
@@ -340,7 +340,7 @@
 								apps that deliver a feature-packed user experience. Build, test, and deploy beautiful
 								mobile, web, and embedded apps from a single codebase.</p>
 							<h5><a href="#">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></h5>
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 
@@ -353,7 +353,7 @@
 								ecosystems using our improved methodologies and out-of-the-box approach using
 								React Native.</p>
 							<h5><a href="#">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></h5>
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 
@@ -365,7 +365,7 @@
 							<p>We can help you quickly bring your application to life with less code, using the modern
 								declarative approach to UI and the simplistic nature of Kotlin.</p>
 							<h5><a href="#">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></h5>
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 				</div>
@@ -412,7 +412,7 @@
 								<ul>
 									<li>
 										<div class="brand-button">
-											<h6><a href="#">Get Started</a></h6>
+											<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 										</div>
 									</li>
 									<li>

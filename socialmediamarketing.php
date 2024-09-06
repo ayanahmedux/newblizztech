@@ -19,7 +19,7 @@
 									<ul>
 										<li>
 											<div class="brand-button">
-												<h6><a href="#">Get Started</a></h6>
+												<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 											</div>
 										</li>
 										<li>
@@ -111,7 +111,7 @@
 
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 					<div class="col">
@@ -124,7 +124,7 @@
 
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 					<div class="col">
@@ -136,7 +136,7 @@
 							<h3>Influencer Marketing Campaign</h3>
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 					<div class="col">
@@ -150,7 +150,7 @@
 
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 					<div class="col">
@@ -164,7 +164,7 @@
 
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 				</div>
@@ -186,7 +186,7 @@
 									<ul style="text-align: left;">
 										<li>
 											<div class="brand-button">
-												<h6><a href="#">Get Started</a></h6>
+												<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 											</div>
 										</li>
 										<li>
@@ -451,7 +451,7 @@
 					<ul>
 						<li>
 							<div class="brand-button">
-								<h6><a href="#">Get Started</a></h6>
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 							</div>
 						</li>
 						<li>
@@ -576,7 +576,7 @@
 							<ul>
 								<li>
 									<div class="brand-button">
-										<h6><a href="#">Get Started</a></h6>
+										<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 									</div>
 								</li>
 								<li>
@@ -636,7 +636,7 @@
 								<ul>
 									<li>
 										<div class="brand-button">
-											<h6><a href="#">Get Started</a></h6>
+											<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 										</div>
 									</li>
 									<li>

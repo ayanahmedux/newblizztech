@@ -19,7 +19,7 @@
 								<ul>
 									<li>
 										<div class="brand-button">
-											<h6><a href="#">Get Started</a></h6>
+											<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 										</div>
 									</li>
 									<li>
@@ -108,7 +108,7 @@
 								abstract logos that stand out.
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 					<div class="col-3 col-12-medium">
@@ -123,7 +123,7 @@
 								ensure a memorable and impactful logo.</p>
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 					<div class="col-3 col-12-medium">
@@ -139,7 +139,7 @@
 								initials, and acronyms.</p>
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 					<div class="col-3 col-12-medium">
@@ -154,7 +154,7 @@
 								mascot logo instills life into your brand that appeals to humans.</p>
 						</div>
 						<div class="button-custom">
-							<h6><a href="#">Get Started</a></h6>
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
 				</div>
@@ -177,7 +177,7 @@
 									<ul style="text-align: left;">
 										<li>
 											<div class="brand-button">
-												<h6><a href="#">Get Started</a></h6>
+												<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 											</div>
 										</li>
 										<li>
@@ -523,7 +523,7 @@
 					<ul>
 						<li>
 							<div class="brand-button">
-								<h6><a href="#">Get Started</a></h6>
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 							</div>
 						</li>
 						<li>
@@ -730,7 +730,7 @@
 								<ul>
 									<li>
 										<div class="brand-button">
-											<h6><a href="#">Get Started</a></h6>
+											<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 										</div>
 									</li>
 									<li>
@@ -1022,7 +1022,7 @@
 								<ul>
 									<li>
 										<div class="brand-button">
-											<h6><a href="#">Get Started</a></h6>
+											<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 										</div>
 									</li>
 									<li>

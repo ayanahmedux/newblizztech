@@ -14,7 +14,7 @@
 							<div class="about-banner-buttons" style="padding-top: 50px; padding-bottom: 70px;">
 								<ul>
 									<li><div class="brand-button">
-										<h6><a href="#">Get Started</a></h6>
+										<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 									</div></li>
 									<li><div class="brand-button">
 										<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
@@ -456,7 +456,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
 										<div class="about-banner-buttons" style="padding-top: 30px;">
 											<ul>
 												<li><div class="brand-button">
-													<h6><a href="#">Get Started</a></h6>
+													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 												</div></li>
 												<li><div class="brand-button">
 													<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
