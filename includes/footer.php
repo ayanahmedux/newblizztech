@@ -1,3 +1,45 @@
+<?php
+$message = ""; // Initialize an empty variable to hold the message
+
+if(isset($_POST['submit'])) {
+    // Get form data
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $phone = $_POST['phone'];
+    $message = $_POST['message'];
+    $interests = isset($_POST['interests']) ? $_POST['interests'] : 'None'; // Get selected interests
+
+    // Set up email headers
+    $to = 'info@blizztechsolutions.com';
+    $subject = 'Quotation Form';
+    $headers = "From: $name <$email>\r\n";
+    $headers .= "Reply-To: $email\r\n";
+    $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
+
+    // Compose the email body
+    $body = "
+<html>
+    <body>
+        <h2>QUERY FORM</h2>
+        <p><strong>Name:</strong> $name</p>
+        <p><strong>Email:</strong> $email</p>
+        <p><strong>Phone:</strong> $phone</p>
+        <p><strong>I'm interested in:</strong> $interests</p>
+        <p><strong>Message:</strong> $message</p>
+    </body>
+</html>";
+
+    // Send email and check if successful
+    if(mail($to, $subject, $body, $headers)) {
+        // Redirect to thankyou.php if the email is sent successfully
+        header("Location: thankyou.php");
+        exit(); // Ensure no further code is executed after the redirect
+    } else {
+        $message = "Failed to send email. Please try again later.";
+    }
+}
+?>
+
 <footer id="main-footer-sections" >
 				<!-- FIRST WIDGET FOOTER START -->
 				<div class="first-widgets-row">
@@ -241,4 +283,44 @@ function checkSlides(slider, currentSlide) {
     nationalMode: !0,
     separateDialCode: !0,
   });
+</script>
+
+
+<script type="text/javascript">
+  var Tawk_API = Tawk_API || {},
+    Tawk_LoadStart = new Date();
+  (function() {
+    var s1 = document.createElement("script"),
+      s0 = document.getElementsByTagName("script")[0];
+    s1.async = true;
+    s1.src = 'https://embed.tawk.to/66b3ecc0146b7af4a4374b0a/1i4nd9k8e';
+    s1.charset = 'UTF-8';
+    s1.setAttribute('crossorigin', '*');
+    s0.parentNode.insertBefore(s1, s0);
+  })();
+</script>
+<!--End of Tawk.to Script-->
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const buttons = document.querySelectorAll('.interest-btn');
+        const selectedInterests = [];
+
+        buttons.forEach(button => {
+            button.addEventListener('click', function() {
+                const value = this.getAttribute('data-value');
+
+                // Toggle selection
+                if (selectedInterests.includes(value)) {
+                    selectedInterests.splice(selectedInterests.indexOf(value), 1);
+                    this.classList.remove('selected');
+                } else {
+                    selectedInterests.push(value);
+                    this.classList.add('selected');
+                }
+
+                // Update the hidden input value
+                document.getElementById('selected-interests').value = selectedInterests.join(', ');
+            });
+        });
+    });
 </script>

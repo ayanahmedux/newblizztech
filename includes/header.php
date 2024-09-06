@@ -29,32 +29,32 @@
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav mx-auto mb-2 mb-lg-0">
 				<li class="nav-item current">
-					<a class="nav-link " aria-current="page" href="index.php">Home</a>
+					<a class="nav-link " aria-current="page" href="index">Home</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="aboutus.php">About Us</a>
+					<a class="nav-link" href="aboutus">About Us</a>
 				</li>
 				<li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="services.php"  role="button" data-bs-toggle="dropdown" aria-expanded="false">
+					<a class="nav-link dropdown-toggle" href="services"  role="button" data-bs-toggle="dropdown" aria-expanded="false">
 						Services
 					</a>
 					<ul class="dropdown-menu">
-						<li><a class="dropdown-item" href="logo-designs.php">Logo Designs</a></li>
-						<li><a class="dropdown-item" href="website-designs.php">Website Designs</a></li>
-						<li><a class="dropdown-item" href="branding.php">Branding</a></li>
-						<li><a class="dropdown-item" href="socialmediamarketing.php">Social Media Marketing</a></li>
-						<li><a class="dropdown-item" href="mobileapplication.php">Mobile Application</a></li>
-						<li><a class="dropdown-item" href="ppc.php">Pay Per Click</a></li>
-						<li><a class="dropdown-item" href="animation.php">Animation</a></li>
-						<li><a class="dropdown-item" href="seo.php">SEO</a></li>
-						<li><a class="dropdown-item" href="videoediting.php">Video Editing</a></li>
+						<li><a class="dropdown-item" href="logo-designs">Logo Designs</a></li>
+						<li><a class="dropdown-item" href="website-designs">Website Designs</a></li>
+						<li><a class="dropdown-item" href="branding">Branding</a></li>
+						<li><a class="dropdown-item" href="socialmediamarketing">Social Media Marketing</a></li>
+						<li><a class="dropdown-item" href="mobileapplication">Mobile Application</a></li>
+						<li><a class="dropdown-item" href="ppc">Pay Per Click</a></li>
+						<li><a class="dropdown-item" href="animation">Animation</a></li>
+						<li><a class="dropdown-item" href="seo">SEO</a></li>
+						<li><a class="dropdown-item" href="videoediting">Video Editing</a></li>
 					</ul>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link " href="portfolio.php">Portfolio</a>
+					<a class="nav-link " href="portfolio">Portfolio</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="contact.php">Contact</a>
+					<a class="nav-link" href="contact">Contact</a>
 				</li>
 				
 			</ul>
