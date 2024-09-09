@@ -10,7 +10,7 @@
 					 <section id="seo-section">
 					<div class="service-logosection animation" style="padding-top: 50px; padding-left: 50px; padding-right: 50px;">
 						<div class="container">
-							<div class="row">
+							<div class="row" style="margin: auto;">
 								<div class="col-6 col-12-medium align-self-center">
 									<div class="first-inner-section-text">
 										<h1><b>Fueling</b> Success with<br> Dynamic <b>Creativity</b>.</h1>
@@ -242,7 +242,7 @@
 
 				<section id="price-plans-section" style="padding-top: 60px; padding-bottom: 60px;">
 					<div class="container">
-						<div class="row">
+						<div class="row" style="margin: auto;">
 							<div class="heading-text" style="text-align: center;">
 								<h3>Logo’s </h3>
 								<h1><b>Pricing</b> And Plans</h1>
@@ -255,7 +255,7 @@
 					
 				  <!-- LOGOS PRICE PLAN Start -->
 				 <div class="container">
-							<div class="row">
+							<div class="row" style="margin: auto;">
 								<div class="col-4 col-12-medium">
 									<div class="price-inner-plan">
 										<div class="price-heading-text">
@@ -342,7 +342,7 @@
 							</div>
 
 							<!-- second row -->
-							<div class="row" style="padding-top: 50px;">
+							<div class="row" style="padding-top: 50px; margin: auto;">
 								<div class="col-4 col-12-medium">
 									<div class="price-inner-plan">
 										<div class="price-heading-text">
@@ -455,7 +455,7 @@
 							<p style="color: #fff;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 								Lorem Ipsum has been the <br> industry's standard dummy text ever since the 1500s, when an unkmore recently</p>
 						</div>
-						<div class="row">
+						<div class="row" >
 							<div class="col-6 col-12-medium">
 								<div class="process-seo-box">
 									<div class="text-seo">
@@ -480,7 +480,7 @@
 							</div>
 						</div>
 
-						<div class="row" style="padding: 20px 0px;">
+						<div class="row" style="padding: 20px 0px; margin: auto;">
 							<div class="col-6 col-12-medium">
 								<div class="process-seo-box">
 									<div class="text-seo">
@@ -543,7 +543,7 @@
 						</div>
 
 						<!-- SECOND ROW -->
-						<div class="row" style="padding-top: 50px;">
+						<div class="row" style="padding-top: 50px; margin: auto;">
 							<div class="col-6 col-12-medium">
 								<img width="100%" src="./images/seo/choose1.png">
 							</div>
@@ -571,7 +571,7 @@
 							
 						</div>
 						<!-- THIRD ROW START -->
-						<div class="row" style="padding-top: 50px;">
+						<div class="row" style="padding-top: 50px; margin: auto;">
 							<div class="col-6 col-12-medium">
 								<div class="processinner-text">
 									<h2>Optimization
@@ -637,7 +637,7 @@
 						</div>
 						<!-- THIRD ROW END -->
                         	<!-- FOUR ROW START -->
-						<div class="row" style="padding-top: 50px;">
+						<div class="row" style="padding-top: 50px; margin: auto;">
 							<div class="col-6 col-12-medium">
 								<img width="100%" src="./images/seo/choose4.png">
 							</div>

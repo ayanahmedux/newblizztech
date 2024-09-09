@@ -10,7 +10,7 @@
 					 <section id="video-editing-sec">
 					<div class="service-logosection animation" style="padding-top: 50px; padding-left: 50px; padding-right: 50px;">
 						<div class="container">
-							<div class="row">
+							<div class="row" style="margin: auto;">
 								<div class="col-6 col-12-medium align-self-center">
 									<div class="first-inner-section-text">
 										<h1><b>FREEDOM</b> FOR YOUR<b> CREATIVE</b> IDEAS.</h1>
@@ -568,7 +568,7 @@
 
 				<section id="price-plans-section" style="padding-top: 60px; padding-bottom: 60px;">
 					<div class="container">
-						<div class="row">
+						<div class="row" style="margin: auto;">
 							<div class="heading-text" style="text-align: center;">
 								<h3>Logo’s </h3>
 								<h1><b>Pricing</b> And Plans</h1>
@@ -581,7 +581,7 @@
 					
 				  <!-- LOGOS PRICE PLAN Start -->
 				 <div class="container">
-							<div class="row">
+							<div class="row" style="margin: auto;">
 								<div class="col-4 col-12-medium">
 									<div class="price-inner-plan">
 										<div class="price-heading-text">
@@ -668,7 +668,7 @@
 							</div>
 
 							<!-- second row -->
-							<div class="row" style="padding-top: 50px;">
+							<div class="row" style="padding-top: 50px; margin: auto;">
 								<div class="col-4 col-12-medium">
 									<div class="price-inner-plan">
 										<div class="price-heading-text">

@@ -11,7 +11,7 @@
 			<!-- Service Logo first section -->
 			<div class="service-logosection" style="padding-top: 50px; padding-left: 50px; padding-right: 50px;">
 				<div class="container">
-					<div class="row">
+					<div class="row" style="margin: auto;">
 						<div class="col-6 col-12-medium align-self-center">
 							<div class="first-inner-section-text social">
 								<h2>Mobile Application</h2>

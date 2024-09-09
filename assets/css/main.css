@@ -2275,6 +2275,8 @@ a.navbar-brand img {
 
 li.nav-item {
 	list-style: none;
+	padding-left: 5px;
+    padding-right: 5px;
 }
 
 h1.fade-in-up {
@@ -3456,36 +3458,47 @@ section#header .custom-industries-section .inner-card h3 {
 	border: 1px solid #0d6efd;
 	background: #e7e7e7;
 	border-radius: 17px;
-	height: 181px;
-	padding: 43px 0;
+	height: 168px;
+	padding: 23px 10px;
 }
 
 .main-inner {
 	padding: 2px 0;
 }
 
-.custom-industries-section .col-2:hover .main-inner {
+.custom-industries-section .col:hover .main-inner {
 	background-image: -webkit-gradient(linear, left bottom, right top, color-stop(0.33, #7d5ce0), color-stop(0.67, #27D6FC));
 	background-image: -moz-linear-gradient(center bottom, rgb(14, 173, 86) 33%, rgb(0, 255, 85) 67%);
-	padding: 2px;
 	border: none;
 	border-radius: 20px !important;
 }
+.main-inner :hover .industry-image i {
+    background: -webkit-gradient(linear, left bottom, right top, color-stop(0.33, #7d5ce0), color-stop(0.67, #27D6FC));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+	transform: translate3d(10px);
+	transition: 1.2s;
+}
 
-.custom-industries-section .col-2:hover .first-image {
+.custom-industries-section .col:hover .first-image {
 	opacity: 0 !important;
 }
 
-.custom-industries-section .col-2:hover .second-image {
+.custom-industries-section .col:hover .second-image {
 	opacity: 1 !important;
 }
 
 .custom-industries-section img.second-image {
 	margin-top: -80px;
-	opacity: 0;
+		opacity: 0;
 	filter: hue-rotate(85deg);
 }
-
+.industry-image i {
+    font-size: 65px;	
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
 .industry-image {
 	width: 100px;
 	display: inline-block;
@@ -3493,7 +3506,7 @@ section#header .custom-industries-section .inner-card h3 {
 }
 
 
-.custom-industries-section .col-2:hover .main-inner h3 {
+.custom-industries-section .col:hover .main-inner h3 {
 	background: linear-gradient(98.92deg, #7d5ce0 6.91%, #27D6FC 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -3844,7 +3857,9 @@ section#what-can-we {
 	font-weight: 700;
 	font-size: 65px;
 	line-height: 103.8%;
+	text-transform: capitalize;
 }
+
 
 .heading-text h1 b {
 	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
@@ -6071,6 +6086,7 @@ body.animationservice section#header .animation .first-inner-section-text p {
 	font-size: 12px;
 	text-align: left;
 	line-height: 14px;
+	color: white;
 }
 
 .log-quote-form form#contact h2 {
@@ -6136,7 +6152,7 @@ section#logoprocess-inner .animationprocess h2 span {
 }
 
 section#logoprocess-inner .animationprocess p b {
-	color: #71b663;
+	color: #27D6FC;
 }
 
 section#logoprocess-inner .animationprocess p {
@@ -6638,10 +6654,11 @@ border: 1.5px solid #27D6FC;
 transition: all ease-in-out 350ms
 }
 div#quoteModal input.form-control, div#quoteModal textarea {
-    border: 1px solid #919697;
-    background: white;
-    color: black;
-	border-radius: 40px;
+    border: 1px solid #919697 !important;
+    background: white !important;
+    color: black !important;
+	border-radius: 40px !important;
+	padding: 20px 15px !important;
 }
 div#quoteModal ::placeholder {
     color: #000;
@@ -6746,8 +6763,8 @@ section#testimonials-sections .slick-slide img {
 
 }
 section#testimonials-sections .slider.slider-single {
-    margin: 40px 0px;
-    padding: 35px 0;
+	margin: 40px 0px;
+	padding: 25px 20px;
    
 }
 .slider .testimonial-text p br {
@@ -6812,7 +6829,7 @@ section#grow-brand {
     padding: 20px 0px;
 }
 section#intro-section h3 {
-    font-size: 22px;
+    font-size: 19px;
     line-height: 13.8%;
 
 }
@@ -6909,4 +6926,237 @@ section#logoprocess-inner .processinner-text h2 {
 section#logo-contact-form{
 	display: none;
 }
+section#logo-about-us .logoabout-text h1 {
+
+    font-size: 68px !important;
+	line-height: 60px;
+   
+}
+section#logoportfolio ul#myTab li {
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 10px;
+}
+section#intro-section {
+    padding: 20px 0px 20px 0px;
+}
+section#logo-about-us {
+    padding: 30px 0px !important;
+}
+section#logo-about-us .mobile h6 {
+    font-size: 57px;
+}
+section#payperclick-about img.headline {
+  display: none;
+}
+section#logo-about-us .logoabout-text h6 {
+
+    margin-top: -20px;
+}
+section#show-case-sectionseo{
+	display: none;
+}
+section#readysolve-video .container {
+    padding: 60px 20px;
+}
+section#some-best-feature .featured-box-video {
+    padding: 30px 0px;
+}
+.featureimage {
+    text-align: center !important;
+}
+}
+.custom-form-sec input[type="text"], input[type="email"],textarea {
+    padding: 20px 20px !important;
+    background: #252525 !important;
+    border: 2px solid #2F2F2F !important;
+    border-radius: 25px !important;
+    margin-bottom: 12px !important;
+    width: 100% !important;
+    resize: unset !important;
+}	
+.inner-card.card-with h3 {
+    font-size: 19px;
+}
+section#industries-we-conquered h1 {
+    color: #fff;
+    font-family: 'Anek Tamil';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 103.8%;
+    text-transform: capitalize;
+}
+section#industries-we-conquered h1 b {
+	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+	text-transform: capitalize;
+}
+section#industries-we-conquered {
+    padding: 50px 0px;
+}
+.indutries-image img {
+    width: 100%;
+	position: relative;
+	transition: 1000ms cubic-bezier(0.31, -0.105, 0.43, 1.4);
+}
+.industries-text  {
+	position: relative;
+    bottom: 50px;
+    left: 10px;
+    font-weight: 500;
+	color: white;
+}
+.indutries-image:hover img {
+    transform: translateY(-40px);
+}
+.mis-vis i {
+    background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}.concept-section {
+    padding: 40px;
+}
+
+.concept-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    position: relative;
+}
+
+.concept-item {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #4f4f4f;
+    color: #ffffff;
+    position: relative;
+}
+
+.concept-item:nth-child(odd) {
+    justify-content: flex-start;
+}
+
+.concept-item:nth-child(even) {
+    justify-content: flex-end;
+    text-align: right;
+}
+
+.concept-item h2 {
+    font-size: 60px;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+.concept-item:nth-child(even) h2 {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.concept-content h3 {
+    font-size: 24px;
+    margin: 0;
+    font-weight: bold;
+
+}
+
+.concept-content p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.concept-o {
+    background-color: #3e3e3e;
+}
+
+.concept-c {
+    background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+}
+
+.concept-n {
+    background-color: #3e3e3e;
+}
+
+.concept-e {
+    background:-webkit-linear-gradient(90deg, hsla(191, 97%, 57%, 1) 0%, hsla(255, 68%, 62%, 1) 100%) ;
+}
+
+.concept-p {
+    background-color: #3e3e3e;
+}
+
+@media screen and (min-width: 768px) {
+    .concept-container {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .concept-item:nth-child(odd) {
+        grid-column: 1 / 2;
+    }
+
+    .concept-item:nth-child(even) {
+        grid-column: 2 / 3;
+    }
+}
+.concept-t h2 {
+    font-size: 60px;
+    margin-right: 20px;
+    font-weight: bold;
+    background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.concept-o h2{
+	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.concept-p h2{
+	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.concept-n h2{
+	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.concept-t .concept-content h3 {
+    background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.concept-o .concept-content h3 {
+    background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.concept-p .concept-content h3 {
+    background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.concept-n .concept-content h3 {
+    background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+div#quoteModal.form-control {
+    display: block;
+    width: 100%;
+    padding: 20px 15px !important;
+    font-size: 1rem;
 }

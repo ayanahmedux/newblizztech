@@ -643,7 +643,7 @@
 						</div>
 
 						<!-- second row -->
-						<div class="row" style="padding-top: 50px;">
+						<div class="row" style="padding-top: 50px; margin: auto;">
 							<div class="col-4 col-12-medium">
 								<div class="price-inner-plan">
 									<div class="price-heading-text">
@@ -858,7 +858,7 @@
 				</div>
 				<hr>
 				<!-- SECOND ROW -->
-				<div class="row" style="padding-top: 50px;">
+				<div class="row" style="padding-top: 50px; margin: auto;">
 
 
 					<div class="col-6 col-12-medium">
@@ -927,7 +927,7 @@
 				</div>
 				<hr>
 				<!-- THIRD ROW START -->
-				<div class="row" style="padding-top: 50px;">
+				<div class="row" style="padding-top: 50px; margin: auto;">
 					<div class="col-6 col-12-medium">
 						<img width="100%" src="./images/Logodesign/colleges.png" />
 					</div>

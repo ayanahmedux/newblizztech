@@ -7,13 +7,23 @@
 		<!-- top-header -->
 		<?php include_once("includes/header.php") ?>
 		<section id="about-sec" class="text-center">
-			<h1 class="fade-in-up" style="padding-bottom: 20px; padding-top: 80px;">Foster Innovation and Collaboration <br>
-				with Your <b>Strategic Digital </b>Partners</h1>
+			<h1 class="fade-in-up" style="padding-bottom: 20px; padding-top: 80px;">The <b>New Era Calls</b> for New Techniques!</h1>
 
-			<p>Welcome to Apex Creative Design Agency- a tightly knit team of professionals obsessed
-				with quirky <br> creatives that bring unique skills to the team. From marketing and designing
-				to animation and web development-<br> we fearlessly set trends to elevate your brand with our
-				boundary-pushing approach.</p>
+			<p> Blizztech Solutions stands at the forefront of IT innovation, delivering
+				exceptional, customized solutions that drive your business forward. <br> Our
+				dedicated team excels in translating bold ideas into successful
+				outcomes, offering a range of advanced services including software
+				development, <br> web design, mobile app creation, and cloud solutions.
+				We also enhance our capabilities through partnerships with experts like
+				Facharbeit Schreiben Lassen, <br> who provide in-depth research and
+				insightful analysis for complex projects, ensuring a strong foundation of
+				knowledge and innovation <br>
+				What sets us apart is our unwavering dedication to excellence and
+				client satisfaction. We approach each project with a fresh perspective,<br>
+				taking the time to understand your unique needs and collaborating
+				closely to bring your vision to life. <br>At Blizztech Solutions, we combine
+				expertise with creativity to deliver transformative results tailored to
+				your specific goals.</p>
 			<div class="about-banner-buttons" style="padding-top: 50px; padding-bottom: 70px;">
 				<ul>
 					<li>
@@ -40,11 +50,14 @@
 					<div class="col-6 col-12-medium align-self-center">
 						<div class="heading-text">
 							<h3>Transforming Visions into Reality:</h3>
-							<h1> Where Creativity Meets Concrete Results!</h1>
-							<p style="color: #fff;">Amidst the dynamic digital world, a visionary team of professional minds collaborated to
-								establish Apex Creative Design Agency. Creating designs that have transformed the world,
-								they embraced modern design practices, broadened their scopes with unique tools and
-								techniques, and dared to push the boundaries of creativity.</p>
+							<h1> <b>Blizztech </b>Solutions</h1>
+							<p style="color: #fff;"> Our agile team of project managers, software & data engineers, web and
+								mobile app designers/developers, digital strategists, creative leads,
+								media managers, and content developers are committed to helping you
+								achieve incredible results for your business growth. The web solutions &
+								IT services we provide align with industry standards and best practices.
+								Our team, with its customer-centric approach and objectivity, spares no
+								effort for the timely completion of deliverables.</p>
 						</div>
 						<div class="about-banner-buttons" style="padding-top: 30px; padding-bottom: 0px;">
 							<ul>
@@ -98,26 +111,27 @@
 						<div class="row">
 							<div class="col-md-3 col-12-medium">
 								<div class="mileswithtext">
-									<h1><span class="counter">100</span>+</h1>
+									<h1><span class="counter">200</span>+</h1>
 									<h3>Satisfied Clients</h3>
 								</div>
 							</div>
 							<div class="col-md-3 col-12-medium">
 								<div class="mileswithtext">
-									<h1><span class="counter">410</span>+</h1>
+									<h1><span class="counter">250</span>+</h1>
 									<h3>Projects Completed</h3>
 								</div>
 							</div>
 							<div class="col-md-3 col-12-medium">
 								<div class="mileswithtext">
-									<h1><span class="counter">6</span>+</h1>
+									<h1><span class="counter">5</span>+</h1>
 									<h3>Years of Experience</h3>
 								</div>
 							</div>
 							<div class="col-md-3 col-12-medium">
 								<div class="mileswithtext">
-									<h1><span class="counter">45</span>+</h1>
-									<h3>Employees</h3>
+									<h1><span class="counter">20</span>%</h1>
+									<h3>  Faster Product
+									Delivery</h3>
 								</div>
 							</div>
 						</div>
@@ -129,7 +143,7 @@
 					<div class="row">
 						<div class="col-md-6 col-12-medium">
 							<div class="mis-vis">
-								<h2>Our <b>Mission</b></h2>
+								<h2><i class="bi bi-bullseye"></i> Our <b>Mission</b></h2>
 								<p>is to celebrate the potential of each project that we do, craft extraordinary
 									narratives, and drive our clients toward success. Our core focus is excellence, integrity,
 									and a client-centric approach; we are dedicated to delivering seamless designs and
@@ -138,7 +152,7 @@
 						</div>
 						<div class="col-md-6 col-12-medium">
 							<div class="mis-vis">
-								<h2>Our <b>Vision</b></h2>
+								<h2><i class="bi bi-lightbulb-fill"></i> Our <b>Vision</b></h2>
 								<p>is to be the leading force in the creative industry, driving innovation and
 									transforming ideas into tangible realities. We strive to be the go-to partner for businesses
 									and individuals seeking exceptional design and marketing solutions that leave an impact
@@ -153,7 +167,7 @@
 		<!-- MILESTONE SECTION END -->
 
 		<!-- WHAT CAN WE SECTION START -->
-		<section id="what-canwe-about" style="padding: 100px 0px;">
+		<!-- <section id="what-canwe-about" style="padding: 100px 0px;">
 			<div class="heading-text" style="text-align: center;">
 				<h3>What Can We
 				</h3>
@@ -179,7 +193,7 @@
 				</div>
 			</div>
 	</div>
-	</section>
+	</section> -->
 	<!-- WHAT CAN WE SECTION END -->
 
 	<!-- TESTIMONIAL SECTION START -->
@@ -298,7 +312,63 @@
 	</section>
 
 	<!-- TESTIMONIAL SECTION END -->
+<!-- concept section -->
+<section class="concept-section">
+    <div class="concept-container">
+        <div class="concept-item concept-c">
+            <h2>C</h2>
+            <div class="concept-content">
+                <h3>Creativity</h3>
+                <p>Creativity fuels our ability to craft groundbreaking solutions, infusing originality into every project and transforming ideas into exceptional outcomes.</p>
+            </div>
+        </div>
+        <div class="concept-item concept-o">
+            <h2>O</h2>
+            <div class="concept-content">
+                <h3>Ownership</h3>
+                <p>All of our team members take full responsibility for the completion of assigned tasks while adding value at each step of our standard procedures.</p>
+            </div>
+        </div>
+        <div class="concept-item concept-n">
+            <h2>N</h2>
+            <div class="concept-content">
+                <h3>Novelty</h3>
+                <p>Our adept professionals brainstorm unique solutions after carrying out extensive industry research. That’s why we call it an innovative and creative studio!</p>
+            </div>
+        </div>
+        <div class="concept-item concept-c">
+            <h2>C</h2>
+            <div class="concept-content">
+                <h3>Cooperation</h3>
+                <p>We know the significance of a positive working environment. So, we provide a cooperative working environment for clients as well as our team members.</p>
+            </div>
+        </div>
+        <div class="concept-item concept-e">
+            <h2>E</h2>
+            <div class="concept-content">
+                <h3>Excellence</h3>
+                <p>Whether it’s our clients or our employees, we strive for brilliance by adding the X factor to the portfolio of all the stakeholders.</p>
+            </div>
+        </div>
+        <div class="concept-item concept-p">
+            <h2>P</h2>
+            <div class="concept-content">
+                <h3>Personalization</h3>
+                <p>The satisfaction of our clients is our foremost priority. Our team is here to tailor our solutions to align with clients’ requirements.</p>
+            </div>
+        </div>
+        <div class="concept-item concept-t">
+            <h2>T</h2>
+            <div class="concept-content">
+                <h3>Trust</h3>
+                <p>Our top priority is to establish trustworthy relationships with our stakeholders, and we never fail to uphold this standard.</p>
+            </div>
+        </div>
+    </div>
+</section>
 
+
+<!-- concept section -->
 	<!-- CALL TO ACTION ABOUT US PAGE START -->
 
 	<section id="call-toaction-section" style="padding-bottom: 80px;">
@@ -310,14 +380,14 @@
 					</div>
 
 					<div class="my-custom col-md-6 col-12-medium align-self-center">
-						<h2 style="color: white;">If Our Work Resonates with <br> You- <b>Let’s Connect!</b></h2>
-						<p style="color: white;">Let’s forge a creative partnership to explore boundless design and marketing solutions.
-							We are sure that together we will create an unforgettable brand experience!</p>
+						<h2 style="color: white;"><b>Work</b> with us !</b></h2>
+						<p style="color: white;">We would be happy to help you grow your business
+						Get a quote!</p>
 						<div class="about-banner-buttons" style="padding-top: 30px;">
 							<ul>
 								<li>
 									<div class="brand-button">
-										<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+										<h6><a href="javascript:;" class="quote-button">Get a Quote</a></h6>
 									</div>
 								</li>
 								<li>
@@ -334,7 +404,7 @@
 	</section>
 	<!-- CALL TO ACTION ABOUT US PAGE END-->
 
-
+<!-- 
 	<section id="faqs" style="padding-bottom: 60px;">
 		<div class="heading-text" style="text-align: center;">
 			<h3>FAQ'S </h3>
@@ -476,7 +546,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 
 	<!-- FOOTER START -->

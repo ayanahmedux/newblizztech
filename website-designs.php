@@ -9,7 +9,7 @@
 		<section id="website-design">
 			<div class="service-logosection" style="padding-top: 50px; padding-left: 50px; padding-right: 50px;">
 				<div class="container">
-					<div class="row">
+					<div class="row" style="margin: auto;">
 						<div class="col-6 col-12-medium align-self-center">
 							<div class="first-inner-section-text">
 
@@ -467,7 +467,7 @@
 
 			<section id="price-plans-section" style="padding-top: 60px; padding-bottom: 60px;">
 				<div class="container">
-					<div class="row">
+					<div class="row" style="margin: auto !important;">
 						<div class="heading-text" style="text-align: center;">
 							<h3>WEBSITE DESIGN </h3>
 							<h1><b>Pricing</b> And Plans</h1>
@@ -478,7 +478,7 @@
 
 						<!-- LOGOS PRICE PLAN Start -->
 						<div class="container">
-							<div class="row">
+							<div class="row" style="margin: auto !important;">
 								<div class="col-4 col-12-medium">
 									<div class="price-inner-plan">
 										<div class="price-heading-text">
@@ -703,7 +703,7 @@
 					</div>
 					<hr>
 					<!-- SECOND ROW -->
-					<div class="row" style="padding-top: 50px;">
+					<div class="row" style="padding-top: 50px; margin: auto;">
 
 
 						<div class="col-6 col-12-medium">
@@ -778,7 +778,7 @@
 					</div>
 					<hr>
 					<!-- THIRD ROW START -->
-					<div class="row" style="padding-top: 50px;">
+					<div class="row" style="padding-top: 50px; margin: auto;">
 						<div class="col-6 col-12-medium">
 							<img width="100%" src="./images/websitedesigns/development.png" />
 						</div>
@@ -852,7 +852,7 @@
 					<!-- THIRD ROW END -->
 					<hr>
 					<!-- FOUR ROW START -->
-					<div class="row" style="padding-top: 50px;">
+					<div class="row" style="padding-top: 50px; margin: auto;">
 
 
 						<div class="col-6 col-12-medium">

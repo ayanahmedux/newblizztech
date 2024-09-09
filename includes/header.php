@@ -35,19 +35,18 @@
 					<a class="nav-link" href="aboutus">About Us</a>
 				</li>
 				<li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="services"  role="button" data-bs-toggle="dropdown" aria-expanded="false">
+					<a class="nav-link dropdown-toggle" href="services" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 						Services
 					</a>
 					<ul class="dropdown-menu">
-						<li><a class="dropdown-item" href="logo-designs">Logo Designs</a></li>
 						<li><a class="dropdown-item" href="website-designs">Website Designs</a></li>
-						<li><a class="dropdown-item" href="branding">Branding</a></li>
-						<li><a class="dropdown-item" href="socialmediamarketing">Social Media Marketing</a></li>
-						<li><a class="dropdown-item" href="mobileapplication">Mobile Application</a></li>
-						<li><a class="dropdown-item" href="ppc">Pay Per Click</a></li>
 						<li><a class="dropdown-item" href="animation">Animation</a></li>
+						<li><a class="dropdown-item" href="socialmediamarketing">Social Media Marketing</a></li>
+						<li><a class="dropdown-item" href="branding">Branding</a></li>
+						<li><a class="dropdown-item" href="ppc">Pay Per Click</a></li>
 						<li><a class="dropdown-item" href="seo">SEO</a></li>
-						<li><a class="dropdown-item" href="videoediting">Video Editing</a></li>
+						<li><a class="dropdown-item" href="content-creation">Content Creation</a></li>
+						<li><a class="dropdown-item" href="mobileapplication">Mobile Applications</a></li>
 					</ul>
 				</li>
 				<li class="nav-item">
@@ -56,11 +55,11 @@
 				<li class="nav-item">
 					<a class="nav-link" href="contact">Contact</a>
 				</li>
-				
+
 			</ul>
 			<div class="mx-auto">
-			<li class="nav-item">
-				<button class=" get-a-button quote-button">Get a Quote</button>
+				<li class="nav-item">
+					<button class=" get-a-button quote-button">Get a Quote</button>
 				</li>
 			</div>
 		</div>

@@ -9,7 +9,7 @@
 				 <section id="portfolio-sec">
                 <div class="service-logosection portofliosec" style="padding-top: 50px; padding-left: 50px; padding-right: 50px;">
                     <div class="containerr">
-                        <div class="row">
+                        <div class="row" style="margin: auto;">
                             <div class="col-6 col-12-medium align-self-center">
                                 <div class="first-inner-section-text social portoflioss">
                                     <h2>Portfolio <b>Section</b></h2>
@@ -25,13 +25,13 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-2 col-12-medium align-self-end">
+                            <div class="col-2 col-12-medium text-center">
                                 <img src="./images/portfoliopage/1.png"/>
                             </div>
-                            <div class="col-2 col-12-medium align-self-end">
+                            <div class="col-2 col-12-medium text-center">
                                 <img src="./images/portfoliopage/3.png"/>
                             </div>
-                            <div class="col-2 col-12-medium align-self-end">
+                            <div class="col-2 col-12-medium text-center">
                                 <img src="./images/portfoliopage/2.png"/>
                             </div>
                         </div>
