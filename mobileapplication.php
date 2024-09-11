@@ -14,8 +14,14 @@
 					<div class="row" style="margin: auto;">
 						<div class="col-6 col-12-medium align-self-center">
 							<div class="first-inner-section-text social">
-								<h2>Mobile Application</h2>
-								<p>Is The Future of Innovation!</p>
+								<h2>Mobile App Development Services</h2>
+								<p>We are skilled mobile application developers based in the
+									United States. Our primary focus is on creating responsive
+									mobile applications tailored to meet your e-commerce
+									requirements. We offer high-quality custom mobile app
+									and software development solutions. Our specialization
+									lies in designing seamless, user-centric experiences that
+									foster business expansion.</p>
 								<div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
 									<ul>
 										<li>
@@ -34,24 +40,24 @@
 						</div>
 						<div class="col-6 col-12-medium">
 							<div class="log-quote-form">
-							<form class="innerpagescalltoaction" method="post" id="contact" action="">
+								<form class="innerpagescalltoaction" method="post" id="contact" action="">
 
 
 
- 
-<input type="text" class="form-control" name="name" placeholder="Name" required>
 
-<input type="email" class="form-control" name="email" placeholder="Email" required>
+									<input type="text" class="form-control" name="name" placeholder="Name" required>
 
-
-
-<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+									<input type="email" class="form-control" name="email" placeholder="Email" required>
 
 
-<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
 
-<button class="btn btn-primary" type="submit" name="submit">Submit</button>
-</form>
+									<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+
+
+									<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
+
+									<button class="btn btn-primary" type="submit" name="submit">Submit</button>
+								</form>
 							</div>
 						</div>
 					</div>
@@ -68,13 +74,19 @@
 
 					<div class="col-6 col-12-medium align-self-center">
 						<div class="logoabout-text social-media mobile">
-							<h1>Mobile</h1>
-							<h6>Application</h6>
+							<h1> Mobile Application Development: Innovation in Your
+								Pocket</h1>
 							<p>
-								Going Mobile help streamline your business, bring innovative touch to modern
-								customers, and help you manage big data. The number of Apps does not matter; it
-								could be your first or fifth; our decade-long expertise in mobile app development
-								services will help you succeed with your business strategy.
+								Mobile app development plays a pivotal role in the
+								contemporary business landscape. It enables you to
+								connect with fresh audiences, enhance customer loyalty,
+								and bolster your financial success.
+								With our proficiency and ample resources, we're poised to
+								assist you in crafting a triumphant mobile app. We
+								prioritize user experience, security, and effective
+								marketing. Collaboratively, we'll develop an app that
+								aligns with your requirements and surpasses your
+								expectations.
 							</p>
 						</div>
 					</div>
@@ -88,6 +100,53 @@
 		</section>
 
 		<!-- LOGO ABOUT US END -->
+		<section id="our-key-features">
+			<div class="container">
+				<div class="features-text">
+					<h1><b>our</b> features</h1>
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+						<div class="feature-box">
+							<img src="./images/aboutuspageimages/key-features-1.png" alt="">
+							<h1>High-<b>Performance</b></h1>
+							<p> Our talented developers and designers create websites that are
+								eReignly engaging. We ensure that your website stays a constant
+								source of interest for potential consumers.</p>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="feature-box">
+							<img src="./images/aboutuspageimages/key-features-2.png" alt="">
+							<h1> Unique <b>Designs</b></h1>
+							<p> Our web developers collaborate with you to design a website that is
+								unique to you. We aim to help you achieve your goals and realize your
+								vision.</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+						<div class="feature-box">
+							<img src="./images/aboutuspageimages/key-features-3.png" alt="">
+							<h1>Highly <b>Responsive</b></h1>
+							<p> Our site development is efficient enough to help you achieve your
+								company objectives. We design a mobile-friendly website that can be
+								seen on any device</p>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="feature-box">
+							<img src="./images/aboutuspageimages/key-features-4.png" alt="">
+							<h1>Value Towards <b>Persistence</b></h1>
+							<p> We, as a group, strive to go forward in an effective and efficient manner
+								by persevering. We try to alleviate the burden of running a business off
+								your shoulders.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
 		<!-- LOGO WE CREATE OF YOU START -->
 
 		<section id="intro-section">
@@ -382,24 +441,24 @@
 				<div class="row contact-inner">
 					<div class="col-6 col-12-medium">
 						<div class="logo-conactfomrinner">
-						<form class="innerpagescalltoaction" method="post"  action="">
+							<form class="innerpagescalltoaction" method="post" action="">
 
 
 
- 
-<input type="text" class="form-control" name="name" placeholder="Name" required>
 
-<input type="email" class="form-control" name="email" placeholder="Email" required>
+								<input type="text" class="form-control" name="name" placeholder="Name" required>
 
-
-
-<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+								<input type="email" class="form-control" name="email" placeholder="Email" required>
 
 
-<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
 
-<button class="btn btn-primary" type="submit" name="submit">Submit</button>
-</form>
+								<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+
+
+								<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
+
+								<button class="btn btn-primary" type="submit" name="submit">Submit</button>
+							</form>
 						</div>
 					</div>
 
@@ -431,119 +490,7 @@
 
 		<!-- TESTIMONIAL START -->
 
-		<section id="testimonials-sections" style="padding-top: 60px; padding-bottom: 60px;">
-			<div class="heading-text" style="text-align: center;">
-				<h3>Testimonials</h3>
-				<h1>Satisfied <b>Client’s</b></h1>
-				<p style="color: #fff;">Solutions to fit every budget and need - our flexible pricing and plans make it easy for you <br>
-					to choose the perfect solution for your brand!</p>
-			</div>
-			<div class="container">
-				<div id="page">
-					<div class="row">
-						<div class="column small-11 small-centered">
-							<div class="slider slider-nav">
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial2.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial3.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial2.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial3.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial2.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial3.png" /></span></h3>
-								</div>
-							</div>
-							<div class="testimonial-quote">
-								<img src="./images/testimonialimages/quote.png" />
-							</div>
-							<div class="slider slider-single">
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 1</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 2</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 3</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 4</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 5</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 6</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 7</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 8</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 9</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+		<?php include_once("testimonial-global.php") ?>
 
 		<!-- FOOTER START -->
 		<?php include_once("includes/footer.php") ?>
