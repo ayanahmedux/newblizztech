@@ -14,7 +14,11 @@
 						<div class="col-6 col-12-medium align-self-center">
 							<div class="first-inner-section-text">
 
-								<h1>Purposeful Branding<br> to <b>Increase Profits</b></h1>
+								<h1> Make Your Brand Known to the World! Market Leading Best <b> Branding Agency</b></h1>
+								<p> Blizztech Solutions offers expert branding services to build a strong,
+									memorable brand that resonates with your audience. Our approach is
+									designed to enhance your brand identity, drive engagement, and differentiate
+									you from competitors.</p>
 								<div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
 									<ul>
 										<li>
@@ -61,20 +65,22 @@
 
 		<!-- LOGO ABOUT US START -->
 
-		<section id="logo-about-us" style="padding: 100px 0px;">
+		<section id="logo-about-us" style="padding: 20px 0px;">
 			<div class="container">
 				<div class="row">
 
 					<div class="col-6 col-12-medium align-self-center">
 						<div class="logoabout-text">
-							<h1>BRANDING </h1>
-							<h6>Design</h6>
+							<h1>The Importance of <b>Brand Building</b> for Business Success</h1>
 							<p>
-								We offer a transformative journey when it comes to &#39;branding.&#39; From market research
-								and cutting-edge strategy to impeccable logos, from marketing to branding message,
-								each of our branding aspects aligns with your business objective. It&#39;s OKAY if you plan
-								to revamp or secure an existing one; we hope to elevate your brand story with
-								purposeful branding services.
+								Investing in brand-building services is a critical step in achieving lasting success for your
+								business. By developing a strong brand identity, you set the stage for a host of advantages. First
+								and foremost, your brand becomes a beacon of trust and credibility in the eyes of your
+								customers.
+								A strong brand can even influence the perceived value of your products or services, enabling
+								you to command higher prices. As you expand into new markets and attract top talent, your
+								brand will serve as the cornerstone of your long-term success. In essence, brand-building
+								services are an indispensable investment for businesses that aspire to thrive and grow.
 							</p>
 						</div>
 					</div>
@@ -87,7 +93,177 @@
 			</div>
 		</section>
 
+		<section id="logo-about-us" style="padding: 20px 0px;">
+			<div class="container">
+				<div class="row">
+					<div class="col-6 col-12-medium">
+						<img class="animate__animated animate__pulse" style="width: 100%;"
+							src="./images/branding/digital-branding-img3.png" />
+					</div>
+
+					<div class="col-6 col-12-medium align-self-center">
+						<div class="logoabout-text">
+							<h1> Full <b>Brand</b> Visibility</h1>
+							<p>
+								I From your logo to your messaging to your customer
+								experience, our Personal Branding services provide
+								full visibility into every aspect of your brand, ensuring
+								consistency and coherence across all channels.
+							</p>
+						</div>
+					</div>
+
+
+				</div>
+			</div>
+		</section>
+		<section id="logo-about-us" style="padding: 20px 0px;">
+			<div class="container">
+				<div class="row">
+
+
+					<div class="col-6 col-12-medium align-self-center">
+						<div class="logoabout-text">
+							<h1> Adaptive <b>Branding</b> Strategy</h1>
+							<p>
+								Our Agile Approach allows us to adapt quickly to
+								changes in the market landscape and consumer
+								preferences, ensuring your brand remains relevant
+								and impactful.
+							</p>
+						</div>
+					</div>
+
+					<div class="col-6 col-12-medium">
+						<img class="animate__animated animate__pulse" style="width: 80%;"
+							src="./images/branding/digital-branding-img6.png" />
+					</div>
+
+
+				</div>
+			</div>
+		</section>
+		<section id="logo-about-us" style="padding: 20px 0px;">
+			<div class="container">
+				<div class="row">
+					<div class="col-6 col-12-medium">
+						<img class="animate__animated animate__pulse" style="width: 100%;"
+							src="./images/branding/digital-branding-img8.png" />
+					</div>
+
+					<div class="col-6 col-12-medium align-self-center">
+						<div class="logoabout-text">
+							<h1> <b>Brand</b> Launch</h1>
+							<p>
+								Launching a brand without a strategy is the same as constructing a building without any
+								foundation. Who would like to start a business that does not thrive. Surely, you don’t want it.
+								Get your brand out there with us to start impactfully!
+							</p>
+						</div>
+					</div>
+
+
+
+
+				</div>
+			</div>
+		</section>
+		<section id="logo-about-us" style="padding: 20px 0px;">
+			<div class="container">
+				<div class="row">
+
+
+					<div class="col-6 col-12-medium align-self-center">
+						<div class="logoabout-text">
+							<h1> <b>Rebranding</b></h1>
+							<p>
+								Surely one model cannot fit all, so devising a perfect blend for a specific business or
+								industry and deploying a holistic approach is the need of the day. You might be struggling
+								with the stagnation of your business and want to revive your company’s vision.
+								We are well equipped to add the missing X factor to your brand with our exemplified
+								branding services for SMEs.
+							</p>
+						</div>
+					</div>
+					<div class="col-6 col-12-medium">
+						<img class="animate__animated animate__pulse" style="width: 100%;"
+							src="./images/branding/rebranding-img.png" />
+					</div>
+
+
+
+
+				</div>
+			</div>
+		</section>
+		<section id="logo-about-us" style="padding: 20px 0px;">
+			<div class="container">
+				<div class="row">
+					<div class="col-6 col-12-medium">
+						<img class="animate__animated animate__pulse" style="width: 100%;"
+							src="./images/branding/Brand Growth-img.png" />
+					</div>
+
+					<div class="col-6 col-12-medium align-self-center">
+						<div class="logoabout-text">
+							<h1> <b>Brand</b> Growth</h1>
+							<p>
+								Having expertise backed by the vast experience of our team working for various industries,
+								we will help escalate your brand growth without much hassle. We deliver upon all the
+								marketing strategies for ATL,BTL, and TTL marketing. We have a well-composed and
+								competent team to devise the best digital and social media strategies to exponentiate
+								your business growth!
+							</p>
+						</div>
+					</div>
+
+
+
+
+				</div>
+			</div>
+		</section>
 		<!-- LOGO ABOUT US END -->
+		<!-- WHY US SECTION START -->
+		<section id="why-us-brand">
+			<div class="container">
+				<div class="row">
+					<div class="col-6">
+						<h1> Why Choose <b>Blizztech</b> Solutions?</h1>
+						<p>Choosing the right partner for your digital branding services is
+							crucial for your business's success. At Blizztech Solutions, we
+							bring a combination of expertise, creativity, and dedication to
+							every project. Here's why you should choose us:</p>
+						<p><b>Expert Team:</b>
+							Our team consists of experienced professionals
+							who specialize in different aspects of digital branding. From
+							designers to strategists, we have the skills needed to create a
+							comprehensive branding solution.</p>
+						<p><b>Customized Approach:</b>
+							We understand that every business is
+							unique. Our customized approach ensures that your branding
+							strategy is tailored to your specific needs and goals.</p>
+						<p>
+							<b>Proven Results:</b> We have a track record of delivering successful
+							branding projects for businesses of all sizes. Our clients have
+							seen increased brand recognition, engagement, and growth as
+							a result of our services.
+						</p>
+						<p>
+							<b>Ongoing Support:</b>Branding is not a one-time effort. We provide
+							ongoing support to ensure your brand continues to thrive and
+							evolve in the digital landscape.
+						</p>
+					</div>
+					<div class="col-6">
+						<div class="why-us-image">
+							<img src="./images/branding/why-us-image.png" alt="">
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- WHY US SECTION END -->
 		<!-- LOGO WE CREATE OF YOU START -->
 
 		<section id="intro-section">
@@ -473,97 +649,200 @@
 			<div class="container">
 				<div class="row" style="margin: auto !important;">
 					<div class="heading-text" style="text-align: center;">
-						<h3>BRANDING </h3>
-						<h1><b>Pricing</b> And Plans</h1>
-						<p style="color: #fff; padding-bottom: 40px;">Solutions to fit every budget and need - our flexible pricing and plans make it easy for you <br>
-							to choose the perfect solution for your brand!</p>
+						<h3>Pricing </h3>
+						<h1>Best <b>Plans</b> For Your Need</h1>
+						<p style="color: #fff; padding-bottom: 40px;">we are proud to offer a wide range of comprehensive packages for our services</p>
 					</div>
 
 
 					<!-- LOGOS PRICE PLAN Start -->
 					<div class="container">
 						<div class="row" style="margin: auto !important;">
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<div class="price-heading-text">
-										<h2>Print Basic</h2>
-										<h4>$600</h4>
+							<div class="center">
+								<div class="px-2 py-2">
+
+									<div class="price-inner-plan">
+										<h2 class="text-center">Startup Collateral</h2>
+										<div class="price-heading-text">
+											<h2>Best Value for Money Guaranteed!</h2>
+											<h4>$99</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li>2 Stationery Design Set</li>
+												<li>FREE Fax Template</li>
+												<li>Print Ready Formats</li>
+												<li>UNLIMITED Revisions</li>
+												<li>100% Satisfaction Guarantee</li>
+												<li>100% Money Back Guarantee</li>
+
+											</ul>
+										</div>
+
 									</div>
-									<div class="price-list">
-										<ul>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-											<li>Sliding Banner </li>
-											<li>5 Stock Images </li>
-											<li>100% Money Back Gurantee</li>
-											<li>100% Owner Rights</li>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-										</ul>
+
+
+								</div>
+								<div class="px-2 py-2">
+
+									<div class="price-inner-plan">
+										<h2 class="text-center">Collateral Classic</h2>
+										<div class="price-heading-text">
+											<h2>Best Value for Money Guaranteed!</h2>
+											<h4>$199</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li>4 Stationery Design Set</li>
+												<li>UNLIMITED Revisions</li>
+												<li>Flyer Design</li>
+												<li>Brochure Design (Bi-fold/Tri-fold)</li>
+												<li>100% Satisfaction Guarantee</li>
+												<li>100% Money Back Guarantee</li>
+											</ul>
+										</div>
+
+									</div>
+
+
+								</div>
+								<div class="px-2 py-2">
+
+									<div class="price-inner-plan">
+										<h2 class="text-center">Premium Collateral</h2>
+										<div class="price-heading-text">
+											<h2>Best Value for Money Guaranteed!</h2>
+											<h4>$399</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li><span>6 Stationery Design Set</span></li>
+												<li><span>Packaging Design</span></li>
+												<li><span>UNLIMITED Revisions</span></li>
+												<li><span>T-Shirt Design</span></li>
+												<li><span>100% Satisfaction Guarantee</span></li>
+												<li><span>100% Money Back Guarantee </span></li>
+											</ul>
+										</div>
+
+									</div>
+
+
+								</div>
+								<div class="px-2 py-2">
+
+									<div class="price-inner-plan">
+										<h2 class="text-center">Unlimited Collateral</h2>
+										<div class="price-heading-text">
+											<h2>Best Value for Money Guaranteed!</h2>
+											<h4>$499</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li><span>8 Stationery Design Set</span></li>
+												<li><span>Menu Card Design</span></li>
+												<li><span>T-Shirt Design</span></li>
+												<li><span>1 Banner Design</span></li>
+												<li><span>100% Satisfaction Guarantee</span></li>
+												<li><span>100% Money Back Guarantee </span></li>
+											</ul>
+										</div>
+
+									</div>
+
+
+								</div>
+								<div class="px-2 py-2">
+
+									<div class="price-inner-plan">
+										<h2 class="text-center">Poster Design</h2>
+										<div class="price-heading-text">
+											<h2>Best Value for Money Guaranteed!</h2>
+											<h4>$190</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li><span>6 Unique Logo Concepts</span></li>
+												<li><span>FREE Icon</span></li>
+												<li><span>Unlimited Revisions</span></li>
+												<li><span>100% Ownership Rights</span></li>
+												<li><span>Dedicated Project Manager.</span></li>
+												<li><span>AI, PSD, EPS, GIF, BMP, JPEG PNG Formats</span></li>
+												<li><span>Free Rush Delivery</span></li>
+												<li><span>Get Initial Concepts within 24 hours</span></li>
+											</ul>
+										</div>
+
 									</div>
 
 								</div>
+								<div class="px-2 py-2">
 
-							</div>
+									<div class="price-inner-plan">
+										<h2 class="text-center">T-Shirt Design</h2>
+										<div class="price-heading-text">
+											<h2>Best Value for Money Guaranteed!</h2>
+											<h4>$175</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li><span>6 Unique Design Concepts</span></li>
+												<li><span>Front and Back Bussiness Logo Placement</span></li>
+												<li><span>3 Dedicated Designers</span></li>
+												<li><span>4 Rounds of Revisions</span></li>
+												<li><span>Turnaround time 48 to 72 hours</span></li>
+												<li><span>Features</span></li>
+												<li><span>100% Satisfaction Guarantee</span></li>
+												<li><span>100% Ownership Rights</span></li>
+												<li><span>100% Unique Design Guarantee</span></li>
+												<li><span>100% Money Back Guarantee</span></li>
+												<li><span>All Final File Formats</span></li>
+											</ul>
+										</div>
 
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<div class="price-heading-text">
-										<h2>Print Plus</h2>
-										<h4>$900</h4>
 									</div>
-									<div class="price-list">
-										<ul>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-											<li>Sliding Banner </li>
-											<li>5 Stock Images </li>
-											<li>100% Money Back Gurantee</li>
-											<li>100% Owner Rights</li>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-										</ul>
+
+
+								</div>
+								<div class="px-2 py-2">
+
+									<div class="price-inner-plan">
+										<h2 class="text-center">Product Label Design</h2>
+										<div class="price-heading-text">
+											<h2>Best Value for Money Guaranteed!</h2>
+											<h4>$230</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li><span>8 Unique Design Concepts</span></li>
+												<li><span>1 Product Catalog Design</span></li>
+												<li><span>Unlimited Rounds of Revisions</span></li>
+												<li><span>5 Dedicated Designers</span></li>
+												<li><span>Turnaround time 48 to 72 Hours</span></li>
+												<li><span> Features</span></li>
+												<li><span>100% Satisfaction Guarantee</span></li>
+												<li><span>100% Ownership Rights</span></li>
+												<li><span>100% Unique Design Guarantee</span></li>
+												<li><span>100% Money Back Guarantee</span></li>
+												<li><span>All Final File Formats</span></li>
+											</ul>
+										</div>
+
 									</div>
 
 								</div>
-
 							</div>
 
 
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<div class="price-heading-text">
-										<h2>Print Classic</h2>
-										<h4>$1200</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-											<li>Sliding Banner </li>
-											<li>5 Stock Images </li>
-											<li>100% Money Back Gurantee</li>
-											<li>100% Owner Rights</li>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-										</ul>
-									</div>
 
-								</div>
 
-							</div>
+
+
+
+
+
+
+
 
 
 						</div>
@@ -996,119 +1275,7 @@
 
 		<!-- TESTIMONIAL START -->
 
-		<section id="testimonials-sections" style="padding-top: 60px; padding-bottom: 60px;">
-			<div class="heading-text" style="text-align: center;">
-				<h3>Testimonials</h3>
-				<h1>Satisfied <b>Client’s</b></h1>
-				<p style="color: #fff;">Solutions to fit every budget and need - our flexible pricing and plans make it easy for you <br>
-					to choose the perfect solution for your brand!</p>
-			</div>
-			<div class="container">
-				<div id="page">
-					<div class="row">
-						<div class="column small-11 small-centered">
-							<div class="slider slider-nav">
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial2.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial3.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial2.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial3.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial2.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial3.png" /></span></h3>
-								</div>
-							</div>
-							<div class="testimonial-quote">
-								<img src="./images/testimonialimages/quote.png" />
-							</div>
-							<div class="slider slider-single">
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 1</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 2</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 3</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 4</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 5</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 6</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 7</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 8</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 9</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+		<?php include_once("testimonial-global.php") ?>
 
 		<!-- FOOTER START -->
 

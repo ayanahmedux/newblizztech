@@ -109,19 +109,20 @@
 					<div class="col-md-6">
 						<div class="feature-box">
 							<img src="./images/aboutuspageimages/key-features-1.png" alt="">
-							<h1>High-<b>Performance</b></h1>
-							<p> Our talented developers and designers create websites that are
-								eReignly engaging. We ensure that your website stays a constant
-								source of interest for potential consumers.</p>
+							<h1> Tailored Customer <b>Support</b></h1>
+							<p> Our commitment extends beyond development; we
+								provide personalized customer support to ensure your
+								wearable applications run smoothly and efficiently.</p>
 						</div>
 					</div>
 					<div class="col-md-6">
 						<div class="feature-box">
 							<img src="./images/aboutuspageimages/key-features-2.png" alt="">
-							<h1> Unique <b>Designs</b></h1>
-							<p> Our web developers collaborate with you to design a website that is
-								unique to you. We aim to help you achieve your goals and realize your
-								vision.</p>
+							<h1> Continuous <b>Improvement</b></h1>
+							<p> We are dedicated to staying ahead of the curve by
+								constantly updating and refining our wearable app
+								solutions to keep your business at the forefront of
+								innovation.</p>
 						</div>
 					</div>
 				</div>
@@ -129,19 +130,20 @@
 					<div class="col-md-6">
 						<div class="feature-box">
 							<img src="./images/aboutuspageimages/key-features-3.png" alt="">
-							<h1>Highly <b>Responsive</b></h1>
-							<p> Our site development is efficient enough to help you achieve your
-								company objectives. We design a mobile-friendly website that can be
-								seen on any device</p>
+							<h1> Data Security <b>Measures</b></h1>
+							<p> Rest assured that your sensitive data is protected with
+								our robust security protocols, guaranteeing the
+								confidentiality and integrity of your information.</p>
 						</div>
 					</div>
 					<div class="col-md-6">
 						<div class="feature-box">
 							<img src="./images/aboutuspageimages/key-features-4.png" alt="">
-							<h1>Value Towards <b>Persistence</b></h1>
-							<p> We, as a group, strive to go forward in an effective and efficient manner
-								by persevering. We try to alleviate the burden of running a business off
-								your shoulders.</p>
+							<h1>Future-Proof <b>Technology</b></h1>
+							<p> Embrace the future with confidence as our wearable
+								app solutions are designed with scalability and
+								adaptability in mind, ensuring they remain relevant and
+								effective as technology evolves.</p>
 						</div>
 					</div>
 				</div>
@@ -382,10 +384,13 @@
 					<div class="col-3 col-12-medium" style="position: relative;">
 						<div class="innermobileapp">
 							<img src="./images/mobileapplication/icon/4.png" />
-							<h3>Native Andriod</h3>
-							<p>We offer native Android services, creating custom and optimized applications that
-								leverage the full potential of Android&#39;s features and performance for exceptional user
-								experiences.</p>
+							<h3> Web application development offering</h3>
+							<p> Being a mobile application development team, we offer
+								mobile application development services to provide any
+								business type or industry with unique web products. With
+								customized application development solutions, we help
+								business and small medium enterprises gain users’ trust
+								and turn website visitors into paying customers.</p>
 							<h5><a href="#">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></h5>
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
@@ -394,10 +399,10 @@
 					<div class="col-3 col-12-medium" style="position: relative;">
 						<div class="innermobileapp">
 							<img src="./images/mobileapplication/icon/3.png" />
-							<h3>Flutter Dev</h3>
-							<p>Our team of experienced Flutter developers helps you build modern, scalable mobile
-								apps that deliver a feature-packed user experience. Build, test, and deploy beautiful
-								mobile, web, and embedded apps from a single codebase.</p>
+							<h3> Mobile App Development</h3>
+							<p> Expand your reach with mobile application tailored to
+								your business needs and to create seamless user
+								experiences across various devices and platforms</p>
 							<h5><a href="#">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></h5>
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
@@ -407,10 +412,11 @@
 					<div class="col-3 col-12-medium" style="position: relative;">
 						<div class="innermobileapp">
 							<img src="./images/mobileapplication/icon/2.png" />
-							<h3>React Native</h3>
-							<p>We address your business needs into highly productive and profitable mobile app
-								ecosystems using our improved methodologies and out-of-the-box approach using
-								React Native.</p>
+							<h3> E-commerce solutions</h3>
+							<p> Enhance your online presence with e-commerce
+								solutions that drives sales and implement secure
+								payment gateways and intuitive shopping experiences
+								for customers.</p>
 							<h5><a href="#">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></h5>
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
@@ -420,9 +426,10 @@
 					<div class="col-3 col-12-medium" style="position: relative;">
 						<div class="innermobileapp">
 							<img src="./images/mobileapplication/icon/1.png" />
-							<h3>Kotlin</h3>
-							<p>We can help you quickly bring your application to life with less code, using the modern
-								declarative approach to UI and the simplistic nature of Kotlin.</p>
+							<h3> UI/UX Design</h3>
+							<p> Elevate your brand with visually appealing user-friendly
+								interfaces and focus on creating intuitive navigation and
+								engaging designs to captivate users.</p>
 							<h5><a href="#">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></h5>
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
@@ -483,6 +490,128 @@
 							</div>
 						</div>
 					</div>
+				</div>
+			</div>
+		</section>
+		<section id="price-plans-section" style="padding-top: 60px; padding-bottom: 60px;">
+			<div class="container">
+				<div class="row" style="margin: auto;">
+					<div class="heading-text" style="text-align: center;">
+						<h3>Mobile Applications </h3>
+						<h1><b>Pricing</b> And Plans</h1>
+						<p style="color: #fff; padding-bottom: 40px;">Solutions to fit every budget and need - our flexible pricing and plans make it easy for you <br>
+							to choose the perfect solution for your brand!</p>
+					</div>
+
+
+					<!-- LOGOS PRICE PLAN Start -->
+					<div class="container">
+						<div class="row" style="margin: auto;">
+							<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
+									<div class="price-heading-text">
+										<h2>Platinum </h2>
+										<h4>$600</h4>
+									</div>
+									<div class="price-list">
+										<ul>
+											<li>E-Commerce website Design</li>
+											<li>Customize Tailor Made Design</li>
+											<li>User Friendly</li>
+											<li>5 Banner Designs</li>
+											<li>Sliding Banner </li>
+											<li>5 Stock Images </li>
+											<li>100% Money Back Gurantee</li>
+											<li>100% Owner Rights</li>
+											<li>E-Commerce website Design</li>
+											<li>Customize Tailor Made Design</li>
+											<li>User Friendly</li>
+											<li>5 Banner Designs</li>
+										</ul>
+									</div>
+
+								</div>
+
+							</div>
+
+							<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
+									<div class="price-heading-text">
+										<h2>Diamond</h2>
+										<h4>$900</h4>
+									</div>
+									<div class="price-list">
+										<ul>
+											<li>E-Commerce website Design</li>
+											<li>Customize Tailor Made Design</li>
+											<li>User Friendly</li>
+											<li>5 Banner Designs</li>
+											<li>Sliding Banner </li>
+											<li>5 Stock Images </li>
+											<li>100% Money Back Gurantee</li>
+											<li>100% Owner Rights</li>
+											<li>E-Commerce website Design</li>
+											<li>Customize Tailor Made Design</li>
+											<li>User Friendly</li>
+											<li>5 Banner Designs</li>
+										</ul>
+									</div>
+
+								</div>
+
+							</div>
+
+
+							<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
+									<div class="price-heading-text">
+										<h2>Gold </h2>
+										<h4>$1200</h4>
+									</div>
+									<div class="price-list">
+										<ul>
+											<li>E-Commerce website Design</li>
+											<li>Customize Tailor Made Design</li>
+											<li>User Friendly</li>
+											<li>5 Banner Designs</li>
+											<li>Sliding Banner </li>
+											<li>5 Stock Images </li>
+											<li>100% Money Back Gurantee</li>
+											<li>100% Owner Rights</li>
+											<li>E-Commerce website Design</li>
+											<li>Customize Tailor Made Design</li>
+											<li>User Friendly</li>
+											<li>5 Banner Designs</li>
+										</ul>
+									</div>
+
+								</div>
+
+							</div>
+
+
+						</div>
+
+						<!-- second row -->
+
+						<div class="custom-price-button" style="padding-top: 70px;">
+							<ul>
+								<li>
+									<div class="brand-button">
+										<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+									</div>
+								</li>
+								<li>
+									<div class="brand-button">
+										<h6><a href="#">View More</a></h6>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+
+					<!-- LOGOS PRICE PLAN END -->
+
 				</div>
 			</div>
 		</section>

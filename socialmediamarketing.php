@@ -13,8 +13,10 @@
 					<div class="row" style="margin: auto;">
 						<div class="col-6 col-12-medium align-self-center">
 							<div class="first-inner-section-text social">
-								<h2>Drive Results and Build Connections with Strategic Social
-									Media Solutions</h2>
+								<h2>Drive Results and Build Connections withb
+									<b>Strategic Social</b>
+									Media Solutions
+								</h2>
 								<p> In the ever-evolving digital landscape, social media has
 									become a powerful tool for brands to connect with their
 									audience and drive engagement. At Blizztech Solutions, we
@@ -745,90 +747,190 @@
 
 					<!-- LOGOS PRICE PLAN Start -->
 					<div class="container">
-						<div class="row" style="margin: auto;">
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<div class="price-heading-text">
-										<h2>Platinum </h2>
-										<h4>$600</h4>
+						<div class="row" style="margin: auto !important;">
+							<div class="center">
+								<div class="px-2 py-2">
+
+									<div class="price-inner-plan">
+										<h2 class="text-center">Startup Plan</h2>
+										<div class="price-heading-text">
+											<h2>Quarterly Plan</h2>
+											<h4>$1125</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li>Features: 12 Post Per Month </li>
+												<li>Reels Posts: 3 Reel Per Month</li>
+												<li>Graphics Posts: 4 Graphics Per Month</li>
+												<li>Carousel: 5 Carousel Per Month</li>
+												<li>Stories+Highlights (Complimentary): 2 Stories/Highlights</li>
+												<li>Number Of Networks: 2 Networks</li>
+												<li>Social Media Marketing Strategy</li>
+												<li>Dedicated Social Media Account Manager</li>
+												<li>Daily/Weekly Monitoring Of Included Social Assets</li>
+											</ul>
+										</div>
+
 									</div>
-									<div class="price-list">
-										<ul>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-											<li>Sliding Banner </li>
-											<li>5 Stock Images </li>
-											<li>100% Money Back Gurantee</li>
-											<li>100% Owner Rights</li>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-										</ul>
-									</div>
+
 
 								</div>
+								<div class="px-2 py-2">
 
-							</div>
+									<div class="price-inner-plan">
+										<h2 class="text-center">Scaling Plan</h2>
+										<div class="price-heading-text">
+											<h2>Quarterly Plan</h2>
+											<h4>$2250</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li>Features: 16 Post Per Month </li>
+												<li>Reels Posts: 4 Reel Per Month</li>
+												<li>Graphics Posts: 6 Graphics Per Month</li>
+												<li>Carousel: 6 Carousel Per Month</li>
+												<li>Stories+Highlights (Complimentary): 4 Stories/Highlights</li>
+												<li>Number Of Networks: 3 Networks</li>
+												<li>Social Media Marketing Strategy</li>
+												<li>Social Media Competitive Analysis</li>
+												<li>Social Media Brand Reputation Analysis</li>
+												<li>Social Media Audit + Recommendations</li>
+												<li>Dedicated Social Media Account Manager</li>
+												<li>Daily/Weekly Monitoring Of Included Social Assets</li>
+												<li>Standard Monthly Reporting And Analysis</li>
+												<li>Cross-Platform Integration</li>
+												<li>Network Setup &amp; Optimization</li>
+											</ul>
+										</div>
 
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<div class="price-heading-text">
-										<h2>Diamond</h2>
-										<h4>$900</h4>
 									</div>
-									<div class="price-list">
-										<ul>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-											<li>Sliding Banner </li>
-											<li>5 Stock Images </li>
-											<li>100% Money Back Gurantee</li>
-											<li>100% Owner Rights</li>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-										</ul>
-									</div>
+
 
 								</div>
+								<div class="px-2 py-2">
 
-							</div>
+									<div class="price-inner-plan">
+										<h2 class="text-center">Venture Plan</h2>
+										<div class="price-heading-text">
+											<h2>Quarterly Plan</h2>
+											<h4>$4725</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li>Features: 24 Post Per Month </li>
+												<li>Reels Posts: 6 Reel Per Month</li>
+												<li>Graphics Posts: 9 Graphics Per Month</li>
+												<li>Carousel: 9 Carousel Per Month</li>
+												<li>Stories+Highlights (Complimentary): 6 Stories/Highlights</li>
+												<li>Number Of Networks: 7 Networks</li>
+												<li>Social Media Marketing Strategy</li>
+												<li>Social Media Competitive Analysis</li>
+												<li>Social Media Brand Reputation Analysis</li>
+												<li>Social Media Audit + Recommendations</li>
+												<li>Dedicated Social Media Account Manager</li>
+												<li>Daily/Weekly Monitoring Of Included Social Assets</li>
+												<li>Standard Monthly Reporting And Analysis</li>
+												<li>Cross-Platform Integration</li>
+												<li>Network Setup &amp; Optimization</li>
+											</ul>
+										</div>
 
-
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<div class="price-heading-text">
-										<h2>Gold </h2>
-										<h4>$1200</h4>
 									</div>
-									<div class="price-list">
-										<ul>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-											<li>Sliding Banner </li>
-											<li>5 Stock Images </li>
-											<li>100% Money Back Gurantee</li>
-											<li>100% Owner Rights</li>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-										</ul>
-									</div>
+
 
 								</div>
+								<div class="px-2 py-2">
 
+									<div class="price-inner-plan">
+										<h2 class="text-center">Startup Plan</h2>
+										<div class="price-heading-text">
+											<h2>Bi-Annual Plan</h2>
+											<h4>$2000</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li>Features: 12 Post Per Month </li>
+												<li>Reels Posts: 3 Reel Per Month</li>
+												<li>Graphics Posts: 4 Graphics Per Month</li>
+												<li>Carousel: 5 Carousel Per Month</li>
+												<li>Stories+Highlights (Complimentary): 8 Stories/Highlights</li>
+												<li>Number Of Networks: 2 Networks</li>
+												<li>Social Media Marketing Strategy</li>
+												<li>Dedicated Social Media Account Manager</li>
+												<li>Daily/Weekly Monitoring Of Included Social Assets</li>
+											</ul>
+										</div>
+
+									</div>
+
+
+								</div>
+								<div class="px-2 py-2">
+
+									<div class="price-inner-plan">
+										<h2 class="text-center">Scaling Plan</h2>
+										<div class="price-heading-text">
+											<h2>Bi-Annual Plan</h2>
+											<h4>$4000</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li>Features: 16 Post Per Month </li>
+												<li>Reels Posts: 4 Reel Per Month</li>
+												<li>Graphics Posts: 6 Graphics Per Month</li>
+												<li>Carousel: 6 Carousel Per Month</li>
+												<li>Stories+Highlights (Complimentary): 10 Stories/Highlights</li>
+												<li>Number Of Networks: 3 Networks</li>
+												<li>Social Media Marketing Strategy</li>
+												<li>Social Media Competitive Analysis</li>
+												<li>Social Media Brand Reputation Analysis</li>
+												<li>Social Media Audit + Recommendations</li>
+												<li>Dedicated Social Media Account Manager</li>
+												<li>Daily/Weekly Monitoring Of Included Social Assets</li>
+												<li>Standard Monthly Reporting And Analysis</li>
+												<li>Cross-Platform Integration</li>
+												<li>Network Setup &amp; Optimization</li>
+											</ul>
+										</div>
+
+									</div>
+
+
+								</div>
+								<div class="px-2 py-2">
+
+									<div class="price-inner-plan">
+										<h2 class="text-center">Venture Plan</h2>
+										<div class="price-heading-text">
+											<h2>Bi-Annual Plan</h2>
+											<h4>$9000</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li>Features: 24 Post Per Month </li>
+												<li>Reels Posts: 6 Reel Per Month</li>
+												<li>Graphics Posts: 9 Graphics Per Month</li>
+												<li>Carousel: 9 Carousel Per Month</li>
+												<li>Stories+Highlights (Complimentary): 12 Stories/Highlights</li>
+												<li>Number Of Networks: 7 Networks</li>
+												<li>Social Media Marketing Strategy</li>
+												<li>Social Media Competitive Analysis</li>
+												<li>Social Media Brand Reputation Analysis</li>
+												<li>Social Media Audit + Recommendations</li>
+												<li>Dedicated Social Media Account Manager</li>
+												<li>Daily/Weekly Monitoring Of Included Social Assets</li>
+												<li>Standard Monthly Reporting And Analysis</li>
+												<li>Cross-Platform Integration</li>
+												<li>Network Setup &amp; Optimization</li>
+											</ul>
+										</div>
+
+									</div>
+
+
+								</div>
+								
 							</div>
-
-
 						</div>
 
 						<!-- second row -->

@@ -8,45 +8,46 @@
 		<?php include_once("includes/header.php") ?>
 
 		<!-- Service Logo first section -->
-		 <section id="ppc-section">
-		<div class="service-logosection animation" style="padding-top: 50px; padding-left: 50px; padding-right: 50px;">
-			<div class="container">
-				<div class="row" style="margin: auto;">
-					<div class="col-6 col-12-medium align-self-center">
-						<div class="first-inner-section-text">
-							<h1 style="font-size: 40px; line-height: 50px;">New Vision to <br>
-								<b>Transform Your Brand</b>
-							</h1>
-							<p>making sure to provide quality and creativity to our customer with our best team </p>
+		<section id="ppc-section">
+			<div class="service-logosection animation" style="padding-top: 50px; padding-left: 50px; padding-right: 50px;">
+				<div class="container">
+					<div class="row" style="margin: auto;">
+						<div class="col-6 col-12-medium align-self-center">
+							<div class="first-inner-section-text">
+								<h1 style="font-size: 40px; line-height: 50px;">Maximize Your Ad Spend and ROI with Advanced <b>PPC Strategies</b>
+								</h1>
+								<p> Unlock the potential of targeted traffic and instant results with Blizztech Solutions’ PPC
+									advertising services. Our approach combines data-driven strategies with creative ad
+									solutions to drive qualified leads and achieve your business goals. </p>
 
+							</div>
 						</div>
-					</div>
-					<div class="col-6 col-12-medium">
-						<div class="log-quote-form">
-						<form class="innerpagescalltoaction" method="post" id="contact" action="">
+						<div class="col-6 col-12-medium">
+							<div class="log-quote-form">
+								<form class="innerpagescalltoaction" method="post" id="contact" action="">
 
 
 
- 
-<input type="text" class="form-control" name="name" placeholder="Name" required>
 
-<input type="email" class="form-control" name="email" placeholder="Email" required>
+									<input type="text" class="form-control" name="name" placeholder="Name" required>
 
-
-
-<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+									<input type="email" class="form-control" name="email" placeholder="Email" required>
 
 
-<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
 
-<button class="btn btn-primary" type="submit" name="submit">Submit</button>
-</form>
+									<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+
+
+									<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
+
+									<button class="btn btn-primary" type="submit" name="submit">Submit</button>
+								</form>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-		<!-- END LOGO FIRST SECTION -->
+			<!-- END LOGO FIRST SECTION -->
 		</section>
 
 		<!-- PAYPER CLICK ABOUT US SECTION START -->
@@ -55,16 +56,14 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-6 col-12-medium align-self-center">
-						<h1 style="color: #fff;"><img class="headline" src="./images/greenlinetext.png" />Pay <b>Per Click</b></h1>
+						<h1 style="color: #fff;"><img class="headline" src="./images/greenlinetext.png" />Strategic <b>PPC Campaign</b> Management</h1>
 						<p style="color: #fff;">
-							<b style="color: #fff;">Marketers, can we be honest with each other for a second? On a scale of 1-10,
-								how much do you really understand the world of paid advertising?</b>
+							<b style="color: #fff;">We design and manage PPC campaigns tailored to your business
+								objectives. From initial keyword research to ad creation and bid
+								management, our strategies are built to deliver maximum impact
+								and cost efficiency.</b>
 						</p>
-						<p style="color: #fff;">Although do some form of online advertising, pay-per-click is still a concept that eludes many of us.
-							As a marketer, PPC is a skill that you should have in your tool belt — or at least have a basic understanding of.
-							This guide will help you grasp pay-per-click marketing in its entirety. To start, we’ll begin
-							with the benefits of paid advertising and then get into some key definitions that
-							you’ll need to know.</p>
+
 					</div>
 					<div class="col-6 col-12-medium">
 						<img src="./images/ppc/payperclickabout.png" width="100%" />
@@ -75,104 +74,6 @@
 		<!-- PAYPER CLICK ABOUT US SECTION END -->
 
 
-		<!-- 8 BOXES SECTION START -->
-
-		<section id="stepsbox-section" style="padding: 100px 0px;">
-			<div class="container">
-				<hr style="margin: 40px 0px; border-color: #7d5ce0 !important; opacity: 1;">
-				<div class="row">
-					<div class="heading-text" style="text-align: center;">
-						<h1><b>Branding Makes You Unique</b><br>
-							That Revolutionize Your Company</h1>
-					</div>
-					<div class="col-3 col-12-medium">
-						<div class="box-step-ppc">
-							<img src="./images/creative.png" width="auto" />
-							<h2>qualified traffic</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and
-								typesetting industry. Lorem Ipsum has been the industry's
-								standard dummy text ever since the 1500s, when an unknown
-								printer took a galley of type and scrambled it to </p>
-						</div>
-					</div>
-					<div class="col-3 col-12-medium">
-						<div class="box-step-ppc">
-							<img src="./images/creative.png" width="auto" />
-							<h2>qualified traffic</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and
-								typesetting industry. Lorem Ipsum has been the industry's
-								standard dummy text ever since the 1500s, when an unknown
-								printer took a galley of type and scrambled it to </p>
-						</div>
-					</div>
-					<div class="col-3 col-12-medium">
-						<div class="box-step-ppc">
-							<img src="./images/creative.png" width="auto" />
-							<h2>qualified traffic</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and
-								typesetting industry. Lorem Ipsum has been the industry's
-								standard dummy text ever since the 1500s, when an unknown
-								printer took a galley of type and scrambled it to </p>
-						</div>
-					</div>
-					<div class="col-3 col-12-medium">
-						<div class="box-step-ppc">
-							<img src="./images/creative.png" width="auto" />
-							<h2>qualified traffic</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and
-								typesetting industry. Lorem Ipsum has been the industry's
-								standard dummy text ever since the 1500s, when an unknown
-								printer took a galley of type and scrambled it to </p>
-						</div>
-					</div>
-				</div>
-
-				<div class="row" style="padding: 30px 0px;">
-					<div class="col-3 col-12-medium">
-						<div class="box-step-ppc">
-							<img src="./images/creative.png" width="auto" />
-							<h2>qualified traffic</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and
-								typesetting industry. Lorem Ipsum has been the industry's
-								standard dummy text ever since the 1500s, when an unknown
-								printer took a galley of type and scrambled it to </p>
-						</div>
-					</div>
-					<div class="col-3 col-12-medium">
-						<div class="box-step-ppc">
-							<img src="./images/creative.png" width="auto" />
-							<h2>qualified traffic</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and
-								typesetting industry. Lorem Ipsum has been the industry's
-								standard dummy text ever since the 1500s, when an unknown
-								printer took a galley of type and scrambled it to </p>
-						</div>
-					</div>
-					<div class="col-3 col-12-medium">
-						<div class="box-step-ppc">
-							<img src="./images/creative.png" width="auto" />
-							<h2>qualified traffic</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and
-								typesetting industry. Lorem Ipsum has been the industry's
-								standard dummy text ever since the 1500s, when an unknown
-								printer took a galley of type and scrambled it to </p>
-						</div>
-					</div>
-					<div class="col-3 col-12-medium">
-						<div class="box-step-ppc">
-							<img src="./images/creative.png" width="auto" />
-							<h2>qualified traffic</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and
-								typesetting industry. Lorem Ipsum has been the industry's
-								standard dummy text ever since the 1500s, when an unknown
-								printer took a galley of type and scrambled it to </p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-
-		<!-- 8 BOXES SECTION END -->
 
 		<!-- CRUCIAL SECTION START -->
 
@@ -186,59 +87,17 @@
 					</div>
 					<div class="col-6 col-12-medium">
 						<div class="processinner-text">
-							<h2 style="font-family: 'Anek Tamil'; font-weight: 400;">It is crucial to establish your identity and ask yourself as
-								the brand <b>“who are you?”</b></h2>
-							<p style="color: #fff;">Here a brand needs to “ensure identification of the brand with customers and an
-								association of the brand in their customer’s minds with a specific product class,
-								product benefit, or customer need.” Salience means that something is Important and
-								relevant. Therefore, brand salience implies that we recognize the brand, and it is
-								relevant to us. Brand salience is the measurement of consumer recall of the brand
-								in different consumption situations. How persuasive is the brand’s awareness? Are our
-								consumers aware of what needs our brand can satisfy?</p>
-							<div class="accordion w-100" id="basicAccordion">
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingOne">
-										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-											data-mdb-target="#basicAccordionCollapseNew" aria-expanded="false" aria-controls="collapseOne">
-											How should I start briefly? <img src="./images/faqdownarrow.png" />
-										</button>
-									</h2>
-									<div id="basicAccordionCollapseNew" class="accordion-collapse collapse" aria-labelledby="headingOne"
-										data-mdb-parent="#basicAccordion">
-										<div class="accordion-body">
-											Introduce your brand, purpose, and target audience to begin the logo design brief.
-											Describe the desired message, preferred colors, and any specific design inspirations.
-											Include the deadline and budget to guide the designer in creating a memorable logo that
-											aligns with your vision.
-										</div>
-									</div>
-								</div>
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingTwo">
-										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-											data-mdb-target="#basicAccordionCollapseNew2" aria-expanded="false" aria-controls="collapseTwo">
-											How much does it cost? <img src="./images/faqdownarrow.png" />
-										</button>
-									</h2>
-									<div id="basicAccordionCollapseNew2" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-										data-mdb-parent="#basicAccordion">
-										<div class="accordion-body">
-											The cost of logo designing can vary depending on factors like complexity, the designer&#39;s
-											experience, and the revisions needed. Generally, basic designs range from $100 to
-											$500, while more elaborate concepts or brand identity packages may cost $1000 or
-											more.
-										</div>
-									</div>
-								</div>
+							<h2 style="font-family: 'Anek Tamil'; font-weight: 400;"> Advanced Bid <b>Management</b></h2>
+							<p style="color: #fff;"> Optimize your ad spend with our advanced bid management
+								techniques. We continuously monitor and adjust bids to ensure your
+								ads achieve the best possible position while staying within budget</p>
 
-							</div>
 						</div>
 					</div>
 
 				</div>
-				<hr style="margin: 40px 0px;">
 				<!-- second row start -->
-				<div class="row">
+				<!-- <div class="row">
 
 					<div class="col-6 col-12-medium">
 						<div class="processinner-text">
@@ -291,15 +150,322 @@
 					<div class="col-6 col-12-medium">
 						<img width="100%" src="./images/ppc/about1.png" />
 					</div>
-				</div>
+				</div> -->
 				<hr>
 				<!-- second row end -->
 			</div>
 		</section>
 
 		<!-- HOW ITS PROCESS INNER END -->
+		<!-- RIGHT PPC START -->
+		<section id="right-ppc">
+			<div class="container">
+				<div class="right-content">
+					<h2> The Right <b>PPC Campaigns</b> for SMEs</h2>
+					<p>
+						Search engine marketing involves pay per click management
+						services, which is a top-of-funnel marketing tactic that drives
+						engagement and sales. Our pay-per-click advertising services
+						give you best outcomes which quickens the purchasing process
+						and increases your conversion rate.
+						We know what works right for you; our robust services maintain a
+						balance between strategy optimization, client care, and
+						transparency to deliver the best possible solutions.
+					</p>
+				</div>
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="right-ppc-card">
+							<div class="right-image">
+								<img src="./images/ppc/ppc-img-1.png" alt="">
+							</div>
+							<div class="right-card-content">
+								<h3>Affordable</h3>
+								<p> To provide the best web pay-per click ad services, we prioritize
+									affordability and uphold our company values.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="right-ppc-card">
+							<div class="right-image">
+								<img src="./images/ppc/ppc-img-2.png" alt="">
+							</div>
+							<div class="right-card-content">
+								<h3> Precise</h3>
+								<p> Our pay-per-click advertising company helps you navigate the
+									technicalities of PPC and precisely integrate it with your SEO and
+									online marketing campaigns.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="right-ppc-card">
+							<div class="right-image">
+								<img src="./images/ppc/ppc-img-3.png" alt="">
+							</div>
+							<div class="right-card-content">
+								<h3> Results Driven</h3>
+								<p> We employ verifiable data to guide our holistic approaches to
+									develop result-oriented campaigns with authentic results.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- RIGHT PPC END -->
+		<!-- BESPOKE SECTION START  -->
+		<section id="be-spoke-section">
+			<div class="container">
+				<div class="bespoke-content">
+					<h2>Our Bespoke <b>Pay Per Click</b> Marketing Services</h2>
+					<p> We have expertise in running various pay per click marketing
+						services that can aid in increasing your brand visibility online
+						and promoting your products to the right audience. Our pay
+						per-click advertising team carefully collaborates with you to
+						identify the most effective PPC ads you can employ to optimize
+						your sales funnel.</p>
+				</div>
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="be-spoke-card">
+							<div class="be-spoke-image">
+								<img src="./images/ppc/be-spoke-img-1.png" alt="">
+							</div>
+							<div class="be-spoke-content">
+								<h3>Display <b>Ads</b></h3>
+								<p>Display advertisement directs Google visitors towards websites
+									with a similar industry appearing on Google's partner websites.
+									Catchy ad copies are used to grab customers' attention and
+									persuade them to click CTAs. Our Pay-per-click services
+									advertising experts suggest displaying advertisements for long
+									sales cycles and niche clientele.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="be-spoke-card">
+							<div class="be-spoke-image">
+								<img src="./images/ppc/be-spoke-img-2.png" alt="">
+							</div>
+							<div class="be-spoke-content">
+								<h3> Gmail Sponsored Promotions <b>(GSP)</b></h3>
+								<p> Promotions that are paid for Gmail are a good way to get
+									direct response leads. GSP lets you reach interested leads right
+									in your mailbox. Our team has got all the expertise for catering
+									pay per click services, while delivering optimal results!</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="be-spoke-card">
+							<div class="be-spoke-image">
+								<img src="./images/ppc/be-spoke-img-3.png" alt="">
+							</div>
+							<div class="be-spoke-content">
+								<h3> Remarketing <b>Ads</b>
+								</h3>
+								<p> Remarketing is among the best techniques to attract
+									customers who buy more often and can be used to increase
+									sales two-folds. To get notable results with your PPC campaign,
+									Blizztech uses creative PPC remarketing services ad types and
+									extensions to work wonders for you.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="be-spoke-card">
+							<div class="be-spoke-image">
+								<img src="./images/ppc/be-spoke-img-4.png" alt="">
+							</div>
+							<div class="be-spoke-content">
+								<h3> Social <b>Ads</b></h3>
+								<p> Advertising on social media is growing at the fastest rate.
+									Social ads appear on Facebook, LinkedIn, and Twitter. Social
+									media advertising is appropriate for brands with an active
+									social media presence and highly targeted customers.
+									Blizztech is the optimal choice for managing your social ad
+									campaigns!</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="be-spoke-card">
+							<div class="be-spoke-image">
+								<img src="./images/ppc/be-spoke-img-5.png" alt="">
+							</div>
+							<div class="be-spoke-content">
+								<h3>Amazon PPC <b> Ads</b></h3>
+								<p> Amazon advertising is growing more popular worldwide. To
+									plan your Amazon PPC campaigns and raise your profit
+									margin, Team Blizztech efficiently uses the technical know-how
+									and experience of our PPC professionals for strategizing best
+									campaigns for you.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="be-spoke-card">
+							<div class="be-spoke-image">
+								<img src="./images/ppc/be-spoke-img-6.png" alt="">
+							</div>
+							<div class="be-spoke-content">
+								<h3> Google Shopping <b>Ads</b></h3>
+								<p> Google Shopping ads work well when a website has a lot of
+									products. These pay-per-click ads show up in a carousel
+									above or next to the main Google search results. Every click you
+									are paying for has a higher chance of converting.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="be-spoke-card">
+							<div class="be-spoke-image">
+								<img src="./images/ppc/be-spoke-img-7.png" alt="">
+							</div>
+							<div class="be-spoke-content">
+								<h3> Local Services <b>Ads</b></h3>
+								<p> Local service ads are based on a pay-per-lead model. Only
+									pay when a customer gets in touch directly from your ad, so
+									you can get real results for your business. Whether you need
+									assistance or a full-service marketing firm working on PPC
+									marketing for your company, we have all the expertise and
+									resources.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="be-spoke-card">
+							<div class="be-spoke-image">
+								<img src="./images/ppc/be-spoke-img-8.png" alt="">
+							</div>
+							<div class="be-spoke-content">
+								<h3>In-stream <b>Ads</b></h3>
+								<p>
+									In-stream ads are generally displayed on YouTube and
+									Facebook. Earn money and offer a less disruptive viewing
+									experience with in-stream advertisements that keep your
+									content in the spotlight. Get these exceptional services from
+									our adept professionals.</p>
+							</div>
+						</div>
+					</div>
 
+					<div class="col-lg-4">
+						<div class="be-spoke-card">
+							<div class="be-spoke-image">
+								<img src="./images/ppc/be-spoke-img-9.png" alt="">
+							</div>
+							<div class="be-spoke-content">
+								<h3>Search <b>Ads</b></h3>
+								<p>
+									Pay-per-click ads are good for brief sales cycles or one-time
+									campaigns. For robust, high-quality leads from new customers,
+									blizztech recommends search engine advertising.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- BESPOKE SECTION END  -->
+		<!-- WHY CHOOSE US START -->
 
+		<section id="intro-section-1">
+			<div class="containerr">
+				<div class="row">
+					<div class="row-text">
+						<h1 style="text-align: center; padding-bottom: 20px;"><b> Why Choose Us</b>
+						</h1>
+					</div>
+				</div>
+
+				<div class="center">
+					<div>
+						<div class="why-choosetext">
+							<div class="why-choose-image">
+								<img class="img1" src="./images/ppc/why-choose.png">
+							</div>
+							<h3 class="animated fadeIn"> ROI-Driven Strategies </h3>
+							<p>We help you maximize your returns with pre-planned PPC campaigns,
+								focused on driving high-quality leads and conversions.
+
+							</p>
+						</div>
+						<div class="button-custom">
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+						</div>
+					</div>
+
+					<div>
+						<div class="why-choosetext">
+							<div class="why-choose-image">
+								<img class="img1" src="./images/ppc/why-choose.png">
+
+							</div>
+							<h3 class="animated fadeIn"> Continuous Optimization </h3>
+							<p>Our dedicated team monitors and fine-tunes your campaigns to ensure
+								they perform at their peak, delivering the best possible results.
+
+							</p>
+						</div>
+						<div class="button-custom">
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+						</div>
+
+					</div>
+					<div>
+						<div class="why-choosetext">
+							<div class="why-choose-image">
+								<img class="img1" src="./images/ppc/why-choose.png">
+
+							</div>
+							<h3 class="animated fadeIn"> Proven Results</h3>
+							<p> Benefit from our track record of success, with a portfolio of satisfied
+								clients who have achieved outstanding results through our PPC services.
+
+							</p>
+						</div>
+						<div class="button-custom">
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+						</div>
+					</div>
+					<div>
+						<div class="why-choosetext">
+							<div class="why-choose-image">
+								<img class="img1" src="./images/ppc/why-choose.png">
+
+							</div>
+							<h3 class="animated fadeIn"> Expertise In Ad Platforms</h3>
+							<p> Leverage our in-depth knowledge of leading ad platforms to create
+								effective, data-driven campaigns
+
+							</p>
+						</div>
+						<div class="button-custom">
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+						</div>
+					</div>
+					<div>
+						<div class="why-choosetext">
+							<div class="why-choose-image">
+								<img class="img1" src="./images/ppc/why-choose.png">
+
+							</div>
+							<h3 class="animated fadeIn">Customized Solutions</h3>
+							<p> Every business is unique. We tailor our strategies to align with your
+								specific goals and objectives.
+
+							</p>
+						</div>
+						<div class="button-custom">
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+						</div>
+					</div>
+				</div>
+		</section>
+		<!-- WHY CHOOSE US END -->
 		<!-- CRUCIAL SECTION END -->
 
 
@@ -785,24 +951,24 @@
 				<div class="row contact-inner">
 					<div class="col-6 col-12-medium">
 						<div class="logo-conactfomrinner">
-						<form class="innerpagescalltoaction" method="post"  action="">
+							<form class="innerpagescalltoaction" method="post" action="">
 
 
 
- 
-<input type="text" class="form-control" name="name" placeholder="Name" required>
 
-<input type="email" class="form-control" name="email" placeholder="Email" required>
+								<input type="text" class="form-control" name="name" placeholder="Name" required>
 
-
-
-<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+								<input type="email" class="form-control" name="email" placeholder="Email" required>
 
 
-<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
 
-<button class="btn btn-primary" type="submit" name="submit">Submit</button>
-</form>
+								<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+
+
+								<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
+
+								<button class="btn btn-primary" type="submit" name="submit">Submit</button>
+							</form>
 						</div>
 					</div>
 
@@ -834,119 +1000,7 @@
 
 		<!-- TESTIMONIAL START -->
 
-		<section id="testimonials-sections" style="padding-top: 60px; padding-bottom: 60px;">
-			<div class="heading-text" style="text-align: center;">
-				<h3>Creativity Meets Functionality</h3>
-				<h1>Superior <b>Digital Experiences</b><br> for Your Clients</h1>
-				<p style="color: #fff;">Solutions to fit every budget and need - our flexible pricing and plans make it easy for you <br>
-					to choose the perfect solution for your brand!</p>
-			</div>
-			<div class="container">
-				<div id="page">
-					<div class="row">
-						<div class="column small-11 small-centered">
-							<div class="slider slider-nav">
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial2.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial3.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial2.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial3.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial2.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial3.png" /></span></h3>
-								</div>
-							</div>
-							<div class="testimonial-quote">
-								<img src="./images/testimonialimages/quote.png" />
-							</div>
-							<div class="slider slider-single">
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 1</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 2</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 3</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 4</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 5</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 6</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 7</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 8</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 9</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+		<?php include_once("testimonial-global.php") ?>
 
 		<!-- BLOGS START -->
 		<section id="blog-animation" style="padding: 50px 0px;">

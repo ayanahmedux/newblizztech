@@ -484,220 +484,195 @@
 
 
 					<!-- LOGOS PRICE PLAN Start -->
+
 					<div class="container">
 						<div class="row" style="margin: auto;">
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<h2 class="text-center">Startup Plan</h2>
-									<div class="price-heading-text">
-										<h2>Quarterly Plan</h2>
-										<h4>$750</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>Features: 10 Keywords</li>
-											<li>Prior Analysis</li>
-											<li>Pages Keyword Targeted: 5 Pages</li>
-											<li>Web Page Optimization</li>
-											<li>On Page Optimization</li>
-											<li>Meta Data</li>
-											<li>Off Page Optimization</li>
-											<li>Content Creation</li>
-											<li>Guest Bloging: 06 Per Month</li>
-											<li>Web 2.0</li>
-											<li>Bussiness Listing</li>
-										</ul>
+							<div class="center">
+								<div class="px-2 py-2">
+									<div class="price-inner-plan">
+										<h2 class="text-center">Startup Plan</h2>
+										<div class="price-heading-text">
+											<h2>Quarterly Plan</h2>
+											<h4>$750</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li>Features: 10 Keywords</li>
+												<li>Prior Analysis</li>
+												<li>Pages Keyword Targeted: 5 Pages</li>
+												<li>Web Page Optimization</li>
+												<li>On Page Optimization</li>
+												<li>Meta Data</li>
+												<li>Off Page Optimization</li>
+												<li>Content Creation</li>
+												<li>Guest Bloging: 06 Per Month</li>
+												<li>Web 2.0</li>
+												<li>Bussiness Listing</li>
+											</ul>
+
+										</div>
 
 									</div>
-
 								</div>
+								<div class="px-2 py-2">
+									<div class="price-inner-plan">
+										<h2 class="text-center">
+											Scaling Plan
+										</h2>
+										<div class="price-heading-text">
+											<h2>Quarterly Plan</h2>
+											<h4>$1750</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li>Features: 25 Keywords</li>
+												<li>Prior Analysis</li>
+												<li>Pages Keyword Targeted: 15 Pages</li>
+												<li>Web Page Optimization</li>
+												<li>On Page Optimization</li>
+												<li>Meta Data</li>
+												<li>Off Page Optimization</li>
+												<li>Content Creation</li>
+												<li>Guest Bloging: 12 Per Month</li>
+												<li>Web 2.0</li>
+												<li>Bussiness Listing</li>
+												<li>
+													Reporting
+												</li>
+												<li>Website Audit</li>
+											</ul>
+										</div>
 
+									</div>
+								</div>
+								<div class="px-2 py-2">
+									<div class="price-inner-plan">
+										<h2 class="text-center">
+											Venture Plan
+										</h2>
+										<div class="price-heading-text">
+											<h2>Quarterly Plan</h2>
+											<h4>$2500</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li>Features: 35 Keywords</li>
+												<li>Prior Analysis</li>
+												<li>Pages Keyword Targeted: 25 Pages</li>
+												<li>Web Page Optimization</li>
+												<li>On Page Optimization</li>
+												<li>Meta Data</li>
+												<li>Off Page Optimization</li>
+												<li>Content Creation</li>
+												<li>Guest Bloging: 16 Per Month</li>
+												<li>Web 2.0</li>
+												<li>Bussiness Listing</li>
+												<li>
+													Reporting
+												</li>
+												<li>Website Audit</li>
+											</ul>
+										</div>
+
+									</div>
+								</div>
+								<div class="px-2 py-2">
+									<div class="price-inner-plan">
+										<h2 class="text-center">
+											Startup Plan
+										</h2>
+										<div class="price-heading-text">
+											<h2>Bi-Annual Plan</h2>
+											<h4>$1400</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li>Features: 10 Keywords</li>
+												<li>Prior Analysis</li>
+												<li>Pages Keyword Targeted: 5 Pages</li>
+												<li>Web Page Optimization</li>
+												<li>On Page Optimization</li>
+												<li>Meta Data</li>
+												<li>Off Page Optimization</li>
+												<li>Content Creation</li>
+												<li>Guest Bloging: 06 Per Month</li>
+												<li>Web 2.0</li>
+												<li>Bussiness Listing</li>
+											</ul>
+										</div>
+
+									</div>
+								</div>
+								<div class="px-2 py-2">
+									<div class="price-inner-plan">
+										<h2 class="text-center">
+											Scaling Plan
+										</h2>
+										<div class="price-heading-text">
+											<h2>Bi-Annual Plan</h2>
+											<h4>$3150</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li>Features: 25 Keywords</li>
+												<li>Prior Analysis</li>
+												<li>Pages Keyword Targeted: 15 Pages</li>
+												<li>Web Page Optimization</li>
+												<li>On Page Optimization</li>
+												<li>Meta Data</li>
+												<li>Off Page Optimization</li>
+												<li>Content Creation</li>
+												<li>Guest Bloging: 12 Per Month</li>
+												<li>Web 2.0</li>
+												<li>Bussiness Listing</li>
+												<li>
+													Reporting
+												</li>
+												<li>Website Audit</li>
+											</ul>
+										</div>
+
+									</div>
+								</div>
+								<div class="px-2 py-2">
+									<div class="price-inner-plan">
+										<h2 class="text-center">
+											Venture Plan
+										</h2>
+										<div class="price-heading-text">
+											<h2>Bi-Annual Plan</h2>
+											<h4>$4500</h4>
+										</div>
+										<div class="price-list">
+											<ul>
+												<li>Features: 35 Keywords</li>
+												<li>Prior Analysis</li>
+												<li>Pages Keyword Targeted: 25 Pages</li>
+												<li>Web Page Optimization</li>
+												<li>On Page Optimization</li>
+												<li>Meta Data</li>
+												<li>Off Page Optimization</li>
+												<li>Content Creation</li>
+												<li>Guest Bloging: 16 Per Month</li>
+												<li>Web 2.0</li>
+												<li>Bussiness Listing</li>
+												<li>
+													Reporting
+												</li>
+												<li>Website Audit</li>
+											</ul>
+										</div>
+
+									</div>
+								</div>
 							</div>
 
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<h2 class="text-center">
-										Scaling Plan
-									</h2>
-									<div class="price-heading-text">
-										<h2>Quarterly Plan</h2>
-										<h4>$1750</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>Features: 25 Keywords</li>
-											<li>Prior Analysis</li>
-											<li>Pages Keyword Targeted: 15 Pages</li>
-											<li>Web Page Optimization</li>
-											<li>On Page Optimization</li>
-											<li>Meta Data</li>
-											<li>Off Page Optimization</li>
-											<li>Content Creation</li>
-											<li>Guest Bloging: 12 Per Month</li>
-											<li>Web 2.0</li>
-											<li>Bussiness Listing</li>
-											<li>
-												Reporting
-											</li>
-											<li>Website Audit</li>
-										</ul>
-									</div>
-
-								</div>
-
-							</div>
-
-
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<h2 class="text-center">
-										Venture Plan
-									</h2>
-									<div class="price-heading-text">
-										<h2>Quarterly Plan</h2>
-										<h4>$2500</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>Features: 35 Keywords</li>
-											<li>Prior Analysis</li>
-											<li>Pages Keyword Targeted: 25 Pages</li>
-											<li>Web Page Optimization</li>
-											<li>On Page Optimization</li>
-											<li>Meta Data</li>
-											<li>Off Page Optimization</li>
-											<li>Content Creation</li>
-											<li>Guest Bloging: 16 Per Month</li>
-											<li>Web 2.0</li>
-											<li>Bussiness Listing</li>
-											<li>
-												Reporting
-											</li>
-											<li>Website Audit</li>
-										</ul>
-									</div>
-
-								</div>
-
-							</div>
 
 
 						</div>
 
 						<!-- second row -->
-						<div class="row" style="padding-top: 50px; margin: auto;">
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<h2 class="text-center">
-										Startup Plan
-									</h2>
-									<div class="price-heading-text">
-										<h2>Bi-Annual Plan</h2>
-										<h4>$1400</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>Features: 10 Keywords</li>
-											<li>Prior Analysis</li>
-											<li>Pages Keyword Targeted: 5 Pages</li>
-											<li>Web Page Optimization</li>
-											<li>On Page Optimization</li>
-											<li>Meta Data</li>
-											<li>Off Page Optimization</li>
-											<li>Content Creation</li>
-											<li>Guest Bloging: 06 Per Month</li>
-											<li>Web 2.0</li>
-											<li>Bussiness Listing</li>
-										</ul>
-									</div>
-
-								</div>
-
-							</div>
-
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<h2 class="text-center">
-										Scaling Plan
-									</h2>
-									<div class="price-heading-text">
-										<h2>Bi-Annual Plan</h2>
-										<h4>$3150</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>Features: 25 Keywords</li>
-											<li>Prior Analysis</li>
-											<li>Pages Keyword Targeted: 15 Pages</li>
-											<li>Web Page Optimization</li>
-											<li>On Page Optimization</li>
-											<li>Meta Data</li>
-											<li>Off Page Optimization</li>
-											<li>Content Creation</li>
-											<li>Guest Bloging: 12 Per Month</li>
-											<li>Web 2.0</li>
-											<li>Bussiness Listing</li>
-											<li>
-												Reporting
-											</li>
-											<li>Website Audit</li>
-										</ul>
-									</div>
-
-								</div>
-
-							</div>
-
-
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<h2 class="text-center">
-										Venture Plan
-									</h2>
-									<div class="price-heading-text">
-										<h2>Bi-Annual Plan</h2>
-										<h4>$4500</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>Features: 35 Keywords</li>
-											<li>Prior Analysis</li>
-											<li>Pages Keyword Targeted: 25 Pages</li>
-											<li>Web Page Optimization</li>
-											<li>On Page Optimization</li>
-											<li>Meta Data</li>
-											<li>Off Page Optimization</li>
-											<li>Content Creation</li>
-											<li>Guest Bloging: 16 Per Month</li>
-											<li>Web 2.0</li>
-											<li>Bussiness Listing</li>
-											<li>
-												Reporting
-											</li>
-											<li>Website Audit</li>
-										</ul>
-									</div>
-
-								</div>
-
-							</div>
-
-							<div class="custom-price-button" style="padding-top: 70px;">
-								<ul>
-									<li>
-										<div class="brand-button">
-											<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-										</div>
-									</li>
-									<li>
-										<div class="brand-button">
-											<h6><a href="#">View More</a></h6>
-										</div>
-									</li>
-								</ul>
-							</div>
-
-						</div>
+					
 					</div>
 
 					<!-- LOGOS PRICE PLAN END -->
