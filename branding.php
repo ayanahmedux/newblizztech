@@ -649,9 +649,10 @@
 			<div class="container">
 				<div class="row" style="margin: auto !important;">
 					<div class="heading-text" style="text-align: center;">
-						<h3>Pricing </h3>
-						<h1>Best <b>Plans</b> For Your Need</h1>
-						<p style="color: #fff; padding-bottom: 40px;">we are proud to offer a wide range of comprehensive packages for our services</p>
+						<h3>Custom</h3>
+						<h1><b>pricing</b> and plans</h1>
+						<p style="color: #fff; padding-bottom: 40px;">Solutions to fit every budget and need - our flexible pricing and plans <br> make it easy for you
+							to choose the perfect solution for your brand!</p>
 					</div>
 
 

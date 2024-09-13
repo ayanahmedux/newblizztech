@@ -298,7 +298,13 @@
 						</ul>
 					</div>
 				</div>
-				<div class="blizz-questions">
+				
+			</div>
+		</section>
+		<!-- TECNOLOGY STACK END -->
+		<section id="blizztech-question">
+		<div class="container">
+		<div class="blizz-questions">
 					<p><b> Why Choose Blizztech Solutions for Website
 							Design and Development?</b></p>
 					<p>Blizztech Solutions offers a holistic approach to
@@ -307,9 +313,8 @@
 						solutions ensure your website stands out, engages
 						visitors, and achieves your business goals.</p>
 				</div>
-			</div>
+		</div>
 		</section>
-		<!-- TECNOLOGY STACK END -->
 		<!-- LOGO WE CREATE OF YOU START -->
 
 		<section id="intro-section">
@@ -1491,7 +1496,7 @@
 					<section id="logo-contact-form" style="padding: 210px 0px;">
 						<div class="container">
 							<div class="row contact-inner">
-								<div class="col-6 col-12-medium">
+								<div class="col-6 col-12-medium"  data-aos="fade-down" data-aos-duration="2000">
 									<div class="logo-conactfomrinner">
 										<form class="innerpagescalltoaction" method="post" action="">
 
@@ -1514,7 +1519,7 @@
 									</div>
 								</div>
 
-								<div class="col-6 col-12-medium">
+								<div class="col-6 col-12-medium"  data-aos="fade-left" data-aos-duration="2000">
 									<div class="heading-text">
 										<h1>If You Like What You See
 											<br><b>Let’s Connect Than!</b>

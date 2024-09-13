@@ -81,26 +81,8 @@
 								</div>
 							</div>
 						</div>
-						<div class="col col-12-medium">
-							<div class="main-inner">
-								<div class="inner-card card-with">
-									<div class="industry-image">
-										<i class="bi bi-paragraph"></i>
-									</div>
-									<h3>Content Creation</h3>
-								</div>
-							</div>
-						</div>
-						<div class="col col-12-medium">
-							<div class="main-inner">
-								<div class="inner-card card-with">
-									<div class="industry-image">
-										<i class="bi bi-phone-fill"></i>
-									</div>
-									<h3>Mobile Applications</h3>
-								</div>
-							</div>
-						</div>
+						
+						
 					</div>
 				</div>
 			</div>
@@ -956,7 +938,7 @@
         <ul>
           <li>
             <div class="brand-button">
-              <h6><a href="contact.html">Get Started</a></h6>
+              <h6><a class="quote-button" href="javascript:;">Get Started</a></h6>
             </div>
           </li>
           <li>

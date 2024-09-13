@@ -97,7 +97,7 @@
 
 					<div class="col-6 col-12-medium">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/socialmedia/about.png" />
+							src="./images/socialmedia/social-media marketing-sec-2.png" />
 					</div>
 
 				</div>
@@ -269,7 +269,7 @@
 		<section id="why-choose-us">
 			<div class="container">
 				<div class="choose-text">
-					<p><b>Why Choose Us?</b></p>
+					<h2><b>Why </b> Choose Us?</h2>
 					<p>Our social media management agency is known for its
 						reliability and expertise in tailoring personalized,
 						adaptable, and affordable <br> solutions that cater to all your
@@ -379,8 +379,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon1.png">
-								<img class="img2" src="./images/websitedesigns/webicon11.png">
+								<img class="img1" src="./images/websitedesigns/webicon2.png">
+								<img class="img2" src="./images/websitedesigns/webicon22.png">
 							</div>
 							<h3>E Commerce Drop Shipping Campaign</h3>
 
@@ -474,7 +474,7 @@
 		<!-- LOGO CALL TO ACTIONS END -->
 
 		<!-- LOGO PORTFOLIO SECTION START -->
-		<section id="logoportfolio" style="padding: 80px 0px;">
+		<!-- <section id="logoportfolio" style="padding: 80px 0px;">
 			<div class="container">
 				<div class="row">
 					<div class="col-9 col-12-medium align-self-center">
@@ -493,7 +493,7 @@
 
 			<div class="row">
 				<!-- TABS GALLERY SECTION START -->
-				<ul class="nav nav-tabs d-none d-lg-flex" id="myTab" role="tablist">
+				<!-- <ul class="nav nav-tabs d-none d-lg-flex" id="myTab" role="tablist">
 					<li class="nav-item" role="presentation">
 						<button class="nav-link active" id="home-tab4" data-bs-toggle="tab" data-bs-target="#home-tab-pane4"
 							type="button" role="tab" aria-controls="home-tab-pane4" aria-selected="true">All</button>
@@ -518,7 +518,7 @@
 				</ul>
 
 				<!-- ALL GALLERY -->
-				<div class="tab-content accordion ghm" id="myTabContent">
+				<!-- <div class="tab-content accordion ghm" id="myTabContent">
 					<div class="tab-pane fade show active accordion-item" id="home-tab-pane4" role="tabpanel" aria-labelledby="home-tab4" tabindex="0">
 						<div id="collapseOne" class="accordion-collapse collapse show  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
@@ -556,7 +556,7 @@
 				<!-- ALL GALLERY END -->
 
 				<!-- Informative GALLERY -->
-				<div class="tab-content accordion ghm" id="myTabContent">
+				<!-- <div class="tab-content accordion ghm" id="myTabContent">
 					<div class="tab-pane fade accordion-item" id="profile-tab-pane4" role="tabpanel" aria-labelledby="profile-tab4" tabindex="0">
 						<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
@@ -590,11 +590,11 @@
 
 					</div>
 
-				</div>
+				</div> -->
 				<!-- informative GALLERY END -->
 
 				<!-- E-Commerce GALLERY -->
-				<div class="tab-content accordion ghm" id="myTabContent">
+				<!-- <div class="tab-content accordion ghm" id="myTabContent">
 					<div class="tab-pane fade accordion-item" id="profile-tab-pane5" role="tabpanel" aria-labelledby="profile-tab5" tabindex="0">
 						<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
@@ -628,11 +628,11 @@
 
 					</div>
 
-				</div>
+				</div> -->
 				<!-- E-Commerce GALLERY END -->
 
 				<!-- Web App GALLERY -->
-				<div class="tab-content accordion ghm" id="myTabContent">
+				<!-- <div class="tab-content accordion ghm" id="myTabContent">
 					<div class="tab-pane fade accordion-item" id="profile-tab-pane6" role="tabpanel" aria-labelledby="profile-tab6" tabindex="0">
 						<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
@@ -666,11 +666,11 @@
 
 					</div>
 
-				</div>
+				</div> -->
 				<!-- Web App GALLERY END -->
 
 				<!-- E-Store GALLERY -->
-				<div class="tab-content accordion ghm" id="myTabContent">
+				<!-- <div class="tab-content accordion ghm" id="myTabContent">
 					<div class="tab-pane fade accordion-item" id="profile-tab-pane7" role="tabpanel" aria-labelledby="profile-tab7" tabindex="0">
 						<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
@@ -704,13 +704,13 @@
 
 					</div>
 
-				</div>
+				</div> -->
 				<!-- E-Store GALLERY END -->
 
 
 
 
-				<div class="custom-portoflio-button" style="padding-top: 40px;">
+				<!-- <div class="custom-portoflio-button" style="padding-top: 40px;">
 					<ul>
 						<li>
 							<div class="brand-button">
@@ -727,7 +727,7 @@
 			</div>
 
 
-		</section>
+		</section>   -->
 
 
 		<!-- LOGO PORTFOLIO SECTION END -->
@@ -963,7 +963,7 @@
 		<section id="logo-contact-form" style="padding: 210px 0px;">
 			<div class="container">
 				<div class="row contact-inner">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium"  data-aos="fade-left" data-aos-duration="2000">
 						<div class="logo-conactfomrinner">
 							<form class="innerpagescalltoaction" method="post" action="">
 

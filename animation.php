@@ -24,7 +24,7 @@
                                 <ul>
                                     <li>
                                         <div class="brand-button">
-                                            <h6><a href="contact.html">Get Started</a></h6>
+                                            <h6><a class="quote-button" href="javascript:;">Get Started</a></h6>
                                         </div>
                                     </li>
                                     <li>
@@ -604,7 +604,7 @@
                                     <ul style="text-align: left;">
                                         <li>
                                             <div class="brand-button">
-                                                <h6><a href="contact.html">Get Started</a></h6>
+                                                <h6><a class="quote-button" href="javascript:;">Get Started</a></h6>
                                             </div>
                                         </li>
                                         <li>
@@ -853,7 +853,7 @@
                 <ul>
                     <li>
                         <div class="brand-button">
-                            <h6><a href="contact.html">Get Started</a></h6>
+                            <h6><a class="quote-button" href="javascript:;">Get Started</a></h6>
                         </div>
                     </li>
                     <li>

@@ -60,7 +60,7 @@ if (isset($_POST['submit'])) {
 
         <div class="col-2 col-12-medium">
           <div class="floating_btn">
-            <a target="_blank" href="https://wa.me/">
+            <a target="_blank" href="#">
               <div class="contact_icon">
                 <i class="fa fa-whatsapp my-float"></i>
               </div>
@@ -208,6 +208,9 @@ if (isset($_POST['submit'])) {
 <!-- Slick -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
 <script>
   $(function() {
     initSlider();
@@ -379,5 +382,42 @@ if (isset($_POST['submit'])) {
   });
 </script>
 <script>
-  AOS.init();
+  // Function to animate counters
+function animateCounters() {
+  const counters = document.querySelectorAll('.counter');
+  
+  counters.forEach(counter => {
+    const target = +counter.getAttribute('data-target');
+    const speed = 200; // Adjust speed if necessary
+    
+    const updateCounter = () => {
+      const current = +counter.innerText;
+      const increment = target / speed;
+      
+      if (current < target) {
+        counter.innerText = Math.ceil(current + increment);
+        setTimeout(updateCounter, 10);
+      } else {
+        counter.innerText = target;
+      }
+    };
+    
+    updateCounter();
+  });
+}
+
+// Run counter when it comes into view
+function checkVisibility() {
+  const countersSection = document.querySelector('.mile-function-code');
+  const sectionPosition = countersSection.getBoundingClientRect().top;
+  const screenPosition = window.innerHeight / 1.3;
+
+  if (sectionPosition < screenPosition) {
+    animateCounters();
+    window.removeEventListener('scroll', checkVisibility);
+  }
+}
+
+window.addEventListener('scroll', checkVisibility);
+
 </script>

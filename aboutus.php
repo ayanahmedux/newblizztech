@@ -47,7 +47,7 @@
 		<section id="about-us-main-section" style="padding: 100px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center " data-aos="fade-right" data-aos-duration="1000">
 						<div class="heading-text">
 							<h3>Transforming Visions into Reality:</h3>
 							<h1> <b>Blizztech </b>Solutions</h1>
@@ -74,7 +74,7 @@
 							</ul>
 						</div>
 					</div>
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
 						<img src="./images/aboutimage.png" style="width: 100%;" />
 					</div>
 				</div>
@@ -111,37 +111,37 @@
 						<div class="row">
 							<div class="col-md-3 col-12-medium">
 								<div class="mileswithtext">
-									<h1><span class="counter">200</span>+</h1>
+									<h1><span class="counter" data-target="200">0</span>+</h1>
 									<h3>Satisfied Clients</h3>
 								</div>
 							</div>
 							<div class="col-md-3 col-12-medium">
 								<div class="mileswithtext">
-									<h1><span class="counter">250</span>+</h1>
+									<h1><span class="counter" data-target="250">0</span>+</h1>
 									<h3>Projects Completed</h3>
 								</div>
 							</div>
 							<div class="col-md-3 col-12-medium">
 								<div class="mileswithtext">
-									<h1><span class="counter">5</span>+</h1>
+									<h1><span class="counter" data-target="5">0</span>+</h1>
 									<h3>Years of Experience</h3>
 								</div>
 							</div>
 							<div class="col-md-3 col-12-medium">
 								<div class="mileswithtext">
-									<h1><span class="counter">20</span>%</h1>
-									<h3>  Faster Product
-									Delivery</h3>
+									<h1><span class="counter" data-target="20">0</span>%</h1>
+									<h3>Faster Product Delivery</h3>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
+
 				<!-- MILESTONE FUNCTION END -->
 				<!-- OUR MISSION AND OUR VISION START -->
 				<div class="mision-vision">
 					<div class="row">
-						<div class="col-md-6 col-12-medium">
+						<div class="col-md-6 col-12-medium" data-aos-duration="2000" data-aos="fade-right">
 							<div class="mis-vis">
 								<h2><i class="bi bi-bullseye"></i> Our <b>Mission</b></h2>
 								<p>is to celebrate the potential of each project that we do, craft extraordinary
@@ -150,7 +150,7 @@
 									marketing solutions that elevate businesses to a new high.</p>
 							</div>
 						</div>
-						<div class="col-md-6 col-12-medium">
+						<div class="col-md-6 col-12-medium" data-aos-duration="2000" data-aos="fade-left">
 							<div class="mis-vis">
 								<h2><i class="bi bi-lightbulb-fill"></i> Our <b>Vision</b></h2>
 								<p>is to be the leading force in the creative industry, driving innovation and
@@ -194,102 +194,102 @@
 			</div>
 	</div>
 	</section> -->
-	<!-- WHAT CAN WE SECTION END -->
+		<!-- WHAT CAN WE SECTION END -->
 
-	<!-- TESTIMONIAL SECTION START -->
-	<?php include_once("testimonial-global.php") ?>
+		<!-- TESTIMONIAL SECTION START -->
+		<?php include_once("testimonial-global.php") ?>
 
-	<!-- TESTIMONIAL SECTION END -->
-<!-- concept section -->
-<section class="concept-section">
-	<div class="concept-heading">
-		<h1 class="text-center">Our Core Values at <b>Blizztech</b></h1>
-	</div>
-    <div class="concept-container">
-        <div class="concept-item concept-c">
-            <h2>C</h2>
-            <div class="concept-content">
-                <h3>Creativity</h3>
-                <p>Creativity fuels our ability to craft groundbreaking solutions, infusing originality into every project and transforming ideas into exceptional outcomes.</p>
-            </div>
-        </div>
-        <div class="concept-item concept-o">
-            <h2>O</h2>
-            <div class="concept-content">
-                <h3>Ownership</h3>
-                <p>All of our team members take full responsibility for the completion of assigned tasks while adding value at each step of our standard procedures.</p>
-            </div>
-        </div>
-        <div class="concept-item concept-n">
-            <h2>N</h2>
-            <div class="concept-content">
-                <h3>Novelty</h3>
-                <p>Our adept professionals brainstorm unique solutions after carrying out extensive industry research. That’s why we call it an innovative and creative studio!</p>
-            </div>
-        </div>
-        <div class="concept-item concept-c">
-            <h2>C</h2>
-            <div class="concept-content">
-                <h3>Cooperation</h3>
-                <p>We know the significance of a positive working environment. So, we provide a cooperative working environment for clients as well as our team members.</p>
-            </div>
-        </div>
-        <div class="concept-item concept-e">
-            <h2>E</h2>
-            <div class="concept-content">
-                <h3>Excellence</h3>
-                <p>Whether it’s our clients or our employees, we strive for brilliance by adding the X factor to the portfolio of all the stakeholders.</p>
-            </div>
-        </div>
-        <div class="concept-item concept-p">
-            <h2>P</h2>
-            <div class="concept-content">
-                <h3>Personalization</h3>
-                <p>The satisfaction of our clients is our foremost priority. Our team is here to tailor our solutions to align with clients’ requirements.</p>
-            </div>
-        </div>
-        <div class="concept-item concept-t">
-            <h2>T</h2>
-            <div class="concept-content">
-                <h3>Trust</h3>
-                <p>Our top priority is to establish trustworthy relationships with our stakeholders, and we never fail to uphold this standard.</p>
-            </div>
-        </div>
-    </div>
-</section>
+		<!-- TESTIMONIAL SECTION END -->
+		<!-- concept section -->
+		<section class="concept-section">
+			<div class="concept-heading">
+				<h1 class="text-center">Our Core Values at <b>Blizztech</b></h1>
+			</div>
+			<div class="concept-container">
+				<div class="concept-item concept-c">
+					<h2>C</h2>
+					<div class="concept-content">
+						<h3>Creativity</h3>
+						<p>Creativity fuels our ability to craft groundbreaking solutions, infusing originality into every project and transforming ideas into exceptional outcomes.</p>
+					</div>
+				</div>
+				<div class="concept-item concept-o">
+					<h2>O</h2>
+					<div class="concept-content">
+						<h3>Ownership</h3>
+						<p>All of our team members take full responsibility for the completion of assigned tasks while adding value at each step of our standard procedures.</p>
+					</div>
+				</div>
+				<div class="concept-item concept-n">
+					<h2>N</h2>
+					<div class="concept-content">
+						<h3>Novelty</h3>
+						<p>Our adept professionals brainstorm unique solutions after carrying out extensive industry research. That’s why we call it an innovative and creative studio!</p>
+					</div>
+				</div>
+				<div class="concept-item concept-c">
+					<h2>C</h2>
+					<div class="concept-content">
+						<h3>Cooperation</h3>
+						<p>We know the significance of a positive working environment. So, we provide a cooperative working environment for clients as well as our team members.</p>
+					</div>
+				</div>
+				<div class="concept-item concept-e">
+					<h2>E</h2>
+					<div class="concept-content">
+						<h3>Excellence</h3>
+						<p>Whether it’s our clients or our employees, we strive for brilliance by adding the X factor to the portfolio of all the stakeholders.</p>
+					</div>
+				</div>
+				<div class="concept-item concept-p">
+					<h2>P</h2>
+					<div class="concept-content">
+						<h3>Personalization</h3>
+						<p>The satisfaction of our clients is our foremost priority. Our team is here to tailor our solutions to align with clients’ requirements.</p>
+					</div>
+				</div>
+				<div class="concept-item concept-t">
+					<h2>T</h2>
+					<div class="concept-content">
+						<h3>Trust</h3>
+						<p>Our top priority is to establish trustworthy relationships with our stakeholders, and we never fail to uphold this standard.</p>
+					</div>
+				</div>
+			</div>
+		</section>
 
 
-<!-- concept section -->
-	<!-- CALL TO ACTION ABOUT US PAGE START -->
+		<!-- concept section -->
+		<!-- CALL TO ACTION ABOUT US PAGE START -->
 
-	<section id="call-toaction-section" style="padding-bottom: 50px;">
-		<div class="container">
-			<div class="my-connect-inner">
-				<div class="row">
-				
+		<section id="call-toaction-section" style="padding-bottom: 50px;">
+			<div class="container">
+				<div class="my-connect-inner">
+					<div class="row">
 
-					<div class="my-custom col-md-12 col-12-medium text-center">
-						<button class="work-with-us">Work with us</button>
-						<h1 style="color: white;">We would be happy to help you grow your business
-						Get a quote!</h1>
-						<div class="about-banner-buttons" style="padding-top: 30px;">
-							<ul>
-								<li>
-									<div class="brand-button">
-										<a href="javascript:;" class="quote-button">Get a Quote</a>
-									</div>
-								</li>
-								
-							</ul>
+
+						<div class="my-custom col-md-12 col-12-medium text-center">
+							<button class="work-with-us">Work with us</button>
+							<h1 style="color: white;">We would be happy to help you grow your business
+								Get a quote!</h1>
+							<div class="about-banner-buttons" style="padding-top: 30px;">
+								<ul>
+									<li>
+										<div class="brand-button">
+											<a href="javascript:;" class="quote-button">Get a Quote</a>
+										</div>
+									</li>
+
+								</ul>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-	</section>
-	<!-- CALL TO ACTION ABOUT US PAGE END-->
+		</section>
+		<!-- CALL TO ACTION ABOUT US PAGE END-->
 
-<!-- 
+		<!-- 
 	<section id="faqs" style="padding-bottom: 60px;">
 		<div class="heading-text" style="text-align: center;">
 			<h3>FAQ'S </h3>
@@ -434,7 +434,7 @@
 	</section> -->
 
 
-	<!-- FOOTER START -->
+		<!-- FOOTER START -->
 
 
 

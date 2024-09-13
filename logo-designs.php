@@ -11,7 +11,7 @@
 			<div class="service-logosection" style="padding-top: 50px; padding-left: 50px; padding-right: 50px;">
 				<div class="container">
 					<div class="row" style="margin: auto !important;">
-						<div class="col-6 col-12-medium align-self-center">
+						<div class="col-6 col-12-medium align-self-center" >
 							<div class="first-inner-section-text">
 								<h1><img class="greenline" src="./images/greenlinetext.png" />Our Exceptional <b>Logo Designing Services</b></h1>
 								<p>Blizztech Solutions specializes in designing impactful and memorable logos that reflect your brand’s identity and values. Our custom logo designs are crafted to establish a strong visual presence and make a lasting impression on your audience.</p>
@@ -65,14 +65,14 @@
 			<div class="container">
 				<div class="row">
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="2000" >
 						<div class="logoabout-text">
 							<h1>Elevate Your Brand with Creative <b>Logos</b></h1>
 							<p>At Blizztech Solutions, we understand that your logo is the cornerstone of your brand identity. That’s why our logo design services are meticulously tailored to help your brand shine in a crowded digital landscape. From concept to creation, our expert team works closely with you to understand your vision, values, and target audience. We then leverage our creativity and expertise to craft unique and versatile logos that capture the essence of your brand. With a keen eye for detail and a commitment to excellence, we ensure that every aspect of your logo reflects your brand’s personality and resonates with your audience.</p>
 						</div>
 					</div>
 
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="2000" >
 						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-about.png" />
 					</div>
 				</div>
@@ -81,12 +81,12 @@
 		<section id="logo-about-us" style="padding: 100px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="2000" >
 						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-about.png" />
 					</div>
 
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="2000" >
 						<div class="logoabout-text">
 							<h1>Our <b>Logo Designs</b> - The Testaments of Digital Legacies</h1>
 							<p>We don’t just design logos. We create visual stories that capture the essence of each brand we work with. Our team has crafted logos that reflect their vision, values, and goals. Explore the logos we’ve designed and see how they showcase innovation, foster connections, and stand the test of time. </p>
@@ -100,13 +100,13 @@
 		<section id="logo-about-us" style="padding: 100px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="2000" >
 						<div class="logoabout-text">
 							<h1>Custom <b>Creations</b> that Resonate with Your Audience</h1>
 							<p>Logos must resonate with your target audience. Our custom designs don’t just look good — they align with your brand’s message, helping you stand out in a crowded market. We ensure every design has meaning and relevance to your business. </p>
 						</div>
 					</div>
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="2000" >
 						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-about.png" />
 					</div>
 				</div>
@@ -117,10 +117,10 @@
 		<section id="logo-about-us" style="padding: 100px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="2000" >
 						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-about.png" />
 					</div>
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="2000" >
 						<div class="logoabout-text">
 							<h1>Why Choose Blizztech Solutions for <b>Logo Designing</b>?</h1>
 							<p>Blizztech Solutions combines creativity with strategic insight to deliver logos that are not only visually appealing but also strategically aligned with your brand. Our focus on uniqueness and versatility ensures that your logo makes a strong impact.</p>
@@ -134,7 +134,7 @@
 		<!-- LOGO ABOUT US END -->
 		<!-- LOGO WE CREATE OF YOU START -->
 
-		<section id="intro-section">
+		<section id="intro-section-logo-design">
 			<div class="containerr">
 				<div class="row">
 					<div class="row-text">
@@ -835,11 +835,11 @@
 		<section id="logoprocess-inner">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="2000" >
 						<img width="100%" src="./images/Logodesign/process1.png" />
 					</div>
 
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="2000" >
 						<div class="processinner-text">
 							<h2>We Require a Brief of Your<b> Idea</b></h2>
 							<p>The idea behind the &#39;brief&#39; is only to understand &#39;What you want.&#39; We analyze your
@@ -908,7 +908,7 @@
 				<div class="row" style="padding-top: 50px; margin: auto;">
 
 
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="2000" >
 						<div class="processinner-text">
 							<h2>Receive, Review, <b> Revise:</b></h2>
 							<p>Once we submit the initial design, you can review it and provide feedback. Our team
@@ -968,18 +968,18 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="2000" >
 						<img width="100%" src="./images/Logodesign/manchatting.png" />
 					</div>
 				</div>
 				<hr>
 				<!-- THIRD ROW START -->
 				<div class="row" style="padding-top: 50px; margin: auto;">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="2000" >
 						<img width="100%" src="./images/Logodesign/colleges.png" />
 					</div>
 
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="2000" >
 						<div class="processinner-text">
 							<h2>Delivering Your Vision: Presenting Your<b>Logo Design</b></h2>
 							<p>Finally, witness your brand vision come to life with the revised version of the logo
@@ -1037,7 +1037,7 @@
 		<section id="logo-contact-form" style="padding: 210px 0px;">
 			<div class="container">
 				<div class="row contact-inner">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-down" data-aos-duration="2000">
 						<div class="logo-conactfomrinner">
 							<form class="innerpagescalltoaction" method="post" action="">
 
@@ -1060,7 +1060,7 @@
 						</div>
 					</div>
 
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium"  data-aos="fade-left" data-aos-duration="2000">
 						<div class="heading-text">
 							<h1>If Our Work Resonates with You- <b>Let’s Connect!</b></h1>
 							<p style="color: #fff;">Let’s forge a creative partnership to explore boundless design and marketing solutions.
