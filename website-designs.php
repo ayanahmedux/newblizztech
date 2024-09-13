@@ -687,535 +687,871 @@
 
 		<!-- PRICE PLAN LOGO -->
 
-		<section id="price-plans-section" style="padding-top: 60px; padding-bottom: 60px;">
+		<section id="price-plans-section-1" style="padding-top: 60px; padding-bottom: 60px;">
 			<div class="container">
-				<div class="row" style="margin: auto !important;">
+				<div class="row" style="margin: auto;">
 					<div class="heading-text" style="text-align: center;">
-						<h3>WEBSITE DESIGN </h3>
-						<h1><b>Pricing</b> And Plans</h1>
-						<p style="color: #fff; padding-bottom: 40px;">Solutions to fit every budget and need - our flexible pricing and plans make it easy for you <br>
-							to choose the perfect solution for your brand!</p>
+						<h3>Pricing </h3>
+						<h1>Best <b>Plan </b>For Your Need</h1>
+						<p style="color: #fff; padding-bottom: 40px;">We are proud to offer a wide range of comprehensive packages for our services </p>
 					</div>
 
+					<!-- TABS PRICE START -->
+					<ul class="nav nav-tabs d-none d-lg-flex" id="myTab" role="tablist">
+						<li class="nav-item" role="presentation">
+							<button class="nav-link active" id="home-tab09" data-bs-toggle="tab" data-bs-target="#home-tab-pane09"
+								type="button" role="tab" aria-controls="home-tab-pane09" aria-selected="true"> Informative Website</button>
+						</li>
+						<li class="nav-item" role="presentation">
+							<button class="nav-link" id="profile-tab08" data-bs-toggle="tab" data-bs-target="#profile-tab-pane08"
+								type="button" role="tab" aria-controls="profile-tab-pane08" aria-selected="false"> E-commerce Website</button>
+						</li>
+					</ul>
+					<!-- WEBSITE PRICE PLAN SECTION -->
+					<div class="tab-content accordion ghm" id="myTabContent">
+						<div class="tab-pane fade show active accordion-item" id="home-tab-pane09" role="tabpanel" aria-labelledby="home-tab09" tabindex="0">
+							<div id="collapseOne" class="accordion-collapse collapse show  d-lg-block" aria-labelledby="headingOne"
+								data-bs-parent="#myTabContent">
+								<div class="container">
+									<div class="row" style="margin: auto !important;">
+										<div class="col-4 col-12-medium">
+											<div class="price-inner-plan">
+												<div class="price-heading-text">
+													<h2>Core Plan</h2>
+													<h4>$199.00</h4>
+												</div>
+												<div class="price-list">
+													<ul>
+														<li>3 Page Website</li>
+														<li>2 Stock Images</li>
+														<li>Contact/Query Form</li>
+														<li>Complete Deployment</li>
+														<li>Dedicated Account Manager</li>
+														<li>48 to 72 hours TAT</li>
+														<li>100% Satisfaction Guarantee</li>
+														<li>100% Unique Design Guarantee</li>
+													</ul>
+
+												</div>
+
+											</div>
+
+										</div>
+
+										<div class="col-4 col-12-medium">
+											<div class="price-inner-plan">
+												<div class="price-heading-text">
+													<h2>Group Plan</h2>
+													<h4>$499.00</h4>
+												</div>
+												<div class="price-list">
+
+													<ul>
+														<li>5-6 Unique Pages Website</li>
+														<li>5 Stock Photos</li>
+														<li>1 Banner Design</li>
+														<li>1 jQuery Slider Banner</li>
+														<li>Google Friendly Sitemap</li>
+														<li>Complete Deployment</li>
+														<li>W3C Certified HTML</li>
+														<li>Cross Browser Compatible</li>
+														<li>1 Banner Design</li>
+														<li>1 jQuery Slider Banner</li>
+														<li>Google Friendly Sitemap</li>
+														<li>Dedicated Account Manager</li>
+														<li>48 to 72 hours TAT</li>
+														<li>100% Satisfaction Guarantee</li>
+														<li>100% Unique Design Guarantee</li>
+													</ul>
+												</div>
+
+											</div>
+
+										</div>
+
+
+										<div class="col-4 col-12-medium">
+											<div class="price-inner-plan">
+												<div class="price-heading-text">
+													<h2>Executive Plan</h2>
+													<h4>$799.00</h4>
+												</div>
+												<div class="price-list">
+
+													<ul>
+														<li> 10 Unique Pages Website</li>
+
+														<li>CMS Integration</li>
+
+														<li>Custom WordPress Backend</li>
+
+														<li>8 Stock images</li>
+
+														<li>3 Slider Banner Design</li>
+
+														<li>1 jQuery Slider Banner</li>
+
+														<li>FREE Google Friendly Sitemap</li>
+
+														<li>Complete Deployment</li>
+
+														<li>W3C Certified HTML</li>
+
+														<li>Mobile Responsive</li>
+
+														<li>Cross Browser Compatible</li>
+
+														<li>Dedicated Account Manager</li>
+
+														<li>48 to 72 hours TAT</li>
+
+														<li>100% Satisfaction Guaranteed</li>
+
+														<li>100% Unique Design Guaranteed</li>
+													</ul>
+												</div>
+
+											</div>
+
+										</div>
+
+
+
+									</div>
+									<div class="row mt-5">
+										<div class="col-4 col-12-medium">
+											<div class="price-inner-plan">
+												<div class="price-heading-text">
+													<h2>Prestige Plan</h2>
+													<h4>$999</h4>
+												</div>
+												<div class="price-list">
+
+													<ul>
+														<li>Upto 16 Unique Pages Website</li>
+														<li>Conceptual and Dynamic Website</li>
+														<li>Online Reservation/Appointment Tool</li>
+														<li>Custom Forms</li>
+														<li>Lead Capturing Forms</li>
+														<li>Striking Hover Effects</li>
+														<li>Newsletter Subscription</li>
+														<li>News Feed Integration</li>
+														<li>Social Media Integration</li>
+														<li>8 Stock Photos</li>
+														<li>3 Unique Banner Design</li>
+														<li>1 jQuery Slider Banner</li>
+														<li>Complete W3C Certified HTML</li>
+														<li>48 to 72 hours TAT (Design Mockup)</li>
+														<li>Complete Deployment</li>
+
+													</ul>
+												</div>
+
+											</div>
+
+										</div>
+
+										<div class="col-4 col-12-medium">
+											<div class="price-inner-plan">
+												<div class="price-heading-text">
+													<h2> Enterprise Plus Plan</h2>
+													<h4>$1499</h4>
+												</div>
+												<div class="price-list">
+
+													<ul>
+														<li>Unlimited Pages Website</li>
+														<li>Custom Made, Interactive, Dynamic & High End Design</li>
+														<li>Custom WP (or) Custom PHP Development</li>
+														<li>1 jQuery Slider Banner</li>
+														<li>Up to 8 Custom Made Banner Designs</li>
+														<li>12 Stock Images</li>
+														<li>Unlimited Revisions</li>
+														<li>Special Hover Effects</li>
+														<li>Content Management System (CMS) or Custom Dashboard PHP</li>
+														<li>Online Appointment/Scheduling/Online Ordering Integration</li>
+														<li>Mobile Responsive (All Devices Compatible)</li>
+														<li>Multi Lingual</li>
+														<li>Custom Dynamic Forms</li>
+														<li>Signup Area (For Newsletters, Offers etc.)</li>
+														<li>Easy Search Bar</li>
+														<li>Live Feeds of Social Networks integration</li>
+														<li>Free Google Friendly Sitemap</li>
+														<li>Search Engine Submission</li>
+														<li>Complete W3C Certified HTML</li>
+														<li>48 to 72 hours TAT (Design Mockup)</li>
+														<li>Complete Deployment</li>
+													</ul>
+												</div>
+
+											</div>
+
+										</div>
+
+
+										<div class="col-4 col-12-medium">
+											<div class="price-inner-plan">
+												<div class="price-heading-text">
+													<h2>Top-tier Plan</h2>
+													<h4>$2299</h4>
+												</div>
+												<div class="price-list">
+
+													<ul>
+														<li>Unlimited Pages Website </li>
+														<li>Custom Made, Interactive, Dynamic & High End Design</li>
+														<li>Custom WP (or) Custom PHP Development</li>
+														<li>1 jQuery Slider Banner</li>
+														<li>Up to 12 Custom Made Banner Designs</li>
+														<li>14 Stock Images</li>
+														<li>Unlimited Revisions</li>
+														<li>Special Hover Effects</li>
+														<li>Content Management System (CMS) or Custom Dashboard PHP</li>
+														<li>Online Appointment/Scheduling/Online Ordering Integration</li>
+														<li>Online Payment Integration</li>
+														<li>Multi Lingual</li>
+														<li>Custom Dynamic Forms</li>
+														<li>Signup Area (For Newsletters, Offers etc.)</li>
+														<li>Easy Search Bar</li>
+														<li>Live Feeds of Social Networks integration</li>
+														<li>Mobile Responsive (All Devices Compatible)</li>
+														<li>FREE 5 Years Domain Name</li>
+														<li>Free Google Friendly Sitemap</li>
+														<li>15 Seconds 2D Explainer Video</li>
+														<li>Professional Script Writing</li>
+														<li>SEO Meta Tags</li>
+														<li>Search Engine Submission</li>
+														<li>Complete W3C Certified HTML</li>
+														<li>48 to 72 hours TAT (Design Mockup)</li>
+														<li>Complete Deployment</li>
+													</ul>
+												</div>
+
+											</div>
+
+										</div>
+
+										<div class="custom-price-button" style="padding-top: 70px;">
+											<ul>
+												<li>
+													<div class="brand-button">
+														<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+													</div>
+												</li>
+												<li>
+													<div class="brand-button">
+														<h6><a href="#">View More</a></h6>
+													</div>
+												</li>
+											</ul>
+										</div>
+
+									</div>
+								</div>
+							</div>
+
+						</div>
+
+					</div>
+					<!-- WEBSITE PRICE SECTION END -->
 
 					<!-- LOGOS PRICE PLAN Start -->
-					<div class="container">
-						<div class="row" style="margin: auto !important;">
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<div class="price-heading-text">
-										<h2>Informative</h2>
-										<h4>$600</h4>
+					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane08" role="tabpanel" aria-labelledby="profile-tab08" tabindex="0">
+						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
+							<div class="container">
+								<div class="row">
+									<div class="col-4 col-12-medium">
+										<div class="price-inner-plan">
+											<div class="price-heading-text">
+												<h2>Entry Plan</h2>
+												<h4>$599</h4>
+											</div>
+											<div class="price-list">
+
+												<ul>
+													<li>Content Management System (CMS)</li>
+													<li>Easy Product Search</li>
+													<li>Product Reviews</li>
+													<li>Up To 100 Products</li>
+													<li>Up To 7 Categories</li>
+													<li>Mini Shop Cart Integration</li>
+													<li>Payment Module Integration</li>
+													<li>JQuery Slider</li>
+													<li>Google Friendly Sitemap</li>
+													<li>Complete W3C Certified HTML</li>
+													<li>Industry Specified Team of Expert Designers & Developers</li>
+													<li>Dedicated Accounts Manager</li>
+													<li>Complete W3C Certified HTML</li>
+													<li>48 to 72 hours TAT (Design Mockup)</li>
+													<li>Complete Deployment</li>
+													<li>*Mobile Responsive $149</li>
+
+												</ul>
+											</div>
+
+										</div>
+
 									</div>
-									<div class="price-list">
+
+									<div class="col-4 col-12-medium">
+										<div class="price-inner-plan">
+											<div class="price-heading-text">
+												<h2>Mid-tier Plan</h2>
+												<h4>$799</h4>
+											</div>
+											<div class="price-list">
+
+												<ul>
+													<li>Conceptual and Dynamic Website</li>
+													<li>Content Management System (CMS)</li>
+													<li>Mobile Responsive Design</li>
+													<li>24 - 48 Hours Turnaround Time</li>
+													<li>WooCommerce or Shopify Based Backend</li>
+													<li>Easy Product Search</li>
+													<li>Up-to 250 Products</li>
+													<li>Up-to 30 Categories</li>
+													<li>Full Shopping Cart Integration</li>
+													<li>Payment Module Integration</li>
+													<li>JQuery Slider</li>
+													<li>Google Friendly Sitemap</li>
+													<li>Complete W3C Certified HTML</li>
+													<li>Industry Specified Team of Expert Designers and Developers</li>
+													<li>Dedicated Accounts Manager</li>
+													<li>48 to 72 hours TAT (Design Mockup)</li>
+													<li>Complete Deployment</li>
+												</ul>
+											</div>
+
+										</div>
+
+									</div>
+
+
+									<div class="col-4 col-12-medium">
+										<div class="price-inner-plan">
+											<div class="price-heading-text">
+												<h2>Pro Plan</h2>
+												<h4>$1299</h4>
+											</div>
+											<div class="price-list">
+
+												<ul>
+													<li>Custom Dynamic Design & Development</li>
+													<li>500 Products & Custom Category Sections</li>
+													<li>Unlimited Banner Designs</li>
+													<li>Interactive Sliding Banners</li>
+													<li>Special Hover Effects</li>
+													<li>Customized Contact Us Form</li>
+													<li>Multiple Filtration Options (Search by Age, Experience, Talent, Industry, etc.)</li>
+													<li>Profile Comparison (As per Category)</li>
+													<li>File Converter</li>
+													<li>Custom Video Functionality</li>
+													<li>Multiple File Format Uploading</li>
+													<li>User Signup & Login Area</li>
+													<li>User Dashboard Area</li>
+													<li>Custom Coding and Development</li>
+													<li>Content Management System (Custom)</li>
+													<li>Online Appointment/Scheduling Integration</li>
+													<li>Online Payment Integration (Stripe, PayPal, Apple Pay, Google Pay)</li>
+													<li>Custom Dynamic Forms</li>
+													<li>Complete Database Creation</li>
+													<li>Social Media Integration (Instagram, Facebook, etc.)</li>
+													<li>Signup Automated Email Authentication</li>
+													<li>Signup Area (For Newsletters, Offers, etc.)</li>
+													<li>Search Bar for Easy Search</li>
+													<li>Search Engine Submission</li>
+													<li>SEO Friendly</li>
+													<li>Mobile Responsive (All Screens)</li>
+													<li>Custom Admin Panel</li>
+													<li>Award-Winning Team of Expert Designers and Developers</li>
+													<li>Complete W3C Certified HTML</li>
+													<li>48 to 72 hours TAT (Design Mockup)</li>
+													<li>Complete Deployment</li>
+												</ul>
+											</div>
+
+										</div>
+
+									</div>
+									<div class="col-4 col-12-medium mt-5">
+										<div class="price-inner-plan">
+											<div class="price-heading-text">
+												<h2> Executive Plan</h2>
+												<h4>$4499</h4>
+											</div>
+											<div class="price-list">
+
+												<ul>
+													<li>Complete Custom Design & Development of Portal Based Platform</li>
+													<li>Unique, User Friendly, Interactive, Dynamic, High End UI Design</li>
+													<li>Unlimited Banner Designs</li>
+													<li>Interactive Sliding Banners</li>
+													<li>Special Hover Effects</li>
+													<li>Customized Contact Us Form</li>
+													<li>Multiple Filtration Option (Search by Age, Experience, Talent, Industry etc)</li>
+													<li>Profile Comparison (As per Category)</li>
+													<li>File Converter</li>
+													<li>Custom Video Functionality</li>
+													<li>Multiple File Format Uploading</li>
+													<li>User Signup Area (Talent)</li>
+													<li>User Signup Area (Casting)</li>
+													<li>User Signup Area (Agency)</li>
+													<li>Client/User Dashboard Area</li>
+													<li>Vendor / Agency Dashboard Area</li>
+													<li>Custom Coding and Development</li>
+													<li>Content Management System (Custom)</li>
+													<li>Online Appointment/Scheduling Integration (Optional)</li>
+													<li>Online Payment Integration</li>
+													<li>Invoicing System</li>
+													<li>Custom Dynamic Forms</li>
+													<li>Complete Database Creation</li>
+													<li>3rd Party Links Integration (Instagram, IMDB, etc.)</li>
+													<li>Signup Automated Email Authentication</li>
+													<li>Signup Area (For Newsletters, Offers, etc.)</li>
+													<li>Search Bar for Easy Search</li>
+													<li>SEO Friendly</li>
+													<li>Mobile Responsive</li>
+													<li>Master Admin Panel</li>
+													<li>Award-Winning Team of Expert Designers and Developers</li>
+													<li>Complete Deployment</li>
+													<li>Complete W3C Validation</li>
+												</ul>
+
+
+											</div>
+
+										</div>
+
+									</div>
+
+									<div class="custom-price-button" style="padding-top: 70px;">
 										<ul>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-											<li>Sliding Banner </li>
-											<li>5 Stock Images </li>
-											<li>100% Money Back Gurantee</li>
-											<li>100% Owner Rights</li>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
+											<li>
+												<div class="brand-button">
+													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+												</div>
+											</li>
+											<li>
+												<div class="brand-button">
+													<h6><a href="#">View More</a></h6>
+												</div>
+											</li>
 										</ul>
 									</div>
 
 								</div>
 
 							</div>
-
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<div class="price-heading-text">
-										<h2>E-Commerce</h2>
-										<h4>$900</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-											<li>Sliding Banner </li>
-											<li>5 Stock Images </li>
-											<li>100% Money Back Gurantee</li>
-											<li>100% Owner Rights</li>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-										</ul>
-									</div>
-
-								</div>
-
-							</div>
-
-
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<div class="price-heading-text">
-										<h2>Web Application</h2>
-										<h4>$1200</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-											<li>Sliding Banner </li>
-											<li>5 Stock Images </li>
-											<li>100% Money Back Gurantee</li>
-											<li>100% Owner Rights</li>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-										</ul>
-									</div>
-
-								</div>
-
-							</div>
-
-
-						</div>
-
-						<!-- second row -->
-
-						<div class="custom-price-button" style="padding-top: 70px;">
-							<ul>
-								<li>
-									<div class="brand-button">
-										<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-									</div>
-								</li>
-								<li>
-									<div class="brand-button">
-										<h6><a href="#">View More</a></h6>
-									</div>
-								</li>
-							</ul>
 						</div>
 					</div>
-
 					<!-- LOGOS PRICE PLAN END -->
+					<!-- PRICE PLAN LOGO END -->
 
-				</div>
-			</div>
-		</section>
-		<!-- PRICE PLAN LOGO END -->
+					<!-- HOW ITS PROCESS START -->
 
-		<!-- HOW ITS PROCESS START -->
-
-		<section id="logo-process-sec" style="padding: 80px 0px;">
-			<div class="container">
-				<div class="row">
-					<div class="heading-text" style="text-align: center;">
-						<h1>How This <b> Process </b>Work</h1>
-						<p style="color: #fff;">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-							Lorem Ipsum has been the industry's standard <br>dummy text ever since the 1500s, when an unkmore recently</p>
-					</div>
-				</div>
-			</div>
-			<div class="logo-steps">
-				<div class="container">
-					<div class="row">
-						<div class="col-3 col-12-medium">
-							<h2>1<span>Briefing</span></h2>
+					<section id="logo-process-sec" style="padding: 80px 0px;">
+						<div class="container">
+							<div class="row">
+								<div class="heading-text" style="text-align: center;">
+									<h1>How This <b> Process </b>Work</h1>
+									<p style="color: #fff;">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+										Lorem Ipsum has been the industry's standard <br>dummy text ever since the 1500s, when an unkmore recently</p>
+								</div>
+							</div>
 						</div>
-						<div class="col-3 col-12-medium">
-							<h2>2<span>
-									Design UI Phase</span></h2>
+						<div class="logo-steps">
+							<div class="container">
+								<div class="row">
+									<div class="col-3 col-12-medium">
+										<h2>1<span>Briefing</span></h2>
+									</div>
+									<div class="col-3 col-12-medium">
+										<h2>2<span>
+												Design UI Phase</span></h2>
+									</div>
+									<div class="col-3 col-12-medium">
+										<h2>3<span>
+												Development </span></h2>
+									</div>
+									<div class="col-3 col-12-medium">
+										<h2>4<span>
+												Project Live </span></h2>
+									</div>
+								</div>
+							</div>
 						</div>
-						<div class="col-3 col-12-medium">
-							<h2>3<span>
-									Development </span></h2>
-						</div>
-						<div class="col-3 col-12-medium">
-							<h2>4<span>
-									Project Live </span></h2>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+					</section>
 
-		<!-- HOW ITS PROCESS END -->
+					<!-- HOW ITS PROCESS END -->
 
-		<!-- HOW ITS PROCESS INNER START -->
+					<!-- HOW ITS PROCESS INNER START -->
 
-		<section id="logoprocess-inner">
-			<div class="container">
-				<div class="row">
-					<div class="col-6 col-12-medium">
-						<img width="100%" src="./images/websitedesigns/yourwork.png" />
-					</div>
+					<section id="logoprocess-inner">
+						<div class="container">
+							<div class="row">
+								<div class="col-6 col-12-medium">
+									<img width="100%" src="./images/websitedesigns/yourwork.png" />
+								</div>
 
-					<div class="col-6 col-12-medium">
-						<div class="processinner-text">
-							<h2>We Required A Business <br>Information of <b>Your Work.</b></h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-								Lorem Ipsum has been the industry's standaxt ever since the 1500s, when an
-								unknown printer took a galleyd scrambled iecimen book. It has survivversions
-								of Lorem Ipsum.</p>
+								<div class="col-6 col-12-medium">
+									<div class="processinner-text">
+										<h2>We Required A Business <br>Information of <b>Your Work.</b></h2>
+										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+											Lorem Ipsum has been the industry's standaxt ever since the 1500s, when an
+											unknown printer took a galleyd scrambled iecimen book. It has survivversions
+											of Lorem Ipsum.</p>
 
-							<div class="accordion w-100" id="basicAccordion">
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingOne">
-										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-											data-mdb-target="#basicAccordionCollapseseven" aria-expanded="false" aria-controls="collapseseven">
-											How Should I Start Brief? <img src="./images/faqdownarrow.png" />
-										</button>
-									</h2>
-									<div id="basicAccordionCollapseseven" class="accordion-collapse collapse" aria-labelledby="headingOne"
-										data-mdb-parent="#basicAccordion">
-										<div class="accordion-body">
-											We offer a wide range of services, including web design,
-											logo design, branding, SEO, social media marketing,
-											and animation. Our team of experts can help you with
-											all aspects of your online presence, from creating a
-											professional website to developing a comprehensive branding strategy.
+										<div class="accordion w-100" id="basicAccordion">
+											<div class="accordion-item">
+												<h2 class="accordion-header" id="headingOne">
+													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
+														data-mdb-target="#basicAccordionCollapseseven" aria-expanded="false" aria-controls="collapseseven">
+														How Should I Start Brief? <img src="./images/faqdownarrow.png" />
+													</button>
+												</h2>
+												<div id="basicAccordionCollapseseven" class="accordion-collapse collapse" aria-labelledby="headingOne"
+													data-mdb-parent="#basicAccordion">
+													<div class="accordion-body">
+														We offer a wide range of services, including web design,
+														logo design, branding, SEO, social media marketing,
+														and animation. Our team of experts can help you with
+														all aspects of your online presence, from creating a
+														professional website to developing a comprehensive branding strategy.
+													</div>
+												</div>
+											</div>
+											<div class="accordion-item">
+												<h2 class="accordion-header" id="headingTwo">
+													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
+														data-mdb-target="#basicAccordionCollapseeight" aria-expanded="false" aria-controls="collapseeight">
+														How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
+													</button>
+												</h2>
+												<div id="basicAccordionCollapseeight" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+													data-mdb-parent="#basicAccordion">
+													<div class="accordion-body">
+														We offer a wide range of services, including web design, logo design, branding, SEO,
+														social media marketing, and animation. Our team of experts can help you with all aspects
+														of your online presence, from creating a professional website to developing a
+														comprehensive branding strategy.
+													</div>
+												</div>
+											</div>
+											<div class="accordion-item">
+												<h2 class="accordion-header" id="headingThree">
+													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
+														data-mdb-target="#basicAccordionCollapsenine" aria-expanded="false" aria-controls="collapsenine">
+														How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
+													</button>
+												</h2>
+												<div id="basicAccordionCollapsenine" class="accordion-collapse collapse" aria-labelledby="headingThree"
+													data-mdb-parent="#basicAccordion">
+													<div class="accordion-body">
+														We offer a wide range of services, including web design, logo design, branding, SEO,
+														social media marketing, and animation. Our team of experts can help you with all aspects
+														of your online presence, from creating a professional website to developing a
+														comprehensive branding strategy.
+													</div>
+												</div>
+											</div>
 										</div>
 									</div>
 								</div>
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingTwo">
-										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-											data-mdb-target="#basicAccordionCollapseeight" aria-expanded="false" aria-controls="collapseeight">
-											How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
-										</button>
-									</h2>
-									<div id="basicAccordionCollapseeight" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-										data-mdb-parent="#basicAccordion">
-										<div class="accordion-body">
-											We offer a wide range of services, including web design, logo design, branding, SEO,
-											social media marketing, and animation. Our team of experts can help you with all aspects
-											of your online presence, from creating a professional website to developing a
-											comprehensive branding strategy.
+
+							</div>
+							<hr>
+							<!-- SECOND ROW -->
+							<div class="row" style="padding-top: 50px; margin: auto;">
+
+
+								<div class="col-6 col-12-medium">
+									<div class="processinner-text">
+										<h2>The Execution of <br>
+											<b> Design Phase & Timeframe</b>
+										</h2>
+										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+											Lorem Ipsum has been the industry's standaxt ever since the 1500s, when an
+											unknown printer took a galleyd scrambled iecimen book. It has survivversions
+											of Lorem Ipsum.</p>
+
+										<div class="accordion w-100" id="basicAccordion">
+											<div class="accordion-item">
+												<h2 class="accordion-header" id="headingOne">
+													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
+														data-mdb-target="#basicAccordionCollapseten" aria-expanded="false" aria-controls="collapseten">
+														How Should I Start Brief? <img src="./images/faqdownarrow.png" />
+													</button>
+												</h2>
+												<div id="basicAccordionCollapseten" class="accordion-collapse collapse" aria-labelledby="headingOne"
+													data-mdb-parent="#basicAccordion">
+													<div class="accordion-body">
+														We offer a wide range of services, including web design,
+														logo design, branding, SEO, social media marketing,
+														and animation. Our team of experts can help you with
+														all aspects of your online presence, from creating a
+														professional website to developing a comprehensive branding strategy.
+													</div>
+												</div>
+											</div>
+											<div class="accordion-item">
+												<h2 class="accordion-header" id="headingTwo">
+													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
+														data-mdb-target="#basicAccordionCollapseeleven" aria-expanded="false" aria-controls="collapseeleven">
+														How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
+													</button>
+												</h2>
+												<div id="basicAccordionCollapseeleven" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+													data-mdb-parent="#basicAccordion">
+													<div class="accordion-body">
+														We offer a wide range of services, including web design, logo design, branding, SEO,
+														social media marketing, and animation. Our team of experts can help you with all aspects
+														of your online presence, from creating a professional website to developing a
+														comprehensive branding strategy.
+													</div>
+												</div>
+											</div>
+											<div class="accordion-item">
+												<h2 class="accordion-header" id="headingThree">
+													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
+														data-mdb-target="#basicAccordionCollapsetweleve" aria-expanded="false" aria-controls="collapsetweleve">
+														How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
+													</button>
+												</h2>
+												<div id="basicAccordionCollapsetweleve" class="accordion-collapse collapse" aria-labelledby="headingThree"
+													data-mdb-parent="#basicAccordion">
+													<div class="accordion-body">
+														We offer a wide range of services, including web design, logo design, branding, SEO,
+														social media marketing, and animation. Our team of experts can help you with all aspects
+														of your online presence, from creating a professional website to developing a
+														comprehensive branding strategy.
+													</div>
+												</div>
+											</div>
 										</div>
 									</div>
 								</div>
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingThree">
-										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-											data-mdb-target="#basicAccordionCollapsenine" aria-expanded="false" aria-controls="collapsenine">
-											How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
-										</button>
-									</h2>
-									<div id="basicAccordionCollapsenine" class="accordion-collapse collapse" aria-labelledby="headingThree"
-										data-mdb-parent="#basicAccordion">
-										<div class="accordion-body">
-											We offer a wide range of services, including web design, logo design, branding, SEO,
-											social media marketing, and animation. Our team of experts can help you with all aspects
-											of your online presence, from creating a professional website to developing a
-											comprehensive branding strategy.
+								<div class="col-6 col-12-medium">
+									<img width="100%" src="./images/websitedesigns/timeframese.png" />
+								</div>
+							</div>
+							<hr>
+							<!-- THIRD ROW START -->
+							<div class="row" style="padding-top: 50px; margin: auto;">
+								<div class="col-6 col-12-medium">
+									<img width="100%" src="./images/websitedesigns/development.png" />
+								</div>
+
+								<div class="col-6 col-12-medium">
+									<div class="processinner-text">
+										<h2>Interactive Element <br><b>Development</b></h2>
+										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+											Lorem Ipsum has been the industry's standaxt ever since the 1500s, when an
+											unknown printer took a galleyd scrambled iecimen book. It has survivversions
+											of Lorem Ipsum.</p>
+
+										<div class="accordion w-100" id="basicAccordion">
+											<div class="accordion-item">
+												<h2 class="accordion-header" id="headingOne">
+													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
+														data-mdb-target="#basicAccordionCollapsethirteen" aria-expanded="false" aria-controls="collapsethirteen">
+														How Should I Start Brief? <img src="./images/faqdownarrow.png" />
+													</button>
+												</h2>
+												<div id="basicAccordionCollapsethirteen" class="accordion-collapse collapse" aria-labelledby="headingOne"
+													data-mdb-parent="#basicAccordion">
+													<div class="accordion-body">
+														We offer a wide range of services, including web design,
+														logo design, branding, SEO, social media marketing,
+														and animation. Our team of experts can help you with
+														all aspects of your online presence, from creating a
+														professional website to developing a comprehensive branding strategy.
+													</div>
+												</div>
+											</div>
+											<div class="accordion-item">
+												<h2 class="accordion-header" id="headingTwo">
+													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
+														data-mdb-target="#basicAccordionCollapsefourteen" aria-expanded="false" aria-controls="collapsefouteen">
+														How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
+													</button>
+												</h2>
+												<div id="basicAccordionCollapsefourteen" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+													data-mdb-parent="#basicAccordion">
+													<div class="accordion-body">
+														We offer a wide range of services, including web design, logo design, branding, SEO,
+														social media marketing, and animation. Our team of experts can help you with all aspects
+														of your online presence, from creating a professional website to developing a
+														comprehensive branding strategy.
+													</div>
+												</div>
+											</div>
+											<div class="accordion-item">
+												<h2 class="accordion-header" id="headingThree">
+													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
+														data-mdb-target="#basicAccordionCollapsefifteen" aria-expanded="false" aria-controls="collapsefifteen">
+														How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
+													</button>
+												</h2>
+												<div id="basicAccordionCollapsefifteen" class="accordion-collapse collapse" aria-labelledby="headingThree"
+													data-mdb-parent="#basicAccordion">
+													<div class="accordion-body">
+														We offer a wide range of services, including web design, logo design, branding, SEO,
+														social media marketing, and animation. Our team of experts can help you with all aspects
+														of your online presence, from creating a professional website to developing a
+														comprehensive branding strategy.
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+							</div>
+							<!-- THIRD ROW END -->
+							<hr>
+							<!-- FOUR ROW START -->
+							<div class="row" style="padding-top: 50px; margin: auto;">
+
+
+								<div class="col-6 col-12-medium">
+									<div class="processinner-text">
+										<h2>Performance Optimization and <br><b>Security Measures </b></h2>
+										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+											Lorem Ipsum has been the industry's standaxt ever since the 1500s, when an
+											unknown printer took a galleyd scrambled iecimen book. It has survivversions
+											of Lorem Ipsum.</p>
+
+										<div class="accordion w-100" id="basicAccordion">
+											<div class="accordion-item">
+												<h2 class="accordion-header" id="headingOne">
+													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
+														data-mdb-target="#basicAccordionCollapsesixteen" aria-expanded="false" aria-controls="collapsesixteen">
+														How Should I Start Brief? <img src="./images/faqdownarrow.png" />
+													</button>
+												</h2>
+												<div id="basicAccordionCollapsesixteen" class="accordion-collapse collapse" aria-labelledby="headingOne"
+													data-mdb-parent="#basicAccordion">
+													<div class="accordion-body">
+														We offer a wide range of services, including web design,
+														logo design, branding, SEO, social media marketing,
+														and animation. Our team of experts can help you with
+														all aspects of your online presence, from creating a
+														professional website to developing a comprehensive branding strategy.
+													</div>
+												</div>
+											</div>
+											<div class="accordion-item">
+												<h2 class="accordion-header" id="headingTwo">
+													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
+														data-mdb-target="#basicAccordionCollapseseventeen" aria-expanded="false" aria-controls="collapseseventeen">
+														How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
+													</button>
+												</h2>
+												<div id="basicAccordionCollapseseventeen" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+													data-mdb-parent="#basicAccordion">
+													<div class="accordion-body">
+														We offer a wide range of services, including web design, logo design, branding, SEO,
+														social media marketing, and animation. Our team of experts can help you with all aspects
+														of your online presence, from creating a professional website to developing a
+														comprehensive branding strategy.
+													</div>
+												</div>
+											</div>
+											<div class="accordion-item">
+												<h2 class="accordion-header" id="headingThree">
+													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
+														data-mdb-target="#basicAccordionCollapseeighteen" aria-expanded="false" aria-controls="collapseeighteen">
+														How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
+													</button>
+												</h2>
+												<div id="basicAccordionCollapseeighteen" class="accordion-collapse collapse" aria-labelledby="headingThree"
+													data-mdb-parent="#basicAccordion">
+													<div class="accordion-body">
+														We offer a wide range of services, including web design, logo design, branding, SEO,
+														social media marketing, and animation. Our team of experts can help you with all aspects
+														of your online presence, from creating a professional website to developing a
+														comprehensive branding strategy.
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-6 col-12-medium">
+									<img width="100%" src="./images/websitedesigns/measures.png" />
+								</div>
+							</div>
+							<!-- FOUR ROW END -->
+						</div>
+					</section>
+
+					<!-- HOW ITS PROCESS INNER END -->
+
+					<!-- LOGO CONTACT FORM START -->
+					<section id="logo-contact-form" style="padding: 210px 0px;">
+						<div class="container">
+							<div class="row contact-inner">
+								<div class="col-6 col-12-medium">
+									<div class="logo-conactfomrinner">
+										<form class="innerpagescalltoaction" method="post" action="">
+
+
+
+
+											<input type="text" class="form-control" name="name" placeholder="Name" required>
+
+											<input type="email" class="form-control" name="email" placeholder="Email" required>
+
+
+
+											<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+
+
+											<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
+
+											<button class="btn btn-primary" type="submit" name="submit">Submit</button>
+										</form>
+									</div>
+								</div>
+
+								<div class="col-6 col-12-medium">
+									<div class="heading-text">
+										<h1>If You Like What You See
+											<br><b>Let’s Connect Than!</b>
+										</h1>
+										<p style="color: #fff;">Our experienced and skilled designers are waiting for your response,
+											so, we can talk business and let the magic happen. Don’t hassle
+											around and partner with the award-winning design agency in US –
+											before your competitor do so.</p>
+										<div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
+											<ul>
+												<li>
+													<div class="brand-button">
+														<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+													</div>
+												</li>
+												<li>
+													<div class="brand-button">
+														<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+													</div>
+												</li>
+											</ul>
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
-					</div>
+					</section>
+					<!-- LOGO CONTACT FORM END -->
 
+					<!-- TESTIMONIAL START -->
+
+					<?php include_once("testimonial-global.php") ?>
+
+					<!-- FOOTER START -->
 				</div>
-				<hr>
-				<!-- SECOND ROW -->
-				<div class="row" style="padding-top: 50px; margin: auto;">
 
-
-					<div class="col-6 col-12-medium">
-						<div class="processinner-text">
-							<h2>The Execution of <br>
-								<b> Design Phase & Timeframe</b>
-							</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-								Lorem Ipsum has been the industry's standaxt ever since the 1500s, when an
-								unknown printer took a galleyd scrambled iecimen book. It has survivversions
-								of Lorem Ipsum.</p>
-
-							<div class="accordion w-100" id="basicAccordion">
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingOne">
-										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-											data-mdb-target="#basicAccordionCollapseten" aria-expanded="false" aria-controls="collapseten">
-											How Should I Start Brief? <img src="./images/faqdownarrow.png" />
-										</button>
-									</h2>
-									<div id="basicAccordionCollapseten" class="accordion-collapse collapse" aria-labelledby="headingOne"
-										data-mdb-parent="#basicAccordion">
-										<div class="accordion-body">
-											We offer a wide range of services, including web design,
-											logo design, branding, SEO, social media marketing,
-											and animation. Our team of experts can help you with
-											all aspects of your online presence, from creating a
-											professional website to developing a comprehensive branding strategy.
-										</div>
-									</div>
-								</div>
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingTwo">
-										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-											data-mdb-target="#basicAccordionCollapseeleven" aria-expanded="false" aria-controls="collapseeleven">
-											How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
-										</button>
-									</h2>
-									<div id="basicAccordionCollapseeleven" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-										data-mdb-parent="#basicAccordion">
-										<div class="accordion-body">
-											We offer a wide range of services, including web design, logo design, branding, SEO,
-											social media marketing, and animation. Our team of experts can help you with all aspects
-											of your online presence, from creating a professional website to developing a
-											comprehensive branding strategy.
-										</div>
-									</div>
-								</div>
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingThree">
-										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-											data-mdb-target="#basicAccordionCollapsetweleve" aria-expanded="false" aria-controls="collapsetweleve">
-											How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
-										</button>
-									</h2>
-									<div id="basicAccordionCollapsetweleve" class="accordion-collapse collapse" aria-labelledby="headingThree"
-										data-mdb-parent="#basicAccordion">
-										<div class="accordion-body">
-											We offer a wide range of services, including web design, logo design, branding, SEO,
-											social media marketing, and animation. Our team of experts can help you with all aspects
-											of your online presence, from creating a professional website to developing a
-											comprehensive branding strategy.
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-12-medium">
-						<img width="100%" src="./images/websitedesigns/timeframese.png" />
-					</div>
-				</div>
-				<hr>
-				<!-- THIRD ROW START -->
-				<div class="row" style="padding-top: 50px; margin: auto;">
-					<div class="col-6 col-12-medium">
-						<img width="100%" src="./images/websitedesigns/development.png" />
-					</div>
-
-					<div class="col-6 col-12-medium">
-						<div class="processinner-text">
-							<h2>Interactive Element <br><b>Development</b></h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-								Lorem Ipsum has been the industry's standaxt ever since the 1500s, when an
-								unknown printer took a galleyd scrambled iecimen book. It has survivversions
-								of Lorem Ipsum.</p>
-
-							<div class="accordion w-100" id="basicAccordion">
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingOne">
-										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-											data-mdb-target="#basicAccordionCollapsethirteen" aria-expanded="false" aria-controls="collapsethirteen">
-											How Should I Start Brief? <img src="./images/faqdownarrow.png" />
-										</button>
-									</h2>
-									<div id="basicAccordionCollapsethirteen" class="accordion-collapse collapse" aria-labelledby="headingOne"
-										data-mdb-parent="#basicAccordion">
-										<div class="accordion-body">
-											We offer a wide range of services, including web design,
-											logo design, branding, SEO, social media marketing,
-											and animation. Our team of experts can help you with
-											all aspects of your online presence, from creating a
-											professional website to developing a comprehensive branding strategy.
-										</div>
-									</div>
-								</div>
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingTwo">
-										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-											data-mdb-target="#basicAccordionCollapsefourteen" aria-expanded="false" aria-controls="collapsefouteen">
-											How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
-										</button>
-									</h2>
-									<div id="basicAccordionCollapsefourteen" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-										data-mdb-parent="#basicAccordion">
-										<div class="accordion-body">
-											We offer a wide range of services, including web design, logo design, branding, SEO,
-											social media marketing, and animation. Our team of experts can help you with all aspects
-											of your online presence, from creating a professional website to developing a
-											comprehensive branding strategy.
-										</div>
-									</div>
-								</div>
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingThree">
-										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-											data-mdb-target="#basicAccordionCollapsefifteen" aria-expanded="false" aria-controls="collapsefifteen">
-											How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
-										</button>
-									</h2>
-									<div id="basicAccordionCollapsefifteen" class="accordion-collapse collapse" aria-labelledby="headingThree"
-										data-mdb-parent="#basicAccordion">
-										<div class="accordion-body">
-											We offer a wide range of services, including web design, logo design, branding, SEO,
-											social media marketing, and animation. Our team of experts can help you with all aspects
-											of your online presence, from creating a professional website to developing a
-											comprehensive branding strategy.
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-				</div>
-				<!-- THIRD ROW END -->
-				<hr>
-				<!-- FOUR ROW START -->
-				<div class="row" style="padding-top: 50px; margin: auto;">
-
-
-					<div class="col-6 col-12-medium">
-						<div class="processinner-text">
-							<h2>Performance Optimization and <br><b>Security Measures </b></h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-								Lorem Ipsum has been the industry's standaxt ever since the 1500s, when an
-								unknown printer took a galleyd scrambled iecimen book. It has survivversions
-								of Lorem Ipsum.</p>
-
-							<div class="accordion w-100" id="basicAccordion">
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingOne">
-										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-											data-mdb-target="#basicAccordionCollapsesixteen" aria-expanded="false" aria-controls="collapsesixteen">
-											How Should I Start Brief? <img src="./images/faqdownarrow.png" />
-										</button>
-									</h2>
-									<div id="basicAccordionCollapsesixteen" class="accordion-collapse collapse" aria-labelledby="headingOne"
-										data-mdb-parent="#basicAccordion">
-										<div class="accordion-body">
-											We offer a wide range of services, including web design,
-											logo design, branding, SEO, social media marketing,
-											and animation. Our team of experts can help you with
-											all aspects of your online presence, from creating a
-											professional website to developing a comprehensive branding strategy.
-										</div>
-									</div>
-								</div>
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingTwo">
-										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-											data-mdb-target="#basicAccordionCollapseseventeen" aria-expanded="false" aria-controls="collapseseventeen">
-											How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
-										</button>
-									</h2>
-									<div id="basicAccordionCollapseseventeen" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-										data-mdb-parent="#basicAccordion">
-										<div class="accordion-body">
-											We offer a wide range of services, including web design, logo design, branding, SEO,
-											social media marketing, and animation. Our team of experts can help you with all aspects
-											of your online presence, from creating a professional website to developing a
-											comprehensive branding strategy.
-										</div>
-									</div>
-								</div>
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingThree">
-										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-											data-mdb-target="#basicAccordionCollapseeighteen" aria-expanded="false" aria-controls="collapseeighteen">
-											How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
-										</button>
-									</h2>
-									<div id="basicAccordionCollapseeighteen" class="accordion-collapse collapse" aria-labelledby="headingThree"
-										data-mdb-parent="#basicAccordion">
-										<div class="accordion-body">
-											We offer a wide range of services, including web design, logo design, branding, SEO,
-											social media marketing, and animation. Our team of experts can help you with all aspects
-											of your online presence, from creating a professional website to developing a
-											comprehensive branding strategy.
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-12-medium">
-						<img width="100%" src="./images/websitedesigns/measures.png" />
-					</div>
-				</div>
-				<!-- FOUR ROW END -->
-			</div>
-		</section>
-
-		<!-- HOW ITS PROCESS INNER END -->
-
-		<!-- LOGO CONTACT FORM START -->
-		<section id="logo-contact-form" style="padding: 210px 0px;">
-			<div class="container">
-				<div class="row contact-inner">
-					<div class="col-6 col-12-medium">
-						<div class="logo-conactfomrinner">
-							<form class="innerpagescalltoaction" method="post" action="">
-
-
-
-
-								<input type="text" class="form-control" name="name" placeholder="Name" required>
-
-								<input type="email" class="form-control" name="email" placeholder="Email" required>
-
-
-
-								<input type="text" class="form-control" name="phone" placeholder="Phone" required>
-
-
-								<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
-
-								<button class="btn btn-primary" type="submit" name="submit">Submit</button>
-							</form>
-						</div>
-					</div>
-
-					<div class="col-6 col-12-medium">
-						<div class="heading-text">
-							<h1>If You Like What You See
-								<br><b>Let’s Connect Than!</b>
-							</h1>
-							<p style="color: #fff;">Our experienced and skilled designers are waiting for your response,
-								so, we can talk business and let the magic happen. Don’t hassle
-								around and partner with the award-winning design agency in US –
-								before your competitor do so.</p>
-							<div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
-								<ul>
-									<li>
-										<div class="brand-button">
-											<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-										</div>
-									</li>
-									<li>
-										<div class="brand-button">
-											<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
-										</div>
-									</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- LOGO CONTACT FORM END -->
-
-		<!-- TESTIMONIAL START -->
-
-		<?php include_once("testimonial-global.php") ?>
-
-		<!-- FOOTER START -->
-	</div>
-
-	<?php include_once("includes/footer.php") ?>
+				<?php include_once("includes/footer.php") ?>
 </body>
 
 </html>

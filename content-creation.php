@@ -388,7 +388,7 @@
 
 
 
-		<section id="intro-section">
+		<section id="intro-section-content">
 			<div class="container">
 				<div class="row">
 					<div class="row-text">

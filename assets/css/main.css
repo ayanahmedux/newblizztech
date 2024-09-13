@@ -2271,7 +2271,7 @@ button.get-a-button {
 }
 
 a.navbar-brand img {
-	height: 70px;
+	height: 50px;
 }
 
 li.nav-item {
@@ -2341,9 +2341,7 @@ ul.dropdown-menu.show li a {
 	font-weight: 600;
 }
 
-section#grow-brand .slick-slide img {
-	filter: hue-rotate(95deg);
-}
+
 
 .button-text img.arrow {
 	filter: hue-rotate(95deg);
@@ -3456,11 +3454,11 @@ section#header .custom-industries-section .inner-card h3 {
 /* CUSTOM INNERCARD CSS */
 
 .custom-industries-section .inner-card {
-	border: 1px solid #0d6efd;
-	background: #e7e7e7;
-	border-radius: 17px;
-	height: 168px;
-	padding: 23px 10px;
+    border: 1px solid grey;
+    background: #0e0e0ea8;
+    border-radius: 17px;
+    height: 168px;
+    padding: 23px 10px;
 }
 
 .main-inner {
@@ -3507,6 +3505,7 @@ section#header .custom-industries-section .inner-card h3 {
 	width: 100px;
 	display: inline-block;
 	height: 92px;
+	filter: brightness(250);
 }
 
 
@@ -3575,7 +3574,6 @@ section#intro-section .why-choosetext {
 	border: 2px solid #5cab86;
 	border-color: #2c2c2c;
 	margin: 0 4px;
-	height: 520px;
 }
 
 .row-text.holistic-text {
@@ -3729,7 +3727,407 @@ section#faqs .accordion-item img {
 section#intro-section .inner-section {
 	padding: 60px 0 30px 0;
 }
+/* home-intro */
+#home-tab-pane4 .gallery-item img, div#profile-tab-pane4 .gallery-item img, div#profile-tab-pane6 .gallery-item img {
+    border: 6px solid #27D6FC;
+}
+/* INTRO SECTION */
+section#intro-section-home{
+font-family: 'Anek Tamil';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 32px;
+	line-height: 103.8%;
+	color: #FFFFFF;
+}
 
+section#intro-section-home {
+	background: #1d1d1d;
+	color: #fff;
+	padding: 60px 0px 30px 0px;
+}
+
+section#intro-section-home h1 {
+	color: #fff;
+	font-family: 'Anek Tamil';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 65px;
+	line-height: 103.8%;
+}
+
+section#intro-section-home h1 b {
+	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+
+}
+
+section#intro-section-home .col-3:hover .why-choosetext {
+	border-color: #7d5ce0 !important;
+}
+
+section#intro-section-home .why-choosetext {
+	padding: 30px 20px 50px 20px;
+	text-align: center;
+	background: #2C2C2C;
+	box-shadow: 0px 7px 3px rgba(0, 0, 0, 0.09);
+	border-radius: 5px 5px 0px 0px !important;
+	border: 2px solid #5cab86;
+	border-color: #2c2c2c;
+	margin: 0 4px;
+	height: 300px;
+}
+
+.row-text.holistic-text {
+	padding: 40px 0px;
+	text-align: left;
+}
+
+.button-custom {
+	opacity: 0;
+}
+
+section#intro-section-home .col-3:hover {
+	transition: .9s;
+	transform: translateY(10px);
+}
+
+section#intro-section-home .col-3:hover .button-custom {
+	opacity: 1;
+	transition: .9s;
+}
+
+section#intro-section-home .col-3:hover .why-choosetext {
+	border-radius: 25px 25px 0 0;
+}
+
+section#intro-section-home .button-custom:hover a {
+	color: #fff;
+}
+
+.button-custom a {
+	font-family: 'Anek Tamil';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 17px;
+	color: #fff;
+}
+
+section#intro-section-home .why-choosetext .why-choose-image {
+	margin: 10px 0 30px 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.row-text h2 {
+	color: white !important;
+}
+
+.row-text h2 b {
+	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+}
+
+section#intro-section-home .why-choosetext h3 {
+	font-family: Anek Tamil;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 22px;
+	letter-spacing: 0em;
+	text-align: center;
+	min-height: 40px;
+	margin: 10px 0;
+	color: #E0E0E0;
+}
+
+.truspilot img {
+	width: 10% !important;
+	height: auto !important;
+}
+
+section#testimonials-sections .testimonial-text h5 {
+	color: #ccc;
+	font-size: 15px;
+	line-height: 24px;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+section#intro-section-home .why-choosetext p {
+	font-family: Anek Tamil;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 20px;
+	letter-spacing: 0em;
+	text-align: center;
+	color: #888888;
+}
+
+section#intro-section-home .why-choosetext img.img2 {
+	position: absolute;
+	opacity: 0;
+}
+
+section#intro-section-home .col-3:hover .img2 {
+	opacity: 1;
+	transition: .9s;
+}
+
+section#intro-section-home .col-3:hover .img1 {
+	opacity: 0;
+}
+
+section#intro-section-home .col-3:hover h3,
+section#intro-section-home .col-3:hover p {
+	color: #fff;
+	transition: .9s;
+}
+
+.information img {
+	filter: hue-rotate(85deg);
+}
+
+.why-choose-image img.img1 {
+	filter: hue-rotate(85deg);
+}
+
+section#intro-section-home .why-choosetext img.img2 {
+	filter: hue-rotate(85deg);
+}
+
+section#testimonials-sections button.slick-next.slick-arrow,
+section#testimonials-sections button.slick-prev {
+	filter: hue-rotate(75deg);
+}
+
+section#faqs .accordion-item img {
+	filter: hue-rotate(85deg);
+}
+
+.button-custom {
+	text-align: center;
+	background: #fff;
+	padding: 9px 0px;
+	background: -webkit-linear-gradient(90deg, hsla(191, 97%, 57%, 1) 0%, #7d5ce0 100%);
+	border-radius: 0px 0px 21px 21px;
+	margin: 0 4px;
+}
+
+.button-custom a {
+	font-family: 'Anek Tamil';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 17px;
+	color: #fff;
+}
+
+section#intro-section-home .inner-section {
+	padding: 60px 0 30px 0;
+}
+section#intro-section-home h3{
+	color: white;
+}
+/* home-intro */
+/* content intro */
+
+/* INTRO SECTION */
+section#intro-section-content h3 {
+	font-family: 'Anek Tamil';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 32px;
+	line-height: 103.8%;
+	color: #FFFFFF;
+}
+
+section#intro-section-content {
+	background: #1d1d1d;
+	color: #fff;
+	padding: 60px 0px 30px 0px;
+}
+
+section#intro-section-content h1 {
+	color: #fff;
+	font-family: 'Anek Tamil';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 65px;
+	line-height: 103.8%;
+}
+
+section#intro-section-content h1 b {
+	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+
+}
+
+section#intro-section-content .col-3:hover .why-choosetext {
+	border-color: #7d5ce0 !important;
+}
+
+section#intro-section-content .why-choosetext {
+	padding: 30px 20px 50px 20px;
+	text-align: center;
+	background: #2C2C2C;
+	box-shadow: 0px 7px 3px rgba(0, 0, 0, 0.09);
+	border-radius: 5px 5px 0px 0px !important;
+	border: 2px solid #5cab86;
+	border-color: #2c2c2c;
+	margin: 0 4px;
+	height: 350px;
+}
+
+.row-text.holistic-text {
+	padding: 40px 0px;
+	text-align: left;
+}
+
+.button-custom {
+	opacity: 0;
+}
+
+section#intro-section-content .col-3:hover {
+	transition: .9s;
+	transform: translateY(10px);
+}
+
+section#intro-section-content .col-3:hover .button-custom {
+	opacity: 1;
+	transition: .9s;
+}
+
+section#intro-section-content .col-3:hover .why-choosetext {
+	border-radius: 25px 25px 0 0;
+}
+
+section#intro-section-content .button-custom:hover a {
+	color: #fff;
+}
+
+.button-custom a {
+	font-family: 'Anek Tamil';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 17px;
+	color: #fff;
+}
+
+section#intro-section-content .why-choosetext .why-choose-image {
+	margin: 10px 0 30px 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.row-text h2 {
+	color: white !important;
+}
+
+.row-text h2 b {
+	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+}
+
+section#intro-section-content .why-choosetext h3.animated.fadeIn {
+	font-family: Anek Tamil;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 22px;
+	letter-spacing: 0em;
+	text-align: center;
+	min-height: 40px;
+	margin: 10px 0;
+	color: #E0E0E0 ;
+}
+
+
+
+section#intro-section-content .why-choosetext p {
+	font-family: Anek Tamil;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 20px;
+	letter-spacing: 0em;
+	text-align: center;
+	color: #888888;
+}
+
+section#intro-section-content .why-choosetext img.img2 {
+	position: absolute;
+	opacity: 0;
+}
+
+section#intro-section-content .col-3:hover .img2 {
+	opacity: 1;
+	transition: .9s;
+}
+
+section#intro-section-content .col-3:hover .img1 {
+	opacity: 0;
+}
+
+section#intro-section-content .col-3:hover h3,
+section#intro-section-content .col-3:hover p {
+	color: #fff;
+	transition: .9s;
+}
+
+.information img {
+	filter: hue-rotate(85deg);
+}
+
+.why-choose-image img.img1 {
+	filter: hue-rotate(85deg);
+}
+
+section#intro-section-content .why-choosetext img.img2 {
+	filter: hue-rotate(85deg);
+}
+
+section#testimonials-sections button.slick-next.slick-arrow,
+section#testimonials-sections button.slick-prev {
+	filter: hue-rotate(75deg);
+}
+
+section#faqs .accordion-item img {
+	filter: hue-rotate(85deg);
+}
+
+.button-custom {
+	text-align: center;
+	background: #fff;
+	padding: 9px 0px;
+	background: -webkit-linear-gradient(90deg, hsla(191, 97%, 57%, 1) 0%, #7d5ce0 100%);
+	border-radius: 0px 0px 21px 21px;
+	margin: 0 4px;
+}
+
+.button-custom a {
+	font-family: 'Anek Tamil';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 17px;
+	color: #fff;
+}
+
+section#intro-section-content .inner-section {
+	padding: 60px 0 30px 0;
+}
+
+/* content intro */
 /* seo intro */
 
 /* INTRO SECTION */
@@ -4226,6 +4624,12 @@ section#recent-past .heading-text h3 {
 	line-height: 103.8%;
 	color: #FFFFFF;
 }
+section#recent-past .heading-text h3 b {
+background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+}
 
 section#recent-past h1 b {
 	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
@@ -4602,6 +5006,7 @@ section#contact-us form#contact textarea {
 	margin-bottom: 12px;
 	width: 100%;
 	resize: unset;
+	color: white !important;
 }
 
 /* contact us end */
@@ -4753,6 +5158,157 @@ section#price-plans-section .price-inner-plan:hover .price-heading-text {
 
 /* price plan css end */
 
+/* pricing website design  */
+/* Price plan css start */
+section#price-plans-section-1 .custom-price-button ul li {
+	display: inline-block;
+}
+
+section#price-plans-section-1 .fade:not(.show) {
+	display: none !important;
+}
+
+section#price-plans-section-1 .custom-price-button ul {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+section#price-plans-section-1 .nav-tabs .nav-link {
+	border: 0 !important;
+	letter-spacing: 0;
+	min-width: auto !important;
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+	text-align: center;
+	text-transform: capitalize;
+	font-family: 'Anek Tamil';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 54px;
+	color: #4D4D4D;
+}
+
+section#price-plans-section-1 ul#myTab {
+	padding: 0 0 !important;
+	border: 1px solid #4E4E4E;
+	border-radius: 18px;
+	text-align: center;
+	width: 45%;
+	margin: 0 auto;
+}
+section#price-plans-section-1 .nav-tabs .nav-link:hover{
+background-color: unset !important;
+}
+
+section#price-plans-section-1 .price-inner-plan {
+	color: #fff;
+}
+
+section#price-plans-section-1 .price-heading-text {
+	border: 1px solid #434343;
+	border-radius: 15px;
+	text-align: center;
+	padding: 26px 0px;
+}
+
+section#price-plans-section-1 .price-heading-text h2 {
+	font-family: 'Anek Tamil';
+	font-style: normal;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	color: #FFFFFF;
+	margin: 20px 0;
+}
+
+section#price-plans-section-1 .price-heading-text h4 {
+	font-family: 'Anek Tamil';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 36px;
+	line-height: 30px;
+	/* or 83% */
+	text-align: center;
+	color: #FFFFFF;
+}
+
+section#price-plans-section-1 .price-list ul li::marker {
+	color: #27d5fc !important;
+	font-size: 19px;
+	line-height: 33px;
+}
+
+section#price-plans-section-1 .price-list ul {
+	margin: 0;
+	padding-left: 30px;
+	height: 246px;
+	overflow-y: auto;
+}
+
+section#price-plans-section-1 .price-list {
+	background: #252525;
+	border: 1px solid #2F2F2F;
+	border-radius: 15px;
+	padding: 32px 0px 32px 13px;
+	margin: 11px 0 0px 0;
+}
+
+section#price-plans-section-1 .price-list ul li {
+	font-family: 'Anek Tamil';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+	color: #FFFFFF;
+	list-style: circle;
+	padding-left: 6px;
+}
+
+section#price-plans-section-1 .price-inner-plan {
+	background: #282828;
+	border: 2px solid #4B4B4B;
+	box-shadow: 0px 8px 17px rgba(0, 0, 0, 0.13);
+	border-radius: 15px;
+	padding: 40px 40px;
+}
+
+section#price-plans-section-1.nav-tabs .nav-link:hover {
+	background: #ff10 !important;
+}
+
+section#price-plans-section-1 .tab-pane {
+	border: 0 !important;
+	margin-top: 50px;
+}
+
+section#price-plans-section-1 li.nav-item {
+	text-align: center;
+	margin: 0 auto !important;
+	padding: 0 !important;
+}
+
+section#price-plans-section-1 .nav-tabs .nav-link.active {
+	background: #ff10 !important;
+	color: #27D6FC !important;
+}
+
+section#price-plans-section-1 .price-inner-plan:hover {
+	border-color: #27D6FC;
+	transition: .9s;
+	transform: translateY(30px);
+}
+
+section#price-plans-section-1 .price-inner-plan:hover .price-heading-text {
+	background: linear-gradient(103.38deg, #27D6FC 3.26%, #7d5ce0 113.62%);
+	border: 1px solid #434343;
+	box-shadow: inset 5px 11px 9px rgba(0, 0, 0, 0.18);
+	transition: .9s;
+}
+
+/* price plan css end */
+/* pricing website design  */
 /* footersec */
 footer#main-footer-sections {
 	padding: 60px 0 0px 0px;
@@ -4936,7 +5492,8 @@ section#seo-section,
 section#video-editing-sec,
 section#portfolio-sec,
 section#contact-sec,
-section#content-creation {
+section#content-creation,
+section#animation {
 	background: url('../../images/about-image-1.jpg');
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
@@ -5236,10 +5793,7 @@ section#what-canwe-about .gallery-about-section h6 {
 
 /* what can we gallery css end */
 /* CONNECT SEC CALL TO ACTION START */
-.my-connect-inner img {
-	position: absolute;
-	margin-top: -170px;
-}
+
 
 .my-connect-inner img:hover {
 	transform: scale(1.1);
@@ -5250,14 +5804,8 @@ section#what-canwe-about .gallery-about-section h6 {
 	transition: .9s;
 }
 
-.my-connect-inner .my-custom {
-	margin-bottom: -114px;
-}
 
 .my-connect-inner {
-	background: #232323;
-	border: 1px solid #535353;
-	box-shadow: 0px 12px 15px rgba(0, 0, 0, 0.1);
 	border-radius: 40px;
 	padding: 130px 70px 70px 70px;
 }
@@ -5269,12 +5817,16 @@ section#call-toaction-section h2 {
 	font-size: 34px;
 	line-height: 32px;
 }
-
-.my-connect-inner .about-banner-buttons ul {
-	text-align: left;
-	padding: 0;
+button.work-with-us {
+    padding: 8px 13px !important;
+    border-radius: 35px;
+    height: unset !important;
+    min-width: unset !important;
+    background: transparent;
+    border: 1px solid grey;
+    color: white;
+	margin-bottom: 20px;
 }
-
 section#call-toaction-section h2 b {
 	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
 	-webkit-background-clip: text;
@@ -5283,13 +5835,32 @@ section#call-toaction-section h2 b {
 
 }
 
+section#call-toaction-section .about-banner-buttons .brand-button {
+    height: 250px;
+    width: 250px !important;
+    border-radius: 50% !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	
+   
+}
+section#call-toaction-section .about-banner-buttons .brand-button:hover{
+	border-radius: 50%;
+	border: 6px solid rgb(39, 213, 252);
+	transition: 1.3s;
+}
+.about-banner-buttons .brand-button a{
+	text-decoration: none;
+	color: white;
+}
 /* CONNECT SEC CALL TO ACTION END */
 
 /* SERVICES PAGE CSS START */
 
 /* SERVICES HEADER CSS START */
 .services-sec section#header h3.animated.fadeIn {
-	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+	background: linear-gradient(98.46deg, rgb(39, 213, 252) 3.81%, #7d5ce0 101.52%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-clip: text;
@@ -5618,7 +6189,7 @@ section#logo-about-us .logoabout-text h6 {
 	font-size: 50px;
 	color: #fff;
 	font-family: 'Anek Tamil';
-	margin-top: -40px;
+
 }
 
 
@@ -5986,8 +6557,7 @@ section#logo-contact-form .about-banner-buttons {
 
 .service-logosection .first-inner-section-text h1 b {
 
-	-webkit-text-stroke: 1px #27D6FC;
-	-webkit-text-fill-color: transparent;
+    color: #27d5fc;
 
 }
 
@@ -6102,8 +6672,7 @@ section#header nav#nav ul.dropotron.level-0.center li:before {
 	font-family: 'Anek Tamil';
 }
 .service-logosection .social h2 b{
-	-webkit-text-stroke: 1px #27D6FC;
-	-webkit-text-fill-color: transparent;
+	color: #27d5fc;
 }
 section#logo-about-us .social-media h1 {
 	font-size: 45px;
@@ -7089,8 +7658,7 @@ section#payperclick-about h1 {
 }
 
 section#payperclick-about h1 b {
-	-webkit-text-stroke: 1px #27D6FC;
-	-webkit-text-fill-color: transparent;
+	color: #27d5fc
 }
 
 section#payperclick-about h1 {
@@ -7371,13 +7939,7 @@ form.innerpagescalltoaction button.btn.btn-primary {
 	border: 0px;
 }
 
-@media only screen and (max-width:1024px) {
-	.my-connect-inner img {
-		position: absolute;
-		margin-top: -160px !important;
-		width: 50%;
-	}
-}
+
 
 @media only screen and (max-width:800px) {
 	section#top-header {
@@ -7626,15 +8188,9 @@ form.innerpagescalltoaction button.btn.btn-primary {
 		padding-top: 20px !important;
 	}
 
-	.my-connect-inner img {
-		width: 100%;
-		margin-top: -240px !important;
-	}
 
-	.my-connect-inner {
 
-		padding: 130px 20px 70px 20px;
-	}
+
 
 	.footer-nav-1 {
 		padding-left: 0 !important;
@@ -7743,6 +8299,7 @@ textarea {
 
 .inner-card.card-with h3 {
 	font-size: 19px;
+	color: white;
 }
 
 section#industries-we-conquered h1 {
@@ -7777,14 +8334,16 @@ section#industries-we-conquered {
 	position: relative;
 	bottom: 50px;
 	left: 10px;
-	font-weight: 500;
 	color: white;
 }
-
-.indutries-image:hover img {
-	transform: translateY(-40px);
+.industries-text p{
+	font-weight: 600;
 }
-
+.indutries-image img {
+    width: 100%;
+    height: 270px;
+	opacity: 0.6;
+}
 .mis-vis i {
 	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
 	-webkit-background-clip: text;
@@ -7797,10 +8356,7 @@ section#industries-we-conquered {
 }
 
 .concept-container {
-	display: grid;
-	grid-template-columns: 1fr;
-	gap: 20px;
-	position: relative;
+	
 }
 
 .concept-item {
@@ -7811,27 +8367,39 @@ section#industries-we-conquered {
 	background-color: #4f4f4f;
 	color: #ffffff;
 	position: relative;
+	width: 70%;
+	margin-bottom: 20px;
+	gap: 30px;
 }
-
-.concept-item:nth-child(odd) {
-	justify-content: flex-start;
+.concept-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
-
-.concept-item:nth-child(even) {
-	justify-content: flex-end;
-	text-align: right;
+.concept-heading h1 {
+    color: white;
+    margin-bottom: 20px;
+	color: #fff;
+    font-family: 'Anek Tamil';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 103.8%;
+    text-transform: capitalize;
 }
-
+.concept-heading h1 b {
+	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text
+}
 .concept-item h2 {
 	font-size: 60px;
-	margin-right: 20px;
 	font-weight: bold;
 }
 
-.concept-item:nth-child(even) h2 {
-	margin-right: 0;
-	margin-left: 20px;
-}
+
 
 .concept-content h3 {
 	font-size: 24px;
@@ -7863,20 +8431,6 @@ section#industries-we-conquered {
 
 .concept-p {
 	background-color: #3e3e3e;
-}
-
-@media screen and (min-width: 768px) {
-	.concept-container {
-		grid-template-columns: 1fr 1fr;
-	}
-
-	.concept-item:nth-child(odd) {
-		grid-column: 1 / 2;
-	}
-
-	.concept-item:nth-child(even) {
-		grid-column: 2 / 3;
-	}
 }
 
 .concept-t h2 {

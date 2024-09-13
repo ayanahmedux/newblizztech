@@ -202,6 +202,9 @@
 	<!-- TESTIMONIAL SECTION END -->
 <!-- concept section -->
 <section class="concept-section">
+	<div class="concept-heading">
+		<h1 class="text-center">Our Core Values at <b>Blizztech</b></h1>
+	</div>
     <div class="concept-container">
         <div class="concept-item concept-c">
             <h2>C</h2>
@@ -259,30 +262,24 @@
 <!-- concept section -->
 	<!-- CALL TO ACTION ABOUT US PAGE START -->
 
-	<section id="call-toaction-section" style="padding-bottom: 80px;">
+	<section id="call-toaction-section" style="padding-bottom: 50px;">
 		<div class="container">
 			<div class="my-connect-inner">
 				<div class="row">
-					<div class="col-md-6 col-12-medium align-self-center">
-						<img src="./images/aboutuspageimages/laptop.png" />
-					</div>
+				
 
-					<div class="my-custom col-md-6 col-12-medium align-self-center">
-						<h2 style="color: white;"><b>Work</b> with us !</b></h2>
-						<p style="color: white;">We would be happy to help you grow your business
-						Get a quote!</p>
+					<div class="my-custom col-md-12 col-12-medium text-center">
+						<button class="work-with-us">Work with us</button>
+						<h1 style="color: white;">We would be happy to help you grow your business
+						Get a quote!</h1>
 						<div class="about-banner-buttons" style="padding-top: 30px;">
 							<ul>
 								<li>
 									<div class="brand-button">
-										<h6><a href="javascript:;" class="quote-button">Get a Quote</a></h6>
+										<a href="javascript:;" class="quote-button">Get a Quote</a>
 									</div>
 								</li>
-								<li>
-									<div class="brand-button">
-										<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
-									</div>
-								</li>
+								
 							</ul>
 						</div>
 					</div>

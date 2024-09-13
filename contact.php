@@ -77,7 +77,7 @@
 								and we’ll be sure to reply as fast as possible.</p>
 							<div class="contact-div">
 								<ul class="nav-menu-links">
-									<li><span><i class="bi bi-telephone-fill"></i></span> (737) 377-5786</li>
+									<li><span><i class="bi bi-telephone-fill"></i></span> +1 713-922-8987</li>
 									<li><span><i class="bi bi-envelope-fill"></i></span> info@blizztechsolutions.com</li>
 									<li><span><i class="bi bi-geo-alt-fill"></i></span>
 										913 Essex Blvd, Lewisville,

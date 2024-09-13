@@ -110,20 +110,20 @@
 			</video>
 		</section>
 
-		<section id="intro-section">
+		<section id="intro-section-home">
 			<div class="container">
 				<div class="row">
 					<div class="row-text">
 						<h3 style="padding-top: 20px;"> Why Choose </h3>
 						<h1><b>Blizztech </b> Solutions</h1>
-						<p style="padding-bottom: 50px;">we craft solutions that resonate with your brand’s core
+						<p style="padding-bottom: 50px; color: #fff;">we craft solutions that resonate with your brand’s core
 							identity. Our team’s passion for innovation and attention to <br>
 							detail sets us apart, delivering exceptional results that elevate
 							your business to new heights</p>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-3 col-12-medium">
+				<div class="center">
+					<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/low.png">
@@ -138,7 +138,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col-3 col-12-medium">
+					<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/creative.png">
@@ -151,7 +151,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col-3 col-12-medium">
+					<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/educate.png">
@@ -165,7 +165,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col-3 col-12-medium">
+					<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/senior.png">
@@ -179,7 +179,79 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
+					<div class="px-2 py-2">
+						<div class="why-choosetext">
+							<div class="why-choose-image">
+								<img class="img1" src="./images/senior.png">
+								<img class="img2" src="./images/seniorcolor.png">
+							</div>
+							<h3>Harness the Power of Advanced Technology</h3>
+							<p> Leveraging advanced
+								technology to drive innovation and elevate your digital presence.</p>
+						</div>
+						<div class="button-custom">
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+						</div>
+					</div>
+					<div class="px-2 py-2">
+						<div class="why-choosetext">
+							<div class="why-choose-image">
+								<img class="img1" src="./images/senior.png">
+								<img class="img2" src="./images/seniorcolor.png">
+							</div>
+							<h3>Teamwork and Partnership</h3>
+							<p> We work together with you from start to
+								finish, making you our perfect partner.</p>
+						</div>
+						<div class="button-custom">
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+						</div>
+					</div>
+					<div class="px-2 py-2">
+						<div class="why-choosetext">
+							<div class="why-choose-image">
+								<img class="img1" src="./images/senior.png">
+								<img class="img2" src="./images/seniorcolor.png">
+							</div>
+							<h3>Innovative Thinking, Flawless Execution</h3>
+							<p> Combining creativity with
+								technical expertise to elevate your brand's presence.</p>
+						</div>
+						<div class="button-custom">
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+						</div>
+					</div>
+					<div class="px-2 py-2">
+						<div class="why-choosetext">
+							<div class="why-choose-image">
+								<img class="img1" src="./images/senior.png">
+								<img class="img2" src="./images/seniorcolor.png">
+							</div>
+							<h3>Coherent Visual Identity</h3>
+							<p> We streamline the daily ins and outs of branding
+								and create a cohesive brand identity your audience recognizes across all
+								channels.</p>
+						</div>
+						<div class="button-custom">
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+						</div>
+					</div>
+					<div class="px-2 py-2">
+						<div class="why-choosetext">
+							<div class="why-choose-image">
+								<img class="img1" src="./images/senior.png">
+								<img class="img2" src="./images/seniorcolor.png">
+							</div>
+							<h3>Excellence Through Collaboration</h3>
+							<p>We believe in working closely with you
+								to bring your vision to life</p>
+						</div>
+						<div class="button-custom">
+							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+						</div>
+					</div>
 				</div>
+
 				<div class="row inner-section">
 					<h3>What Makes Site Unique
 					</h3>
@@ -239,38 +311,90 @@
 							A purpose to grow 3x faster than your competitors.
 						</p>
 					</div>
+
 					<div class="brand-portfolio">
 						<div class="carousel1">
 							<div>
 								<div class="card">
-									<img src="./images/portfoliobanner_03.png" />
+									<div class="row">
+										<div class="col-lg-6">
+											<img style="
+    object-fit: cover;
+    width: 100%;
+    border:6px solid #27D6FC;
+" src="images/portfolioOne.jpg" />
+										</div>
+										<div class="col-lg-6">
+											<img style="
+    object-fit: cover;
+    width: 100%;
+    border:6px solid #27D6FC;
+" src="images/portfolioTwo.jpg" />
+										</div>
+									</div>
 								</div>
 							</div>
 							<div>
 								<div class="card">
-									<img src="./images/portfoliobanner_03.png" />
+									<div class="row">
+										<div class="col-lg-6">
+											<img style="
+    object-fit: cover;
+    width: 100%;
+    border:6px solid #27D6FC;
+" src="images/portfolioThree.jpg" />
+										</div>
+										<div class="col-lg-6">
+											<img style="
+    object-fit: cover;
+    width: 100%;
+    border:6px solid #27D6FC;
+" src="images/portfolioFour.jpg" />
+										</div>
+									</div>
 								</div>
 							</div>
 							<div>
 								<div class="card">
-									<img src="./images/portfoliobanner_03.png" />
+									<div class="row">
+										<div class="col-lg-6">
+											<img style="
+    object-fit: cover;
+    width: 100%;
+    border:6px solid #27D6FC;
+" src="images/portfolioFive.jpg" />
+										</div>
+										<div class="col-lg-6">
+											<img style="
+    object-fit: cover;
+    width: 100%;
+    border:6px solid #27D6FC;
+" src="images/portfolioSix.jpg" />
+										</div>
+									</div>
 								</div>
 							</div>
 							<div>
 								<div class="card">
-									<img src="./images/portfoliobanner_03.png" />
+									<div class="row">
+										<div class="col-lg-6">
+											<img style="
+    object-fit: cover;
+    width: 100%;
+    border:6px solid #27D6FC;
+" src="images/portfolioSeven.jpg" />
+										</div>
+										<div class="col-lg-6">
+											<img style="
+    object-fit: cover;
+    width: 100%;
+    border:6px solid #27D6FC;
+" src="images/portfolioEight.jpg" />
+										</div>
+									</div>
 								</div>
 							</div>
-							<div>
-								<div class="card">
-									<img src="./images/portfoliobanner_03.png" />
-								</div>
-							</div>
-							<div>
-								<div class="card">
-									<img src="./images/portfoliobanner_03.png" />
-								</div>
-							</div>
+
 						</div>
 					</div>
 					<div class="brand-button" style="padding-top: 40px;">
@@ -340,14 +464,14 @@
 										</div>
 										<div class="col-3 col-12-medium">
 											<div class="logo-images">
-												<img src="./images/logodesign1.png" />
-												<img src="./images/logodesign3.png" />
+												<img src="./images/Boiler-Room-pens-2.jpg" />
+												<img src="./images/Chic-Color-07.jpg" />
 											</div>
 										</div>
 										<div class="col-3 col-12-medium">
 											<div class="logo-images">
-												<img src="./images/logodesign2.png" />
-												<img src="./images/logodesign4.png" />
+												<img src="./images/Skin-N-Bones-04.jpg	" />
+												<img src="./images/04.jpg" />
 											</div>
 										</div>
 									</div>
@@ -407,14 +531,14 @@
 									</div>
 									<div class="col-3 col-12-medium">
 										<div class="logo-images">
-											<img src="./images/logodesign1.png" />
-											<img src="./images/logodesign3.png" />
+											<img src="./images/websitedesigns/portfolio/1.png" style="border-radius: 0px;" />
+											<img src="./images/websitedesigns/portfolio/2.jpg" style="border-radius: 0px;" />
 										</div>
 									</div>
 									<div class="col-3 col-12-medium">
 										<div class="logo-images">
-											<img src="./images/logodesign2.png" />
-											<img src="./images/logodesign4.png" />
+											<img src="./images/websitedesigns/portfolio/3.jpg" style="border-radius: 0px;" />
+											<img src="./images/websitedesigns/portfolio/4.jpg" style="border-radius: 0px;" />
 										</div>
 									</div>
 								</div>
@@ -472,14 +596,14 @@
 									</div>
 									<div class="col-3 col-12-medium">
 										<div class="logo-images">
-											<img src="./images/logodesign1.png" />
-											<img src="./images/logodesign3.png" />
+											<img src="./images/logo1.gif" />
+											<img src="./images/logo3.gif" />
 										</div>
 									</div>
 									<div class="col-3 col-12-medium">
 										<div class="logo-images">
-											<img src="./images/logodesign2.png" />
-											<img src="./images/logodesign4.png" />
+											<img src="./images/logo2.gif" />
+											<img src="./images/logo4.gif" />
 										</div>
 									</div>
 								</div>
@@ -539,14 +663,14 @@
 									</div>
 									<div class="col-3 col-12-medium">
 										<div class="logo-images">
-											<img src="./images/logodesign1.png" />
-											<img src="./images/logodesign3.png" />
+											<img src="./images/mediapost1.jpg" />
+											<img src="./images/mediapost3.jpg" />
 										</div>
 									</div>
 									<div class="col-3 col-12-medium">
 										<div class="logo-images">
-											<img src="./images/logodesign2.png" />
-											<img src="./images/logodesign4.png" />
+											<img src="./images/mediapost2.jpg" />
+											<img src="./images/mediapost4.jpg" />
 										</div>
 									</div>
 								</div>
@@ -610,14 +734,14 @@
 									</div>
 									<div class="col-3 col-12-medium">
 										<div class="logo-images">
-											<img src="./images/logodesign1.png" />
-											<img src="./images/logodesign3.png" />
+											<img src="./images/portfolioOne.jpg"  style="object-fit: cover;width: 100%; border:6px solid #27D6FC;"/>
+											<img src="./images/portfolioThree.jpg" style="object-fit: cover;width: 100%; border:6px solid #27D6FC;" />
 										</div>
 									</div>
 									<div class="col-3 col-12-medium">
 										<div class="logo-images">
-											<img src="./images/logodesign2.png" />
-											<img src="./images/logodesign4.png" />
+											<img src="./images/portfolioTwo.jpg" style="object-fit: cover;width: 100%; border:6px solid #27D6FC;" />
+											<img src="./images/portfolioFour.jpg" style="object-fit: cover;width: 100%; border:6px solid #27D6FC;" />
 										</div>
 									</div>
 								</div>
@@ -661,941 +785,190 @@
 		</section>
 
 		<section id="recent-past">
-			<div class="container">
-				<div class="row">
-					<div class="heading-text" style="color: #fff; padding-bottom: 60px;">
-						<h3>Work In
-						</h3>
-						<h1><b>Recent </b>Past</h1>
-					</div>
-				</div>
-			</div>
-
-			<!-- TABS GALLERY SECTION START -->
-			<ul class="nav nav-tabs d-none d-lg-flex" id="myTab" role="tablist">
-				<li class="nav-item" role="presentation">
-					<button class="nav-link active" id="home-tab4" data-bs-toggle="tab" data-bs-target="#home-tab-pane4"
-						type="button" role="tab" aria-controls="home-tab-pane4" aria-selected="true">Websites</button>
-				</li>
-				<li class="nav-item" role="presentation">
-					<button class="nav-link" id="profile-tab4" data-bs-toggle="tab" data-bs-target="#profile-tab-pane4"
-						type="button" role="tab" aria-controls="profile-tab-pane4" aria-selected="false">Logos</button>
-				</li>
-				<li class="nav-item" role="presentation">
-					<button class="nav-link" id="profile-tab5" data-bs-toggle="tab" data-bs-target="#profile-tab-pane5"
-						type="button" role="tab" aria-controls="profile-tab-pane5" aria-selected="false">Branding</button>
-				</li>
-				<li class="nav-item" role="presentation">
-					<button class="nav-link" id="profile-tab6" data-bs-toggle="tab" data-bs-target="#profile-tab-pane6"
-						type="button" role="tab" aria-controls="#profile-tab-pane6" aria-selected="false">Social Media Marketing</button>
-				</li>
-
-				<li class="nav-item" role="presentation">
-					<button class="nav-link" id="profile-tab7" data-bs-toggle="tab" data-bs-target="#profile-tab-pane7"
-						type="button" role="tab" aria-controls="#profile-tab-pane7" aria-selected="false">Mobile App Design</button>
-				</li>
-			</ul>
-			<!-- TABS GALLERY SECTION END -->
-
-			<!-- TAB-INNER SECTION START -->
-
-			<!-- WEBSITE GALLERY -->
-			<div class="tab-content accordion ghm" id="myTabContent">
-				<div class="tab-pane fade show active accordion-item" id="home-tab-pane4" role="tabpanel" aria-labelledby="home-tab4" tabindex="0">
-					<div id="collapseOne" class="accordion-collapse collapse show  d-lg-block" aria-labelledby="headingOne"
-						data-bs-parent="#myTabContent">
-						<div class="gallery-container">
-							<div class="gallery-item" data-index="1">
-								<img src="./images/portfolioimages/1.png">
-							</div>
-							<div class="gallery-item" data-index="2">
-								<img src="./images/portfolioimages/2.png">
-							</div>
-							<div class="gallery-item" data-index="3">
-								<img src="./images/portfolioimages/3.png">
-							</div>
-							<div class="gallery-item" data-index="4">
-								<img src="./images/portfolioimages/4.png">
-							</div>
-							<div class="gallery-item" data-index="5">
-								<img src="./images/portfolioimages/5.png">
-							</div>
-							<div class="gallery-item" data-index="6">
-								<img src="./images/portfolioimages/6.png">
-							</div>
-							<div class="gallery-item" data-index="7">
-								<img src="./images/portfolioimages/7.png">
-							</div>
-							<div class="gallery-item" data-index="8">
-								<img src="./images/portfolioimages/8.png">
-							</div>
-						</div>
-					</div>
-
-				</div>
-
-			</div>
-			<!-- WEBSITE GALLERY END -->
-
-
-			<!-- LOGOS GALLERY START -->
-			<div class="tab-pane fade accordion-item prr" id="profile-tab-pane4" role="tabpanel" aria-labelledby="profile-tab4" tabindex="0">
-				<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
-					<div class="gallery-container">
-						<div class="gallery-item" data-index="1">
-							<img src="./images/portfolioimages/1.png">
-						</div>
-						<div class="gallery-item" data-index="2">
-							<img src="./images/portfolioimages/2.png">
-						</div>
-						<div class="gallery-item" data-index="3">
-							<img src="./images/portfolioimages/3.png">
-						</div>
-						<div class="gallery-item" data-index="4">
-							<img src="./images/portfolioimages/4.png">
-						</div>
-						<div class="gallery-item" data-index="5">
-							<img src="./images/portfolioimages/5.png">
-						</div>
-						<div class="gallery-item" data-index="6">
-							<img src="./images/portfolioimages/6.png">
-						</div>
-						<div class="gallery-item" data-index="7">
-							<img src="./images/portfolioimages/7.png">
-						</div>
-						<div class="gallery-item" data-index="8">
-							<img src="./images/portfolioimages/8.png">
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- LOGOS GALLERY END -->
-
-			<!-- Branding Gallery Start -->
-			<div class="tab-pane fade accordion-item prr" id="profile-tab-pane5" role="tabpanel" aria-labelledby="profile-tab5" tabindex="0">
-				<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
-					<div class="gallery-container">
-						<div class="gallery-item" data-index="1">
-							<img src="./images/portfolioimages/1.png">
-						</div>
-						<div class="gallery-item" data-index="2">
-							<img src="./images/portfolioimages/2.png">
-						</div>
-						<div class="gallery-item" data-index="3">
-							<img src="./images/portfolioimages/3.png">
-						</div>
-						<div class="gallery-item" data-index="4">
-							<img src="./images/portfolioimages/4.png">
-						</div>
-						<div class="gallery-item" data-index="5">
-							<img src="./images/portfolioimages/5.png">
-						</div>
-						<div class="gallery-item" data-index="6">
-							<img src="./images/portfolioimages/6.png">
-						</div>
-						<div class="gallery-item" data-index="7">
-							<img src="./images/portfolioimages/7.png">
-						</div>
-						<div class="gallery-item" data-index="8">
-							<img src="./images/portfolioimages/8.png">
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<!-- Branding Gallery End -->
-
-			<!-- Social Media Marketing Gallery Start -->
-			<div class="tab-pane fade accordion-item prr" id="profile-tab-pane6" role="tabpanel" aria-labelledby="profile-tab6" tabindex="0">
-				<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
-					<div class="gallery-container">
-						<div class="gallery-item" data-index="1">
-							<img src="./images/portfolioimages/1.png">
-						</div>
-						<div class="gallery-item" data-index="2">
-							<img src="./images/portfolioimages/2.png">
-						</div>
-						<div class="gallery-item" data-index="3">
-							<img src="./images/portfolioimages/3.png">
-						</div>
-						<div class="gallery-item" data-index="4">
-							<img src="./images/portfolioimages/4.png">
-						</div>
-						<div class="gallery-item" data-index="5">
-							<img src="./images/portfolioimages/5.png">
-						</div>
-						<div class="gallery-item" data-index="6">
-							<img src="./images/portfolioimages/6.png">
-						</div>
-						<div class="gallery-item" data-index="7">
-							<img src="./images/portfolioimages/7.png">
-						</div>
-						<div class="gallery-item" data-index="8">
-							<img src="./images/portfolioimages/8.png">
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- Social Media Marketing Gallery END -->
-
-			<!-- Mobile App Gallery Start -->
-			<div class="tab-pane fade accordion-item prr" id="profile-tab-pane7" role="tabpanel" aria-labelledby="profile-tab7" tabindex="0">
-				<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
-					<div class="gallery-container">
-						<div class="gallery-item" data-index="1">
-							<img src="./images/portfolioimages/1.png">
-						</div>
-						<div class="gallery-item" data-index="2">
-							<img src="./images/portfolioimages/2.png">
-						</div>
-						<div class="gallery-item" data-index="3">
-							<img src="./images/portfolioimages/3.png">
-						</div>
-						<div class="gallery-item" data-index="4">
-							<img src="./images/portfolioimages/4.png">
-						</div>
-						<div class="gallery-item" data-index="5">
-							<img src="./images/portfolioimages/5.png">
-						</div>
-						<div class="gallery-item" data-index="6">
-							<img src="./images/portfolioimages/6.png">
-						</div>
-						<div class="gallery-item" data-index="7">
-							<img src="./images/portfolioimages/7.png">
-						</div>
-						<div class="gallery-item" data-index="8">
-							<img src="./images/portfolioimages/8.png">
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- Mobile App Gallery END -->
-
-			<!-- TAB INNER SECTION END -->
-
-			<!-- GALLERY START -->
-
-
-			<!-- GALLERY END -->
-			<div class="custom-portoflio-button" style="padding-top: 40px;">
-				<ul>
-					<li>
-						<div class="brand-button">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
-					</li>
-					<li>
-						<div class="brand-button">
-							<h6><a href="#">View Portfolio</a></h6>
-						</div>
-					</li>
-				</ul>
-			</div>
-		</section>
-
-		<section id="price-plans-section" style="padding-top: 60px; padding-bottom: 60px;">
-			<div class="container">
-				<div class="row" style="margin: auto;">
-					<div class="heading-text" style="text-align: center;">
-						<h3>Reasonable </h3>
-						<h1><b>Pricing</b> And Plans</h1>
-						<p style="color: #fff; padding-bottom: 40px;">We are far from a One-Price-For-All model. We created design and marketing <br>
-							solutions that fit every budget and need. </p>
-					</div>
-
-					<!-- TABS PRICE START -->
-					<ul class="nav nav-tabs d-none d-lg-flex" id="myTab" role="tablist">
-						<li class="nav-item" role="presentation">
-							<button class="nav-link active" id="home-tab09" data-bs-toggle="tab" data-bs-target="#home-tab-pane09"
-								type="button" role="tab" aria-controls="home-tab-pane09" aria-selected="true">Websites</button>
-						</li>
-						<li class="nav-item" role="presentation">
-							<button class="nav-link" id="profile-tab08" data-bs-toggle="tab" data-bs-target="#profile-tab-pane08"
-								type="button" role="tab" aria-controls="profile-tab-pane08" aria-selected="false">Logos</button>
-						</li>
-						<li class="nav-item" role="presentation">
-							<button class="nav-link" id="profile-tab07" data-bs-toggle="tab" data-bs-target="#profile-tab-pane07"
-								type="button" role="tab" aria-controls="profile-tab-pane07" aria-selected="false">Branding</button>
-						</li>
-						<li class="nav-item" role="presentation">
-							<button class="nav-link" id="profile-tab06" data-bs-toggle="tab" data-bs-target="#profile-tab-pane06"
-								type="button" role="tab" aria-controls="#profile-tab-pane06" aria-selected="false">Social Media </button>
-						</li>
-
-						<li class="nav-item" role="presentation">
-							<button class="nav-link" id="profile-tab05" data-bs-toggle="tab" data-bs-target="#profile-tab-pane05"
-								type="button" role="tab" aria-controls="#profile-tab-pane05" aria-selected="false">SEO</button>
-						</li>
-						<li class="nav-item" role="presentation">
-							<button class="nav-link" id="profile-tab04" data-bs-toggle="tab" data-bs-target="#profile-tab-pane04"
-								type="button" role="tab" aria-controls="#profile-tab-pane04" aria-selected="false">Animations</button>
-						</li>
-					</ul>
-					<!-- TABS PRICE END -->
-
-
-					<!-- WEBSITE PRICE PLAN SECTION -->
-					<div class="tab-content accordion ghm" id="myTabContent">
-						<div class="tab-pane fade show active accordion-item" id="home-tab-pane09" role="tabpanel" aria-labelledby="home-tab09" tabindex="0">
-							<div id="collapseOne" class="accordion-collapse collapse show  d-lg-block" aria-labelledby="headingOne"
-								data-bs-parent="#myTabContent">
-								<div class="container">
-									<div class="row" style="margin: auto !important;">
-										<div class="col-4 col-12-medium">
-											<div class="price-inner-plan">
-												<h2 class="heading-pricing-colors">ESSENTIAL PLAN</h2>
-												<div class="price-heading-text">
-													<h2>Value Added Design Solution</h2>
-													<h4>$199.00</h4>
-												</div>
-												<div class="price-list">
-													<ul>
-														<li>3 Page Website</li>
-														<li>2 Stock Images</li>
-														<li>Contact/Query Form</li>
-														<li>Complete Deployment</li>
-														<li>Dedicated Account Manager</li>
-														<li>48 to 72 hours TAT</li>
-														<li>100% Satisfaction Guarantee</li>
-														<li>100% Unique Design Guarantee</li>
-													</ul>
-
-												</div>
-
-											</div>
-
-										</div>
-
-										<div class="col-4 col-12-medium">
-											<div class="price-inner-plan">
-												<h2 class="heading-pricing-colors">TEAM PLAN</h2>
-												<div class="price-heading-text">
-													<h2>Value Added Design Solution</h2>
-													<h4>$499.00</h4>
-												</div>
-												<div class="price-list">
-
-													<ul>
-														<li>5-6 Unique Pages Website</li>
-														<li>5 Stock Photos</li>
-														<li>1 Banner Design</li>
-														<li>1 jQuery Slider Banner</li>
-														<li>Google Friendly Sitemap</li>
-														<li>Complete Deployment</li>
-														<li>W3C Certified HTML</li>
-														<li>Cross Browser Compatible</li>
-														<li>Dedicated Account Manager</li>
-														<li>48 to 72 hours TAT</li>
-														<li>100% Satisfaction Guarantee</li>
-														<li>100% Unique Design Guarantee</li>
-													</ul>
-												</div>
-
-											</div>
-
-										</div>
-
-
-										<div class="col-4 col-12-medium">
-											<div class="price-inner-plan">
-												<h2 class="heading-pricing-colors">CORPORATE PLAN</h2>
-												<div class="price-heading-text">
-													<h2>Value Added Design Solution</h2>
-													<h4>$799.00</h4>
-												</div>
-												<div class="price-list">
-
-													<ul>
-														<li> 10 Unique Pages Website</li>
-
-														<li>CMS Integration</li>
-
-														<li>Custom WordPress Backend</li>
-
-														<li>8 Stock images</li>
-
-														<li>3 Slider Banner Design</li>
-
-														<li>1 jQuery Slider Banner</li>
-
-														<li>FREE Google Friendly Sitemap</li>
-
-														<li>Complete Deployment</li>
-
-														<li>W3C Certified HTML</li>
-
-														<li>Mobile Responsive</li>
-
-														<li>Cross Browser Compatible</li>
-
-														<li>Dedicated Account Manager</li>
-
-														<li>48 to 72 hours TAT</li>
-
-														<li>100% Satisfaction Guaranteed</li>
-
-														<li>100% Unique Design Guaranteed</li>
-													</ul>
-												</div>
-
-											</div>
-
-										</div>
-
-										<div class="custom-price-button" style="padding-top: 70px;">
-											<ul>
-												<li>
-													<div class="brand-button">
-														<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-													</div>
-												</li>
-												<li>
-													<div class="brand-button">
-														<h6><a href="#">View More</a></h6>
-													</div>
-												</li>
-											</ul>
-										</div>
-
-									</div>
-								</div>
-							</div>
-
-						</div>
-
-					</div>
-					<!-- WEBSITE PRICE SECTION END -->
-
-					<!-- LOGOS PRICE PLAN Start -->
-					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane08" role="tabpanel" aria-labelledby="profile-tab08" tabindex="0">
-						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
-							<div class="container">
-								<div class="row">
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-											<h2 class="heading-pricing-colors">ESSENTIAL</h2>
-											<div class="price-heading-text">
-												<h2>Value Added Design Solution</h2>
-												<h4>$49.00</h4>
-											</div>
-											<div class="price-list">
-
-												<ul>
-													<li>2 Logo Concepts</li>
-													<li>4 Revisions (Additional $20)</li>
-													<li>By 2 Top Rated Dedicated Designers</li>
-													<li>24 - 48 Hours Turnaround Time</li>
-													<li>Final Files (Jpeg, PNG)</li>
-
-												</ul>
-											</div>
-
-										</div>
-
-									</div>
-
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-											<h2 class="heading-pricing-colors">TEAM</h2>
-											<div class="price-heading-text">
-												<h2>Value Added Design Solution</h2>
-												<h4>$119.00</h4>
-											</div>
-											<div class="price-list">
-
-												<ul>
-													<li>4 Logo Concepts</li>
-													<!--<li>12 Revisions</li>-->
-													<!--<li>By 2 Top Rated Dedicated Designers</li>-->
-													<li>Free Business Card Design Stationery Design (Business Cards, Letterhead, Invoice)</li>
-													<li>Free Icon</li>
-													<li>24 - 48 Hours Turnaround Time</li>
-													<li>Final Files (PDF, SVG, EPS, Jpeg, PNG, Tif</li>
-												</ul>
-											</div>
-
-										</div>
-
-									</div>
-
-
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-											<h2 class="heading-pricing-colors">CORPORATE</h2>
-											<div class="price-heading-text">
-												<h2>Value Added Design Solution</h2>
-												<h4>$249.00</h4>
-											</div>
-											<div class="price-list">
-
-												<ul>
-													<li>6 Logo Concepts</li>
-													<li>12 Revisions</li>
-													<li>By 2 Top Rated Dedicated Designers</li>
-													<li>Free Business Card Design Stationery Design (Business Cards, Letterhead, Invoice)</li>
-													<li>Free Icon</li>
-													<li>24 - 48 Hours Turnaround Time</li>
-													<li>Final Files (PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-												</ul>
-											</div>
-
-										</div>
-
-									</div>
-
-									<div class="custom-price-button" style="padding-top: 70px;">
-										<ul>
-											<li>
-												<div class="brand-button">
-													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-												</div>
-											</li>
-											<li>
-												<div class="brand-button">
-													<h6><a href="#">View More</a></h6>
-												</div>
-											</li>
-										</ul>
-									</div>
-
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- LOGOS PRICE PLAN END -->
-
-
-					<!-- BRANDING PRICE PLAN Start -->
-					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane07" role="tabpanel" aria-labelledby="profile-tab07" tabindex="0">
-						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
-							<div class="container">
-								<div class="row">
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-											<h2 class="heading-pricing-colors">Startup Collateral</h2>
-											<div class="price-heading-text">
-												<h2>Best Value for Money Guaranteed!</h2>
-												<h4>$99</h4>
-											</div>
-											<div class="price-list">
-												<ul>
-													<li>2 Stationery Design Set</li>
-													<li>FREE Fax Template</li>
-													<li>Print Ready Formats</li>
-													<li>UNLIMITED Revisions</li>
-													<li>100% Satisfaction Guarantee</li>
-													<li>100% Money Back Guarantee</li>
-
-												</ul>
-											</div>
-
-										</div>
-
-									</div>
-
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-											<h2 class="heading-pricing-colors">Collateral Classic</h2>
-											<div class="price-heading-text">
-												<h2>Best Value for Money Guaranteed!</h2>
-												<h4>$199</h4>
-											</div>
-											<div class="price-list">
-												<ul>
-													<li>4 Stationery Design Set</li>
-													<li>UNLIMITED Revisions</li>
-													<li>Flyer Design</li>
-													<li>Brochure Design (Bi-fold/Tri-fold)</li>
-													<li>100% Satisfaction Guarantee</li>
-													<li>100% Money Back Guarantee</li>
-												</ul>
-											</div>
-
-										</div>
-
-									</div>
-
-
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-											<h2 class="heading-pricing-colors">Premium Collateral</h2>
-											<div class="price-heading-text">
-												<h2>Best Value for Money Guaranteed!</h2>
-												<h4>$399</h4>
-											</div>
-											<div class="price-list">
-												<ul>
-													<li><span>6 Stationery Design Set</span></li>
-													<li><span>Packaging Design</span></li>
-													<li><span>UNLIMITED Revisions</span></li>
-													<li><span>T-Shirt Design</span></li>
-													<li><span>100% Satisfaction Guarantee</span></li>
-													<li><span>100% Money Back Guarantee </span></li>
-												</ul>
-											</div>
-
-										</div>
-
-									</div>
-
-									<div class="custom-price-button" style="padding-top: 70px;">
-										<ul>
-											<li>
-												<div class="brand-button">
-													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-												</div>
-											</li>
-											<li>
-												<div class="brand-button">
-													<h6><a href="#">View More</a></h6>
-												</div>
-											</li>
-										</ul>
-									</div>
-
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- BRANDING PRICE PLAN END -->
-
-
-					<!-- Social Media Marketing PRICE PLAN Start -->
-					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane06" role="tabpanel" aria-labelledby="profile-tab06" tabindex="0">
-						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
-							<div class="container">
-								<div class="row">
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-											<h2 class="heading-pricing-colors">Startup Plan</h2>
-											<div class="price-heading-text">
-												<h2>Quarterly Plan</h2>
-												<h4>$1125</h4>
-											</div>
-											<div class="price-list">
-												<ul>
-													<li>Features: 12 Post Per Month</li>
-													<li>Reels Posts: 3 Reel Per Month</li>
-													<li>Graphics Posts: 4 Graphics Per Month</li>
-													<li>Carousel: 5 Carousel Per Month</li>
-													<li>Stories+Highlights (Complimentary): 2 Stories/Highlights</li>
-													<li>Number Of Networks: 2 Networks</li>
-													<li>Social Media Marketing Strategy</li>
-													<li>Dedicated Social Media Account Manager</li>
-													<li>Daily/Weekly Monitoring Of Included Social Assets</li>
-												</ul>
-											</div>
-
-										</div>
-
-									</div>
-
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-											<h2 class="heading-pricing-colors">Scaling Plan</h2>
-											<div class="price-heading-text">
-												<h2>Quarterly Plan</h2>
-												<h4>$2250</h4>
-											</div>
-											<div class="price-list">
-												<ul>
-													<li>Features: 16 Post Per Month</li>
-													<li>Reels Posts: 4 Reel Per Month</li>
-													<li>Graphics Posts: 6 Graphics Per Month</li>
-													<li>Carousel: 6 Carousel Per Month</li>
-													<li>Stories+Highlights (Complimentary): 4 Stories/Highlights</li>
-													<li>Number Of Networks: 3 Networks</li>
-													<li>Social Media Marketing Strategy</li>
-													<li>Social Media Competitive Analysis</li>
-													<li>Social Media Brand Reputation Analysis</li>
-													<li>Social Media Audit + Recommendations</li>
-													<li>Dedicated Social Media Account Manager</li>
-													<li>Daily/Weekly Monitoring Of Included Social Assets</li>
-													<li>Standard Monthly Reporting And Analysis</li>
-													<li>Cross-Platform Integration</li>
-													<li>Network Setup &amp; Optimization</li>
-												</ul>
-											</div>
-
-										</div>
-
-									</div>
-
-
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-											<h2 class="heading-pricing-colors">Venture Plan</h2>
-											<div class="price-heading-text">
-												<h2>Quarterly Plan</h2>
-												<h4>$4725</h4>
-											</div>
-											<div class="price-list">
-												<ul>
-													<li>Features: 24 Post Per Month</li>
-													<li>Reels Posts: 6 Reel Per Month</li>
-													<li>Graphics Posts: 9 Graphics Per Month</li>
-													<li>Carousel: 9 Carousel Per Month</li>
-													<li>Stories+Highlights (Complimentary): 6 Stories/Highlights</li>
-													<li>Number Of Networks: 7 Networks</li>
-													<li>Social Media Marketing Strategy</li>
-													<li>Social Media Competitive Analysis</li>
-													<li>Social Media Brand Reputation Analysis</li>
-													<li>Social Media Audit + Recommendations</li>
-													<li>Dedicated Social Media Account Manager</li>
-													<li>Daily/Weekly Monitoring Of Included Social Assets</li>
-													<li>Standard Monthly Reporting And Analysis</li>
-													<li>Cross-Platform Integration</li>
-													<li>Network Setup &amp; Optimization</li>
-												</ul>
-											</div>
-
-										</div>
-
-									</div>
-
-									<div class="custom-price-button" style="padding-top: 70px;">
-										<ul>
-											<li>
-												<div class="brand-button">
-													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-												</div>
-											</li>
-											<li>
-												<div class="brand-button">
-													<h6><a href="#">View More</a></h6>
-												</div>
-											</li>
-										</ul>
-									</div>
-
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- Social Media Marketing PRICE PLAN END -->
-
-
-					<!-- Mobile App Design PRICE PLAN Start -->
-					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane05" role="tabpanel" aria-labelledby="profile-tab05" tabindex="0">
-						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
-							<div class="container">
-								<div class="row">
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-											<h2 class="heading-pricing-colors">Startup Plan</h2>
-											<div class="price-heading-text">
-												<h2>Quarterly Plan</h2>
-												<h4>$750</h4>
-											</div>
-											<div class="price-list">
-
-												<ul>
-													<li>Features: 10 Keywords</li>
-													<li>Prior Analysis</li>
-													<li>Pages Keyword Targeted: 5 Pages</li>
-													<li>Web Page Optimization</li>
-													<li>On Page Optimization</li>
-													<li>Meta Data</li>
-													<li>Off Page Optimization</li>
-													<li>Content Creation</li>
-													<li>Guest Bloging: 06 Per Month</li>
-													<li>Web 2.0</li>
-													<li>Bussiness Listing</li>
-												</ul>
-											</div>
-
-										</div>
-
-									</div>
-
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-											<h2 class="heading-pricing-colors">Scaling Plan</h2>
-											<div class="price-heading-text">
-												<h2>Quarterly Plan</h2>
-												<h4>$1750</h4>
-											</div>
-											<div class="price-list">
-												<ul>
-													<li>Features: 25 Keywords</li>
-													<li>Prior Analysis</li>
-													<li>Pages Keyword Targeted: 15 Pages</li>
-													<li>Web Page Optimization</li>
-													<li>On Page Optimization</li>
-													<li>Meta Data</li>
-													<li>Off Page Optimization</li>
-													<li>Content Creation</li>
-													<li>Guest Bloging: 12 Per Month</li>
-													<li>Web 2.0</li>
-													<li>Bussiness Listing</li>
-													<li> Reporting</li>
-													<li>Website Audit</li>
-												</ul>
-											</div>
-
-										</div>
-
-									</div>
-
-
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-											<h2 class="heading-pricing-colors">Venture Plan</h2>
-											<div class="price-heading-text">
-												<h2>Quarterly Plan</h2>
-												<h4>$2500</h4>
-											</div>
-											<div class="price-list">
-												<ul>
-													<li>Features: 35 Keywords</li>
-													<li>Prior Analysis</li>
-													<li>Pages Keyword Targeted: 25 Pages</li>
-													<li>Web Page Optimization</li>
-													<li>On Page Optimization</li>
-													<li>Meta Data</li>
-													<li>Off Page Optimization</li>
-													<li>Content Creation</li>
-													<li>Guest Bloging: 16 Per Month</li>
-													<li>Web 2.0</li>
-													<li>Bussiness Listing</li>
-													<li>
-														Reporting
-													</li>
-													<li>Website Audit</li>
-												</ul>
-											</div>
-
-										</div>
-
-									</div>
-
-									<div class="custom-price-button" style="padding-top: 70px;">
-										<ul>
-											<li>
-												<div class="brand-button">
-													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-												</div>
-											</li>
-											<li>
-												<div class="brand-button">
-													<h6><a href="#">View More</a></h6>
-												</div>
-											</li>
-										</ul>
-									</div>
-
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- Mobile App Design PRICE PLAN END -->
-					<!-- animations -->
-					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane04" role="tabpanel" aria-labelledby="profile-tab04" tabindex="0">
-						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
-							<div class="container">
-								<div class="row">
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-											<h2 class="heading-pricing-colors">Startup Video</h2>
-											<div class="price-heading-text">
-												<h2>15Sec Video</h2>
-												<h4>$299.00</h4>
-											</div>
-											<div class="price-list">
-
-												<ul>
-													<li><span>Premium Video References</span></li>
-													<li>15s Duration</li>
-													<li>Video Quality – HD 1080</li>
-													<li>1 revision allowed for each phase</li>
-													<li>Storyboard</li>
-													<li>Voice Over (optional)</li>
-													<li>Characters &amp; Graphics</li>
-													<li>Animation</li>
-													<li>Final Files Included: MP4</li>
-												</ul>
-											</div>
-
-										</div>
-
-									</div>
-
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-											<h2 class="heading-pricing-colors">Basic Video</h2>
-											<div class="price-heading-text">
-												<h2>30Sec Video</h2>
-												<h4>$599.00</h4>
-											</div>
-											<div class="price-list">
-												<ul>
-													<li><span>Premium Video References</span></li>
-													<li>30s Duration – HD 1080</li>
-													<li>2 revisions allowed for each phase</li>
-													<li>Professional Script</li>
-													<li>Storyboard</li>
-													<li>Voice Over</li>
-													<li>Custom Setting, Characters &amp; Graphics</li>
-													<li>Animation Effects</li>
-													<li>Final Files Included: MP4</li>
-												</ul>
-											</div>
-
-										</div>
-
-									</div>
-
-
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-											<h2 class="heading-pricing-colors">Silver Video</h2>
-											<div class="price-heading-text">
-												<h2>45Sec Video</h2>
-												<h4>$899.00</h4>
-											</div>
-											<div class="price-list">
-
-												<ul>
-													<li><span>Premium Video References</span></li>
-													<li>45s Duration – HD 1080</li>
-													<li>3 revisions allowed for each phase</li>
-													<li>Professional Script</li>
-													<li>Storyboard draft/theme and illustrations</li>
-													<li>Voice Over</li>
-													<li>Custom Setting, Characters &amp; Graphics</li>
-													<li>Animation Effects</li>
-													<li>Final Files Included: MP4</li>
-												</ul>
-											</div>
-
-										</div>
-
-									</div>
-
-									<div class="custom-price-button" style="padding-top: 70px;">
-										<ul>
-											<li>
-												<div class="brand-button">
-													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-												</div>
-											</li>
-											<li>
-												<div class="brand-button">
-													<h6><a href="#">View More</a></h6>
-												</div>
-											</li>
-										</ul>
-									</div>
-
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- animations -->
-
-				</div>
-			</div>
-		</section>
+      <div class="container">
+        <div class="row">
+          <div class="heading-text" style="color: #fff; padding-bottom: 60px;">
+            <h3>Work In
+            </h3>
+            <h2><b>Recent </b>Past</h2>
+          </div>
+        </div>
+      </div>
+
+      <ul class="nav nav-tabs d-lg-flex" id="myTab" role="tablist">
+        <li class="nav-item" role="presentation">
+          <button class="nav-link active" id="home-tab4" data-bs-toggle="tab" data-bs-target="#home-tab-pane4"
+            type="button" role="tab" aria-controls="home-tab-pane4" aria-selected="true">Websites</button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button class="nav-link" id="profile-tab4" data-bs-toggle="tab" data-bs-target="#profile-tab-pane4"
+            type="button" role="tab" aria-controls="profile-tab-pane4" aria-selected="false">Logos</button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button class="nav-link" id="profile-tab5" data-bs-toggle="tab" data-bs-target="#profile-tab-pane5"
+            type="button" role="tab" aria-controls="profile-tab-pane5" aria-selected="false">Branding</button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button class="nav-link" id="profile-tab6" data-bs-toggle="tab" data-bs-target="#profile-tab-pane6"
+            type="button" role="tab" aria-controls="#profile-tab-pane6" aria-selected="false">Social Media
+            Marketing</button>
+        </li>
+
+        <li class="nav-item" role="presentation">
+          <button class="nav-link" id="profile-tab7" data-bs-toggle="tab" data-bs-target="#profile-tab-pane7"
+            type="button" role="tab" aria-controls="#profile-tab-pane7" aria-selected="false">Mobile App Design</button>
+        </li>
+      </ul>
+
+      <div class="tab-content accordion ghm" id="myTabContent">
+        <div class="tab-pane fade show active accordion-item" id="home-tab-pane4" role="tabpanel"
+          aria-labelledby="home-tab4" tabindex="0">
+          <div id="collapseOne" class="accordion-collapse collapse show  d-lg-block about-us" aria-labelledby="headingOne"
+            data-bs-parent="#myTabContent">
+            <div class="gallery-container">
+              <div class="gallery-item" data-index="1">
+                <img src="images/websitedesigns/portfolio/1.png">
+              </div>
+              <div class="gallery-item" data-index="2">
+                <img src="images/websitedesigns/portfolio/2.jpg">
+              </div>
+              <div class="gallery-item" data-index="3">
+                <img src="images/websitedesigns/portfolio/3.jpg">
+              </div>
+              <div class="gallery-item" data-index="4">
+                <img src="images/websitedesigns/portfolio/4.jpg">
+              </div>
+              
+            </div> 
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="tab-pane fade accordion-item prr" id="profile-tab-pane4" role="tabpanel"
+        aria-labelledby="profile-tab4" tabindex="0">
+        <div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo"
+          data-bs-parent="#myTabContent">
+          <div class="gallery-container">
+            <div class="gallery-item" data-index="5">
+              <img src="images/Logodesign/portfolio/logo1.jpg">
+            </div>
+            <div class="gallery-item" data-index="6">
+              <img src="images/Logodesign/portfolio/logo2.jpg">
+            </div>
+            <div class="gallery-item" data-index="7">
+              <img src="images/Logodesign/portfolio/logo3.jpg">
+            </div>
+            <div class="gallery-item" data-index="8">
+              <img src="images/Logodesign/portfolio/logo4.jpg">
+            </div>
+            
+          </div>
+        </div>
+      </div>
+
+      <div class="tab-pane fade accordion-item prr" id="profile-tab-pane5" role="tabpanel"
+        aria-labelledby="profile-tab5" tabindex="0">
+        <div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo"
+          data-bs-parent="#myTabContent">
+          <div class="gallery-container">
+            <div class="gallery-item" data-index="9">
+              <img style="
+    object-fit: cover;
+    width: 100%;
+    border:6px solid #27D6FC;
+" src="images/portfolioOne.jpg" /> 
+            </div>
+            <div class="gallery-item" data-index="10">
+              <img style="
+    object-fit: cover;
+    width: 100%;
+    border:6px solid #27D6FC;
+" src="images/portfolioTwo.jpg" /> 
+            </div>
+            <div class="gallery-item" data-index="11">
+             <img style="
+    object-fit: cover;
+    width: 100%;
+    border:6px solid #27D6FC;
+" src="images/portfolioThree.jpg" /> 
+            </div>
+            <div class="gallery-item" data-index="12">
+              <img style="
+    object-fit: cover;
+    width: 100%;
+    border:6px solid #27D6FC;
+" src="images/portfolioFour.jpg" /> 
+            </div>
+         
+          </div>
+        </div>
+      </div>
+
+
+      <div class="tab-pane fade accordion-item prr" id="profile-tab-pane6" role="tabpanel"
+        aria-labelledby="profile-tab6" tabindex="0">
+        <div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo"
+          data-bs-parent="#myTabContent">
+          <div class="gallery-container">
+            <div class="gallery-item" data-index="13">
+              <img src="images/portfolioimages/1.png">
+            </div>
+            <div class="gallery-item" data-index="14">
+              <img src="images/portfolioimages/2.png">
+            </div>
+            <div class="gallery-item" data-index="15">
+              <img src="images/portfolioimages/3.png">
+            </div>
+            <div class="gallery-item" data-index="16">
+              <img src="images/portfolioimages/4.png">
+            </div>
+            
+          </div>
+        </div>
+      </div>
+
+
+      <div class="tab-pane fade accordion-item prr" id="profile-tab-pane7" role="tabpanel"
+        aria-labelledby="profile-tab7" tabindex="0">
+        <div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo"
+          data-bs-parent="#myTabContent">
+           <div class="gallery-container">
+            <div class="gallery-item" data-index="17">
+              <img style="width:70%" src="images/portfolioimages/mok1.png">
+            </div>
+            <div class="gallery-item" data-index="18">
+              <img style="width:70%" src="images/portfolioimages/mok2.png">
+            </div>
+            <div class="gallery-item" data-index="19">
+              <img style="width:70%" src="images/portfolioimages/mok3.png">
+            </div>
+            <div class="gallery-item" data-index="20">
+              <img style="width:70%" src="images/portfolioimages/mok4.png">
+            </div>
+            
+          </div>
+        </div>
+      </div>
+
+      <div class="custom-portoflio-button" style="padding-top: 40px;">
+        <ul>
+          <li>
+            <div class="brand-button">
+              <h6><a href="contact.html">Get Started</a></h6>
+            </div>
+          </li>
+          <li>
+            <div class="brand-button">
+              <h6><a href="portfolio.html">View Portfolio</a></h6>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+		<?php include_once("pricing-global.php") ?>
 
 
 
@@ -1613,8 +986,8 @@
 			</div>
 
 			<div class="container">
-				<div class="row" style="margin: auto;">
-					<div class="col-lg-4">
+				<div class="center">
+					<div class="px-2 py-2">
 						<div class="indutries-image">
 							<img src="./images/industries-image-1.jpg" alt="">
 						</div>
@@ -1622,7 +995,7 @@
 							<p>Logistics</p>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="px-2 py-2">
 						<div class="indutries-image">
 							<img src="./images/industries-image-2.jpg" alt="">
 						</div>
@@ -1630,7 +1003,7 @@
 							<p>Automotive</p>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="px-2 py-2">
 						<div class="indutries-image">
 							<img src="./images/industries-image-3.jpg" alt="">
 						</div>
@@ -1638,7 +1011,48 @@
 							<p>Healthcare</p>
 						</div>
 					</div>
+					<div class="px-2 py-2">
+						<div class="indutries-image">
+							<img src="./images/industries-image-4.jpg" alt="">
+						</div>
+						<div class="industries-text">
+							<p>Manufacturing</p>
+						</div>
+					</div>
+					<div class="px-2 py-2">
+						<div class="indutries-image">
+							<img src="./images/industries-image-5.jpg" alt="">
+						</div>
+						<div class="industries-text">
+							<p>Sports</p>
+						</div>
+					</div>
+					<div class="px-2 py-2">
+						<div class="indutries-image">
+							<img src="./images/industries-image-6.jpg" alt="">
+						</div>
+						<div class="industries-text">
+							<p>E-learning</p>
+						</div>
+					</div>
+					<div class="px-2 py-2">
+						<div class="indutries-image">
+							<img src="./images/industries-image-7.jpg" alt="">
+						</div>
+						<div class="industries-text">
+							<p>Transportation</p>
+						</div>
+					</div>
+					<div class="px-2 py-2">
+						<div class="indutries-image">
+							<img src="./images/industries-image-8.jpg" alt="">
+						</div>
+						<div class="industries-text">
+							<p>Agriculture</p>
+						</div>
+					</div>
 				</div>
+
 
 			</div>
 

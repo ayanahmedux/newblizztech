@@ -7,56 +7,56 @@
 		<!-- top-header -->
 		<?php include_once("includes/header.php") ?>
 		<!-- Service Logo first section -->
-		 <section id="logo-designs-sec">
-		<div class="service-logosection" style="padding-top: 50px; padding-left: 50px; padding-right: 50px;">
-			<div class="container">
-				<div class="row" style="margin: auto !important;">
-					<div class="col-6 col-12-medium align-self-center">
-						<div class="first-inner-section-text">
-							<h1><img class="greenline" src="./images/greenlinetext.png" /><b> LOGO'S</b></h1>
-							<p>High Quality Logo Art</p>
-							<div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
-								<ul>
-									<li>
-										<div class="brand-button">
-											<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-										</div>
-									</li>
-									<li>
-										<div class="brand-button">
-											<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
-										</div>
-									</li>
-								</ul>
+		<section id="logo-designs-sec">
+			<div class="service-logosection" style="padding-top: 50px; padding-left: 50px; padding-right: 50px;">
+				<div class="container">
+					<div class="row" style="margin: auto !important;">
+						<div class="col-6 col-12-medium align-self-center">
+							<div class="first-inner-section-text">
+								<h1><img class="greenline" src="./images/greenlinetext.png" />Our Exceptional <b>Logo Designing Services</b></h1>
+								<p>Blizztech Solutions specializes in designing impactful and memorable logos that reflect your brand’s identity and values. Our custom logo designs are crafted to establish a strong visual presence and make a lasting impression on your audience.</p>
+								<div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
+									<ul>
+										<li>
+											<div class="brand-button">
+												<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+											</div>
+										</li>
+										<li>
+											<div class="brand-button">
+												<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+											</div>
+										</li>
+									</ul>
+								</div>
 							</div>
 						</div>
-					</div>
-					<div class="col-6 col-12-medium">
-						<div class="log-quote-form">
-							<form class="innerpagescalltoaction" method="post" id="contact" action="">
+						<div class="col-6 col-12-medium">
+							<div class="log-quote-form">
+								<form class="innerpagescalltoaction" method="post" id="contact" action="">
 
 
 
- 
-<input type="text" class="form-control" name="name" placeholder="Name" required>
 
-<input type="email" class="form-control" name="email" placeholder="Email" required>
+									<input type="text" class="form-control" name="name" placeholder="Name" required>
 
-
-
-<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+									<input type="email" class="form-control" name="email" placeholder="Email" required>
 
 
-<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
 
-<button class="btn btn-primary" type="submit" name="submit">Submit</button>
-</form>
+									<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+
+
+									<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
+
+									<button class="btn btn-primary" type="submit" name="submit">Submit</button>
+								</form>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-		<!-- END LOGO FIRST SECTION -->
+			<!-- END LOGO FIRST SECTION -->
 		</section>
 
 		<!-- LOGO ABOUT US START -->
@@ -67,13 +67,8 @@
 
 					<div class="col-6 col-12-medium align-self-center">
 						<div class="logoabout-text">
-							<h1>LOGO </h1>
-							<h6>Design</h6>
-							<p>At Apex, we strive to create logos with an ever-lasting impact on your audience. Our
-								team has been built with a unique skill set and is driven by a vision to work with
-								professionalism, trust, and commitment. With wide experience, they create logos
-								adapted to various platforms such as Websites, Social Media Channels, Packaging,
-								Digital Presentations, Mobile Applications, and Business Cards.</p>
+							<h1>Elevate Your Brand with Creative <b>Logos</b></h1>
+							<p>At Blizztech Solutions, we understand that your logo is the cornerstone of your brand identity. That’s why our logo design services are meticulously tailored to help your brand shine in a crowded digital landscape. From concept to creation, our expert team works closely with you to understand your vision, values, and target audience. We then leverage our creativity and expertise to craft unique and versatile logos that capture the essence of your brand. With a keen eye for detail and a commitment to excellence, we ensure that every aspect of your logo reflects your brand’s personality and resonates with your audience.</p>
 						</div>
 					</div>
 
@@ -83,7 +78,59 @@
 				</div>
 			</div>
 		</section>
+		<section id="logo-about-us" style="padding: 100px 0px;">
+			<div class="container">
+				<div class="row">
+					<div class="col-6 col-12-medium">
+						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-about.png" />
+					</div>
 
+
+					<div class="col-6 col-12-medium align-self-center">
+						<div class="logoabout-text">
+							<h1>Our <b>Logo Designs</b> - The Testaments of Digital Legacies</h1>
+							<p>We don’t just design logos. We create visual stories that capture the essence of each brand we work with. Our team has crafted logos that reflect their vision, values, and goals. Explore the logos we’ve designed and see how they showcase innovation, foster connections, and stand the test of time. </p>
+						</div>
+					</div>
+				</div>
+
+
+			</div>
+		</section>
+		<section id="logo-about-us" style="padding: 100px 0px;">
+			<div class="container">
+				<div class="row">
+					<div class="col-6 col-12-medium align-self-center">
+						<div class="logoabout-text">
+							<h1>Custom <b>Creations</b> that Resonate with Your Audience</h1>
+							<p>Logos must resonate with your target audience. Our custom designs don’t just look good — they align with your brand’s message, helping you stand out in a crowded market. We ensure every design has meaning and relevance to your business. </p>
+						</div>
+					</div>
+					<div class="col-6 col-12-medium">
+						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-about.png" />
+					</div>
+				</div>
+
+			</div>
+		</section>
+
+		<section id="logo-about-us" style="padding: 100px 0px;">
+			<div class="container">
+				<div class="row">
+					<div class="col-6 col-12-medium">
+						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-about.png" />
+					</div>
+					<div class="col-6 col-12-medium align-self-center">
+						<div class="logoabout-text">
+							<h1>Why Choose Blizztech Solutions for <b>Logo Designing</b>?</h1>
+							<p>Blizztech Solutions combines creativity with strategic insight to deliver logos that are not only visually appealing but also strategically aligned with your brand. Our focus on uniqueness and versatility ensures that your logo makes a strong impact.</p>
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+		</section>
 		<!-- LOGO ABOUT US END -->
 		<!-- LOGO WE CREATE OF YOU START -->
 
@@ -992,24 +1039,24 @@
 				<div class="row contact-inner">
 					<div class="col-6 col-12-medium">
 						<div class="logo-conactfomrinner">
-						<form class="innerpagescalltoaction" method="post" action="">
+							<form class="innerpagescalltoaction" method="post" action="">
 
 
 
- 
-<input type="text" class="form-control" name="name" placeholder="Name" required>
 
-<input type="email" class="form-control" name="email" placeholder="Email" required>
+								<input type="text" class="form-control" name="name" placeholder="Name" required>
 
-
-
-<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+								<input type="email" class="form-control" name="email" placeholder="Email" required>
 
 
-<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
 
-<button class="btn btn-primary" type="submit" name="submit">Submit</button>
-</form>
+								<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+
+
+								<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
+
+								<button class="btn btn-primary" type="submit" name="submit">Submit</button>
+							</form>
 						</div>
 					</div>
 
@@ -1049,7 +1096,7 @@
 
 	</div>
 
-		<?php include_once("includes/footer.php") ?> 
+	<?php include_once("includes/footer.php") ?>
 
 </body>
 

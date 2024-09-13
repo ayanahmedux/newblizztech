@@ -39,6 +39,7 @@
 						Services
 					</a>
 					<ul class="dropdown-menu">
+						<li><a class="dropdown-item" href="logo-designs">Logo Designs</a></li>
 						<li><a class="dropdown-item" href="website-designs">Website Designs</a></li>
 						<li><a class="dropdown-item" href="animation">Animation</a></li>
 						<li><a class="dropdown-item" href="socialmediamarketing">Social Media Marketing</a></li>
@@ -48,6 +49,9 @@
 						<li><a class="dropdown-item" href="content-creation">Content Creation</a></li>
 						<li><a class="dropdown-item" href="mobileapplication">Mobile Applications</a></li>
 					</ul>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link " href="pricing">Pricing</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link " href="portfolio">Portfolio</a>
