@@ -131,7 +131,7 @@ if (isset($_POST['submit'])) {
     <div class="container">
       <div class="row">
         <div class="col-6 col-12-medium align-self-center">
-          <p style="color: #fff;">@2023 <span style="color: #27D6FC;">Apex Creative Designs.</span> All Right Reserved.</p>
+          <p style="color: #fff;">@2024 <span style="color: #27D6FC;">Blizz Tech Solutions.</span> All Right Reserved.</p>
         </div>
         <div class="col-6 col-12-medium">
           <div class="social-links">
