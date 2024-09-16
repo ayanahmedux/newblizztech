@@ -9,7 +9,7 @@
 					</div>
 
 					<!-- TABS PRICE START -->
-					<ul class="nav nav-tabs d-none d-lg-flex" id="myTab" role="tablist">
+					<ul class="nav nav-tabs  d-lg-flex" id="myTab" role="tablist">
 						<li class="nav-item" role="presentation">
 							<button class="nav-link active" id="home-tab09" data-bs-toggle="tab" data-bs-target="#home-tab-pane09"
 								type="button" role="tab" aria-controls="home-tab-pane09" aria-selected="true">Websites</button>
@@ -168,7 +168,7 @@
 
 						</div>
 
-					</div>
+					
 					<!-- WEBSITE PRICE SECTION END -->
 
 					<!-- LOGOS PRICE PLAN Start -->
@@ -272,7 +272,7 @@
 
 					<!-- BRANDING PRICE PLAN Start -->
 					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane07" role="tabpanel" aria-labelledby="profile-tab07" tabindex="0">
-						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
+						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingThree" data-bs-parent="#myTabContent">
 							<div class="container">
 								<div class="row">
 									<div class="col-4 col-12-medium">
@@ -367,7 +367,7 @@
 
 					<!-- Social Media Marketing PRICE PLAN Start -->
 					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane06" role="tabpanel" aria-labelledby="profile-tab06" tabindex="0">
-						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
+						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingfour" data-bs-parent="#myTabContent">
 							<div class="container">
 								<div class="row">
 									<div class="col-4 col-12-medium">
@@ -482,7 +482,7 @@
 
 					<!-- Mobile App Design PRICE PLAN Start -->
 					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane05" role="tabpanel" aria-labelledby="profile-tab05" tabindex="0">
-						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
+						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingfive" data-bs-parent="#myTabContent">
 							<div class="container">
 								<div class="row">
 									<div class="col-4 col-12-medium">
@@ -596,7 +596,7 @@
 					<!-- Mobile App Design PRICE PLAN END -->
 					<!-- animations -->
 					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane04" role="tabpanel" aria-labelledby="profile-tab04" tabindex="0">
-						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
+						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingsix" data-bs-parent="#myTabContent">
 							<div class="container">
 								<div class="row">
 									<div class="col-4 col-12-medium">
@@ -699,5 +699,6 @@
 					<!-- animations -->
 
 				</div>
+				
 			</div>
 		</section>

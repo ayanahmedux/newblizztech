@@ -42,7 +42,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-6 col-12-medium  d-none d-md-block">
+						<div class="col-6 col-12-medium  ">
 							<div class="log-quote-form">
 								<form class="innerpagescalltoaction" method="post" action="" id="contact">
 
@@ -82,7 +82,7 @@
 			<div class="container">
 				<div class="row">
 
-					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right">
+					<div class="col-lg-6 col-12-medium align-self-center" data-aos="fade-right">
 						<div class="logoabout-text">
 							<h2 class="logoabout-text-h2"> Innovative <b>Content </b>creation</h2>
 							<!--<h6>Design</h6>-->
@@ -104,7 +104,7 @@
 
 						</div>
 					</div>
-					<div class="col-6 col-12-medium d-none d-md-block " data-aos="fade-left">
+					<div class="col-lg-6 col-12-medium  " data-aos="fade-left">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
 							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img1.png" />
 						</div>
@@ -331,7 +331,7 @@
 			<div class="container">
 				<div class="row">
 
-					<div class="col-6 align-self-center" data-aos="fade-right">
+					<div class="col-lg-6 align-self-center" data-aos="fade-right">
 						<div class="logoabout-text">
 							<h2 class="logoabout-text-h2"> Email Marketing <b>Direct, Persuasive,</b> and Action-Oriented </h2>
 							<!--<h6>Design</h6>-->
@@ -345,7 +345,7 @@
 
 						</div>
 					</div>
-					<div class="col-6 col-12-medium  d-none d-md-block" data-aos="fade-right">
+					<div class="col-lg-6 col-12-medium  d-none d-md-block" data-aos="fade-right">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
 							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/social-media-marketing-2.png" />
 						</div>
@@ -522,7 +522,7 @@
 		<section id="logo-contact-form" style="padding: 210px 0px;">
 			<div class="container">
 				<div class="row contact-inner">
-					<div class="col-6 col-12-medium" data-aos="fade-down">
+					<div class="col-6 col-12-medium"  data-aos="fade-down" data-aos-duration="1000">
 						<div class="logo-conactfomrinner">
 							<form class="innerpagescalltoaction" method="post" action="">
 
@@ -572,147 +572,7 @@
 		<!-- LOGO CONTACT FORM END -->
 
 		<!-- TESTIMONIAL SECTION START -->
-		<section id="testimonials-sections" style="padding-top: 60px; padding-bottom: 60px;">
-			<div class="heading-text" style="text-align: center;">
-				<h3 class='heading-text-sm-h3'>Testimonials</h3>
-				<h3 class="heading-text-h3">What Our <b>Clients</b> Say</h3>
-				<p style="color: #fff;">At Apex Design Agency, our clients can't stop raving about the results we deliver. They love our attention to detail, creativity, and commitment to their success. <br />Whether it's boosting their online presence or crafting stunning designs, our clients trust us to turn their visions into reality. <br /> Hear from satisfied businesses who have experienced incredible growth and success with Apex Design Agency.</p>
-			</div>
-			<div class="container">
-				<div id="page">
-					<div class="row">
-						<div class="column small-11 small-centered">
-							<div class="slider slider-nav">
-								<div>
-									<h3><span><img src="images/testimonialimages/test1.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="images/testimonialimages/test2.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="images/testimonialimages/test3.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="images/testimonialimages/test4.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="images/testimonialimages/test5.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="images/testimonialimages/test6.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="images/testimonialimages/test7.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="images/testimonialimages/test8.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="images/testimonialimages/test9.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="images/testimonialimages/test10.png" /></span></h3>
-								</div>
-							</div>
-							<div class="testimonial-quote">
-								<img src="images/testimonialimages/quote.png" />
-							</div>
-							<div class="slider slider-single">
-								<div class="testimonial-text">
-									<h3>Excellent Service That Exceeded My Expectations</h3>
-									<p>My team and I have begun a movement and needed a logo that would not only serve as an icon of what we are doing but also serve as a conversation starter. I described what I wanted to Dwayne, and challenged him and his team to produce what I had visualized. Not only did they deliver, but our new logo exceeded my expectations!</p>
-									<h5>by Thomas Clark <img class="reviewstars" src="images/testimonialimages/star5.png" /></h5>
-									<div class="truspilot">
-										<a href="https://www.trustpilot.com/review/apexcreativedesigns.com" target="_blank"><img src="images/trustpilot.png" width="100px" height="100px" /> </a>
-									</div>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>World class</h3>
-									<p>This have an awesome and amazing experience for me! Dwayne was very professional in his approach in providing you exactly what you in vision. 5 stars across the board. Apex Creative Design is my go to company!!!!</p>
-									<h5>by Ge'O-Vanna <img class="reviewstars" src="images/testimonialimages/star5.png" /></h5>
-									<div class="truspilot">
-										<a href="https://www.trustpilot.com/review/apexcreativedesigns.com" target="_blank"><img src="images/trustpilot.png" width="100px" height="100px" /> </a>
-									</div>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Absolutely worth every penny!!</h3>
-									<p>From day one I’ve worked with Dwayne & he was very helpful and very knowledgeable about all the things that I have done for my website. He was able to create my vision and absolutely brought it to life!! Not to mention he was available literally 24/7 I am so glad I used this company and was able to work with Dwayne. Absolutely worth every penny!! Kenn</p>
-									<h5>by Kenn (Kenneth) <img class="reviewstars" src="images/testimonialimages/star5.png" /></h5>
-									<div class="truspilot">
-										<a href="https://www.trustpilot.com/review/apexcreativedesigns.com" target="_blank"><img src="images/trustpilot.png" width="100px" height="100px" /> </a>
-									</div>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Its a no brainer</h3>
-									<p>So where do I start? I was very skeptical about these guys being as they have too good to be true prices and the dreaded facebook scams goin on. I pulled the trigger and got one of the higher tier packages, and let me tell you....I could call my project manager day or night and he listened in detail to bring my ideas to life within hours. Do yourself a favor and use them.</p>
-									<h5>by Jordan <img class="reviewstars" src="images/testimonialimages/star5.png" /></h5>
-									<div class="truspilot">
-										<a href="https://www.trustpilot.com/review/apexcreativedesigns.com" target="_blank"><img src="images/trustpilot.png" width="100px" height="100px" /> </a>
-									</div>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Hesitant but Happy</h3>
-									<p>Originally I was a bit hesitant to try Apex based on the special they had going as I'm a firm believer in "you get what you pay for" and it being so cheap, I figured that's the quality they would offer. Thank you for all your hard work!</p>
-									<h5>by Angie S. (Angie) <img class="reviewstars" src="images/testimonialimages/star5.png" /></h5>
-									<div class="truspilot">
-										<a href="https://www.trustpilot.com/review/apexcreativedesigns.com" target="_blank"><img src="images/trustpilot.png" width="100px" height="100px" /> </a>
-									</div>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Very efficient and thorough</h3>
-									<p>Very efficient and thorough. My project manager and his team were were steadfast from start to finish. Any questions I had were answered and they were readily available. Also very professional.</p>
-									<h5>by Shon <img class="reviewstars" src="images/testimonialimages/star5.png" /></h5>
-									<div class="truspilot">
-										<a href="https://www.trustpilot.com/review/apexcreativedesigns.com" target="_blank"><img src="images/trustpilot.png" width="100px" height="100px" /> </a>
-									</div>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>I am so happy with Apex Creative Designs</h3>
-									<p>I am so happy with Apex Creative Designs. They have built such a beautiful website for me. They are knowledgeable and talented. Everyone is nice and always available and willing to help. Thank you for a great experience and a wonderful website. 👍</p>
-									<h5>by Clarissa (Claire) <img class="reviewstars" src="images/testimonialimages/star5.png" /></h5>
-									<div class="truspilot">
-										<a href="https://www.trustpilot.com/review/apexcreativedesigns.com" target="_blank"><img src="images/trustpilot.png" width="100px" height="100px" /> </a>
-									</div>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Dwayne & his team worked hard</h3>
-									<p>Dwayne & his team worked hard & did not stop until I was 100% satisfied. The kindness, timely, superior customer service was amazing. I totally appreciate the professionalism with all my detailed multiple requests w/ creating my logo. Thank you, T.H.</p>
-									<h5>by Teresa Harris <img class="reviewstars" src="images/testimonialimages/star5.png" /></h5>
-									<div class="truspilot">
-										<a href="https://www.trustpilot.com/review/apexcreativedesigns.com" target="_blank"><img src="images/trustpilot.png" width="100px" height="100px" /> </a>
-									</div>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Honest and Helpful</h3>
-									<p>I liked the company for the follow-up they give to the work, they are always attentive. And they do what they propose. They are high quality and I would always work with them again.</p>
-									<h5>by Leonedi Rodriguez <img class="reviewstars" src="images/testimonialimages/star5.png" /></h5>
-									<div class="truspilot">
-										<a href="https://www.trustpilot.com/review/apexcreativedesigns.com" target="_blank"><img src="images/trustpilot.png" width="100px" height="100px" /> </a>
-									</div>
-								</div>
-								<div class="testimonial-text">
-									<h3>Beautiful process.</h3>
-									<p>I was skeptical throughout the process, but Danny made it easy. The end product was amazingly beautiful. 100% recommend.</p>
-									<h5>by Joy Alozie <img class="reviewstars" src="images/testimonialimages/star4.png" /></h5>
-									<div class="truspilot">
-										<a href="https://www.trustpilot.com/review/apexcreativedesigns.com" target="_blank"><img src="images/trustpilot.png" width="100px" height="100px" /> </a>
-									</div>
-								</div>
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+		<?php include_once("testimonial-global.php") ?>
 		<!-- TESTIMONIAL SECTION END -->
 
 		<?php include_once("includes/footer.php") ?>

@@ -14,7 +14,7 @@
 					<div class="row">
 
 						<div class="first-inner-section-text social" style="text-align: center;">
-							<h2 style="text-align: center;">CONTACT US</h2>
+							<h2 style="text-align: center;">CONTACT <b>US</b></h2>
 							<p style="text-align: center;"> Get in touch if you
 								need help with a project</p>
 							<div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px; text-align: center;">
@@ -47,7 +47,7 @@
 		<section id="logo-contact-form" style="padding: 210px 0px;">
 			<div class="container">
 				<div class="row contact-inner">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-down" data-aos-duration="1000">
 						<div class="logo-conactfomrinner">
 							<form class="innerpagescalltoaction" method="post" action="">
 
@@ -81,7 +81,14 @@
 									<li><span><i class="bi bi-envelope-fill"></i></span> info@blizztechsolutions.com</li>
 									<li><span><i class="bi bi-geo-alt-fill"></i></span>
 										913 Essex Blvd, Lewisville,
-											Texas 75056, US</li>
+										Texas 75056, US</li>
+								</ul>
+							</div>
+							<div class="social-links-2">
+								<h2>Follow us</h2>
+							<ul class="">
+									<li><a href="https://www.facebook.com/profile.php?id=61563666846807"><img src="./images/social/social1.png" /></a></li>
+									<li><a href="https://www.instagram.com/blizztech.solutions/"><img src="./images/social/social2.png" /></a></li>
 								</ul>
 							</div>
 							<div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
@@ -106,120 +113,8 @@
 		<!-- LOGO CONTACT FORM END -->
 
 		<!-- TESTIMONIAL START -->
-
-		<section id="testimonials-sections" style="padding-top: 60px; padding-bottom: 60px;">
-			<div class="heading-text" style="text-align: center;">
-				<h3>Testimonials</h3>
-				<h1>Satisfied <b>Client’s</b></h1>
-				<p style="color: #fff;">Solutions to fit every budget and need - our flexible pricing and plans make it easy for you <br>
-					to choose the perfect solution for your brand!</p>
-			</div>
-			<div class="container">
-				<div id="page">
-					<div class="row">
-						<div class="column small-11 small-centered">
-							<div class="slider slider-nav">
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial2.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial3.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial2.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial3.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial2.png" /></span></h3>
-								</div>
-								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial3.png" /></span></h3>
-								</div>
-							</div>
-							<div class="testimonial-quote">
-								<img src="./images/testimonialimages/quote.png" />
-							</div>
-							<div class="slider slider-single">
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 1</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 2</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 3</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 4</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 5</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 6</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 7</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 8</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-
-								<div class="testimonial-text">
-									<h3>Isatou Senghore 9</h3>
-									<p>Working With Apex Creative designs was a game changer for my business -<br>
-										their designs & branding strategies have helped us take our business to the<br>
-										revolusionery</p>
-								</div>
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+		<?php include_once("testimonial-global.php") ?>
+		
 
 		<!-- FOOTER START -->
 

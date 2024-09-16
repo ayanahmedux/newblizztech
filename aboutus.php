@@ -141,7 +141,7 @@
 				<!-- OUR MISSION AND OUR VISION START -->
 				<div class="mision-vision">
 					<div class="row">
-						<div class="col-md-6 col-12-medium" data-aos-duration="2000" data-aos="fade-right">
+						<div class="col-md-6 col-12-medium" data-aos-duration="1000" data-aos="fade-right">
 							<div class="mis-vis">
 								<h2><i class="bi bi-bullseye"></i> Our <b>Mission</b></h2>
 								<p>is to celebrate the potential of each project that we do, craft extraordinary
@@ -150,7 +150,7 @@
 									marketing solutions that elevate businesses to a new high.</p>
 							</div>
 						</div>
-						<div class="col-md-6 col-12-medium" data-aos-duration="2000" data-aos="fade-left">
+						<div class="col-md-6 col-12-medium" data-aos-duration="1000" data-aos="fade-left">
 							<div class="mis-vis">
 								<h2><i class="bi bi-lightbulb-fill"></i> Our <b>Vision</b></h2>
 								<p>is to be the leading force in the creative industry, driving innovation and

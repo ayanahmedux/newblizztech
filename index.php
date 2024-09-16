@@ -21,7 +21,7 @@
 			<div class="custom-industries-section">
 				<div class="container">
 					<div class="row" style="margin: auto !important;">
-						<div class="col col-12-medium">
+						<div class="col-md-2 col-12-medium">
 							<div class="main-inner">
 								<div class="inner-card card-with">
 									<div class="industry-image">
@@ -31,7 +31,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col col-12-medium">
+						<div class="col-md-2 col-12-medium">
 							<div class="main-inner">
 								<div class="inner-card card-with">
 									<div class="industry-image">
@@ -41,7 +41,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col col-12-medium">
+						<div class="col-md-2 col-12-medium">
 							<div class="main-inner">
 								<div class="inner-card card-with">
 									<div class="industry-image">
@@ -51,7 +51,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col col-12-medium">
+						<div class="col-md-2 col-12-medium">
 							<div class="main-inner">
 								<div class="inner-card card-with">
 									<div class="industry-image">
@@ -61,7 +61,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col col-12-medium">
+						<div class="col-md-2 col-12-medium">
 							<div class="main-inner">
 								<div class="inner-card card-with">
 									<div class="industry-image">
@@ -71,7 +71,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col col-12-medium">
+						<div class="col-md-2 col-12-medium">
 							<div class="main-inner">
 								<div class="inner-card card-with">
 									<div class="industry-image">
@@ -968,7 +968,7 @@
 			</div>
 
 			<div class="container">
-				<div class="center">
+				<div class="center-index">
 					<div class="px-2 py-2">
 						<div class="indutries-image">
 							<img src="./images/industries-image-1.jpg" alt="">
@@ -987,7 +987,7 @@
 					</div>
 					<div class="px-2 py-2">
 						<div class="indutries-image">
-							<img src="./images/industries-image-3.jpg" alt="">
+							<img src="./images/industries-image-3.jfif" alt="">
 						</div>
 						<div class="industries-text">
 							<p>Healthcare</p>
@@ -1027,7 +1027,7 @@
 					</div>
 					<div class="px-2 py-2">
 						<div class="indutries-image">
-							<img src="./images/industries-image-8.jpg" alt="">
+							<img src="./images/industries-image-8.jfif" alt="">
 						</div>
 						<div class="industries-text">
 							<p>Agriculture</p>

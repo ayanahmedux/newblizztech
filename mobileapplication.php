@@ -14,7 +14,7 @@
 					<div class="row" style="margin: auto;">
 						<div class="col-6 col-12-medium align-self-center">
 							<div class="first-inner-section-text social">
-								<h2>Mobile App Development Services</h2>
+								<h1><b>Mobile App</b> Development Services</h1>
 								<p>We are skilled mobile application developers based in the
 									United States. Our primary focus is on creating responsive
 									mobile applications tailored to meet your e-commerce
@@ -74,19 +74,37 @@
 
 					<div class="col-6 col-12-medium align-self-center">
 						<div class="logoabout-text social-media mobile">
-							<h1> Mobile Application Development: Innovation in Your
-								Pocket</h1>
+							<h2> Web <b>application development</b> offerings</h2>
 							<p>
-								Mobile app development plays a pivotal role in the
-								contemporary business landscape. It enables you to
-								connect with fresh audiences, enhance customer loyalty,
-								and bolster your financial success.
-								With our proficiency and ample resources, we're poised to
-								assist you in crafting a triumphant mobile app. We
-								prioritize user experience, security, and effective
-								marketing. Collaboratively, we'll develop an app that
-								aligns with your requirements and surpasses your
-								expectations.
+								Being a mobile application development team, we offer mobile
+								application development services to provide any business type or
+								industry with unique web products. With customized application
+								development solutions, we help business and small medium enterprises
+								gain users’ trust and turn website visitors into paying customers.
+							</p>
+							<h2>
+								Mobile <b>App Development</b>
+							</h2>
+							<p>
+								Expand your reach with mobile application tailored to your business
+								needs and to create seamless user experiences across various devices
+								and platforms.
+							</p>
+							<h2>
+								<b>E-commerce</b> solutions
+							</h2>
+							<p>
+								Enhance your online presence with e-commerce solutions that drives
+								sales and implement secure payment gateways and intuitive shopping
+								experiences for customers.
+							</p>
+							<h2>
+								<b> UI/UX</b> Design
+							</h2>
+							<p>
+								Elevate your brand with visually appealing user-friendly interfaces and
+								focus on creating intuitive navigation and engaging designs to captivate
+								users.
 							</p>
 						</div>
 					</div>
@@ -105,7 +123,7 @@
 				<div class="features-text">
 					<h1><b>our</b> features</h1>
 				</div>
-				<div class="row">
+				<div class="row" style="margin: auto;">
 					<div class="col-md-6">
 						<div class="feature-box">
 							<img src="./images/aboutuspageimages/key-features-1.png" alt="">
@@ -380,7 +398,7 @@
 				</div>
 
 				<!-- second row -->
-				<div class="row" style="padding: 70px 0px;">
+				<div class="row" style="padding: 70px 0px; margin: auto;">
 					<div class="col-3 col-12-medium" style="position: relative;">
 						<div class="innermobileapp">
 							<img src="./images/mobileapplication/icon/4.png" />
@@ -446,7 +464,7 @@
 		<section id="logo-contact-form" style="padding: 210px 0px;">
 			<div class="container">
 				<div class="row contact-inner">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-down" data-aos-duration="1000">
 						<div class="logo-conactfomrinner">
 							<form class="innerpagescalltoaction" method="post" action="">
 
@@ -493,7 +511,112 @@
 				</div>
 			</div>
 		</section>
-	
+		<section id="price-plans-section" style="padding-top: 60px; padding-bottom: 60px;">
+			<div class="container">
+				<div class="row" style="margin: auto !important;">
+					<div class="heading-text" style="text-align: center;">
+						<h3>Logo’s </h3>
+						<h1><b>Pricing</b> And Plans</h1>
+						<p style="color: #fff; padding-bottom: 40px;">We are far from a One-Price-For-All model. We created design and marketing solutions that fit every budget and need.</p>
+					</div>
+
+
+					<!-- LOGOS PRICE PLAN Start -->
+					<div class="container">
+						<div class="row" style="margin: auto !important;">
+							<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
+									<div class="price-heading-text">
+										<h2>Small</h2>
+									</div>
+									<div class="price-list">
+										<ul>
+											<li>Platform: iOS or Android</li>
+											<li>1 simple app concept</li>
+											<li>Up to 5 basic screens</li>
+											<li>Standard UI/UX design</li>
+											<li>Integration with up to 2 APIs or services</li>
+											<li>Testing and bug fixing</li>
+											<li>Submission to one app store (either App Store or Google Play)</li>
+											<li>Basic analytics setup</li>
+
+										</ul>
+									</div>
+
+								</div>
+
+							</div>
+
+							<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
+									<div class="price-heading-text">
+										<h2>Regular</h2>
+									</div>
+									<div class="price-list">
+										<ul>
+											<li>Platform: iOS and Android (cross-platform using frameworks like React Native or Flutter)</li>
+											<li>1 complex app concept (e.g., social networking, e-commerce)</li>
+											<li>Up to 15 interactive screens</li>
+											<li>Customized UI/UX design</li>
+											<li>Integration with up to 5 APIs or services</li>
+											<li>User authentication and authorization</li>
+											<li>In-app notifications</li>
+											<li>Payment gateway integration</li>
+											<li>Multi-language support</li>
+											<li>Comprehensive testing, including performance testing</li>
+											<li>Submission to both App Store and Google Play</li>
+											<li>Advanced analytics setup</li>
+
+										</ul>
+									</div>
+
+								</div>
+
+							</div>
+
+
+							<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
+									<div class="price-heading-text">
+										<h2>Elite</h2>
+									</div>
+									<div class="price-list">
+										<ul>
+											<li>Platform: iOS, Android, and additional platforms (e.g., web or desktop)</li>
+											<li>Multiple interconnected app concepts</li>
+											<li>Unlimited screens and features</li>
+											<li>Highly customized UI/UX design</li>
+											<li>Integration with 10+ APIs or services (e.g., CRM, ERP)</li>
+											<li>Advanced security features (encryption, compliance with industry regulations)</li>
+											<li>Offline functionality</li>
+											<li>User role management</li>
+											<li>Enterprise-grade scalability and performance optimization</li>
+											<li>Cross-platform compatibility and responsive design</li>
+											<li>Continuous integration/continuous deployment (CI/CD) setup</li>
+											<li>Comprehensive testing, including security testing</li>
+											<li>Submission to multiple app stores and distribution channels</li>
+											<li>Advanced analytics and business intelligence</li>
+
+										</ul>
+									</div>
+
+								</div>
+
+							</div>
+
+
+						</div>
+
+						<!-- second row -->
+						
+					</div>
+
+					<!-- LOGOS PRICE PLAN END -->
+
+				</div>
+			</div>
+		</section>
+
 		<!-- LOGO CONTACT FORM END -->
 
 		<!-- TESTIMONIAL START -->

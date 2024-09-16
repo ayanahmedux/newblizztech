@@ -228,7 +228,7 @@
 		<section id="why-us-brand">
 			<div class="container">
 				<div class="row">
-					<div class="col-6">
+					<div class="col-lg-6">
 						<h1> Why Choose <b>Blizztech</b> Solutions?</h1>
 						<p>Choosing the right partner for your digital branding services is
 							crucial for your business's success. At Blizztech Solutions, we
@@ -255,7 +255,7 @@
 							evolve in the digital landscape.
 						</p>
 					</div>
-					<div class="col-6">
+					<div class="col-lg-6">
 						<div class="why-us-image">
 							<img src="./images/branding/why-us-image.png" alt="">
 						</div>
@@ -1221,7 +1221,7 @@
 		<section id="logo-contact-form" style="padding: 210px 0px;">
 			<div class="container">
 				<div class="row contact-inner">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-down" data-aos-duration="1000">
 						<div class="logo-conactfomrinner">
 							<form class="innerpagescalltoaction" method="post" action="">
 

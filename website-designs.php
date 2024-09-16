@@ -100,7 +100,7 @@
 				<div class="features-text">
 					<h1><b>our</b> features</h1>
 				</div>
-				<div class="row">
+				<div class="row" style="margin: auto;">
 					<div class="col-md-6">
 						<div class="feature-box">
 							<img src="./images/aboutuspageimages/key-features-1.png" alt="">
@@ -120,7 +120,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="row">
+				<div class="row" style="margin: auto;">
 					<div class="col-md-6">
 						<div class="feature-box">
 							<img src="./images/aboutuspageimages/key-features-3.png" alt="">
@@ -1496,7 +1496,7 @@
 					<section id="logo-contact-form" style="padding: 210px 0px;">
 						<div class="container">
 							<div class="row contact-inner">
-								<div class="col-6 col-12-medium"  data-aos="fade-down" data-aos-duration="2000">
+								<div class="col-6 col-12-medium"  data-aos="fade-down" data-aos-duration="1000">
 									<div class="logo-conactfomrinner">
 										<form class="innerpagescalltoaction" method="post" action="">
 
@@ -1519,7 +1519,7 @@
 									</div>
 								</div>
 
-								<div class="col-6 col-12-medium"  data-aos="fade-left" data-aos-duration="2000">
+								<div class="col-6 col-12-medium"  data-aos="fade-left" data-aos-duration="1000">
 									<div class="heading-text">
 										<h1>If You Like What You See
 											<br><b>Let’s Connect Than!</b>

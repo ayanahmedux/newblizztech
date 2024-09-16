@@ -173,7 +173,7 @@
 				</div>
 			</div>
 			<div class="containerr">
-				<div class="row">
+				<div class="row" style="margin: auto;">
 					<div class="col-3 col-12-medium">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
@@ -991,7 +991,7 @@
 		<section id="logo-contact-form" style="padding: 210px 0px;">
 			<div class="container">
 				<div class="row contact-inner">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium"  data-aos="fade-down" data-aos-duration="1000">
 						<div class="logo-conactfomrinner">
 							<form class="innerpagescalltoaction" method="post" id="contact" action="">
 

@@ -136,9 +136,8 @@ if (isset($_POST['submit'])) {
         <div class="col-6 col-12-medium">
           <div class="social-links">
             <ul>
-              <li><a href="#"><img src="./images/social/social1.png" /></a></li>
-              <li><a href="#"><img src="./images/social/social2.png" /></a></li>
-              <li><a href="#"><img src="./images/social/social3.png" /></a></li>
+              <li><a href="https://www.facebook.com/profile.php?id=61563666846807"><img src="./images/social/social1.png" /></a></li>
+              <li><a href="https://www.instagram.com/blizztech.solutions/"><img src="./images/social/social2.png" /></a></li>
             </ul>
           </div>
         </div>
@@ -162,11 +161,15 @@ if (isset($_POST['submit'])) {
         <h4>I'm interested in</h4>
         <div class="mycustom-buttons">
           <ul>
-            <li><button type="button" class="interest-btn" data-value="Custom Software">Custom Software</button></li>
-            <li><button type="button" class="interest-btn" data-value="Mobile App">Mobile App</button></li>
-            <li><button type="button" class="interest-btn" data-value="UX/UI">UX/UI</button></li>
-            <li><button type="button" class="interest-btn" data-value="Web Development">Web Development</button></li>
-            <li><button type="button" class="interest-btn" data-value="Social Media Marketing">Social Media Marketing</button></li>
+            <li><button type="button" class="interest-btn" data-value="Custom Software">Logo Design</button></li>
+            <li><button type="button" class="interest-btn" data-value="Mobile App">Website Design</button></li>
+            <li><button type="button" class="interest-btn" data-value="UX/UI">Content Creation</button></li>
+            <li><button type="button" class="interest-btn" data-value="Web Development">PPC</button></li>
+            <li><button type="button" class="interest-btn" data-value="Social Media Marketing">Mobile App</button></li>
+            <li><button type="button" class="interest-btn" data-value="Social Media Marketing">SEO</button></li>
+            <li><button type="button" class="interest-btn" data-value="Social Media Marketing">Social M.M</button></li>
+            <li><button type="button" class="interest-btn" data-value="Social Media Marketing">Branding</button></li>
+            <li><button type="button" class="interest-btn" data-value="Social Media Marketing">Animation</button></li>
           </ul>
         </div>
         <!-- Hidden input to store selected interests -->
@@ -360,6 +363,33 @@ if (isset($_POST['submit'])) {
   $('.center').slick({
     centerMode: false,
     slidesToShow: 3,
+    arrows:true,
+    responsive: [{
+        breakpoint: 768,
+        settings: {
+          arrows: false,
+          centerMode: false,
+          centerPadding: '40px',
+          slidesToShow: 3
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          arrows: false,
+          centerMode: false,
+          centerPadding: '40px',
+          slidesToShow: 1
+        }
+      }
+    ]
+  });
+</script>
+<script>
+  $('.center-index').slick({
+    centerMode: false,
+    slidesToShow: 4,
+    arrows:true,
     responsive: [{
         breakpoint: 768,
         settings: {
@@ -421,3 +451,20 @@ function checkVisibility() {
 window.addEventListener('scroll', checkVisibility);
 
 </script>
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '540437431813350');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=540437431813350&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->

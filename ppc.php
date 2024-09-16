@@ -605,7 +605,7 @@
 		<section id="logo-contact-form" style="padding: 210px 0px;">
 			<div class="container">
 				<div class="row contact-inner">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium"  data-aos="fade-down" data-aos-duration="1000">
 						<div class="logo-conactfomrinner">
 							<form class="innerpagescalltoaction" method="post" action="">
 
@@ -628,7 +628,7 @@
 						</div>
 					</div>
 
-					<div class="col-6 col-12-medium"  data-aos="fade-left" data-aos-duration="2000">
+					<div class="col-6 col-12-medium"  data-aos="fade-left" data-aos-duration="1000">
 						<div class="heading-text">
 							<h1>If Our Work Resonates with You- <b>Let’s Connect!</b></h1>
 							<p style="color: #fff;">Let’s forge a creative partnership to explore boundless design and marketing solutions.

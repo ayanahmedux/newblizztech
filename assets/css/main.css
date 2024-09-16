@@ -3465,7 +3465,7 @@ section#header .custom-industries-section .inner-card h3 {
 	padding: 2px 0;
 }
 
-.custom-industries-section .col:hover .main-inner {
+.custom-industries-section .col-md-2:hover .main-inner {
 	background-image: -webkit-gradient(linear, left bottom, right top, color-stop(0.33, #7d5ce0), color-stop(0.67, #27D6FC));
 	background-image: -moz-linear-gradient(center bottom, rgb(14, 173, 86) 33%, rgb(0, 255, 85) 67%);
 	border: none;
@@ -3509,7 +3509,7 @@ section#header .custom-industries-section .inner-card h3 {
 }
 
 
-.custom-industries-section .col:hover .main-inner h3 {
+.custom-industries-section .col-md-2:hover .main-inner h3 {
 	background: linear-gradient(98.92deg, #7d5ce0 6.91%, #27D6FC 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -3761,6 +3761,12 @@ section#intro-section-logo-design h1 b {
 	-webkit-text-fill-color: transparent;
 	background-clip: text;
 
+}
+section#intro-section h3 b {
+	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 }
 
 .blizz-questions {
@@ -4699,7 +4705,7 @@ section#what-can-we .accordion-item .logo-images img {
 	background: #1d242e;
 	border-radius: 30px;
 	margin: 10px;
-	transition: .9s;
+	transition: .9s !important;
 	-webkit-animation: pulse 3s linear infinite;
 	animation: pulse 3s linear infinite;
 }
@@ -4900,7 +4906,7 @@ section#recent-past .gallery-container {
 
 section#recent-past .gallery-item:hover {
 	transform: scale(0.9);
-	transition: .9s;
+	transition: .9s !important;
 }
 
 section#recent-past .gallery-item {
@@ -5151,6 +5157,9 @@ form#contact {
 	color: white !important;
 	list-style: none !important;
 }
+.contact-div ul.nav-menu-links i {
+    margin-right: 10px;
+}
 
 .contact-div ul.nav-menu-links {
 	padding: 0px !important;
@@ -5231,9 +5240,9 @@ section#price-plans-section .custom-price-button ul li {
 	display: inline-block;
 }
 
-section#price-plans-section .fade:not(.show) {
+/* section#price-plans-section .fade:not(.show) {
 	display: none !important;
-}
+} */
 
 section#price-plans-section .custom-price-button ul {
 	margin: 0;
@@ -5256,7 +5265,9 @@ section#price-plans-section .nav-tabs .nav-link {
 	line-height: 54px;
 	color: #4D4D4D;
 }
-
+section#price-plans-section .collapse:not(.show) {
+	display: block !important;
+}
 section#price-plans-section ul#myTab {
 	padding: 0 0 !important;
 	border: 1px solid #4E4E4E;
@@ -5264,6 +5275,7 @@ section#price-plans-section ul#myTab {
 	text-align: center;
 	width: 74%;
 	margin: 0 auto;
+	display: flex !important;
 }
 
 section#price-plans-section .price-inner-plan {
@@ -5336,6 +5348,7 @@ section#price-plans-section .price-inner-plan {
 	box-shadow: 0px 8px 17px rgba(0, 0, 0, 0.13);
 	border-radius: 15px;
 	padding: 40px 40px;
+	transition: .9s !important;
 }
 
 section#price-plans-section .nav-tabs .nav-link:hover {
@@ -5925,7 +5938,7 @@ section#milestone-section .mile-function-code .mileswithtext:hover h1 {
 
 section#milestone-section .mile-function-code .mileswithtext:hover {
 	background: linear-gradient(91deg, #27D6FC 26.76%, #7d5ce0 75.8%), linear-gradient(0deg, #FFFFFF, #FFFFFF);
-	transition: .9s;
+	transition: .9s !important;
 	transform: translateY(10px);
 }
 
@@ -5954,8 +5967,8 @@ section#milestone-section .mision-vision .mis-vis {
 }
 
 section#milestone-section .mision-vision :hover.mis-vis {
-	background: #7d5ce0;
-	transition: .9s;
+	background: transparent;
+	transition: .9s !important;
 	transform: translateY(10px)
 }
 
@@ -6465,6 +6478,7 @@ section#why-us-brand p b {
 
 .why-us-image img {
 	filter: hue-rotate(135deg);
+     width: 100%;
 }
 
 section#logo-about-us .logoabout-text p {
@@ -6900,7 +6914,7 @@ section#header nav#nav ul.dropotron.level-0.center li:before {
 	font-family: 'Anek Tamil' !important;
 }
 
-.service-logosection .social h2 {
+.service-logosection .social h1 {
 	text-align: left;
 	padding: 0;
 	font-size: 65px;
@@ -6910,14 +6924,18 @@ section#header nav#nav ul.dropotron.level-0.center li:before {
 	font-family: 'Anek Tamil';
 }
 
-.service-logosection .social h2 b {
+.service-logosection .social h1 b {
 	color: #27d5fc;
 }
 
-section#logo-about-us .social-media h1 {
+section#logo-about-us .social-media h2 {
 	font-size: 45px;
-	-webkit-text-stroke: 1px #ccc;
+  color: white;
 	line-height: 55px;
+	text-transform: capitalize;
+}
+section#logo-about-us .social-media h2 b{
+	color: #27D6FC;
 }
 
 section#logo-about-us2 h1 {
@@ -6925,10 +6943,12 @@ section#logo-about-us2 h1 {
 	padding: 0;
 	margin: 0;
 	font-size: 45px;
-	-webkit-text-stroke: 1px #ccc;
+	color: white;
 	line-height: 55px;
 }
-
+section#logo-about-us2 h1 b {
+	color: #27d5fc;
+}
 section#logo-about-us2 p {
 	color: white;
 }
@@ -7100,10 +7120,18 @@ section#mobileapp-details {
 }
 
 /* PORTOFLIO PAGE CSS */
-
+.first-inner-section-text.social h2 {
+    color: white;
+}
+.first-inner-section-text.social h2  b
+{
+    color: #27d5fc;
+}
 .service-logosection.portofliosec .portoflioss h2 b {
-	-webkit-text-stroke: 0px;
-	-webkit-text-fill-color: #fff;
+color: #27d5fc;
+}
+.service-logosection.portofliosec .portoflioss h2 {
+color: white;
 }
 
 section#header .portofliosec img:hover {
@@ -8209,7 +8237,34 @@ form.innerpagescalltoaction button.btn.btn-primary {
 	}
 }
 
+
 @media only screen and (max-width:480px) {
+	/* section#price-plans-section .fade:not(.show) {
+		display: contents !important;
+	} */
+	.choose-card-text p {
+		height: 175px;
+	}
+	.choose-card-text h3 {
+		font-size: 26px;
+		line-height: 30px;
+	}
+	
+	.logoabout-text h2.heading-text-h3 {
+	
+		font-size: 25px;
+		line-height: 30px;
+	}
+	.first-inner-section-text h1 img.greenline{
+		display: none;
+	}
+	section#logoportfolio .collapse:not(.show){
+		display: block !important;
+	}
+	section#intro-section-home h1{
+		font-size: 30px;
+		line-height: 35px;
+	}
 	a.navbar-brand img {
 		height: 50px;
 	}
@@ -8263,7 +8318,7 @@ form.innerpagescalltoaction button.btn.btn-primary {
 
 	section#testimonials-sections .slider.slider-single {
 		margin: 40px 0px;
-		padding: 25px 20px;
+		padding: 15px 10px;
 
 	}
 
@@ -8387,8 +8442,15 @@ form.innerpagescalltoaction button.btn.btn-primary {
 	section#portfolio-sec,
 	section#contact-sec {
 		background-size: cover;
+		padding: 20px 0px ;
 	}
+	.concept-item {
+		width: 100%  !important;
+	}
+	.my-connect-inner {
 
+		padding: 60px 10px 50px 10px;
+	}
 	section#about-us-main-section,
 	section#milestone-section {
 		padding: 50px 0px !important;
@@ -8429,8 +8491,7 @@ form.innerpagescalltoaction button.btn.btn-primary {
 	}
 
 
-
-
+	
 
 	.footer-nav-1 {
 		padding-left: 0 !important;
@@ -8446,7 +8507,7 @@ form.innerpagescalltoaction button.btn.btn-primary {
 	}
 
 	.service-logosection {
-		padding-top: 50px;
+		padding-top: 20px !important;
 		padding-left: 0px !important;
 		padding-right: 0px !important;
 	}
@@ -8476,15 +8537,49 @@ form.innerpagescalltoaction button.btn.btn-primary {
 
 	section#logo-about-us .logoabout-text h1 {
 
-		font-size: 68px !important;
-		line-height: 60px;
+		font-size: 30px !important;
+		line-height: 35px;
 
 	}
-
+	section#intro-section-logo-design h1{
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.service-logosection .row{
+		margin: auto;
+	}
+	.service-logosection .first-inner-section-text h1 {
+		font-size: 30px !important;
+		line-height: 35px !important;
+	}
+	section#payperclick-about h1{
+		font-size: 30px;
+		line-height: 30px;
+	}
+	.row-text h1 {
+		padding-bottom: 0px !important;
+	}
+	section#logo-about-us h2.logoabout-text-h2 {
+		font-size: 25px;
+		line-height: 30px;
+	}
 	section#logoportfolio ul#myTab li {
 		padding-left: 5px;
 		padding-right: 5px;
 		margin-bottom: 10px;
+	}
+	.features-text h1 {
+		font-size: 30px !important;
+		line-height:35px !important;
+	}
+	button.tablinks {
+		margin-bottom: 5px !important;
+	}
+	section#tecnology-stack ul.row {
+		margin: auto !important;
+	}
+	section#price-plans-section-1 .price-inner-plan {
+		padding: 20px 20px;
 	}
 
 	section#intro-section {
@@ -8492,9 +8587,15 @@ form.innerpagescalltoaction button.btn.btn-primary {
 	}
 
 	section#logo-about-us {
-		padding: 30px 0px !important;
+		padding: 20px 0px !important;
 	}
+	section#intro-section-content .why-choosetext {
+		height: 400px;
+	}
+	section#price-plans-section ul#myTab {
+		width: 100%;
 
+	}
 	section#logo-about-us .mobile h6 {
 		font-size: 57px;
 	}
@@ -8503,10 +8604,6 @@ form.innerpagescalltoaction button.btn.btn-primary {
 		display: none;
 	}
 
-	section#logo-about-us .logoabout-text h6 {
-
-		margin-top: -20px;
-	}
 
 	section#show-case-sectionseo {
 		display: none;
@@ -8584,9 +8681,15 @@ section#industries-we-conquered {
 .indutries-image img {
 	width: 100%;
 	height: 270px;
-	opacity: 0.6;
+	opacity: 0.5;
+	object-fit: cover;
 }
-
+section#industries-we-conquered button.slick-next.slick-arrow {
+    background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
 .mis-vis i {
 	background: linear-gradient(98.46deg, #27D6FC 3.81%, #7d5ce0 101.52%);
 	-webkit-background-clip: text;
@@ -8598,7 +8701,43 @@ section#industries-we-conquered {
 	padding: 40px;
 }
 
-.concept-container {}
+section#industries-we-conquered button.slick-next.slick-arrow {
+    background-image: url(../../images/rightarrow.png);
+    background-size: 100% 100%;
+    padding: 30px 30px;
+    z-index: 1111;
+    position: absolute;
+    right: -60px;
+}
+section#industries-we-conquered button.slick-prev.slick-arrow{
+	background-image: url(../../images/leftarrow.png);
+    background-size: 100% 100%;
+    padding: 30px 30px;
+    z-index: 1111;
+    position: absolute;
+    left: -60px;
+
+}
+.center.slick-initialized.slick-slider button.slick-prev.slick-arrow{
+	background-image: url(../../images/leftarrow.png);
+    background-size: 100% 100%;
+    padding: 30px 30px;
+    z-index: 1111;
+    position: absolute;
+    left: -60px;
+}
+.center.slick-initialized.slick-slider button.slick-next.slick-arrow{
+	background-image: url(../../images/rightarrow.png);
+    background-size: 100% 100%;
+    padding: 30px 30px;
+    z-index: 1111;
+    position: absolute;
+    right: -60px;
+}
+section#industries-we-conquered .slick-slide img {
+    display: block;
+   border: 6px solid #27D6FC;
+}
 
 .concept-item {
 	display: flex;
@@ -8894,4 +9033,20 @@ section#tecnology-stack {
 
 .tecnology-heading.text-center {
 	margin-bottom: 50px;
+}
+.social-links-2 ul {
+    padding-left: 0px;
+    display: flex;
+    gap: 5px;
+}
+.social-links-2 ul  li {
+	list-style: none;
+}
+.social-links-2 ul  li img {
+	width: 40px;
+	border-radius: 7px;
+}
+.social-links-2 h2 {
+    color: white;
+    margin-bottom: 20px;
 }

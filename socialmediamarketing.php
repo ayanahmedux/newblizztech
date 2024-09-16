@@ -13,10 +13,10 @@
 					<div class="row" style="margin: auto;">
 						<div class="col-6 col-12-medium align-self-center">
 							<div class="first-inner-section-text social">
-								<h2>Drive Results and Build Connections withb
+								<h1>Drive Results and Build Connections withb
 									<b>Strategic Social</b>
 									Media Solutions
-								</h2>
+								</h1>
 								<p> In the ever-evolving digital landscape, social media has
 									become a powerful tool for brands to connect with their
 									audience and drive engagement. At Blizztech Solutions, we
@@ -75,7 +75,7 @@
 
 					<div class="col-6 col-12-medium align-self-center">
 						<div class="logoabout-text social-media">
-							<h1> Harnessing Social Media For Groundbreaking Growth </h1>
+							<h1> Harnessing <b>Social Media </b>For Groundbreaking Growth </h1>
 							<p>
 								The market is flooded with vigorous marketers these
 								days who group against each other so they make sure
@@ -113,7 +113,7 @@
 					</div>
 					<div class="col-6 col-12-medium align-self-center">
 						<div class="logoabout-text social-media">
-							<h1> Strategic Social Media Planning </h1>
+							<h1> Strategic <b>Social Media</b> Planning </h1>
 							<p>
 								Effective social media marketing starts with a well
 								thought-out plan. We collaborate with you to
@@ -135,7 +135,7 @@
 
 					<div class="col-6 col-12-medium align-self-center">
 						<div class="logoabout-text social-media">
-							<h1> Engaging Content Creation </h1>
+							<h1> Engaging <b>Content Creation</b> </h1>
 							<p>
 								Content is king, and on social media, it’s your way to
 								shine. We create visually compelling and relevant
@@ -164,7 +164,7 @@
 					</div>
 					<div class="col-6 col-12-medium align-self-center">
 						<div class="logoabout-text social-media">
-							<h1> Targeted Ad Campaigns </h1>
+							<h1> <b>Targeted Ad</b> Campaigns </h1>
 							<p>
 								Reach the right audience at the right time with our
 								targeted social media advertising. We design and
@@ -188,7 +188,7 @@
 
 					<div class="col-6 col-12-medium align-self-center">
 						<div class="logoabout-text social-media">
-							<h1> Community Management </h1>
+							<h1> Community <b>Management</b> </h1>
 							<p>
 								Building and maintaining a strong online community is
 								key to long-term success. Our community
@@ -219,7 +219,7 @@
 
 					<div class="col-6 col-12-medium align-self-center">
 						<div class="logoabout-text social-media">
-							<h1> Social Media Analytics and Reporting </h1>
+							<h1> <b>Social Media</b> Analytics and Reporting </h1>
 							<p>
 								Measuring success is crucial for continuous
 								improvement. We provide detailed analytics and
@@ -246,7 +246,7 @@
 
 					<div class="col-6 col-12-medium align-self-center">
 						<div class="logoabout-text social-media">
-							<h1> Influencer Collaborations</h1>
+							<h1> <b>Influencer</b> Collaborations</h1>
 							<p>
 								Leverage the power of influencers to extend your reach
 								and credibility. We identify and collaborate with
@@ -963,7 +963,7 @@
 		<section id="logo-contact-form" style="padding: 210px 0px;">
 			<div class="container">
 				<div class="row contact-inner">
-					<div class="col-6 col-12-medium"  data-aos="fade-left" data-aos-duration="2000">
+					<div class="col-6 col-12-medium"  data-aos="fade-down" data-aos-duration="1000">
 						<div class="logo-conactfomrinner">
 							<form class="innerpagescalltoaction" method="post" action="">
 

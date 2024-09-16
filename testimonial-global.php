@@ -12,7 +12,7 @@
 			</div>
 			<div class="container">
 				<div id="page">
-					<div class="row">
+					<div class="row" style="margin: auto;">
 						<div class="column small-11 small-centered">
 							<div class="slider slider-nav">
 								
