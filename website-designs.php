@@ -70,7 +70,7 @@
 			<div class="container">
 				<div class="row">
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
 						<div class="logoabout-text">
 							<h1>Build Your Online Presence with Expert Web Design and </h1>
 							<h6 style="margin-top: 0px !important;">Development</h6>
@@ -78,8 +78,8 @@
 						</div>
 					</div>
 
-					<div class="col-6 col-12-medium">
-						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/websitedesigns/websiteinfographic.png" />
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="2000">
+						<img class="" style="width: 100%;" src="./images/websitedesigns/websiteinfographic.png" />
 					</div>
 				</div>
 				<p class="website-abouttext">At Blizztech Solutions, we take pride in our ability to craft high
@@ -298,13 +298,13 @@
 						</ul>
 					</div>
 				</div>
-				
+
 			</div>
 		</section>
 		<!-- TECNOLOGY STACK END -->
 		<section id="blizztech-question">
-		<div class="container">
-		<div class="blizz-questions">
+			<div class="container">
+				<div class="blizz-questions" data-aos="fade-up" data-aos-duration="1500">
 					<p><b> Why Choose Blizztech Solutions for Website
 							Design and Development?</b></p>
 					<p>Blizztech Solutions offers a holistic approach to
@@ -313,7 +313,7 @@
 						solutions ensure your website stands out, engages
 						visitors, and achieves your business goals.</p>
 				</div>
-		</div>
+			</div>
 		</section>
 		<!-- LOGO WE CREATE OF YOU START -->
 
@@ -327,7 +327,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-3 col-12-medium">
+					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1000">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon1.png">
@@ -342,7 +342,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col-3 col-12-medium">
+					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1000">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon2.png">
@@ -359,7 +359,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col-3 col-12-medium">
+					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1000">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon3.png">
@@ -374,7 +374,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col-3 col-12-medium">
+					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1000">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon4.png">
@@ -454,11 +454,7 @@
 				<ul class="nav nav-tabs d-none d-lg-flex" id="myTab" role="tablist">
 					<li class="nav-item" role="presentation">
 						<button class="nav-link active" id="home-tab4" data-bs-toggle="tab" data-bs-target="#home-tab-pane4"
-							type="button" role="tab" aria-controls="home-tab-pane4" aria-selected="true">All</button>
-					</li>
-					<li class="nav-item" role="presentation">
-						<button class="nav-link" id="profile-tab4" data-bs-toggle="tab" data-bs-target="#profile-tab-pane4"
-							type="button" role="tab" aria-controls="profile-tab-pane4" aria-selected="false">Informative</button>
+							type="button" role="tab" aria-controls="home-tab-pane4" aria-selected="true">INFORMATIVE</button>
 					</li>
 					<li class="nav-item" role="presentation">
 						<button class="nav-link" id="profile-tab5" data-bs-toggle="tab" data-bs-target="#profile-tab-pane5"
@@ -475,214 +471,129 @@
 					</li>
 				</ul>
 
-				<!-- ALL GALLERY -->
+				<!-- Informative GALLERY -->
 				<div class="tab-content accordion ghm" id="myTabContent">
 					<div class="tab-pane fade show active accordion-item" id="home-tab-pane4" role="tabpanel" aria-labelledby="home-tab4" tabindex="0">
 						<div id="collapseOne" class="accordion-collapse collapse show  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/websitedesigns/portfolio/1.png">
+									<img src="./images/websitedesigns/portfolio/informative/1.png">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/websitedesigns/portfolio/2.png">
+									<img src="./images/websitedesigns/portfolio/informative/2.png">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/websitedesigns/portfolio/3.png">
+									<img src="./images/websitedesigns/portfolio/informative/3.png">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/websitedesigns/portfolio/4.png">
-								</div>
-								<div class="gallery-item" data-index="5">
-									<img src="./images/websitedesigns/portfolio/5.png">
-								</div>
-								<div class="gallery-item" data-index="6">
-									<img src="./images/websitedesigns/portfolio/6.png">
-								</div>
-								<div class="gallery-item" data-index="7">
-									<img src="./images/websitedesigns/portfolio/7.png">
-								</div>
-								<div class="gallery-item" data-index="8">
-									<img src="./images/websitedesigns/portfolio/3.png">
+									<img src="./images/websitedesigns/portfolio/informative/4.png">
+
 								</div>
 							</div>
+
 						</div>
 
 					</div>
+					<!-- informative GALLERY END -->
 
-				</div>
-				<!-- ALL GALLERY END -->
+					<!-- E-Commerce GALLERY -->
+					<div class="tab-content accordion ghm" id="myTabContent">
+						<div class="tab-pane fade accordion-item" id="profile-tab-pane5" role="tabpanel" aria-labelledby="profile-tab5" tabindex="0">
+							<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
+								data-bs-parent="#myTabContent">
+								<div class="gallery-container">
+									<div class="gallery-item" data-index="1">
+										<img src="./images/websitedesigns/portfolio/ecommerce/1.png">
+									</div>
+									<div class="gallery-item" data-index="2">
+										<img src="./images/websitedesigns/portfolio/ecommerce/2.png">
+									</div>
+									<div class="gallery-item" data-index="3">
+										<img src="./images/websitedesigns/portfolio/ecommerce/3.jpg">
+									</div>
+									<div class="gallery-item" data-index="4">
+										<img src="./images/websitedesigns/portfolio/ecommerce/4.jpg">
+									</div>
 
-				<!-- Informative GALLERY -->
-				<div class="tab-content accordion ghm" id="myTabContent">
-					<div class="tab-pane fade accordion-item" id="profile-tab-pane4" role="tabpanel" aria-labelledby="profile-tab4" tabindex="0">
-						<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
-							data-bs-parent="#myTabContent">
-							<div class="gallery-container">
-								<div class="gallery-item" data-index="1">
-									<img src="./images/websitedesigns/portfolio/1.png">
-								</div>
-								<div class="gallery-item" data-index="2">
-									<img src="./images/websitedesigns/portfolio/2.png">
-								</div>
-								<div class="gallery-item" data-index="3">
-									<img src="./images/websitedesigns/portfolio/3.png">
-								</div>
-								<div class="gallery-item" data-index="4">
-									<img src="./images/websitedesigns/portfolio/4.png">
-								</div>
-								<div class="gallery-item" data-index="5">
-									<img src="./images/websitedesigns/portfolio/5.png">
-								</div>
-								<div class="gallery-item" data-index="6">
-									<img src="./images/websitedesigns/portfolio/6.png">
-								</div>
-								<div class="gallery-item" data-index="7">
-									<img src="./images/websitedesigns/portfolio/7.png">
-								</div>
-								<div class="gallery-item" data-index="8">
-									<img src="./images/websitedesigns/portfolio/3.png">
 								</div>
 							</div>
+
 						</div>
 
 					</div>
+					<!-- E-Commerce GALLERY END -->
 
-				</div>
-				<!-- informative GALLERY END -->
-
-				<!-- E-Commerce GALLERY -->
-				<div class="tab-content accordion ghm" id="myTabContent">
-					<div class="tab-pane fade accordion-item" id="profile-tab-pane5" role="tabpanel" aria-labelledby="profile-tab5" tabindex="0">
-						<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
-							data-bs-parent="#myTabContent">
-							<div class="gallery-container">
-								<div class="gallery-item" data-index="1">
-									<img src="./images/websitedesigns/portfolio/1.png">
-								</div>
-								<div class="gallery-item" data-index="2">
-									<img src="./images/websitedesigns/portfolio/2.png">
-								</div>
-								<div class="gallery-item" data-index="3">
-									<img src="./images/websitedesigns/portfolio/3.png">
-								</div>
-								<div class="gallery-item" data-index="4">
-									<img src="./images/websitedesigns/portfolio/4.png">
-								</div>
-								<div class="gallery-item" data-index="5">
-									<img src="./images/websitedesigns/portfolio/5.png">
-								</div>
-								<div class="gallery-item" data-index="6">
-									<img src="./images/websitedesigns/portfolio/6.png">
-								</div>
-								<div class="gallery-item" data-index="7">
-									<img src="./images/websitedesigns/portfolio/7.png">
-								</div>
-								<div class="gallery-item" data-index="8">
-									<img src="./images/websitedesigns/portfolio/3.png">
+					<!-- Web App GALLERY -->
+					<div class="tab-content accordion ghm" id="myTabContent">
+						<div class="tab-pane fade accordion-item" id="profile-tab-pane6" role="tabpanel" aria-labelledby="profile-tab6" tabindex="0">
+							<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
+								data-bs-parent="#myTabContent">
+								<div class="gallery-container">
+									<div class="gallery-item" data-index="1">
+										<img src="./images/websitedesigns/portfolio/webapp/1.png">
+									</div>
+									<div class="gallery-item" data-index="2">
+										<img src="./images/websitedesigns/portfolio/webapp/2.png">
+									</div>
+									<div class="gallery-item" data-index="3">
+										<img src="./images/websitedesigns/portfolio/webapp/3.png">
+									</div>
+									<div class="gallery-item" data-index="4">
+										<img src="./images/websitedesigns/portfolio/webapp/4.png">
+									</div>
 								</div>
 							</div>
+
 						</div>
 
 					</div>
+					<!-- Web App GALLERY END -->
 
-				</div>
-				<!-- E-Commerce GALLERY END -->
-
-				<!-- Web App GALLERY -->
-				<div class="tab-content accordion ghm" id="myTabContent">
-					<div class="tab-pane fade accordion-item" id="profile-tab-pane6" role="tabpanel" aria-labelledby="profile-tab6" tabindex="0">
-						<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
-							data-bs-parent="#myTabContent">
-							<div class="gallery-container">
-								<div class="gallery-item" data-index="1">
-									<img src="./images/websitedesigns/portfolio/1.png">
-								</div>
-								<div class="gallery-item" data-index="2">
-									<img src="./images/websitedesigns/portfolio/2.png">
-								</div>
-								<div class="gallery-item" data-index="3">
-									<img src="./images/websitedesigns/portfolio/3.png">
-								</div>
-								<div class="gallery-item" data-index="4">
-									<img src="./images/websitedesigns/portfolio/4.png">
-								</div>
-								<div class="gallery-item" data-index="5">
-									<img src="./images/websitedesigns/portfolio/5.png">
-								</div>
-								<div class="gallery-item" data-index="6">
-									<img src="./images/websitedesigns/portfolio/6.png">
-								</div>
-								<div class="gallery-item" data-index="7">
-									<img src="./images/websitedesigns/portfolio/7.png">
-								</div>
-								<div class="gallery-item" data-index="8">
-									<img src="./images/websitedesigns/portfolio/3.png">
+					<!-- E-Store GALLERY -->
+					<div class="tab-content accordion ghm" id="myTabContent">
+						<div class="tab-pane fade accordion-item" id="profile-tab-pane7" role="tabpanel" aria-labelledby="profile-tab7" tabindex="0">
+							<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
+								data-bs-parent="#myTabContent">
+								<div class="gallery-container">
+									<div class="gallery-item" data-index="1">
+										<img src="./images/websitedesigns/portfolio/estore/1.png">
+									</div>
+									<div class="gallery-item" data-index="2">
+										<img src="./images/websitedesigns/portfolio/estore/2.png">
+									</div>
+									<div class="gallery-item" data-index="3">
+										<img src="./images/websitedesigns/portfolio/estore/3.png">
+									</div>
+									<div class="gallery-item" data-index="4">
+										<img src="./images/websitedesigns/portfolio/estore/4.png">
+									</div>
 								</div>
 							</div>
+
 						</div>
 
 					</div>
+					<!-- E-Store GALLERY END -->
 
-				</div>
-				<!-- Web App GALLERY END -->
 
-				<!-- E-Store GALLERY -->
-				<div class="tab-content accordion ghm" id="myTabContent">
-					<div class="tab-pane fade accordion-item" id="profile-tab-pane7" role="tabpanel" aria-labelledby="profile-tab7" tabindex="0">
-						<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
-							data-bs-parent="#myTabContent">
-							<div class="gallery-container">
-								<div class="gallery-item" data-index="1">
-									<img src="./images/websitedesigns/portfolio/1.png">
-								</div>
-								<div class="gallery-item" data-index="2">
-									<img src="./images/websitedesigns/portfolio/2.png">
-								</div>
-								<div class="gallery-item" data-index="3">
-									<img src="./images/websitedesigns/portfolio/3.png">
-								</div>
-								<div class="gallery-item" data-index="4">
-									<img src="./images/websitedesigns/portfolio/4.png">
-								</div>
-								<div class="gallery-item" data-index="5">
-									<img src="./images/websitedesigns/portfolio/5.png">
-								</div>
-								<div class="gallery-item" data-index="6">
-									<img src="./images/websitedesigns/portfolio/6.png">
-								</div>
-								<div class="gallery-item" data-index="7">
-									<img src="./images/websitedesigns/portfolio/7.png">
-								</div>
-								<div class="gallery-item" data-index="8">
-									<img src="./images/websitedesigns/portfolio/3.png">
-								</div>
-							</div>
-						</div>
 
+
+					<div class="custom-portoflio-button" style="padding-top: 40px;">
+						<ul>
+							<li>
+								<div class="brand-button">
+									<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+								</div>
+							</li>
+							<li>
+								<div class="brand-button">
+									<h6><a href="portfolio">View Portfolio</a></h6>
+								</div>
+							</li>
+						</ul>
 					</div>
-
 				</div>
-				<!-- E-Store GALLERY END -->
-
-
-
-
-				<div class="custom-portoflio-button" style="padding-top: 40px;">
-					<ul>
-						<li>
-							<div class="brand-button">
-								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-							</div>
-						</li>
-						<li>
-							<div class="brand-button">
-								<h6><a href="#">View Portfolio</a></h6>
-							</div>
-						</li>
-					</ul>
-				</div>
-			</div>
 
 
 		</section>
@@ -1149,414 +1060,338 @@
 							</div>
 						</div>
 					</div>
-					<!-- LOGOS PRICE PLAN END -->
-					<!-- PRICE PLAN LOGO END -->
+		</section>
+		<!-- LOGOS PRICE PLAN END -->
+		<!-- PRICE PLAN LOGO END -->
 
-					<!-- HOW ITS PROCESS START -->
+		<!-- HOW ITS PROCESS START -->
 
-					<section id="logo-process-sec" style="padding: 80px 0px;">
-						<div class="container">
-							<div class="row">
-								<div class="heading-text" style="text-align: center;">
-									<h1>How This <b> Process </b>Work</h1>
-									<p style="color: #fff;">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-										Lorem Ipsum has been the industry's standard <br>dummy text ever since the 1500s, when an unkmore recently</p>
-								</div>
-							</div>
-						</div>
-						<div class="logo-steps">
-							<div class="container">
-								<div class="row">
-									<div class="col-3 col-12-medium">
-										<h2>1<span>Briefing</span></h2>
-									</div>
-									<div class="col-3 col-12-medium">
-										<h2>2<span>
-												Design UI Phase</span></h2>
-									</div>
-									<div class="col-3 col-12-medium">
-										<h2>3<span>
-												Development </span></h2>
-									</div>
-									<div class="col-3 col-12-medium">
-										<h2>4<span>
-												Project Live </span></h2>
-									</div>
-								</div>
-							</div>
-						</div>
-					</section>
-
-					<!-- HOW ITS PROCESS END -->
-
-					<!-- HOW ITS PROCESS INNER START -->
-
-					<section id="logoprocess-inner">
-						<div class="container">
-							<div class="row">
-								<div class="col-6 col-12-medium">
-									<img width="100%" src="./images/websitedesigns/yourwork.png" />
-								</div>
-
-								<div class="col-6 col-12-medium">
-									<div class="processinner-text">
-										<h2>We Required A Business <br>Information of <b>Your Work.</b></h2>
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-											Lorem Ipsum has been the industry's standaxt ever since the 1500s, when an
-											unknown printer took a galleyd scrambled iecimen book. It has survivversions
-											of Lorem Ipsum.</p>
-
-										<div class="accordion w-100" id="basicAccordion">
-											<div class="accordion-item">
-												<h2 class="accordion-header" id="headingOne">
-													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-														data-mdb-target="#basicAccordionCollapseseven" aria-expanded="false" aria-controls="collapseseven">
-														How Should I Start Brief? <img src="./images/faqdownarrow.png" />
-													</button>
-												</h2>
-												<div id="basicAccordionCollapseseven" class="accordion-collapse collapse" aria-labelledby="headingOne"
-													data-mdb-parent="#basicAccordion">
-													<div class="accordion-body">
-														We offer a wide range of services, including web design,
-														logo design, branding, SEO, social media marketing,
-														and animation. Our team of experts can help you with
-														all aspects of your online presence, from creating a
-														professional website to developing a comprehensive branding strategy.
-													</div>
-												</div>
-											</div>
-											<div class="accordion-item">
-												<h2 class="accordion-header" id="headingTwo">
-													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-														data-mdb-target="#basicAccordionCollapseeight" aria-expanded="false" aria-controls="collapseeight">
-														How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
-													</button>
-												</h2>
-												<div id="basicAccordionCollapseeight" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-													data-mdb-parent="#basicAccordion">
-													<div class="accordion-body">
-														We offer a wide range of services, including web design, logo design, branding, SEO,
-														social media marketing, and animation. Our team of experts can help you with all aspects
-														of your online presence, from creating a professional website to developing a
-														comprehensive branding strategy.
-													</div>
-												</div>
-											</div>
-											<div class="accordion-item">
-												<h2 class="accordion-header" id="headingThree">
-													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-														data-mdb-target="#basicAccordionCollapsenine" aria-expanded="false" aria-controls="collapsenine">
-														How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
-													</button>
-												</h2>
-												<div id="basicAccordionCollapsenine" class="accordion-collapse collapse" aria-labelledby="headingThree"
-													data-mdb-parent="#basicAccordion">
-													<div class="accordion-body">
-														We offer a wide range of services, including web design, logo design, branding, SEO,
-														social media marketing, and animation. Our team of experts can help you with all aspects
-														of your online presence, from creating a professional website to developing a
-														comprehensive branding strategy.
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-
-							</div>
-							<hr>
-							<!-- SECOND ROW -->
-							<div class="row" style="padding-top: 50px; margin: auto;">
-
-
-								<div class="col-6 col-12-medium">
-									<div class="processinner-text">
-										<h2>The Execution of <br>
-											<b> Design Phase & Timeframe</b>
-										</h2>
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-											Lorem Ipsum has been the industry's standaxt ever since the 1500s, when an
-											unknown printer took a galleyd scrambled iecimen book. It has survivversions
-											of Lorem Ipsum.</p>
-
-										<div class="accordion w-100" id="basicAccordion">
-											<div class="accordion-item">
-												<h2 class="accordion-header" id="headingOne">
-													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-														data-mdb-target="#basicAccordionCollapseten" aria-expanded="false" aria-controls="collapseten">
-														How Should I Start Brief? <img src="./images/faqdownarrow.png" />
-													</button>
-												</h2>
-												<div id="basicAccordionCollapseten" class="accordion-collapse collapse" aria-labelledby="headingOne"
-													data-mdb-parent="#basicAccordion">
-													<div class="accordion-body">
-														We offer a wide range of services, including web design,
-														logo design, branding, SEO, social media marketing,
-														and animation. Our team of experts can help you with
-														all aspects of your online presence, from creating a
-														professional website to developing a comprehensive branding strategy.
-													</div>
-												</div>
-											</div>
-											<div class="accordion-item">
-												<h2 class="accordion-header" id="headingTwo">
-													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-														data-mdb-target="#basicAccordionCollapseeleven" aria-expanded="false" aria-controls="collapseeleven">
-														How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
-													</button>
-												</h2>
-												<div id="basicAccordionCollapseeleven" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-													data-mdb-parent="#basicAccordion">
-													<div class="accordion-body">
-														We offer a wide range of services, including web design, logo design, branding, SEO,
-														social media marketing, and animation. Our team of experts can help you with all aspects
-														of your online presence, from creating a professional website to developing a
-														comprehensive branding strategy.
-													</div>
-												</div>
-											</div>
-											<div class="accordion-item">
-												<h2 class="accordion-header" id="headingThree">
-													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-														data-mdb-target="#basicAccordionCollapsetweleve" aria-expanded="false" aria-controls="collapsetweleve">
-														How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
-													</button>
-												</h2>
-												<div id="basicAccordionCollapsetweleve" class="accordion-collapse collapse" aria-labelledby="headingThree"
-													data-mdb-parent="#basicAccordion">
-													<div class="accordion-body">
-														We offer a wide range of services, including web design, logo design, branding, SEO,
-														social media marketing, and animation. Our team of experts can help you with all aspects
-														of your online presence, from creating a professional website to developing a
-														comprehensive branding strategy.
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-6 col-12-medium">
-									<img width="100%" src="./images/websitedesigns/timeframese.png" />
-								</div>
-							</div>
-							<hr>
-							<!-- THIRD ROW START -->
-							<div class="row" style="padding-top: 50px; margin: auto;">
-								<div class="col-6 col-12-medium">
-									<img width="100%" src="./images/websitedesigns/development.png" />
-								</div>
-
-								<div class="col-6 col-12-medium">
-									<div class="processinner-text">
-										<h2>Interactive Element <br><b>Development</b></h2>
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-											Lorem Ipsum has been the industry's standaxt ever since the 1500s, when an
-											unknown printer took a galleyd scrambled iecimen book. It has survivversions
-											of Lorem Ipsum.</p>
-
-										<div class="accordion w-100" id="basicAccordion">
-											<div class="accordion-item">
-												<h2 class="accordion-header" id="headingOne">
-													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-														data-mdb-target="#basicAccordionCollapsethirteen" aria-expanded="false" aria-controls="collapsethirteen">
-														How Should I Start Brief? <img src="./images/faqdownarrow.png" />
-													</button>
-												</h2>
-												<div id="basicAccordionCollapsethirteen" class="accordion-collapse collapse" aria-labelledby="headingOne"
-													data-mdb-parent="#basicAccordion">
-													<div class="accordion-body">
-														We offer a wide range of services, including web design,
-														logo design, branding, SEO, social media marketing,
-														and animation. Our team of experts can help you with
-														all aspects of your online presence, from creating a
-														professional website to developing a comprehensive branding strategy.
-													</div>
-												</div>
-											</div>
-											<div class="accordion-item">
-												<h2 class="accordion-header" id="headingTwo">
-													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-														data-mdb-target="#basicAccordionCollapsefourteen" aria-expanded="false" aria-controls="collapsefouteen">
-														How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
-													</button>
-												</h2>
-												<div id="basicAccordionCollapsefourteen" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-													data-mdb-parent="#basicAccordion">
-													<div class="accordion-body">
-														We offer a wide range of services, including web design, logo design, branding, SEO,
-														social media marketing, and animation. Our team of experts can help you with all aspects
-														of your online presence, from creating a professional website to developing a
-														comprehensive branding strategy.
-													</div>
-												</div>
-											</div>
-											<div class="accordion-item">
-												<h2 class="accordion-header" id="headingThree">
-													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-														data-mdb-target="#basicAccordionCollapsefifteen" aria-expanded="false" aria-controls="collapsefifteen">
-														How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
-													</button>
-												</h2>
-												<div id="basicAccordionCollapsefifteen" class="accordion-collapse collapse" aria-labelledby="headingThree"
-													data-mdb-parent="#basicAccordion">
-													<div class="accordion-body">
-														We offer a wide range of services, including web design, logo design, branding, SEO,
-														social media marketing, and animation. Our team of experts can help you with all aspects
-														of your online presence, from creating a professional website to developing a
-														comprehensive branding strategy.
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-
-							</div>
-							<!-- THIRD ROW END -->
-							<hr>
-							<!-- FOUR ROW START -->
-							<div class="row" style="padding-top: 50px; margin: auto;">
-
-
-								<div class="col-6 col-12-medium">
-									<div class="processinner-text">
-										<h2>Performance Optimization and <br><b>Security Measures </b></h2>
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-											Lorem Ipsum has been the industry's standaxt ever since the 1500s, when an
-											unknown printer took a galleyd scrambled iecimen book. It has survivversions
-											of Lorem Ipsum.</p>
-
-										<div class="accordion w-100" id="basicAccordion">
-											<div class="accordion-item">
-												<h2 class="accordion-header" id="headingOne">
-													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-														data-mdb-target="#basicAccordionCollapsesixteen" aria-expanded="false" aria-controls="collapsesixteen">
-														How Should I Start Brief? <img src="./images/faqdownarrow.png" />
-													</button>
-												</h2>
-												<div id="basicAccordionCollapsesixteen" class="accordion-collapse collapse" aria-labelledby="headingOne"
-													data-mdb-parent="#basicAccordion">
-													<div class="accordion-body">
-														We offer a wide range of services, including web design,
-														logo design, branding, SEO, social media marketing,
-														and animation. Our team of experts can help you with
-														all aspects of your online presence, from creating a
-														professional website to developing a comprehensive branding strategy.
-													</div>
-												</div>
-											</div>
-											<div class="accordion-item">
-												<h2 class="accordion-header" id="headingTwo">
-													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-														data-mdb-target="#basicAccordionCollapseseventeen" aria-expanded="false" aria-controls="collapseseventeen">
-														How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
-													</button>
-												</h2>
-												<div id="basicAccordionCollapseseventeen" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-													data-mdb-parent="#basicAccordion">
-													<div class="accordion-body">
-														We offer a wide range of services, including web design, logo design, branding, SEO,
-														social media marketing, and animation. Our team of experts can help you with all aspects
-														of your online presence, from creating a professional website to developing a
-														comprehensive branding strategy.
-													</div>
-												</div>
-											</div>
-											<div class="accordion-item">
-												<h2 class="accordion-header" id="headingThree">
-													<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
-														data-mdb-target="#basicAccordionCollapseeighteen" aria-expanded="false" aria-controls="collapseeighteen">
-														How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
-													</button>
-												</h2>
-												<div id="basicAccordionCollapseeighteen" class="accordion-collapse collapse" aria-labelledby="headingThree"
-													data-mdb-parent="#basicAccordion">
-													<div class="accordion-body">
-														We offer a wide range of services, including web design, logo design, branding, SEO,
-														social media marketing, and animation. Our team of experts can help you with all aspects
-														of your online presence, from creating a professional website to developing a
-														comprehensive branding strategy.
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-6 col-12-medium">
-									<img width="100%" src="./images/websitedesigns/measures.png" />
-								</div>
-							</div>
-							<!-- FOUR ROW END -->
-						</div>
-					</section>
-
-					<!-- HOW ITS PROCESS INNER END -->
-
-					<!-- LOGO CONTACT FORM START -->
-					<section id="logo-contact-form" style="padding: 210px 0px;">
-						<div class="container">
-							<div class="row contact-inner">
-								<div class="col-6 col-12-medium"  data-aos="fade-down" data-aos-duration="1000">
-									<div class="logo-conactfomrinner">
-										<form class="innerpagescalltoaction" method="post" action="">
-
-
-
-
-											<input type="text" class="form-control" name="name" placeholder="Name" required>
-
-											<input type="email" class="form-control" name="email" placeholder="Email" required>
-
-
-
-											<input type="text" class="form-control" name="phone" placeholder="Phone" required>
-
-
-											<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
-
-											<button class="btn btn-primary" type="submit" name="submit">Submit</button>
-										</form>
-									</div>
-								</div>
-
-								<div class="col-6 col-12-medium"  data-aos="fade-left" data-aos-duration="1000">
-									<div class="heading-text">
-										<h1>If You Like What You See
-											<br><b>Let’s Connect Than!</b>
-										</h1>
-										<p style="color: #fff;">Our experienced and skilled designers are waiting for your response,
-											so, we can talk business and let the magic happen. Don’t hassle
-											around and partner with the award-winning design agency in US –
-											before your competitor do so.</p>
-										<div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
-											<ul>
-												<li>
-													<div class="brand-button">
-														<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-													</div>
-												</li>
-												<li>
-													<div class="brand-button">
-														<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
-													</div>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</section>
-					<!-- LOGO CONTACT FORM END -->
-
-					<!-- TESTIMONIAL START -->
-
-					<?php include_once("testimonial-global.php") ?>
-
-					<!-- FOOTER START -->
+		<section id="logo-process-sec" style="padding: 80px 0px;">
+			<div class="container">
+				<div class="row">
+					<div class="heading-text" style="text-align: center;">
+						<h1>How This <b> Process </b>Work</h1>
+						<p style="color: #fff;">We ensure a comprehensive approach to create fully functional <br>
+							websites through the four-step process.</p>
+					</div>
 				</div>
+			</div>
+			<div class="logo-steps">
+				<div class="container">
+					<div class="row">
+						<div class="col-3 col-12-medium">
+							<h2>1<span>Briefing</span></h2>
+						</div>
+						<div class="col-3 col-12-medium">
+							<h2>2<span>
+									Design UI Phase</span></h2>
+						</div>
+						<div class="col-3 col-12-medium">
+							<h2>3<span>
+									Development </span></h2>
+						</div>
+						<div class="col-3 col-12-medium">
+							<h2>4<span>
+									Project Live </span></h2>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
 
-				<?php include_once("includes/footer.php") ?>
+		<!-- HOW ITS PROCESS END -->
+
+		<!-- HOW ITS PROCESS INNER START -->
+
+		<section id="logoprocess-inner">
+			<div class="container">
+				<div class="row">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
+						<img width="100%" src="./images/websitedesigns/yourwork.png" />
+					</div>
+
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
+						<div class="processinner-text">
+							<h2><b>Briefing</b></h2>
+							<p>Our journey begins with a deep dive into your brand, goals, and aspirations. In this step we have a conversation about your website vision, set the foundation for a design that authentically represents your vision and connects with your audience.</p>
+
+							<div class="accordion w-100" id="basicAccordion">
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingOne">
+										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb" aria-expanded="false" aria-controls="collapseOne">
+											How long does the brief setting session last? <img src="./images/faqdownarrow.png">
+										</button>
+									</h2>
+									<div id="basicAccordionCollapseWeb" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#basicAccordion">
+										<div class="accordion-body">
+											The duration of the brief setting session varies based on the complexity of your brand and the depth of information needed. On average, it takes around 1-2 hours to comprehensively explore these crucial aspects.
+										</div>
+									</div>
+								</div>
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingTwo">
+										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb1" aria-expanded="false" aria-controls="collapseTwo">
+											What kind of information should I be prepared to discuss during the briefing phase? <img src="./images/faqdownarrow.png">
+										</button>
+									</h2>
+									<div id="basicAccordionCollapseWeb1" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-mdb-parent="#basicAccordion">
+										<div class="accordion-body">
+											During this phase, we'll delve into aspects like your brand's mission, target audience, design preferences, and any specific goals you have in mind. This information helps us create a design that truly represents your vision.
+										</div>
+									</div>
+								</div>
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingThree">
+										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb2" aria-expanded="false" aria-controls="collapseThree">
+											Is the initial briefing and exploration phase so important? <img src="./images/faqdownarrow.png">
+										</button>
+									</h2>
+									<div id="basicAccordionCollapseWeb2" class="accordion-collapse collapse" aria-labelledby="headingThree" data-mdb-parent="#basicAccordion">
+										<div class="accordion-body">
+											The briefing phase sets the stage for the entire website design process. It allows us to understand your brand and your brand goals, so that the design aligns with your vision and resonates with your target audience.
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+				</div>
+				<hr>
+				<!-- SECOND ROW -->
+				<div class="row" style="padding-top: 50px; margin: auto;">
+
+
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
+						<div class="processinner-text">
+							<h2>Creative <b>Conceptualization</b>
+							</h2>
+							<p>With your vision in mind, our creative team brings ideas to life. We curate custom web layouts, set color tones, and select visuals that fits your brand. This phase is about creating a design that's not only visually captivating but also speaks authentically to your brand identity.</p>
+
+							<div class="accordion w-100" id="basicAccordion">
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingOne">
+										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb3" aria-expanded="false" aria-controls="collapseOne">
+											How do you ensure that the design reflects our brand's unique identity? <img src="./images/faqdownarrow.png">
+										</button>
+									</h2>
+									<div id="basicAccordionCollapseWeb3" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#basicAccordion">
+										<div class="accordion-body">
+											We use a combination of the provided brief and our expertise in design dynamics. By understanding your brand's values, mission, and target audience, we craft a design that authentically represents your identity and matches well with the brief.
+										</div>
+									</div>
+								</div>
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingTwo">
+										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb4" aria-expanded="false" aria-controls="collapseTwo">
+											What if I want to make changes to the design concepts you presented? <img src="./images/faqdownarrow.png">
+										</button>
+									</h2>
+									<div id="basicAccordionCollapseWeb4" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-mdb-parent="#basicAccordion">
+										<div class="accordion-body">
+											We understand that revisions may be necessary. If you're not completely satisfied with the initial concepts, we offer a collaborative process for refinement. Our goal is to ensure the final design fully embodies your brand's personality and resonates with your audience.
+										</div>
+									</div>
+								</div>
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingThree">
+										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb5" aria-expanded="false" aria-controls="collapseThree">
+											Can I provide input or ideas during the conceptualization phase? <img src="./images/faqdownarrow.png">
+										</button>
+									</h2>
+									<div id="basicAccordionCollapseWeb5" class="accordion-collapse collapse" aria-labelledby="headingThree" data-mdb-parent="#basicAccordion">
+										<div class="accordion-body">
+											Absolutely! Your input is highly valued. We encourage collaboration and welcome any ideas or preferences you have for your website design. We ensure that the final design aligns perfectly with your vision.
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
+						<img width="100%" src="./images/websitedesigns/timeframese.png" />
+					</div>
+				</div>
+				<hr>
+				<!-- THIRD ROW START -->
+				<div class="row" style="padding-top: 50px; margin: auto;">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
+						<img width="100%" src="./images/websitedesigns/development.png" />
+					</div>
+
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
+						<div class="processinner-text">
+							<h2>Refining <b> Phase</b></h2>
+							<p>Your insights are paramount. We refine designs based on your feedback, ensuring every element aligns seamlessly with your vision. This collaborative process ensures the final design is a true reflection of your brand's essence.</p>
+
+							<div class="accordion w-100" id="basicAccordion">
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingOne">
+										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb6" aria-expanded="false" aria-controls="collapseOne">
+											How many rounds of refinement are included in this phase? <img src="./images/faqdownarrow.png">
+										</button>
+									</h2>
+									<div id="basicAccordionCollapseWeb6" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#basicAccordion">
+										<div class="accordion-body">
+											We understand that achieving the perfect design may require several changes. On average, we offer up to three rounds of refinement. However, additional rounds can be accommodated as needed.
+										</div>
+									</div>
+								</div>
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingTwo">
+										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb7" aria-expanded="false" aria-controls="collapseTwo">
+											How long does it take to see the refined designs after providing feedback? <img src="./images/faqdownarrow.png">
+										</button>
+									</h2>
+									<div id="basicAccordionCollapseWeb7" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-mdb-parent="#basicAccordion">
+										<div class="accordion-body">
+											The turnaround time for refined designs depends on the extent of changes requested. Typically, you can expect to receive updated concepts within 3-5 business days after providing feedback.
+										</div>
+									</div>
+								</div>
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingThree">
+										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb8" aria-expanded="false" aria-controls="collapseThree">
+											What if I have new ideas or want to make significant changes during the refining phase? <img src="./images/faqdownarrow.png">
+										</button>
+									</h2>
+									<div id="basicAccordionCollapseWeb8" class="accordion-collapse collapse" aria-labelledby="headingThree" data-mdb-parent="#basicAccordion">
+										<div class="accordion-body">
+											We welcome your new ideas and feedback. While significant changes may require additional time and could impact project timelines.
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+				</div>
+				<!-- THIRD ROW END -->
+				<hr>
+				<!-- FOUR ROW START -->
+				<div class="row" style="padding-top: 50px; margin: auto;">
+
+
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
+						<div class="processinner-text">
+							<h2>Development & <b>Launch</b></h2>
+							<p>With the design perfected, our expert developers bring it to life. We conduct rigorous testing to guarantee a seamless user experience. Your website is now poised to make a memorable impact, leaving a good impression on your audience.</p>
+
+							<div class="accordion w-100" id="basicAccordion">
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingOne">
+										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb9" aria-expanded="false" aria-controls="collapseOne">
+											How long does the development phase typically take? <img src="./images/faqdownarrow.png">
+										</button>
+									</h2>
+									<div id="basicAccordionCollapseWeb9" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#basicAccordion">
+										<div class="accordion-body">
+											The duration of the development phase can vary based on the complexity of your website. On average, it takes between 4-8 weeks to bring the design to life and conduct thorough testing.
+										</div>
+									</div>
+								</div>
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingTwo">
+										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb10" aria-expanded="false" aria-controls="collapseTwo">
+											What kind of testing is conducted to ensure a seamless user experience? <img src="./images/faqdownarrow.png">
+										</button>
+									</h2>
+									<div id="basicAccordionCollapseWeb10" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-mdb-parent="#basicAccordion">
+										<div class="accordion-body">
+											Our testing process includes checks for functionality, responsiveness, and compatibility across various devices and browsers. We also conduct performance tests to ensure fast loading times.
+										</div>
+									</div>
+								</div>
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingThree">
+										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb11" aria-expanded="false" aria-controls="collapseThree">
+											What support do you provide after the website is launched? <img src="./images/faqdownarrow.png">
+										</button>
+									</h2>
+									<div id="basicAccordionCollapseWeb11" class="accordion-collapse collapse" aria-labelledby="headingThree" data-mdb-parent="#basicAccordion">
+										<div class="accordion-body">
+											We offer post-launch support to address any initial adjustments, bug fixes, or minor changes you may require. Additionally, we can provide guidance on maintaining and updating your website for optimal performance.
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
+						<img width="100%" src="./images/websitedesigns/measures.png" />
+					</div>
+				</div>
+				<!-- FOUR ROW END -->
+			</div>
+		</section>
+
+		<!-- HOW ITS PROCESS INNER END -->
+
+		<!-- LOGO CONTACT FORM START -->
+		<section id="logo-contact-form" style="padding: 210px 0px;">
+			<div class="container">
+				<div class="row contact-inner">
+					<div class="col-6 col-12-medium" data-aos="fade-down" data-aos-duration="1000">
+						<div class="logo-conactfomrinner">
+							<form class="innerpagescalltoaction" method="post" action="">
+
+
+
+
+								<input type="text" class="form-control" name="name" placeholder="Name" required>
+
+								<input type="email" class="form-control" name="email" placeholder="Email" required>
+
+
+
+								<input type="text" class="form-control" name="phone" placeholder="Phone" required>
+
+
+								<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
+
+								<button class="btn btn-primary" type="submit" name="submit">Submit</button>
+							</form>
+						</div>
+					</div>
+
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
+						<div class="heading-text">
+							<h1>If You Like What You See
+								<br><b>Let’s Connect Than!</b>
+							</h1>
+							<p style="color: #fff;">Our experienced and skilled designers are waiting for your response,
+								so, we can talk business and let the magic happen. Don’t hassle
+								around and partner with the award-winning design agency in US –
+								before your competitor do so.</p>
+							<div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
+								<ul>
+									<li>
+										<div class="brand-button">
+											<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+										</div>
+									</li>
+									<li>
+										<div class="brand-button">
+											<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- LOGO CONTACT FORM END -->
+
+		<!-- TESTIMONIAL START -->
+
+		<?php include_once("testimonial-global.php") ?>
+
+		<!-- FOOTER START -->
+	</div>
+
+	<?php include_once("includes/footer.php") ?>
 </body>
 
 </html>

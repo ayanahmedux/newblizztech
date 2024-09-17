@@ -10,7 +10,7 @@ if (isset($_POST['submit'])) {
   $interests = isset($_POST['interests']) ? $_POST['interests'] : 'None'; // Get selected interests
 
   // Set up email headers
-  $to = 'info@blizztechsolutions.com';
+  $to = 'info@ blizztechsolutions.com';
   $subject = 'Quotation Form';
   $headers = "From: $name <$email>\r\n";
   $headers .= "Reply-To: $email\r\n";
@@ -96,7 +96,7 @@ if (isset($_POST['submit'])) {
             <h4>Contact Us</h4>
             <ul class="nav-menu-links">
               <li><span>Phone :</span> <em>+1 713-922-8987</em></li>
-              <li><span>Email :</span> <em> info@blizztechsolutions.com</em></li>
+              <li><span>Email :</span> <em> info@ blizztechsolutions.com</em></li>
               <li><span>Address :</span> <em> 913 Essex Blvd, Lewisville,
                   Texas 75056, US</em></li>
             </ul>
@@ -451,8 +451,9 @@ function checkVisibility() {
 window.addEventListener('scroll', checkVisibility);
 
 </script>
+
 <!-- Meta Pixel Code -->
-<script>
+<!-- <script>
 !function(f,b,e,v,n,t,s)
 {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};
@@ -466,5 +467,5 @@ fbq('track', 'PageView');
 </script>
 <noscript><img height="1" width="1" style="display:none"
 src="https://www.facebook.com/tr?id=540437431813350&ev=PageView&noscript=1"
-/></noscript>
+/></noscript> -->
 <!-- End Meta Pixel Code -->

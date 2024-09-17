@@ -368,7 +368,7 @@
 								<img class="img1" src="./images/Logodesign/abstract.png">
 							</div>
 							<h3 class="animated fadeIn">Continuous Optimization & Improvement</h3>
-							<p>SEO is an ongoing process that requires continuous optimization and improvement. Apex Creative Designs can help you stay ahead of the competition by continuously monitoring and optimizing your website's performance. This includes tracking keyword rankings, analyzing website traffic, and making necessary adjustments to improve your website's performance.
+							<p>SEO is an ongoing process that requires continuous optimization and improvement. blizztechsolutions Creative Designs can help you stay ahead of the competition by continuously monitoring and optimizing your website's performance. This includes tracking keyword rankings, analyzing website traffic, and making necessary adjustments to improve your website's performance.
 
 							</p>
 						</div>
@@ -384,7 +384,7 @@
 
 							</div>
 							<h3 class="animated fadeIn"> Increased Organic Traffic</h3>
-							<p>With Apex Creative Designs, your website will be able to attract new visitors and potential customers. By investing in our SEO services, you can increase your website's visibility on search engines, leading to more organic traffic. With the right SEO strategies in place, you can attract high-quality traffic that is more likely to convert, resulting in a positive impact on your bottom line.
+							<p>With blizztechsolutions Creative Designs, your website will be able to attract new visitors and potential customers. By investing in our SEO services, you can increase your website's visibility on search engines, leading to more organic traffic. With the right SEO strategies in place, you can attract high-quality traffic that is more likely to convert, resulting in a positive impact on your bottom line.
 
 							</p>
 						</div>
@@ -400,7 +400,7 @@
 
 							</div>
 							<h3 class="animated fadeIn">Higher ROI</h3>
-							<p>Our SEO strategy has been proven to provide a higher return on investment (ROI) compared to other marketing agencies in the industry. Apex Creative Designs offers a long-term and sustainable SEO strategy that can provide ongoing benefits to your business. With the right SEO services, you can target specific audiences and demographics, resulting in higher conversion rates and increased revenue.
+							<p>Our SEO strategy has been proven to provide a higher return on investment (ROI) compared to other marketing agencies in the industry. blizztechsolutions Creative Designs offers a long-term and sustainable SEO strategy that can provide ongoing benefits to your business. With the right SEO services, you can target specific audiences and demographics, resulting in higher conversion rates and increased revenue.
 
 							</p>
 						</div>
@@ -415,7 +415,7 @@
 
 							</div>
 							<h3 class="animated fadeIn">Improved Ranking</h3>
-							<p>SEO experts at Apex Creative Designs have extensive experience improving a website's ranking on search engines. You can increase your visibility and attract more potential customers with top-notch SEO strategies from the experts. Our SEO services can help improve your ranking by optimizing your website's content, structure, and technical elements. This includes keyword research, on-page optimization, link building, and more.
+							<p>SEO experts at blizztechsolutions Creative Designs have extensive experience improving a website's ranking on search engines. You can increase your visibility and attract more potential customers with top-notch SEO strategies from the experts. Our SEO services can help improve your ranking by optimizing your website's content, structure, and technical elements. This includes keyword research, on-page optimization, link building, and more.
 
 							</p>
 						</div>

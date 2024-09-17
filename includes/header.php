@@ -11,7 +11,7 @@
 							Texas 75056, US</p>
 					</div>
 					<div class="col-3 col-12-medium">
-						<p class="p3"><img src="./images/icon-top2.png" /> info@blizztechsolutions.com</p>
+						<p class="p3"><img src="./images/icon-top2.png" /> info@ blizztechsolutions.com</p>
 					</div>
 				</div>
 			</div>

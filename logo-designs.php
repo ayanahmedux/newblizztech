@@ -11,7 +11,7 @@
 			<div class="service-logosection" style="padding-top: 50px; padding-left: 50px; padding-right: 50px;">
 				<div class="container">
 					<div class="row" style="margin: auto !important;">
-						<div class="col-6 col-12-medium align-self-center" >
+						<div class="col-6 col-12-medium align-self-center">
 							<div class="first-inner-section-text">
 								<h1><img class="greenline" src="./images/greenlinetext.png" />Our Exceptional <b>Logo Designing Services</b></h1>
 								<p>Blizztech Solutions specializes in designing impactful and memorable logos that reflect your brand’s identity and values. Our custom logo designs are crafted to establish a strong visual presence and make a lasting impression on your audience.</p>
@@ -65,14 +65,14 @@
 			<div class="container">
 				<div class="row">
 
-					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1000" >
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1000">
 						<div class="logoabout-text">
 							<h1>Elevate Your Brand with Creative <b>Logos</b></h1>
 							<p>At Blizztech Solutions, we understand that your logo is the cornerstone of your brand identity. That’s why our logo design services are meticulously tailored to help your brand shine in a crowded digital landscape. From concept to creation, our expert team works closely with you to understand your vision, values, and target audience. We then leverage our creativity and expertise to craft unique and versatile logos that capture the essence of your brand. With a keen eye for detail and a commitment to excellence, we ensure that every aspect of your logo reflects your brand’s personality and resonates with your audience.</p>
 						</div>
 					</div>
 
-					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000" >
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
 						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-about.png" />
 					</div>
 				</div>
@@ -81,12 +81,12 @@
 		<section id="logo-about-us" style="padding: 50px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000" >
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000">
 						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-design-matters.png" />
 					</div>
 
 
-					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1000" >
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1000">
 						<div class="logoabout-text">
 							<h1>Our <b>Logo Designs</b> - The Testaments of Digital Legacies</h1>
 							<p>We don’t just design logos. We create visual stories that capture the essence of each brand we work with. Our team has crafted logos that reflect their vision, values, and goals. Explore the logos we’ve designed and see how they showcase innovation, foster connections, and stand the test of time. </p>
@@ -100,13 +100,13 @@
 		<section id="logo-about-us" style="padding: 50px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1000" >
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1000">
 						<div class="logoabout-text">
 							<h1>Custom <b>Creations</b> that Resonate with Your Audience</h1>
 							<p>Logos must resonate with your target audience. Our custom designs don’t just look good — they align with your brand’s message, helping you stand out in a crowded market. We ensure every design has meaning and relevance to your business. </p>
 						</div>
 					</div>
-					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000" >
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
 						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/our-professional-logo-design-services.png" />
 					</div>
 				</div>
@@ -117,10 +117,10 @@
 		<section id="logo-about-us" style="padding: 100px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000" >
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000">
 						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/process-of-professional-logo-design.png" />
 					</div>
-					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1000" >
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1000">
 						<div class="logoabout-text">
 							<h1>Why Choose Blizztech Solutions for <b>Logo Designing</b>?</h1>
 							<p>Blizztech Solutions combines creativity with strategic insight to deliver logos that are not only visually appealing but also strategically aligned with your brand. Our focus on uniqueness and versatility ensures that your logo makes a strong impact.</p>
@@ -136,10 +136,10 @@
 
 		<section id="intro-section-logo-design">
 			<div class="containerr">
-				<div class="row" >
+				<div class="row">
 					<div class="row-text">
 
-						<h1 style="text-align: center; padding-bottom: 20px;">What We <b>Can Do</b> for You</h1>
+						<h1 style="text-align: center; padding-bottom: 20px;" data-aos-duration="1000" data-aos="fade-right">What We <b>Can Do</b> for You</h1>
 					</div>
 				</div>
 				<div class="row" style="margin: auto;">
@@ -165,7 +165,7 @@
 								<img class="img2" src="./images/Logodesign/emblem1.png">
 							</div>
 							<h3>Emblem Logos</h3>
-							<p>At Apex, our emblem logos prioritize typography over iconography, creating a powerful
+							<p>At blizztechsolutions, our emblem logos prioritize typography over iconography, creating a powerful
 								and cohesive brand representation. With typography at the heart of each design, we
 								ensure a memorable and impactful logo.</p>
 						</div>
@@ -181,7 +181,7 @@
 							</div>
 							<h3>Letter Based Logo</h3>
 							<p>Letter-based logos are super easy to adapt across marketing material and marketing
-								channels. We at Apex help turn your business into a recognizable brand. Over the
+								channels. We at blizztechsolutions help turn your business into a recognizable brand. Over the
 								years, we have had some great logos for our clients, including monograms, signatures,
 								initials, and acronyms.</p>
 						</div>
@@ -313,7 +313,7 @@
 								<div class="gallery-item" data-index="4">
 									<img src="./images/Logodesign/portfolio/4.png">
 								</div>
-								
+
 							</div>
 						</div>
 
@@ -340,7 +340,7 @@
 								<div class="gallery-item" data-index="4">
 									<img src="./images/Logodesign/Typographic/typo4.jpg">
 								</div>
-								
+
 							</div>
 						</div>
 
@@ -367,7 +367,7 @@
 								<div class="gallery-item" data-index="4">
 									<img src="./images/Logodesign/Iconic/Iconic4.png">
 								</div>
-								
+
 							</div>
 						</div>
 
@@ -394,7 +394,7 @@
 								<div class="gallery-item" data-index="4">
 									<img src="./images/Logodesign/ILLUSTRATIVE/illu4.jpg">
 								</div>
-								
+
 							</div>
 						</div>
 
@@ -404,7 +404,7 @@
 				<!-- Illustrative GALLERY END -->
 
 				<!-- Animation GALLERY -->
-				
+
 				<!-- Animation GALLERY END -->
 
 				<!-- Mascot GALLERY -->
@@ -425,7 +425,7 @@
 								<div class="gallery-item" data-index="4">
 									<img src="./images/Logodesign/Mascot/Mascot4.jpg">
 								</div>
-								
+
 							</div>
 						</div>
 
@@ -468,7 +468,7 @@
 						</li>
 						<li>
 							<div class="brand-button">
-								<h6><a href="#">View Portfolio</a></h6>
+								<h6><a href="portfolio">View Portfolio</a></h6>
 							</div>
 						</li>
 					</ul>
@@ -482,212 +482,413 @@
 		<!-- LOGO PORTFOLIO SECTION END -->
 
 		<!-- PRICE PLAN LOGO -->
-
-		<section id="price-plans-section" style="padding-top: 60px; padding-bottom: 60px;">
+		<section id="price-plans-section-1" style="padding-top: 60px; padding-bottom: 60px;">
 			<div class="container">
-				<div class="row" style="margin: auto !important;">
+				<div class="row" style="margin: auto;">
 					<div class="heading-text" style="text-align: center;">
-						<h3>Logo’s </h3>
-						<h1><b>Pricing</b> And Plans</h1>
-						<p style="color: #fff; padding-bottom: 40px;">Solutions to fit every budget and need - our flexible pricing and plans make it easy for you <br>
-							to choose the perfect solution for your brand!</p>
+						<h3>Pricing </h3>
+						<h1>Best <b>Plan </b>For Your Need</h1>
+						<p style="color: #fff; padding-bottom: 40px;">We are proud to offer a wide range of comprehensive packages for our services </p>
 					</div>
 
+					<!-- TABS PRICE START -->
+					<ul class="nav nav-tabs d-none d-lg-flex" id="myTab" role="tablist">
+						<li class="nav-item" role="presentation">
+							<button class="nav-link active" id="home-tab09" data-bs-toggle="tab" data-bs-target="#home-tab-pane09"
+								type="button" role="tab" aria-controls="home-tab-pane09" aria-selected="true"> Abstract Logo</button>
+						</li>
+						<li class="nav-item" role="presentation">
+							<button class="nav-link" id="profile-tab08" data-bs-toggle="tab" data-bs-target="#profile-tab-pane08"
+								type="button" role="tab" aria-controls="profile-tab-pane08" aria-selected="false"> Illustrative Logo</button>
+						</li>
+						<li class="nav-item" role="presentation">
+							<button class="nav-link" id="profile-tab07" data-bs-toggle="tab" data-bs-target="#profile-tab-pane07"
+								type="button" role="tab" aria-controls="profile-tab-pane07" aria-selected="false"> 3D Logo</button>
+						</li>
+						<li class="nav-item" role="presentation">
+							<button class="nav-link" id="profile-tab06" data-bs-toggle="tab" data-bs-target="#profile-tab-pane06"
+								type="button" role="tab" aria-controls="profile-tab-pane06" aria-selected="false"> Animated Logo</button>
+						</li>
+					</ul>
+					<!-- WEBSITE PRICE PLAN SECTION -->
+					<div class="tab-content accordion ghm" id="myTabContent">
+						<div class="tab-pane fade show active accordion-item" id="home-tab-pane09" role="tabpanel" aria-labelledby="home-tab09" tabindex="0">
+							<div id="collapseOne" class="accordion-collapse collapse show  d-lg-block" aria-labelledby="headingOne"
+								data-bs-parent="#myTabContent">
+								<div class="container">
+									<div class="row" style="margin: auto !important;">
+										<div class="center">
+											<div class="px-2 py-2">
+												<div class="price-inner-plan">
+													<h2 class="text-center">ESSENTIAL</h2>
+													<div class="price-heading-text">
+														<h2>Value Added Design Solution</h2>
+														<h4>$49.00</h4>
+													</div>
+													<div class="price-list">
+														<ul>
+															<li>2 Logo Concepts</li>
+															<li>4 Revisions (Additional $20)</li>
+															<li>By 2 Top Rated Dedicated Designers</li>
+															<li>24 - 48 Hours Turnaround Time</li>
+															<li>Final Files (Jpeg, PNG)</li>
+
+														</ul>
+													</div>
+
+												</div>
+											</div>
+											<div class="px-2 py-2">
+												<div class="price-inner-plan">
+													<h2 class="text-center">TEAM</h2>
+													<div class="price-heading-text">
+														<h2>Value Added Design Solution</h2>
+														<h4>$119.00</h4>
+													</div>
+													<div class="price-list">
+														<ul>
+															<li>4 Logo Concepts</li>
+															<li>12 Revisions</li>
+															<li>By 2 Top Rated Dedicated Designers</li>
+															<li>Free Business Card Design Stationery Design (Business Cards, Letterhead, Invoice)</li>
+															<li>Free Icon</li>
+															<li>24 - 48 Hours Turnaround Time</li>
+															<li>Final Files (PDF, SVG, EPS, Jpeg, PNG, Tif</li>
+														</ul>
+													</div>
+
+												</div>
+											</div>
+											<div class="px-2 py-2">
+												<div class="price-inner-plan">
+													<h2 class="text-center">
+														CORPORATE
+													</h2>
+													<div class="price-heading-text">
+														<h2>Value Added Design Solution</h2>
+														<h4>$249.00</h4>
+													</div>
+													<div class="price-list">
+														<ul>
+															<li>6 Logo Concepts</li>
+															<!--<li>12 Revisions</li>-->
+															<!--<li>By 2 Top Rated Dedicated Designers</li>-->
+															<li>Free Business Card Design Stationery Design (Business Cards, Letterhead, Invoice)</li>
+															<li>Free Icon</li>
+															<li>24 - 48 Hours Turnaround Time</li>
+															<li>Final Files (PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+														</ul>
+													</div>
+
+												</div>
+											</div>
+											<div class="px-2 py-2">
+												<div class="price-inner-plan">
+													<h2 class="text-center">BUSINESS</h2>
+													<div class="price-heading-text">
+														<h2>Value Added Design Solution</h2>
+														<h4>$499.00</h4>
+													</div>
+													<div class="price-list">
+														<ul class="prs-lst">
+															<li>
+																Unlimited Logo Concepts
+															</li>
+															<li>
+																UNLIMITED Revisions
+															</li>
+															<li>
+																By 5 Top Rated Dedicated Designers
+															</li>
+															<li>
+																3 Page Custom Website
+															</li>
+															<li>
+																Social Media Integration
+															</li>
+															<li>
+																W3C Certified HTML
+															</li>
+															<li>
+																Animated Logo
+															</li>
+															<li>
+																W3C Certified HTML
+															</li>
+															<li>
+																Email Signature Design
+															</li>
+															<li>
+																Free Icon Design
+															</li>
+															<li>
+																Free Custom Stationery Design (Business Cards, Letterhead, Envelope)
+															</li>
+															<li>
+																300 Printed Business Cards (Free Delivery)
+															</li>
+															<li>
+																24 - 48 Hours Turnaround Time
+															</li>
+															<li>
+																Final Files (PDF, SVG, EPS, Jpeg, PNG, Tiff)
+															</li>
+														</ul>
+													</div>
+
+												</div>
+
+											</div>
+										</div>
+
+										<div class="custom-price-button" style="padding-top: 70px;">
+											<ul>
+												<li>
+													<div class="brand-button">
+														<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+													</div>
+												</li>
+												<li>
+													<div class="brand-button">
+														<h6><a href="#">View More</a></h6>
+													</div>
+												</li>
+											</ul>
+										</div>
+
+
+
+
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+					</div>
+					<!-- WEBSITE PRICE SECTION END -->
 
 					<!-- LOGOS PRICE PLAN Start -->
-					<div class="container">
-						<div class="row" style="margin: auto !important;">
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<div class="price-heading-text">
-										<h2>Logos Basic</h2>
-										<h4>$600</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-											<li>Sliding Banner </li>
-											<li>5 Stock Images </li>
-											<li>100% Money Back Gurantee</li>
-											<li>100% Owner Rights</li>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-										</ul>
-									</div>
+					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane08" role="tabpanel" aria-labelledby="profile-tab08" tabindex="0">
+						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
+							<div class="container">
+								<div class="row">
+									<div class="col-4 col-12-medium">
+										<div class="price-inner-plan">
+											<h2 class="text-center">RUBY ILLUSTRATIVE</h2>
+											<div class="price-heading-text">
+												<h2>Value Added Design Solution</h2>
+												<h4>$198.00</h4>
+											</div>
+											<div class="price-list">
+												<ul>
+													<li>2 Custom Illustrative Logo Concepts</li>
+													<li>Unlimited Revisions</li>
+													<li>By 3 Top Rated Dedicated Designers</li>
+													<li>Brand Icon</li>
+													<li>48 - 72 Hours Turnaround Time</li>
+													<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+													<li>Gray Scale Format</li>
+												</ul>
+											</div>
 
-								</div>
-
-							</div>
-
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<div class="price-heading-text">
-										<h2>Logos Professional</h2>
-										<h4>$900</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-											<li>Sliding Banner </li>
-											<li>5 Stock Images </li>
-											<li>100% Money Back Gurantee</li>
-											<li>100% Owner Rights</li>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-										</ul>
-									</div>
-
-								</div>
-
-							</div>
-
-
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<div class="price-heading-text">
-										<h2>Logos Corporate</h2>
-										<h4>$1200</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-											<li>Sliding Banner </li>
-											<li>5 Stock Images </li>
-											<li>100% Money Back Gurantee</li>
-											<li>100% Owner Rights</li>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-										</ul>
-									</div>
-
-								</div>
-
-							</div>
-
-
-						</div>
-
-						<!-- second row -->
-						<div class="row" style="padding-top: 50px; margin: auto;">
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<div class="price-heading-text">
-										<h2>Logos Basic</h2>
-										<h4>$600</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-											<li>Sliding Banner </li>
-											<li>5 Stock Images </li>
-											<li>100% Money Back Gurantee</li>
-											<li>100% Owner Rights</li>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-										</ul>
-									</div>
-
-								</div>
-
-							</div>
-
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<div class="price-heading-text">
-										<h2>Logos Professional</h2>
-										<h4>$900</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-											<li>Sliding Banner </li>
-											<li>5 Stock Images </li>
-											<li>100% Money Back Gurantee</li>
-											<li>100% Owner Rights</li>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-										</ul>
-									</div>
-
-								</div>
-
-							</div>
-
-
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-									<div class="price-heading-text">
-										<h2>Logos Corporate</h2>
-										<h4>$1200</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-											<li>Sliding Banner </li>
-											<li>5 Stock Images </li>
-											<li>100% Money Back Gurantee</li>
-											<li>100% Owner Rights</li>
-											<li>E-Commerce website Design</li>
-											<li>Customize Tailor Made Design</li>
-											<li>User Friendly</li>
-											<li>5 Banner Designs</li>
-										</ul>
-									</div>
-
-								</div>
-
-							</div>
-
-							<div class="custom-price-button" style="padding-top: 70px;">
-								<ul>
-									<li>
-										<div class="brand-button">
-											<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 										</div>
-									</li>
-									<li>
-										<div class="brand-button">
-											<h6><a href="#">View More</a></h6>
-										</div>
-									</li>
-								</ul>
-							</div>
 
+									</div>
+
+									<div class="col-4 col-12-medium">
+										<div class="price-inner-plan">
+											<h2 class="text-center">EMERALD ILLUSTRATIVE</h2>
+											<div class="price-heading-text">
+												<h2>Value Added Design Solution</h2>
+												<h4>$449.00</h4>
+											</div>
+											<div class="price-list">
+												<ul>
+													<li>4 Custom Illustrative Logo Concepts</li>
+													<li>Unlimited Revisions</li>
+													<li>By 6 Top Rated Dedicated Designers</li>
+													<li>Social Media Design (Facebook, LinkedIn, Twitter)</li>
+													<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
+													<li>Brand Icon</li>
+													<li>48 - 72 Hours Turnaround Time</li>
+													<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+													<li>Gray Scale Format</li>
+												</ul>
+											</div>
+
+										</div>
+
+									</div>
+
+									<div class="custom-price-button" style="padding-top: 70px;">
+										<ul>
+											<li>
+												<div class="brand-button">
+													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+												</div>
+											</li>
+											<li>
+												<div class="brand-button">
+													<h6><a href="#">View More</a></h6>
+												</div>
+											</li>
+										</ul>
+									</div>
+
+								</div>
+
+							</div>
 						</div>
 					</div>
+					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane07" role="tabpanel" aria-labelledby="profile-tab07" tabindex="0">
+						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
+							<div class="container">
+								<div class="row">
+									<div class="col-4 col-12-medium">
+										<div class="price-inner-plan">
+											<h2 class="text-center">ESSENTIAL 3D</h2>
+											<div class="price-heading-text">
+												<h2>Value Added Design Solution</h2>
+												<h4>$129.00</h4>
+											</div>
+											<div class="price-list">
+												<ul>
+													<li>4 Revisions (Additional $20)</li>
+													<li>By 3 Top Rated Dedicated Designers</li>
+													<li>Brand Icon</li>
+													<li>48 - 72 Hours Turnaround Time</li>
+													<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+													<li>Gray Scale Format</li>
+												</ul>
+											</div>
 
-					<!-- LOGOS PRICE PLAN END -->
+										</div>
 
-				</div>
-			</div>
+									</div>
+
+									<div class="col-4 col-12-medium">
+										<div class="price-inner-plan">
+											<h2 class="text-center">TEAM 3D</h2>
+											<div class="price-heading-text">
+												<h2>Value Added Design Solution</h2>
+												<h4>$385.00</h4>
+											</div>
+											<div class="price-list">
+												<ul>
+													<li>2 Custom 3D Logo Concepts</li>
+													<li>5 Revisions (Additional $20)</li>
+													<li>By 6 Top Rated Dedicated Designers</li>
+													<li>Social Media Design (Facebook, LinkedIn, Twitter)</li>
+													<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
+													<li>Email Signature</li>
+													<li>Brand Icon</li>
+													<li>Up-to 30 Categories</li>
+													<li>48 - 72 Hours Turnaround Time</li>
+													<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+													<li>Gray Scale Format</li>
+												</ul>
+											</div>
+
+										</div>
+
+									</div>
+
+									<div class="custom-price-button" style="padding-top: 70px;">
+										<ul>
+											<li>
+												<div class="brand-button">
+													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+												</div>
+											</li>
+											<li>
+												<div class="brand-button">
+													<h6><a href="#">View More</a></h6>
+												</div>
+											</li>
+										</ul>
+									</div>
+
+								</div>
+
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane06" role="tabpanel" aria-labelledby="profile-tab06" tabindex="0">
+						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
+							<div class="container">
+								<div class="row">
+									<div class="col-4 col-12-medium">
+										<div class="price-inner-plan">
+											<h2 class="text-center">ESSENTIAL ANIMATION</h2>
+											<div class="price-heading-text">
+												<h2>Value Added Design Solution</h2>
+												<h4>$245.00</h4>
+											</div>
+											<div class="price-list">
+												<ul>
+													<li>4 Custom 5 Sec Animated Logo Concepts</li>
+													<li>5 Revisions (Additional $20)</li>
+													<li>By 4 Dedicated Design Animators</li>
+													<li>Visual Effects &amp; Sound Effects</li>
+													<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
+													<li>Brand Icon</li>
+													<li>48 - 72 Hours Turn Around Time</li>
+													<li>Gray Scale Format</li>
+													<li>Final Files (Mp4, MOV, Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+												</ul>
+											</div>
+
+										</div>
+
+									</div>
+
+									<div class="col-4 col-12-medium">
+										<div class="price-inner-plan">
+											<h2 class="text-center">TEAM 3D</h2>
+											<div class="price-heading-text">
+												<h2>Value Added Design Solution</h2>
+												<h4>$385.00</h4>
+											</div>
+											<div class="price-list">
+												<ul>
+													<li>6 Custom 5 Sec Animated Logo Concepts</li>
+													<li>10 Sec Teaser / Intro Animation</li>
+													<li>By 4 Top Rated Dedicated Design Animators</li>
+													<li>Visual Effects &amp; Sound Effects</li>
+													<li>Social Media Intro (Facebook, LinkedIn, Twitter)</li>
+													<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
+													<li>Brand Icon</li>
+													<li>48 - 72 Hours Turnaround Time</li>
+													<li>Final Files (Mp4, MOV, Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+													<li>Gray Scale Format</li>
+												</ul>
+											</div>
+
+										</div>
+
+									</div>
+									<div class="custom-price-button" style="padding-top: 70px;">
+										<ul>
+											<li>
+												<div class="brand-button">
+													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+												</div>
+											</li>
+											<li>
+												<div class="brand-button">
+													<h6><a href="#">View More</a></h6>
+												</div>
+											</li>
+										</ul>
+									</div>
+
+								</div>
+
+							</div>
+						</div>
+					</div>
 		</section>
 		<!-- PRICE PLAN LOGO END -->
 
@@ -696,7 +897,7 @@
 		<section id="logo-process-sec" style="padding: 80px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="heading-text" style="text-align: center;">
+					<div class="heading-text" style="text-align: center;" data-aos-duration="1500" data-aos="fade-right">
 						<h1>Our <b>Process</b></h1>
 						<p style="color: #fff;">Our process only starts with profoundly exploring and understanding your brand values. <br>
 							We begin with a unique amalgamation of artistry and strategy to create meaningful
@@ -728,11 +929,11 @@
 		<section id="logoprocess-inner">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000" >
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000">
 						<img width="100%" src="./images/Logodesign/process1.png" />
 					</div>
 
-					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000" >
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
 						<div class="processinner-text">
 							<h2>We Require a Brief of Your<b> Idea</b></h2>
 							<p>The idea behind the &#39;brief&#39; is only to understand &#39;What you want.&#39; We analyze your
@@ -801,7 +1002,7 @@
 				<div class="row" style="padding-top: 50px; margin: auto;">
 
 
-					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000" >
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000">
 						<div class="processinner-text">
 							<h2>Receive, Review, <b> Revise:</b></h2>
 							<p>Once we submit the initial design, you can review it and provide feedback. Our team
@@ -861,18 +1062,18 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000" >
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
 						<img width="100%" src="./images/Logodesign/manchatting.png" />
 					</div>
 				</div>
 				<hr>
 				<!-- THIRD ROW START -->
 				<div class="row" style="padding-top: 50px; margin: auto;">
-					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000" >
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000">
 						<img width="100%" src="./images/Logodesign/colleges.png" />
 					</div>
 
-					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000" >
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
 						<div class="processinner-text">
 							<h2>Delivering Your Vision: Presenting Your<b>Logo Design</b></h2>
 							<p>Finally, witness your brand vision come to life with the revised version of the logo
@@ -953,7 +1154,7 @@
 						</div>
 					</div>
 
-					<div class="col-6 col-12-medium"  data-aos="fade-left" data-aos-duration="1000">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
 						<div class="heading-text">
 							<h1>If Our Work Resonates with You- <b>Let’s Connect!</b></h1>
 							<p style="color: #fff;">Let’s forge a creative partnership to explore boundless design and marketing solutions.

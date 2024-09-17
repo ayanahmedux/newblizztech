@@ -33,7 +33,7 @@
 					</li>
 					<li>
 						<div class="brand-button">
-							<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+							<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 						</div>
 					</li>
 				</ul>
@@ -68,7 +68,7 @@
 								</li>
 								<li>
 									<div class="brand-button">
-										<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+										<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 									</div>
 								</li>
 							</ul>
@@ -201,11 +201,11 @@
 
 		<!-- TESTIMONIAL SECTION END -->
 		<!-- concept section -->
-		<section class="concept-section">
+		<section class="concept-section"  >
 			<div class="concept-heading">
 				<h1 class="text-center">Our Core Values at <b>Blizztech</b></h1>
 			</div>
-			<div class="concept-container">
+			<div class="concept-container" >
 				<div class="concept-item concept-c">
 					<h2>C</h2>
 					<div class="concept-content">
@@ -352,7 +352,7 @@
 					<h2 class="accordion-header" id="headingFour">
 						<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 							data-mdb-target="#basicAccordionCollapseFour" aria-expanded="false" aria-controls="collapseFour">
-							What Makes Apex Creative Design Agency Unique Compared to Other Industry Competitors?
+							What Makes blizztechsolutions Creative Design Agency Unique Compared to Other Industry Competitors?
 							<img src="./images/faqdownarrow.png" />
 						</button>
 					</h2>

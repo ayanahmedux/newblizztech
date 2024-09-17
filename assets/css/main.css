@@ -1946,6 +1946,8 @@ ol {
 
 ol li {
 	padding-left: 0.25em;
+	color: white;
+	list-style: outside;
 }
 
 /* Actions */
@@ -4915,13 +4917,12 @@ section#recent-past .gallery-item {
 	opacity: 1 !important;
 	cursor: pointer;
 }
-
 .gallery-item img {
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    object-position: 0% 0%;
 }
-
 .accordion {
 	background: #ff10 !important;
 	--bs-accordion-bg: #ff10 !important;
@@ -5423,7 +5424,7 @@ section#price-plans-section-1 ul#myTab {
 	border: 1px solid #4E4E4E;
 	border-radius: 18px;
 	text-align: center;
-	width: 45%;
+	width: 55%;
 	margin: 0 auto;
 }
 
@@ -6605,6 +6606,10 @@ section#logoportfolio .gallery-item {
 	margin-bottom: 6px;
 	opacity: 1 !important;
 	cursor: pointer;
+}
+
+section#logoportfolio .gallery-item {
+    height: 600px !important;
 }
 
 section#logoportfolio .row {
@@ -8242,6 +8247,15 @@ form.innerpagescalltoaction button.btn.btn-primary {
 	/* section#price-plans-section .fade:not(.show) {
 		display: contents !important;
 	} */
+	section#testimonials-sections .testimonial-quote {
+		right: 360px;
+	}
+	div#quoteModal .modal-content {
+		width: 100% !important;
+		margin: 0 auto !important;
+		top: 16px !important;
+		padding: 30px 20px !important;
+	}
 	.choose-card-text p {
 		height: 175px;
 	}

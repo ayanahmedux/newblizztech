@@ -39,7 +39,7 @@
                                     One <b>Stop Solution</b>
                                 </h1>
                                 <p style="padding-bottom: 40px; color: #fff;">
-                                    At Apex, we strive to create logos with an ever-lasting impact on your audience. Our
+                                    At blizztechsolutions, we strive to create logos with an ever-lasting impact on your audience. Our
 team has been built with a unique skill set and is driven by a vision to work with
 professionalism, trust, and commitment. With wide experience, they create logos
 adapted to various platforms such as Websites, Social Media Channels, Packaging,
@@ -63,7 +63,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
 
                             <div class="heading-text">
                                 <h1><b>LOGO</b> Design</h1>
-                                <p>At Apex, we strive to create logos with an ever-lasting impact on your audience. Our
+                                <p>At blizztechsolutions, we strive to create logos with an ever-lasting impact on your audience. Our
 									team has been built with a unique skill set and is driven by a vision to work with
 									professionalism, trust, and commitment. With wide experience, they create logos
 									adapted to various platforms such as Websites, Social Media Channels, Packaging,
@@ -220,7 +220,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
 
                             <div class="heading-text">
                                 <h1><b>Social Media Marketing</b> Design</h1>
-                                <p>At Apex Creative Designs, we offer high-quality logo
+                                <p>At blizztechsolutions Creative Designs, we offer high-quality logo
                                     design services to help  businesses establish their brand
                                     identity and stand out in the market. Our experienced and
                                      skilled team of designers works closely with clients to 
@@ -450,7 +450,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
 						<h2 class="accordion-header" id="headingFour">
 						  <button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 							data-mdb-target="#basicAccordionCollapseFour" aria-expanded="false" aria-controls="collapseFour">
-							What sets Apex Creative Designs apart from others in the industry? <img src="./images/faqdownarrow.png"/>
+							What sets blizztechsolutions Creative Designs apart from others in the industry? <img src="./images/faqdownarrow.png"/>
 						  </button>
 						</h2>
 						<div id="basicAccordionCollapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
@@ -468,7 +468,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
 						<h2 class="accordion-header" id="headingFive">
 						  <button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 							data-mdb-target="#basicAccordionCollapseFive" aria-expanded="false" aria-controls="collapseFive">
-							What sets Apex Creative Designs apart from others in the industry? <img src="./images/faqdownarrow.png"/>
+							What sets blizztechsolutions Creative Designs apart from others in the industry? <img src="./images/faqdownarrow.png"/>
 						  </button>
 						</h2>
 						<div id="basicAccordionCollapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"

@@ -514,7 +514,7 @@
                         <div class="logoabout-text animation-about">
                             <h2 class="logoabout-text-h2">Elevate Your Brand with Animation Services</h2>
                             <p>
-                                Investing in professional animation services is one of the best decisions you can make for your business. High-quality animations not only enhance your brand's visibility but also build trust and recognition among your audience. At Apex Creative Designs, we are dedicated to providing top-tier animation services that help your business stand out. Let us help you create animations that truly represent your brand's identity and captivate your audience.
+                                Investing in professional animation services is one of the best decisions you can make for your business. High-quality animations not only enhance your brand's visibility but also build trust and recognition among your audience. At blizztechsolutions Creative Designs, we are dedicated to providing top-tier animation services that help your business stand out. Let us help you create animations that truly represent your brand's identity and captivate your audience.
                             </p>
                         </div>
                     </div>
@@ -545,7 +545,7 @@
                         <div class="logoabout-text animation-about">
                             <h2 class="logoabout-text-h2">Get Started with Animation Services</h2>
                             <p>
-                                If you're looking for professional animation services that accurately reflect your brand, contact Apex Creative Designs today. Our team of experts is ready to help you create animations that set your business apart and drive success. Reach out to us at +1 +1 713-922-8987 or visit our website at [apexcreativedesigns.com] (https://apexcreativedesigns.com) to learn more about our animation services.
+                                If you're looking for professional animation services that accurately reflect your brand, contact blizztechsolutions Creative Designs today. Our team of experts is ready to help you create animations that set your business apart and drive success. Reach out to us at +1 +1 713-922-8987 or visit our website at [apexcreativedesigns.com] (https://apexcreativedesigns.com) to learn more about our animation services.
                             </p>
                         </div>
                     </div>

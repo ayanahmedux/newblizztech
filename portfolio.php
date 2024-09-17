@@ -265,7 +265,7 @@
 						<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 					</div></li>
 					<li><div class="brand-button">
-						<h6><a href="#">View Portfolio</a></h6>
+						<h6><a href="portfolio">View Portfolio</a></h6>
 					</div></li>
 				</ul>
 			</div>

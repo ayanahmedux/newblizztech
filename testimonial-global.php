@@ -25,6 +25,18 @@
 								<div>
 									<h3><span><img src="./images/testimonialimages/newtestimonial.png" /></span></h3>
 								</div>
+								<div>
+									<h3><span><img src="./images/testimonialimages/test1.png" /></span></h3>
+								</div>
+								<div>
+									<h3><span><img src="./images/testimonialimages/test3.png" /></span></h3>
+								</div>
+								<div>
+									<h3><span><img src="./images/testimonialimages/test2.png" /></span></h3>
+								</div>
+								<div>
+									<h3><span><img src="./images/testimonialimages/test9.png" /></span></h3>
+								</div>
 							</div>
 							<div class="testimonial-quote">
 								<img src="./images/testimonialimages/quote.png" />

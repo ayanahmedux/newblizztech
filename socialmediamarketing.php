@@ -73,7 +73,7 @@
 			<div class="container">
 				<div class="row">
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
 						<div class="logoabout-text social-media">
 							<h1> Harnessing <b>Social Media </b>For Groundbreaking Growth </h1>
 							<p>
@@ -95,8 +95,8 @@
 						</div>
 					</div>
 
-					<div class="col-6 col-12-medium">
-						<img class="animate__animated animate__pulse" style="width: 100%;"
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
+						<img class="" style="width: 100%;"
 							src="./images/socialmedia/social-media marketing-sec-2.png" />
 					</div>
 
@@ -107,11 +107,11 @@
 		<section id="logo-about-us2" style="padding: 30px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
 							src="./images/socialmedia/social-media-marketing-2.png" />
 					</div>
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center"  data-aos="fade-left" data-aos-duration="1500">
 						<div class="logoabout-text social-media">
 							<h1> Strategic <b>Social Media</b> Planning </h1>
 							<p>
@@ -133,7 +133,7 @@
 			<div class="container">
 				<div class="row">
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center"  data-aos="fade-right" data-aos-duration="1500">
 						<div class="logoabout-text social-media">
 							<h1> Engaging <b>Content Creation</b> </h1>
 							<p>
@@ -147,7 +147,7 @@
 							</p>
 						</div>
 					</div>
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium"  data-aos="fade-left" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
 							src="./images/socialmedia/social-media-marketing-3.png" />
 					</div>
@@ -158,11 +158,11 @@
 		<section id="logo-about-us2" style="padding: 30px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium"  data-aos="fade-right" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
 							src="./images/socialmedia/social-media-marketing-4.png" />
 					</div>
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1500">
 						<div class="logoabout-text social-media">
 							<h1> <b>Targeted Ad</b> Campaigns </h1>
 							<p>
@@ -186,7 +186,7 @@
 			<div class="container">
 				<div class="row">
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
 						<div class="logoabout-text social-media">
 							<h1> Community <b>Management</b> </h1>
 							<p>
@@ -200,7 +200,7 @@
 							</p>
 						</div>
 					</div>
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
 							src="./images/socialmedia/social-media-marketing-5.png" />
 					</div>
@@ -212,12 +212,12 @@
 		<section id="logo-about-us2" style="padding: 30px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
 							src="./images/socialmedia/social-media-marketing-6.png" />
 					</div>
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1500">
 						<div class="logoabout-text social-media">
 							<h1> <b>Social Media</b> Analytics and Reporting </h1>
 							<p>
@@ -239,12 +239,12 @@
 		<section id="logo-about-us2" style="padding: 30px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
 							src="./images/socialmedia/social-media-marketing-7.png" />
 					</div>
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1500">
 						<div class="logoabout-text social-media">
 							<h1> <b>Influencer</b> Collaborations</h1>
 							<p>
@@ -268,7 +268,7 @@
 		<!-- why choose us start -->
 		<section id="why-choose-us">
 			<div class="container">
-				<div class="choose-text">
+				<div class="choose-text" data-aos="fade-up" data-aos-duration="1500">
 					<h2><b>Why </b> Choose Us?</h2>
 					<p>Our social media management agency is known for its
 						reliability and expertise in tailoring personalized,
@@ -278,7 +278,7 @@
 						advantages:</p>
 				</div>
 				<div class="row">
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
 						<div class="choose-box">
 							<div class="choose-image">
 								<img src="./images/so-choose-1.png" alt="">
@@ -289,7 +289,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
 						<div class="choose-box">
 							<div class="choose-image">
 								<img src="./images/so-choose-2.png" alt="">
@@ -300,7 +300,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
 						<div class="choose-box">
 							<div class="choose-image">
 								<img src="./images/so-choose-3.png" alt="">
@@ -313,8 +313,8 @@
 					</div>
 				</div>
 				<div class="row choose-row">
-					<div class="col-lg-4">
-						<div class="choose-box">
+					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
+						<div class="choose-box" >
 							<div class="choose-image">
 								<img src="./images/so-choose-4.png" alt="">
 							</div>
@@ -324,7 +324,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
 						<div class="choose-box">
 							<div class="choose-image">
 								<img src="./images/so-choose-5.png" alt="">
@@ -335,7 +335,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
 						<div class="choose-box">
 							<div class="choose-image">
 								<img src="./images/so-choose-6.png" alt="">
@@ -719,7 +719,7 @@
 						</li>
 						<li>
 							<div class="brand-button">
-								<h6><a href="#">View Portfolio</a></h6>
+								<h6><a href="portfolio">View Portfolio</a></h6>
 							</div>
 						</li>
 					</ul>

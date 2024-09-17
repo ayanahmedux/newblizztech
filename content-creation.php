@@ -365,7 +365,7 @@
 		<!--			<div class=" col-12 align-self-center">-->
 		<!--				<div class="logoabout-text">-->
 		<!--					<h2  class="heading-text-h3"><b>LOGO's</b> Design</h2>-->
-		<!--					<p>At Apex, we strive to create logos with an ever-lasting impact on your audience. Our-->
+		<!--					<p>At blizztechsolutions, we strive to create logos with an ever-lasting impact on your audience. Our-->
 		<!--						team has been built with a unique skill set and is driven by a vision to work with-->
 		<!--						professionalism, trust, and commitment. With wide experience, they create logos-->
 		<!--						adapted to various platforms such as Websites, Social Media Channels, Packaging,-->
