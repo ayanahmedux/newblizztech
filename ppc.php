@@ -55,8 +55,8 @@
 		<section id="payperclick-about" style="padding: 100px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium align-self-center">
-						<h1 style="color: #fff;"><img class="headline" src="./images/greenlinetext.png" />Strategic <b>PPC Campaign</b> Management</h1>
+					<div class="col-6 col-12-medium align-self-center"  data-aos="fade-right" data-aos-duration="1000">
+						<h1 style="color: #fff;"><img class="headline" src="./images/greenlinetext.webp" />Strategic <b>PPC Campaign</b> Management</h1>
 						<p style="color: #fff;">
 							<b style="color: #fff;">We design and manage PPC campaigns tailored to your business
 								objectives. From initial keyword research to ad creation and bid
@@ -65,8 +65,8 @@
 						</p>
 
 					</div>
-					<div class="col-6 col-12-medium">
-						<img src="./images/ppc/payperclickabout.png" width="100%" />
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
+						<img src="./images/ppc/payperclickabout.webp" width="100%" />
 					</div>
 				</div>
 			</div>
@@ -82,10 +82,10 @@
 		<section id="logoprocess-inner" style="padding: 100px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium align-self-center">
-						<img width="100%" src="./images/ppc/cru1.png" />
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1000">
+						<img width="100%" src="./images/ppc/cru1.webp" />
 					</div>
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
 						<div class="processinner-text">
 							<h2 style="font-family: 'Anek Tamil'; font-weight: 400;"> Advanced Bid <b>Management</b></h2>
 							<p style="color: #fff;"> Optimize your ad spend with our advanced bid management
@@ -114,7 +114,7 @@
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapseCru" aria-expanded="false" aria-controls="collapseOne">
-											How should I start briefly? <img src="./images/faqdownarrow.png" />
+											How should I start briefly? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseCru" class="accordion-collapse collapse" aria-labelledby="headingOne"
@@ -131,7 +131,7 @@
 									<h2 class="accordion-header" id="headingTwo">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapseCru2" aria-expanded="false" aria-controls="collapseTwo">
-											How much does it cost? <img src="./images/faqdownarrow.png" />
+											How much does it cost? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseCru2" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -148,7 +148,7 @@
 						</div>
 					</div>
 					<div class="col-6 col-12-medium">
-						<img width="100%" src="./images/ppc/about1.png" />
+						<img width="100%" src="./images/ppc/about1.webp" />
 					</div>
 				</div> -->
 				<hr>
@@ -174,10 +174,10 @@
 					</p>
 				</div>
 				<div class="row">
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="flip-left" data-aos-duration="1000">
 						<div class="right-ppc-card">
 							<div class="right-image">
-								<img src="./images/ppc/ppc-img-1.png" alt="">
+								<img src="./images/ppc/ppc-img-1.webp" alt="">
 							</div>
 							<div class="right-card-content">
 								<h3>Affordable</h3>
@@ -186,10 +186,10 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4"  data-aos="flip-left" data-aos-duration="1000">
 						<div class="right-ppc-card">
 							<div class="right-image">
-								<img src="./images/ppc/ppc-img-2.png" alt="">
+								<img src="./images/ppc/ppc-img-2.webp" alt="">
 							</div>
 							<div class="right-card-content">
 								<h3> Precise</h3>
@@ -199,10 +199,10 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4"  data-aos="flip-left" data-aos-duration="1000">
 						<div class="right-ppc-card">
 							<div class="right-image">
-								<img src="./images/ppc/ppc-img-3.png" alt="">
+								<img src="./images/ppc/ppc-img-3.webp" alt="">
 							</div>
 							<div class="right-card-content">
 								<h3> Results Driven</h3>
@@ -231,7 +231,7 @@
 					<div class="col-lg-4">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
-								<img src="./images/ppc/be-spoke-img-1.png" alt="">
+								<img src="./images/ppc/be-spoke-img-1.webp" alt="">
 							</div>
 							<div class="be-spoke-content">
 								<h3>Display <b>Ads</b></h3>
@@ -247,7 +247,7 @@
 					<div class="col-lg-4">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
-								<img src="./images/ppc/be-spoke-img-2.png" alt="">
+								<img src="./images/ppc/be-spoke-img-2.webp" alt="">
 							</div>
 							<div class="be-spoke-content">
 								<h3> Gmail Sponsored Promotions <b>(GSP)</b></h3>
@@ -261,7 +261,7 @@
 					<div class="col-lg-4">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
-								<img src="./images/ppc/be-spoke-img-3.png" alt="">
+								<img src="./images/ppc/be-spoke-img-3.webp" alt="">
 							</div>
 							<div class="be-spoke-content">
 								<h3> Remarketing <b>Ads</b>
@@ -277,7 +277,7 @@
 					<div class="col-lg-4">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
-								<img src="./images/ppc/be-spoke-img-4.png" alt="">
+								<img src="./images/ppc/be-spoke-img-4.webp" alt="">
 							</div>
 							<div class="be-spoke-content">
 								<h3> Social <b>Ads</b></h3>
@@ -293,7 +293,7 @@
 					<div class="col-lg-4">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
-								<img src="./images/ppc/be-spoke-img-5.png" alt="">
+								<img src="./images/ppc/be-spoke-img-5.webp" alt="">
 							</div>
 							<div class="be-spoke-content">
 								<h3>Amazon PPC <b> Ads</b></h3>
@@ -308,7 +308,7 @@
 					<div class="col-lg-4">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
-								<img src="./images/ppc/be-spoke-img-6.png" alt="">
+								<img src="./images/ppc/be-spoke-img-6.webp" alt="">
 							</div>
 							<div class="be-spoke-content">
 								<h3> Google Shopping <b>Ads</b></h3>
@@ -322,7 +322,7 @@
 					<div class="col-lg-4">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
-								<img src="./images/ppc/be-spoke-img-7.png" alt="">
+								<img src="./images/ppc/be-spoke-img-7.webp" alt="">
 							</div>
 							<div class="be-spoke-content">
 								<h3> Local Services <b>Ads</b></h3>
@@ -338,7 +338,7 @@
 					<div class="col-lg-4">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
-								<img src="./images/ppc/be-spoke-img-8.png" alt="">
+								<img src="./images/ppc/be-spoke-img-8.webp" alt="">
 							</div>
 							<div class="be-spoke-content">
 								<h3>In-stream <b>Ads</b></h3>
@@ -355,7 +355,7 @@
 					<div class="col-lg-4">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
-								<img src="./images/ppc/be-spoke-img-9.png" alt="">
+								<img src="./images/ppc/be-spoke-img-9.webp" alt="">
 							</div>
 							<div class="be-spoke-content">
 								<h3>Search <b>Ads</b></h3>
@@ -385,7 +385,7 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/ppc/why-choose.png">
+								<img class="img1" src="./images/ppc/why-choose.webp">
 							</div>
 							<h3 class="animated fadeIn"> ROI-Driven Strategies </h3>
 							<p>We help you maximize your returns with pre-planned PPC campaigns,
@@ -401,7 +401,7 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/ppc/why-choose.png">
+								<img class="img1" src="./images/ppc/why-choose.webp">
 
 							</div>
 							<h3 class="animated fadeIn"> Continuous Optimization </h3>
@@ -418,7 +418,7 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/ppc/why-choose.png">
+								<img class="img1" src="./images/ppc/why-choose.webp">
 
 							</div>
 							<h3 class="animated fadeIn"> Proven Results</h3>
@@ -434,7 +434,7 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/ppc/why-choose.png">
+								<img class="img1" src="./images/ppc/why-choose.webp">
 
 							</div>
 							<h3 class="animated fadeIn"> Expertise In Ad Platforms</h3>
@@ -450,7 +450,7 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/ppc/why-choose.png">
+								<img class="img1" src="./images/ppc/why-choose.webp">
 
 							</div>
 							<h3 class="animated fadeIn">Customized Solutions</h3>
@@ -496,7 +496,7 @@
 						</div>
 
 						<div class="col-6 col-12-medium align-self-center">
-							<img width="100%" src="./images/ppc/about.png" />
+							<img width="100%" src="./images/ppc/about.webp" />
 						</div>
 
 					</div>
@@ -537,28 +537,28 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/ppc/portfolio/1.png">
+									<img src="./images/ppc/portfolio/1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/ppc/portfolio/2.png">
+									<img src="./images/ppc/portfolio/2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/ppc/portfolio/3.png">
+									<img src="./images/ppc/portfolio/3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/ppc/portfolio/4.png">
+									<img src="./images/ppc/portfolio/4.webp">
 								</div>
 								<div class="gallery-item" data-index="5">
-									<img src="./images/ppc/portfolio/5.png">
+									<img src="./images/ppc/portfolio/5.webp">
 								</div>
 								<div class="gallery-item" data-index="6">
-									<img src="./images/ppc/portfolio/6.png">
+									<img src="./images/ppc/portfolio/6.webp">
 								</div>
 								<div class="gallery-item" data-index="7">
-									<img src="./images/ppc/portfolio/7.png">
+									<img src="./images/ppc/portfolio/7.webp">
 								</div>
 								<div class="gallery-item" data-index="8">
-									<img src="./images/ppc/portfolio/1.png">
+									<img src="./images/ppc/portfolio/1.webp">
 								</div>
 							</div>
 						</div>

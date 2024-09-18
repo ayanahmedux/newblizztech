@@ -10,7 +10,7 @@ if (isset($_POST['submit'])) {
   $interests = isset($_POST['interests']) ? $_POST['interests'] : 'None'; // Get selected interests
 
   // Set up email headers
-  $to = 'info@ blizztechsolutions.com';
+  $to = 'info@blizztechsolutions.com';
   $subject = 'Quotation Form';
   $headers = "From: $name <$email>\r\n";
   $headers .= "Reply-To: $email\r\n";
@@ -47,7 +47,7 @@ if (isset($_POST['submit'])) {
       <div class="row">
         <div class="col-4 col-12-medium">
           <div class="footer-logo">
-            <img src="images/blizz.png" />
+            <img src="images/blizz.webp" />
           </div>
           <div class="footer-about-us">
             <p>We are passionate about what we do, and we take
@@ -83,10 +83,7 @@ if (isset($_POST['submit'])) {
           <div class="footer-nav-2">
             <h4>Useful Links</h4>
             <ul class="nav-menu-links">
-              <li><a href="#">Terms & Condition</a></li>
-              <li><a href="#">Privacy Policy</a></li>
-              <li><a href="#">Refund Policy</a></li>
-              <li><a href="#">Site Map</a></li>
+              <li><a href="privacy-policy">Privacy Policy</a></li>
             </ul>
           </div>
         </div>
@@ -116,7 +113,7 @@ if (isset($_POST['submit'])) {
             <h4>Accepted Merchants</h4>
           </div>
           <div class="col-7 col-12-medium">
-            <img src="./images/paymentcards.png" />
+            <img src="./images/paymentcards.webp" />
           </div>
         </div>
       </div>
@@ -136,8 +133,8 @@ if (isset($_POST['submit'])) {
         <div class="col-6 col-12-medium">
           <div class="social-links">
             <ul>
-              <li><a href="https://www.facebook.com/profile.php?id=61563666846807"><img src="./images/social/social1.png" /></a></li>
-              <li><a href="https://www.instagram.com/blizztech.solutions/"><img src="./images/social/social2.png" /></a></li>
+              <li><a href="https://www.facebook.com/profile.php?id=61563666846807"><img src="./images/social/social1.webp" /></a></li>
+              <li><a href="https://www.instagram.com/blizztech.solutions/"><img src="./images/social/social2.webp" /></a></li>
             </ul>
           </div>
         </div>

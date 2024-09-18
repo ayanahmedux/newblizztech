@@ -69,7 +69,7 @@
 			<div class="container">
 				<div class="row">
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
 						<div class="logoabout-text">
 							<h1>The Importance of <b>Brand Building</b> for Business Success</h1>
 							<p>
@@ -85,9 +85,9 @@
 						</div>
 					</div>
 
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/branding/about.png" />
+							src="./images/branding/about.webp" />
 					</div>
 				</div>
 			</div>
@@ -96,12 +96,12 @@
 		<section id="logo-about-us" style="padding: 20px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/branding/digital-branding-img3.png" />
+							src="./images/branding/digital-branding-img3.webp" />
 					</div>
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1500">
 						<div class="logoabout-text">
 							<h1> Full <b>Brand</b> Visibility</h1>
 							<p>
@@ -122,7 +122,7 @@
 				<div class="row">
 
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
 						<div class="logoabout-text">
 							<h1> Adaptive <b>Branding</b> Strategy</h1>
 							<p>
@@ -134,9 +134,9 @@
 						</div>
 					</div>
 
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 80%;"
-							src="./images/branding/digital-branding-img6.png" />
+							src="./images/branding/digital-branding-img6.webp" />
 					</div>
 
 
@@ -146,12 +146,12 @@
 		<section id="logo-about-us" style="padding: 20px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/branding/digital-branding-img8.png" />
+							src="./images/branding/digital-branding-img8.webp" />
 					</div>
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1500">
 						<div class="logoabout-text">
 							<h1> <b>Brand</b> Launch</h1>
 							<p>
@@ -173,7 +173,7 @@
 				<div class="row">
 
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
 						<div class="logoabout-text">
 							<h1> <b>Rebranding</b></h1>
 							<p>
@@ -185,9 +185,9 @@
 							</p>
 						</div>
 					</div>
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/branding/rebranding-img.png" />
+							src="./images/branding/rebranding-img.webp" />
 					</div>
 
 
@@ -199,12 +199,12 @@
 		<section id="logo-about-us" style="padding: 20px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/branding/Brand Growth-img.png" />
+							src="./images/branding/Brand Growth-img.webp" />
 					</div>
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1500">
 						<div class="logoabout-text">
 							<h1> <b>Brand</b> Growth</h1>
 							<p>
@@ -228,7 +228,7 @@
 		<section id="why-us-brand">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-6">
+					<div class="col-lg-6" data-aos="fade-right" data-aos-duration="1500">
 						<h1> Why Choose <b>Blizztech</b> Solutions?</h1>
 						<p>Choosing the right partner for your digital branding services is
 							crucial for your business's success. At Blizztech Solutions, we
@@ -255,9 +255,9 @@
 							evolve in the digital landscape.
 						</p>
 					</div>
-					<div class="col-lg-6">
+					<div class="col-lg-6" data-aos="fade-left" data-aos-duration="1500">
 						<div class="why-us-image">
-							<img src="./images/branding/why-us-image.png" alt="">
+							<img src="./images/branding/why-us-image.webp" alt="">
 						</div>
 					</div>
 				</div>
@@ -279,8 +279,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon1.png">
-								<img class="img2" src="./images/websitedesigns/webicon11.png">
+								<img class="img1" src="./images/websitedesigns/webicon1.webp">
+								<img class="img2" src="./images/websitedesigns/webicon11.webp">
 							</div>
 							<h3>Identifying Audience</h3>
 
@@ -292,8 +292,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon1.png">
-								<img class="img2" src="./images/websitedesigns/webicon11.png">
+								<img class="img1" src="./images/websitedesigns/webicon1.webp">
+								<img class="img2" src="./images/websitedesigns/webicon11.webp">
 							</div>
 							<h3>Brands Purpose
 								& Position</h3>
@@ -306,8 +306,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon2.png">
-								<img class="img2" src="./images/websitedesigns/webicon22.png">
+								<img class="img1" src="./images/websitedesigns/webicon2.webp">
+								<img class="img2" src="./images/websitedesigns/webicon22.webp">
 							</div>
 							<h3>Create Brand Story
 								& Logo</h3>
@@ -319,8 +319,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon3.png">
-								<img class="img2" src="./images/websitedesigns/webicon33.png">
+								<img class="img1" src="./images/websitedesigns/webicon3.webp">
+								<img class="img2" src="./images/websitedesigns/webicon33.webp">
 							</div>
 							<h3>Design Brand Identity</h3>
 
@@ -332,8 +332,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon4.png">
-								<img class="img2" src="./images/websitedesigns/webicon44.png">
+								<img class="img1" src="./images/websitedesigns/webicon4.webp">
+								<img class="img2" src="./images/websitedesigns/webicon44.webp">
 							</div>
 							<h3>Integrate Brand Into Business</h3>
 
@@ -353,7 +353,7 @@
 			<div class="logo-cta">
 				<div class="container">
 					<div class="row">
-						<div class="col-6 col-12-medium align-self-center">
+						<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
 							<div class="heading-text">
 								<h1>If Our Work Resonates with You- <b>Let’s Connect!</b></h1>
 								<div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px; text-align: left;">
@@ -373,8 +373,8 @@
 							</div>
 						</div>
 
-						<div class="col-6 col-12-medium align-self-center">
-							<img class="website-cta" width="100%" src="./images/branding/brandingcta.png" />
+						<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1500">
+							<img class="website-cta" width="100%" src="./images/branding/brandingcta.webp" />
 						</div>
 
 					</div>
@@ -434,29 +434,17 @@
 						<div id="collapseOne" class="accordion-collapse collapse show  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
-								<div class="gallery-item" data-index="1">
-									<img src="./images/branding/portfolio/1.png">
+							<div class="gallery-item" data-index="1">
+									<img src="./images/branding/portfolio/1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/branding/portfolio/2.png">
+									<img src="./images/branding/portfolio/2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/branding/portfolio/3.png">
+									<img src="./images/branding/portfolio/3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/branding/portfolio/4.png">
-								</div>
-								<div class="gallery-item" data-index="5">
-									<img src="./images/branding/portfolio/5.png">
-								</div>
-								<div class="gallery-item" data-index="6">
-									<img src="./images/branding/portfolio/6.png">
-								</div>
-								<div class="gallery-item" data-index="7">
-									<img src="./images/branding/portfolio/7.png">
-								</div>
-								<div class="gallery-item" data-index="8">
-									<img src="./images/branding/portfolio/3.png">
+									<img src="./images/branding/portfolio/4.webp">
 								</div>
 							</div>
 						</div>
@@ -472,30 +460,20 @@
 						<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
+								
 								<div class="gallery-item" data-index="1">
-									<img src="./images/branding/portfolio/1.png">
+									<img src="./images/branding/BusinessCard/Business-Card.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/branding/portfolio/2.png">
+									<img src="./images/branding/BusinessCard/Business-Card-02.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/branding/portfolio/3.png">
+									<img src="./images/branding/BusinessCard/Business-Card-03.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/branding/portfolio/4.png">
+									<img src="./images/branding/BusinessCard/Business-Card-04.webp">
 								</div>
-								<div class="gallery-item" data-index="5">
-									<img src="./images/branding/portfolio/5.png">
-								</div>
-								<div class="gallery-item" data-index="6">
-									<img src="./images/branding/portfolio/6.png">
-								</div>
-								<div class="gallery-item" data-index="7">
-									<img src="./images/branding/portfolio/7.png">
-								</div>
-								<div class="gallery-item" data-index="8">
-									<img src="./images/branding/portfolio/3.png">
-								</div>
+								
 							</div>
 						</div>
 
@@ -511,28 +489,16 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/branding/portfolio/1.png">
+									<img src="./images/branding/BROCHURES/broucher1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/branding/portfolio/2.png">
+									<img src="./images/branding/BROCHURES/broucher2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/branding/portfolio/3.png">
+									<img src="./images/branding/BROCHURES/broucher3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/branding/portfolio/4.png">
-								</div>
-								<div class="gallery-item" data-index="5">
-									<img src="./images/branding/portfolio/5.png">
-								</div>
-								<div class="gallery-item" data-index="6">
-									<img src="./images/branding/portfolio/6.png">
-								</div>
-								<div class="gallery-item" data-index="7">
-									<img src="./images/branding/portfolio/7.png">
-								</div>
-								<div class="gallery-item" data-index="8">
-									<img src="./images/branding/portfolio/2.png">
+									<img src="./images/branding/BROCHURES/broucher4.webp">
 								</div>
 							</div>
 						</div>
@@ -549,28 +515,16 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/branding/portfolio/1.png">
+									<img src="./images/branding/STATIONERY/STATIONERY1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/branding/portfolio/2.png">
+									<img src="./images/branding/STATIONERY/STATIONERY2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/branding/portfolio/3.png">
+									<img src="./images/branding/STATIONERY/STATIONERY3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/branding/portfolio/4.png">
-								</div>
-								<div class="gallery-item" data-index="5">
-									<img src="./images/branding/portfolio/5.png">
-								</div>
-								<div class="gallery-item" data-index="6">
-									<img src="./images/branding/portfolio/6.png">
-								</div>
-								<div class="gallery-item" data-index="7">
-									<img src="./images/branding/portfolio/7.png">
-								</div>
-								<div class="gallery-item" data-index="8">
-									<img src="./images/branding/portfolio/3.png">
+									<img src="./images/branding/STATIONERY/STATIONERY4.webp">
 								</div>
 							</div>
 						</div>
@@ -587,29 +541,18 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/branding/portfolio/1.png">
+									<img src="./images/branding/MERCHANDISE/MERCHANDISE1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/branding/portfolio/2.png">
+									<img src="./images/branding/MERCHANDISE/MERCHANDISE2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/branding/portfolio/3.png">
+									<img src="./images/branding/MERCHANDISE/MERCHANDISE3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/branding/portfolio/4.png">
+									<img src="./images/branding/MERCHANDISE/MERCHANDISE4.webp">
 								</div>
-								<div class="gallery-item" data-index="5">
-									<img src="./images/branding/portfolio/5.png">
-								</div>
-								<div class="gallery-item" data-index="6">
-									<img src="./images/branding/portfolio/6.png">
-								</div>
-								<div class="gallery-item" data-index="7">
-									<img src="./images/branding/portfolio/7.png">
-								</div>
-								<div class="gallery-item" data-index="8">
-									<img src="./images/branding/portfolio/3.png">
-								</div>
+								
 							</div>
 						</div>
 
@@ -916,11 +859,11 @@
 		<section id="logoprocess-inner">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium">
-						<img width="100%" src="./images/branding/who.png" />
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
+						<img width="100%" src="./images/branding/who.webp" />
 					</div>
 
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
 						<div class="processinner-text">
 							<h2>It is crucial to establish your identity and ask yourself as the brand<b> “who are you?”</b></h2>
 							<p>Here a brand needs to “ensure identification of the brand with customers and an
@@ -936,7 +879,7 @@
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsenineteen" aria-expanded="false" aria-controls="collapsenineteen">
-											How Should I Start Brief? <img src="./images/faqdownarrow.png" />
+											How Should I Start Brief? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsenineteen" class="accordion-collapse collapse" aria-labelledby="headingOne"
@@ -954,7 +897,7 @@
 									<h2 class="accordion-header" id="headingTwo">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwenty" aria-expanded="false" aria-controls="collapsetwenty">
-											How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
+											How Much Does It Cost ? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwenty" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -971,7 +914,7 @@
 									<h2 class="accordion-header" id="headingThree">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentyone" aria-expanded="false" aria-controls="collapsetwentyone">
-											How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
+											How Much Time Does It Need? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentyone" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -994,7 +937,7 @@
 				<div class="row" style="padding-top: 50px; margin: auto;">
 
 
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
 						<div class="processinner-text">
 							<h2>Strategically linking a host of <b>tangible</b> and <b>intangible</b> brand associations.”</h2>
 							<p>In the performance and imagery step, we expect the brand to perform, and to perform well;
@@ -1009,7 +952,7 @@
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentytwo" aria-expanded="false" aria-controls="collapsetwentytwo">
-											How Should I Start Brief? <img src="./images/faqdownarrow.png" />
+											How Should I Start Brief? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentytwo" class="accordion-collapse collapse" aria-labelledby="headingOne"
@@ -1027,7 +970,7 @@
 									<h2 class="accordion-header" id="headingTwo">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentythree" aria-expanded="false" aria-controls="collapsetwentythree">
-											How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
+											How Much Does It Cost ? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentythree" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -1044,7 +987,7 @@
 									<h2 class="accordion-header" id="headingThree">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentyfour" aria-expanded="false" aria-controls="collapsetwentyfour">
-											How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
+											How Much Time Does It Need? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentyfour" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -1060,18 +1003,18 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-12-medium">
-						<img width="100%" src="./images/branding/tangible.png" />
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
+						<img width="100%" src="./images/branding/tangible.webp" />
 					</div>
 				</div>
 				<hr>
 				<!-- THIRD ROW START -->
 				<div class="row" style="padding-top: 50px; margin: auto;">
-					<div class="col-6 col-12-medium">
-						<img width="100%" src="./images/branding/judgement.png" />
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
+						<img width="100%" src="./images/branding/judgement.webp" />
 					</div>
 
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
 						<div class="processinner-text">
 							<h2> Judgement
 								& <b>Look Feelings</b></h2>
@@ -1084,7 +1027,7 @@
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentyfive" aria-expanded="false" aria-controls="collapsetwentyfive">
-											How Should I Start Brief? <img src="./images/faqdownarrow.png" />
+											How Should I Start Brief? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentyfive" class="accordion-collapse collapse" aria-labelledby="headingOne"
@@ -1102,7 +1045,7 @@
 									<h2 class="accordion-header" id="headingTwo">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentysix" aria-expanded="false" aria-controls="collapsetwentysix">
-											How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
+											How Much Does It Cost ? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentysix" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -1119,7 +1062,7 @@
 									<h2 class="accordion-header" id="headingThree">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentyseven" aria-expanded="false" aria-controls="collapsetwentyseven">
-											How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
+											How Much Time Does It Need? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentyseven" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -1143,7 +1086,7 @@
 				<div class="row" style="padding-top: 50px; margin: auto;">
 
 
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
 						<div class="processinner-text">
 							<h2>Brand <b>Resonance</b> Means Brand <b>Loyalty</b></h2>
 							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -1156,7 +1099,7 @@
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentyeight" aria-expanded="false" aria-controls="collapsetwentyeight">
-											How Should I Start Brief? <img src="./images/faqdownarrow.png" />
+											How Should I Start Brief? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentyeight" class="accordion-collapse collapse" aria-labelledby="headingOne"
@@ -1174,7 +1117,7 @@
 									<h2 class="accordion-header" id="headingTwo">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentynine" aria-expanded="false" aria-controls="collapsetwentynine">
-											How Much Does It Cost ? <img src="./images/faqdownarrow.png" />
+											How Much Does It Cost ? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentynine" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -1191,7 +1134,7 @@
 									<h2 class="accordion-header" id="headingThree">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsethirty" aria-expanded="false" aria-controls="collapsethirty">
-											How Much Time Does It Need? <img src="./images/faqdownarrow.png" />
+											How Much Time Does It Need? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsethirty" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -1207,8 +1150,8 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-12-medium">
-						<img width="100%" src="./images/branding/analytics on computer screen.png" />
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
+						<img width="100%" src="./images/branding/analytics on computer screen.webp" />
 					</div>
 				</div>
 				<!-- FOUR ROW END -->

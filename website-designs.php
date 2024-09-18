@@ -72,14 +72,13 @@
 
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
 						<div class="logoabout-text">
-							<h1>Build Your Online Presence with Expert Web Design and </h1>
-							<h6 style="margin-top: 0px !important;">Development</h6>
+							<h2>Build Your Online Presence with Expert Web Design and <b> Development</b> </h2>
 
 						</div>
 					</div>
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="2000">
-						<img class="" style="width: 100%;" src="./images/websitedesigns/websiteinfographic.png" />
+						<img class="" style="width: 100%;" src="./images/websitedesigns/websiteinfographic.webp" />
 					</div>
 				</div>
 				<p class="website-abouttext">At Blizztech Solutions, we take pride in our ability to craft high
@@ -103,7 +102,7 @@
 				<div class="row" style="margin: auto;">
 					<div class="col-md-6">
 						<div class="feature-box">
-							<img src="./images/aboutuspageimages/key-features-1.png" alt="">
+							<img src="./images/aboutuspageimages/key-features-1.webp" alt="">
 							<h1>High-<b>Performance</b></h1>
 							<p> Our talented developers and designers create websites that are
 								eReignly engaging. We ensure that your website stays a constant
@@ -112,7 +111,7 @@
 					</div>
 					<div class="col-md-6">
 						<div class="feature-box">
-							<img src="./images/aboutuspageimages/key-features-2.png" alt="">
+							<img src="./images/aboutuspageimages/key-features-2.webp" alt="">
 							<h1> Unique <b>Designs</b></h1>
 							<p> Our web developers collaborate with you to design a website that is
 								unique to you. We aim to help you achieve your goals and realize your
@@ -123,7 +122,7 @@
 				<div class="row" style="margin: auto;">
 					<div class="col-md-6">
 						<div class="feature-box">
-							<img src="./images/aboutuspageimages/key-features-3.png" alt="">
+							<img src="./images/aboutuspageimages/key-features-3.webp" alt="">
 							<h1>Highly <b>Responsive</b></h1>
 							<p> Our site development is efficient enough to help you achieve your
 								company objectives. We design a mobile-friendly website that can be
@@ -132,7 +131,7 @@
 					</div>
 					<div class="col-md-6">
 						<div class="feature-box">
-							<img src="./images/aboutuspageimages/key-features-4.png" alt="">
+							<img src="./images/aboutuspageimages/key-features-4.webp" alt="">
 							<h1>Value Towards <b>Persistence</b></h1>
 							<p> We, as a group, strive to go forward in an effective and efficient manner
 								by persevering. We try to alleviate the burden of running a business off
@@ -330,8 +329,8 @@
 					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1000">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon1.png">
-								<img class="img2" src="./images/websitedesigns/webicon11.png">
+								<img class="img1" src="./images/websitedesigns/webicon1.webp">
+								<img class="img2" src="./images/websitedesigns/webicon11.webp">
 							</div>
 							<h3>E-commerce Website</h3>
 							<p>Our website designing services seamlessly blend well with creativity and usability. We
@@ -345,8 +344,8 @@
 					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1000">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon2.png">
-								<img class="img2" src="./images/websitedesigns/webicon22.png">
+								<img class="img1" src="./images/websitedesigns/webicon2.webp">
+								<img class="img2" src="./images/websitedesigns/webicon22.webp">
 							</div>
 							<h3>Corporate Website</h3>
 							<p>Elevate your company profile with our corporate website services. Our websites
@@ -362,8 +361,8 @@
 					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1000">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon3.png">
-								<img class="img2" src="./images/websitedesigns/webicon33.png">
+								<img class="img1" src="./images/websitedesigns/webicon3.webp">
+								<img class="img2" src="./images/websitedesigns/webicon33.webp">
 							</div>
 							<h3>Educational Website</h3>
 							<p>Unlock the power of education with our specialized website designing services. We
@@ -377,8 +376,8 @@
 					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1000">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon4.png">
-								<img class="img2" src="./images/websitedesigns/webicon44.png">
+								<img class="img1" src="./images/websitedesigns/webicon4.webp">
+								<img class="img2" src="./images/websitedesigns/webicon44.webp">
 							</div>
 							<h3>Portfolio Website </h3>
 							<p>Nobody should stop you from showcasing your talent in an online space. Our team craft
@@ -421,7 +420,7 @@
 						</div>
 
 						<div class="col-6 col-12-medium align-self-center">
-							<img class="website-cta" width="100%" src="./images/websitedesigns/info.png" />
+							<img class="website-cta" width="100%" src="./images/websitedesigns/info.webp" />
 						</div>
 
 					</div>
@@ -478,16 +477,16 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/websitedesigns/portfolio/informative/1.png">
+									<img src="./images/websitedesigns/portfolio/informative/1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/websitedesigns/portfolio/informative/2.png">
+									<img src="./images/websitedesigns/portfolio/informative/2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/websitedesigns/portfolio/informative/3.png">
+									<img src="./images/websitedesigns/portfolio/informative/3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/websitedesigns/portfolio/informative/4.png">
+									<img src="./images/websitedesigns/portfolio/informative/4.webp">
 
 								</div>
 							</div>
@@ -504,16 +503,16 @@
 								data-bs-parent="#myTabContent">
 								<div class="gallery-container">
 									<div class="gallery-item" data-index="1">
-										<img src="./images/websitedesigns/portfolio/ecommerce/1.png">
+										<img src="./images/websitedesigns/portfolio/ecommerce/1.webp">
 									</div>
 									<div class="gallery-item" data-index="2">
-										<img src="./images/websitedesigns/portfolio/ecommerce/2.png">
+										<img src="./images/websitedesigns/portfolio/ecommerce/2.webp">
 									</div>
 									<div class="gallery-item" data-index="3">
-										<img src="./images/websitedesigns/portfolio/ecommerce/3.jpg">
+										<img src="./images/websitedesigns/portfolio/ecommerce/3.webp">
 									</div>
 									<div class="gallery-item" data-index="4">
-										<img src="./images/websitedesigns/portfolio/ecommerce/4.jpg">
+										<img src="./images/websitedesigns/portfolio/ecommerce/4.webp">
 									</div>
 
 								</div>
@@ -531,16 +530,16 @@
 								data-bs-parent="#myTabContent">
 								<div class="gallery-container">
 									<div class="gallery-item" data-index="1">
-										<img src="./images/websitedesigns/portfolio/webapp/1.png">
+										<img src="./images/websitedesigns/portfolio/webapp/1.webp">
 									</div>
 									<div class="gallery-item" data-index="2">
-										<img src="./images/websitedesigns/portfolio/webapp/2.png">
+										<img src="./images/websitedesigns/portfolio/webapp/2.webp">
 									</div>
 									<div class="gallery-item" data-index="3">
-										<img src="./images/websitedesigns/portfolio/webapp/3.png">
+										<img src="./images/websitedesigns/portfolio/webapp/3.webp">
 									</div>
 									<div class="gallery-item" data-index="4">
-										<img src="./images/websitedesigns/portfolio/webapp/4.png">
+										<img src="./images/websitedesigns/portfolio/webapp/4.webp">
 									</div>
 								</div>
 							</div>
@@ -557,16 +556,16 @@
 								data-bs-parent="#myTabContent">
 								<div class="gallery-container">
 									<div class="gallery-item" data-index="1">
-										<img src="./images/websitedesigns/portfolio/estore/1.png">
+										<img src="./images/websitedesigns/portfolio/estore/1.webp">
 									</div>
 									<div class="gallery-item" data-index="2">
-										<img src="./images/websitedesigns/portfolio/estore/2.png">
+										<img src="./images/websitedesigns/portfolio/estore/2.webp">
 									</div>
 									<div class="gallery-item" data-index="3">
-										<img src="./images/websitedesigns/portfolio/estore/3.png">
+										<img src="./images/websitedesigns/portfolio/estore/3.webp">
 									</div>
 									<div class="gallery-item" data-index="4">
-										<img src="./images/websitedesigns/portfolio/estore/4.png">
+										<img src="./images/websitedesigns/portfolio/estore/4.webp">
 									</div>
 								</div>
 							</div>
@@ -613,7 +612,7 @@
 					</div>
 
 					<!-- TABS PRICE START -->
-					<ul class="nav nav-tabs d-none d-lg-flex" id="myTab" role="tablist">
+					<ul class="nav nav-tabs  d-lg-flex" id="myTab" role="tablist">
 						<li class="nav-item" role="presentation">
 							<button class="nav-link active" id="home-tab09" data-bs-toggle="tab" data-bs-target="#home-tab-pane09"
 								type="button" role="tab" aria-controls="home-tab-pane09" aria-selected="true"> Informative Website</button>
@@ -1107,7 +1106,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
-						<img width="100%" src="./images/websitedesigns/yourwork.png" />
+						<img width="100%" src="./images/websitedesigns/yourwork.webp" />
 					</div>
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
@@ -1119,7 +1118,7 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb" aria-expanded="false" aria-controls="collapseOne">
-											How long does the brief setting session last? <img src="./images/faqdownarrow.png">
+											How long does the brief setting session last? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseWeb" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#basicAccordion">
@@ -1131,7 +1130,7 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingTwo">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb1" aria-expanded="false" aria-controls="collapseTwo">
-											What kind of information should I be prepared to discuss during the briefing phase? <img src="./images/faqdownarrow.png">
+											What kind of information should I be prepared to discuss during the briefing phase? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseWeb1" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-mdb-parent="#basicAccordion">
@@ -1143,7 +1142,7 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingThree">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb2" aria-expanded="false" aria-controls="collapseThree">
-											Is the initial briefing and exploration phase so important? <img src="./images/faqdownarrow.png">
+											Is the initial briefing and exploration phase so important? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseWeb2" class="accordion-collapse collapse" aria-labelledby="headingThree" data-mdb-parent="#basicAccordion">
@@ -1172,7 +1171,7 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb3" aria-expanded="false" aria-controls="collapseOne">
-											How do you ensure that the design reflects our brand's unique identity? <img src="./images/faqdownarrow.png">
+											How do you ensure that the design reflects our brand's unique identity? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseWeb3" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#basicAccordion">
@@ -1184,7 +1183,7 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingTwo">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb4" aria-expanded="false" aria-controls="collapseTwo">
-											What if I want to make changes to the design concepts you presented? <img src="./images/faqdownarrow.png">
+											What if I want to make changes to the design concepts you presented? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseWeb4" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-mdb-parent="#basicAccordion">
@@ -1196,7 +1195,7 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingThree">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb5" aria-expanded="false" aria-controls="collapseThree">
-											Can I provide input or ideas during the conceptualization phase? <img src="./images/faqdownarrow.png">
+											Can I provide input or ideas during the conceptualization phase? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseWeb5" class="accordion-collapse collapse" aria-labelledby="headingThree" data-mdb-parent="#basicAccordion">
@@ -1209,14 +1208,14 @@
 						</div>
 					</div>
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
-						<img width="100%" src="./images/websitedesigns/timeframese.png" />
+						<img width="100%" src="./images/websitedesigns/timeframese.webp" />
 					</div>
 				</div>
 				<hr>
 				<!-- THIRD ROW START -->
 				<div class="row" style="padding-top: 50px; margin: auto;">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
-						<img width="100%" src="./images/websitedesigns/development.png" />
+						<img width="100%" src="./images/websitedesigns/development.webp" />
 					</div>
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
@@ -1228,7 +1227,7 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb6" aria-expanded="false" aria-controls="collapseOne">
-											How many rounds of refinement are included in this phase? <img src="./images/faqdownarrow.png">
+											How many rounds of refinement are included in this phase? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseWeb6" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#basicAccordion">
@@ -1240,7 +1239,7 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingTwo">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb7" aria-expanded="false" aria-controls="collapseTwo">
-											How long does it take to see the refined designs after providing feedback? <img src="./images/faqdownarrow.png">
+											How long does it take to see the refined designs after providing feedback? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseWeb7" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-mdb-parent="#basicAccordion">
@@ -1252,7 +1251,7 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingThree">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb8" aria-expanded="false" aria-controls="collapseThree">
-											What if I have new ideas or want to make significant changes during the refining phase? <img src="./images/faqdownarrow.png">
+											What if I have new ideas or want to make significant changes during the refining phase? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseWeb8" class="accordion-collapse collapse" aria-labelledby="headingThree" data-mdb-parent="#basicAccordion">
@@ -1281,7 +1280,7 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb9" aria-expanded="false" aria-controls="collapseOne">
-											How long does the development phase typically take? <img src="./images/faqdownarrow.png">
+											How long does the development phase typically take? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseWeb9" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#basicAccordion">
@@ -1293,7 +1292,7 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingTwo">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb10" aria-expanded="false" aria-controls="collapseTwo">
-											What kind of testing is conducted to ensure a seamless user experience? <img src="./images/faqdownarrow.png">
+											What kind of testing is conducted to ensure a seamless user experience? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseWeb10" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-mdb-parent="#basicAccordion">
@@ -1305,7 +1304,7 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingThree">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse" data-mdb-target="#basicAccordionCollapseWeb11" aria-expanded="false" aria-controls="collapseThree">
-											What support do you provide after the website is launched? <img src="./images/faqdownarrow.png">
+											What support do you provide after the website is launched? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseWeb11" class="accordion-collapse collapse" aria-labelledby="headingThree" data-mdb-parent="#basicAccordion">
@@ -1318,7 +1317,7 @@
 						</div>
 					</div>
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
-						<img width="100%" src="./images/websitedesigns/measures.png" />
+						<img width="100%" src="./images/websitedesigns/measures.webp" />
 					</div>
 				</div>
 				<!-- FOUR ROW END -->

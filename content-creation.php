@@ -13,8 +13,8 @@
 					<div class="row">
 						<div class="col-6 col-12-medium align-self-center">
 							<div class="first-inner-section-text">
-								<!--<h1 class="first-inner-section-text-h1"><img class="greenline" src="./images/greenlinetext.png"/>Professional Logo Design</h1>-->
-								<h1 class="first-inner-section-text-mian-h1"><img class="greenline" src="images/greenlinetext.png" />Creative <b>Content creation</b> servies</h1>
+								<!--<h1 class="first-inner-section-text-h1"><img class="greenline" src="./images/greenlinetext.webp"/>Professional Logo Design</h1>-->
+								<h1 class="first-inner-section-text-mian-h1"><img class="greenline" src="images/greenlinetext.webp" />Creative <b>Content creation</b> servies</h1>
 								<p>
 									Content creation is at the heart of our expertise, with a
 									team of experienced content creators and advertisers who
@@ -106,7 +106,7 @@
 					</div>
 					<div class="col-lg-6 col-12-medium  " data-aos="fade-left">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
-							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img1.png" />
+							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img1.webp" />
 						</div>
 					</div>
 
@@ -169,7 +169,7 @@
 				<div class="row">
 					<div class="col-6 col-12-medium d-none d-md-block " data-aos="fade-right">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
-							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img2.png" />
+							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img2.webp" />
 						</div>
 					</div>
 
@@ -221,7 +221,7 @@
 					</div>
 					<div class="col-6 col-12-medium d-none d-md-block " data-aos="fade-left">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
-							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img3.png" />
+							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img3.webp" />
 						</div>
 					</div>
 
@@ -238,7 +238,7 @@
 
 					<div class="col-6 col-12-medium  d-none d-md-block" data-aos="fade-right">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
-							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img4.png" />
+							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img4.webp" />
 						</div>
 					</div>
 
@@ -286,7 +286,7 @@
 
 					<div class="col-6 col-12-medium d-none d-md-block " data-aos="fade-left">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
-							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img5.png" />
+							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img5.webp" />
 						</div>
 					</div>
 				</div>
@@ -302,7 +302,7 @@
 
 					<div class="col-6 col-12-medium  d-none d-md-block" data-aos="fade-right">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
-							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img6.png" />
+							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img6.webp" />
 						</div>
 					</div>
 
@@ -347,7 +347,7 @@
 					</div>
 					<div class="col-lg-6 col-12-medium  d-none d-md-block" data-aos="fade-right">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
-							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/social-media-marketing-2.png" />
+							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/social-media-marketing-2.webp" />
 						</div>
 					</div>
 
@@ -374,7 +374,7 @@
 		<!--			</div>-->
 
 		<!--<div class="col-6 col-12-medium">-->
-		<!--	<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-about.png"/>-->
+		<!--	<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-about.webp"/>-->
 		<!--</div>-->
 		<!--		</div>-->
 		<!--	</div>-->
@@ -407,7 +407,7 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/abstract.png">
+								<img class="img1" src="./images/Logodesign/abstract.webp">
 							</div>
 							<h3 class="animated fadeIn"> Connect</h3>
 							<p>Being the best content writing company, we
@@ -426,7 +426,7 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/letter.png">
+								<img class="img1" src="./images/Logodesign/letter.webp">
 
 							</div>
 							<h3 class="animated fadeIn"> Content Audit & Research</h3>
@@ -444,7 +444,7 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/mascot.png">
+								<img class="img1" src="./images/Logodesign/mascot.webp">
 
 							</div>
 							<h3 class="animated fadeIn"> Content Strategy Development</h3>
@@ -461,7 +461,7 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/emblem.png">
+								<img class="img1" src="./images/Logodesign/emblem.webp">
 
 							</div>
 							<h3 class="animated fadeIn"> Content Creation</h3>
@@ -478,7 +478,7 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/emblem.png">
+								<img class="img1" src="./images/Logodesign/emblem.webp">
 
 							</div>
 							<h3 class="animated fadeIn"> Content Proofreading & Editing</h3>
@@ -497,7 +497,7 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/emblem.png">
+								<img class="img1" src="./images/Logodesign/emblem.webp">
 
 							</div>
 							<h3 class="animated fadeIn">  Content Publishing</h3>

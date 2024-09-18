@@ -111,7 +111,7 @@
 
 					<div class="col-6 col-12-medium">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/mobileapplication/about.png" />
+							src="./images/mobileapplication/about.webp" />
 					</div>
 				</div>
 			</div>
@@ -126,7 +126,7 @@
 				<div class="row" style="margin: auto;">
 					<div class="col-md-6">
 						<div class="feature-box">
-							<img src="./images/aboutuspageimages/key-features-1.png" alt="">
+							<img src="./images/aboutuspageimages/key-features-1.webp" alt="">
 							<h1> Tailored Customer <b>Support</b></h1>
 							<p> Our commitment extends beyond development; we
 								provide personalized customer support to ensure your
@@ -135,7 +135,7 @@
 					</div>
 					<div class="col-md-6">
 						<div class="feature-box">
-							<img src="./images/aboutuspageimages/key-features-2.png" alt="">
+							<img src="./images/aboutuspageimages/key-features-2.webp" alt="">
 							<h1> Continuous <b>Improvement</b></h1>
 							<p> We are dedicated to staying ahead of the curve by
 								constantly updating and refining our wearable app
@@ -144,10 +144,10 @@
 						</div>
 					</div>
 				</div>
-				<div class="row">
+				<div class="row" style="margin: auto;">
 					<div class="col-md-6">
 						<div class="feature-box">
-							<img src="./images/aboutuspageimages/key-features-3.png" alt="">
+							<img src="./images/aboutuspageimages/key-features-3.webp" alt="">
 							<h1> Data Security <b>Measures</b></h1>
 							<p> Rest assured that your sensitive data is protected with
 								our robust security protocols, guaranteeing the
@@ -156,7 +156,7 @@
 					</div>
 					<div class="col-md-6">
 						<div class="feature-box">
-							<img src="./images/aboutuspageimages/key-features-4.png" alt="">
+							<img src="./images/aboutuspageimages/key-features-4.webp" alt="">
 							<h1>Future-Proof <b>Technology</b></h1>
 							<p> Embrace the future with confidence as our wearable
 								app solutions are designed with scalability and
@@ -182,8 +182,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon1.png">
-								<img class="img2" src="./images/websitedesigns/webicon11.png">
+								<img class="img1" src="./images/websitedesigns/webicon1.webp">
+								<img class="img2" src="./images/websitedesigns/webicon11.webp">
 							</div>
 							<h3>Provide More Value to Your Customers</h3>
 
@@ -195,8 +195,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon1.png">
-								<img class="img2" src="./images/websitedesigns/webicon11.png">
+								<img class="img1" src="./images/websitedesigns/webicon1.webp">
+								<img class="img2" src="./images/websitedesigns/webicon11.webp">
 							</div>
 							<h3>Increases Brand
 								Awareness</h3>
@@ -209,8 +209,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon2.png">
-								<img class="img2" src="./images/websitedesigns/webicon22.png">
+								<img class="img1" src="./images/websitedesigns/webicon2.webp">
+								<img class="img2" src="./images/websitedesigns/webicon22.webp">
 							</div>
 							<h3>Allows You To Personalize</h3>
 						</div>
@@ -221,8 +221,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon3.png">
-								<img class="img2" src="./images/websitedesigns/webicon33.png">
+								<img class="img1" src="./images/websitedesigns/webicon3.webp">
+								<img class="img2" src="./images/websitedesigns/webicon33.webp">
 							</div>
 							<h3>Strengthens Your
 								Business</h3>
@@ -235,8 +235,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon4.png">
-								<img class="img2" src="./images/websitedesigns/webicon44.png">
+								<img class="img1" src="./images/websitedesigns/webicon4.webp">
+								<img class="img2" src="./images/websitedesigns/webicon44.webp">
 							</div>
 							<h3>Marketing Assistance</h3>
 
@@ -278,7 +278,7 @@
 						</div>
 
 						<div class="col-6 col-12-medium align-self-center">
-							<img class="mobile-cta" width="100%" src="./images/mobileapplication/cta.png" />
+							<img class="mobile-cta" width="100%" src="./images/mobileapplication/cta.webp" />
 						</div>
 
 					</div>
@@ -320,28 +320,28 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/mobileapplication/portfolio/1.png">
+									<img src="./images/mobileapplication/portfolio/1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/mobileapplication/portfolio/2.png">
+									<img src="./images/mobileapplication/portfolio/2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/mobileapplication/portfolio/3.png">
+									<img src="./images/mobileapplication/portfolio/3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/mobileapplication/portfolio/4.png">
+									<img src="./images/mobileapplication/portfolio/4.webp">
 								</div>
 								<div class="gallery-item" data-index="5">
-									<img src="./images/mobileapplication/portfolio/5.png">
+									<img src="./images/mobileapplication/portfolio/5.webp">
 								</div>
 								<div class="gallery-item" data-index="6">
-									<img src="./images/mobileapplication/portfolio/6.png">
+									<img src="./images/mobileapplication/portfolio/6.webp">
 								</div>
 								<div class="gallery-item" data-index="7">
-									<img src="./images/mobileapplication/portfolio/7.png">
+									<img src="./images/mobileapplication/portfolio/7.webp">
 								</div>
 								<div class="gallery-item" data-index="8">
-									<img src="./images/mobileapplication/portfolio/3.png">
+									<img src="./images/mobileapplication/portfolio/3.webp">
 								</div>
 							</div>
 						</div>
@@ -401,7 +401,7 @@
 				<div class="row" style="padding: 70px 0px; margin: auto;">
 					<div class="col-3 col-12-medium" style="position: relative;">
 						<div class="innermobileapp">
-							<img src="./images/mobileapplication/icon/4.png" />
+							<img src="./images/mobileapplication/icon/4.webp" />
 							<h3> Web application development offering</h3>
 							<p> Being a mobile application development team, we offer
 								mobile application development services to provide any
@@ -416,7 +416,7 @@
 
 					<div class="col-3 col-12-medium" style="position: relative;">
 						<div class="innermobileapp">
-							<img src="./images/mobileapplication/icon/3.png" />
+							<img src="./images/mobileapplication/icon/3.webp" />
 							<h3> Mobile App Development</h3>
 							<p> Expand your reach with mobile application tailored to
 								your business needs and to create seamless user
@@ -429,7 +429,7 @@
 
 					<div class="col-3 col-12-medium" style="position: relative;">
 						<div class="innermobileapp">
-							<img src="./images/mobileapplication/icon/2.png" />
+							<img src="./images/mobileapplication/icon/2.webp" />
 							<h3> E-commerce solutions</h3>
 							<p> Enhance your online presence with e-commerce
 								solutions that drives sales and implement secure
@@ -443,7 +443,7 @@
 
 					<div class="col-3 col-12-medium" style="position: relative;">
 						<div class="innermobileapp">
-							<img src="./images/mobileapplication/icon/1.png" />
+							<img src="./images/mobileapplication/icon/1.webp" />
 							<h3> UI/UX Design</h3>
 							<p> Elevate your brand with visually appealing user-friendly
 								interfaces and focus on creating intuitive navigation and

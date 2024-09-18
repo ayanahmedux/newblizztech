@@ -97,7 +97,7 @@
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
 						<img class="" style="width: 100%;"
-							src="./images/socialmedia/social-media marketing-sec-2.png" />
+							src="./images/socialmedia/social-media marketing-sec-2.webp" />
 					</div>
 
 				</div>
@@ -109,7 +109,7 @@
 				<div class="row">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/socialmedia/social-media-marketing-2.png" />
+							src="./images/socialmedia/social-media-marketing-2.webp" />
 					</div>
 					<div class="col-6 col-12-medium align-self-center"  data-aos="fade-left" data-aos-duration="1500">
 						<div class="logoabout-text social-media">
@@ -149,7 +149,7 @@
 					</div>
 					<div class="col-6 col-12-medium"  data-aos="fade-left" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/socialmedia/social-media-marketing-3.png" />
+							src="./images/socialmedia/social-media-marketing-3.webp" />
 					</div>
 
 				</div>
@@ -160,7 +160,7 @@
 				<div class="row">
 					<div class="col-6 col-12-medium"  data-aos="fade-right" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/socialmedia/social-media-marketing-4.png" />
+							src="./images/socialmedia/social-media-marketing-4.webp" />
 					</div>
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1500">
 						<div class="logoabout-text social-media">
@@ -202,7 +202,7 @@
 					</div>
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/socialmedia/social-media-marketing-5.png" />
+							src="./images/socialmedia/social-media-marketing-5.webp" />
 					</div>
 
 
@@ -214,7 +214,7 @@
 				<div class="row">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/socialmedia/social-media-marketing-6.png" />
+							src="./images/socialmedia/social-media-marketing-6.webp" />
 					</div>
 
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1500">
@@ -241,7 +241,7 @@
 				<div class="row">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/socialmedia/social-media-marketing-7.png" />
+							src="./images/socialmedia/social-media-marketing-7.webp" />
 					</div>
 
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1500">
@@ -281,7 +281,7 @@
 					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
 						<div class="choose-box">
 							<div class="choose-image">
-								<img src="./images/so-choose-1.png" alt="">
+								<img src="./images/so-choose-1.webp" alt="">
 							</div>
 							<div class="choose-card-text">
 								<h3>Dedicated Account <b> Managers</b></h3>
@@ -292,7 +292,7 @@
 					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
 						<div class="choose-box">
 							<div class="choose-image">
-								<img src="./images/so-choose-2.png" alt="">
+								<img src="./images/so-choose-2.webp" alt="">
 							</div>
 							<div class="choose-card-text">
 								<h3>Comprehensive Onboarding <b>Process</b></h3>
@@ -303,7 +303,7 @@
 					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
 						<div class="choose-box">
 							<div class="choose-image">
-								<img src="./images/so-choose-3.png" alt="">
+								<img src="./images/so-choose-3.webp" alt="">
 							</div>
 							<div class="choose-card-text">
 								<h3>Social Media Marketing <b>Strategy</b></h3>
@@ -316,7 +316,7 @@
 					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
 						<div class="choose-box" >
 							<div class="choose-image">
-								<img src="./images/so-choose-4.png" alt="">
+								<img src="./images/so-choose-4.webp" alt="">
 							</div>
 							<div class="choose-card-text">
 								<h3>Social Media Analysis <b>Reports</b></h3>
@@ -327,7 +327,7 @@
 					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
 						<div class="choose-box">
 							<div class="choose-image">
-								<img src="./images/so-choose-5.png" alt="">
+								<img src="./images/so-choose-5.webp" alt="">
 							</div>
 							<div class="choose-card-text">
 								<h3>Industry <b>Experts</b></h3>
@@ -338,7 +338,7 @@
 					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
 						<div class="choose-box">
 							<div class="choose-image">
-								<img src="./images/so-choose-6.png" alt="">
+								<img src="./images/so-choose-6.webp" alt="">
 							</div>
 							<div class="choose-card-text">
 								<h3>Diverse Marketing <b>Experience</b></h3>
@@ -365,8 +365,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon1.png">
-								<img class="img2" src="./images/websitedesigns/webicon11.png">
+								<img class="img1" src="./images/websitedesigns/webicon1.webp">
+								<img class="img2" src="./images/websitedesigns/webicon11.webp">
 							</div>
 							<h3>Social Media
 								Retargeting Campaign</h3>
@@ -379,8 +379,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon2.png">
-								<img class="img2" src="./images/websitedesigns/webicon22.png">
+								<img class="img1" src="./images/websitedesigns/webicon2.webp">
+								<img class="img2" src="./images/websitedesigns/webicon22.webp">
 							</div>
 							<h3>E Commerce Drop Shipping Campaign</h3>
 
@@ -392,8 +392,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon2.png">
-								<img class="img2" src="./images/websitedesigns/webicon22.png">
+								<img class="img1" src="./images/websitedesigns/webicon2.webp">
+								<img class="img2" src="./images/websitedesigns/webicon22.webp">
 							</div>
 							<h3>Influencer Marketing Campaign</h3>
 						</div>
@@ -404,8 +404,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon3.png">
-								<img class="img2" src="./images/websitedesigns/webicon33.png">
+								<img class="img1" src="./images/websitedesigns/webicon3.webp">
+								<img class="img2" src="./images/websitedesigns/webicon33.webp">
 							</div>
 							<h3>Organic Social
 								Strategy & Implementation</h3>
@@ -418,8 +418,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon4.png">
-								<img class="img2" src="./images/websitedesigns/webicon44.png">
+								<img class="img1" src="./images/websitedesigns/webicon4.webp">
+								<img class="img2" src="./images/websitedesigns/webicon44.webp">
 							</div>
 							<h3>Targeted
 								Instagram Campaigns</h3>
@@ -463,7 +463,7 @@
 						</div>
 
 						<div class="col-6 col-12-medium align-self-center">
-							<img class="website-cta" width="100%" src="./images/socialmedia/cta.png" />
+							<img class="website-cta" width="100%" src="./images/socialmedia/cta.webp" />
 						</div>
 
 					</div>
@@ -524,28 +524,28 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/socialmedia/portfolio/1.png">
+									<img src="./images/socialmedia/portfolio/1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/socialmedia/portfolio/2.png">
+									<img src="./images/socialmedia/portfolio/2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/socialmedia/portfolio/3.png">
+									<img src="./images/socialmedia/portfolio/3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/socialmedia/portfolio/4.png">
+									<img src="./images/socialmedia/portfolio/4.webp">
 								</div>
 								<div class="gallery-item" data-index="5">
-									<img src="./images/socialmedia/portfolio/5.png">
+									<img src="./images/socialmedia/portfolio/5.webp">
 								</div>
 								<div class="gallery-item" data-index="6">
-									<img src="./images/socialmedia/portfolio/6.png">
+									<img src="./images/socialmedia/portfolio/6.webp">
 								</div>
 								<div class="gallery-item" data-index="7">
-									<img src="./images/socialmedia/portfolio/2.png">
+									<img src="./images/socialmedia/portfolio/2.webp">
 								</div>
 								<div class="gallery-item" data-index="8">
-									<img src="./images/socialmedia/portfolio/3.png">
+									<img src="./images/socialmedia/portfolio/3.webp">
 								</div>
 							</div>
 						</div>
@@ -562,28 +562,28 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/socialmedia/portfolio/1.png">
+									<img src="./images/socialmedia/portfolio/1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/socialmedia/portfolio/2.png">
+									<img src="./images/socialmedia/portfolio/2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/socialmedia/portfolio/3.png">
+									<img src="./images/socialmedia/portfolio/3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/socialmedia/portfolio/4.png">
+									<img src="./images/socialmedia/portfolio/4.webp">
 								</div>
 								<div class="gallery-item" data-index="5">
-									<img src="./images/socialmedia/portfolio/5.png">
+									<img src="./images/socialmedia/portfolio/5.webp">
 								</div>
 								<div class="gallery-item" data-index="6">
-									<img src="./images/socialmedia/portfolio/6.png">
+									<img src="./images/socialmedia/portfolio/6.webp">
 								</div>
 								<div class="gallery-item" data-index="7">
-									<img src="./images/socialmedia/portfolio/2.png">
+									<img src="./images/socialmedia/portfolio/2.webp">
 								</div>
 								<div class="gallery-item" data-index="8">
-									<img src="./images/socialmedia/portfolio/3.png">
+									<img src="./images/socialmedia/portfolio/3.webp">
 								</div>
 							</div>
 						</div>
@@ -600,28 +600,28 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/socialmedia/portfolio/1.png">
+									<img src="./images/socialmedia/portfolio/1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/socialmedia/portfolio/2.png">
+									<img src="./images/socialmedia/portfolio/2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/socialmedia/portfolio/3.png">
+									<img src="./images/socialmedia/portfolio/3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/socialmedia/portfolio/4.png">
+									<img src="./images/socialmedia/portfolio/4.webp">
 								</div>
 								<div class="gallery-item" data-index="5">
-									<img src="./images/socialmedia/portfolio/5.png">
+									<img src="./images/socialmedia/portfolio/5.webp">
 								</div>
 								<div class="gallery-item" data-index="6">
-									<img src="./images/socialmedia/portfolio/6.png">
+									<img src="./images/socialmedia/portfolio/6.webp">
 								</div>
 								<div class="gallery-item" data-index="7">
-									<img src="./images/socialmedia/portfolio/2.png">
+									<img src="./images/socialmedia/portfolio/2.webp">
 								</div>
 								<div class="gallery-item" data-index="8">
-									<img src="./images/socialmedia/portfolio/3.png">
+									<img src="./images/socialmedia/portfolio/3.webp">
 								</div>
 							</div>
 						</div>
@@ -638,28 +638,28 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/socialmedia/portfolio/1.png">
+									<img src="./images/socialmedia/portfolio/1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/socialmedia/portfolio/2.png">
+									<img src="./images/socialmedia/portfolio/2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/socialmedia/portfolio/3.png">
+									<img src="./images/socialmedia/portfolio/3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/socialmedia/portfolio/4.png">
+									<img src="./images/socialmedia/portfolio/4.webp">
 								</div>
 								<div class="gallery-item" data-index="5">
-									<img src="./images/socialmedia/portfolio/5.png">
+									<img src="./images/socialmedia/portfolio/5.webp">
 								</div>
 								<div class="gallery-item" data-index="6">
-									<img src="./images/socialmedia/portfolio/6.png">
+									<img src="./images/socialmedia/portfolio/6.webp">
 								</div>
 								<div class="gallery-item" data-index="7">
-									<img src="./images/socialmedia/portfolio/2.png">
+									<img src="./images/socialmedia/portfolio/2.webp">
 								</div>
 								<div class="gallery-item" data-index="8">
-									<img src="./images/socialmedia/portfolio/3.png">
+									<img src="./images/socialmedia/portfolio/3.webp">
 								</div>
 							</div>
 						</div>
@@ -676,28 +676,28 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/socialmedia/portfolio/1.png">
+									<img src="./images/socialmedia/portfolio/1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/socialmedia/portfolio/2.png">
+									<img src="./images/socialmedia/portfolio/2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/socialmedia/portfolio/3.png">
+									<img src="./images/socialmedia/portfolio/3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/socialmedia/portfolio/4.png">
+									<img src="./images/socialmedia/portfolio/4.webp">
 								</div>
 								<div class="gallery-item" data-index="5">
-									<img src="./images/socialmedia/portfolio/5.png">
+									<img src="./images/socialmedia/portfolio/5.webp">
 								</div>
 								<div class="gallery-item" data-index="6">
-									<img src="./images/socialmedia/portfolio/6.png">
+									<img src="./images/socialmedia/portfolio/6.webp">
 								</div>
 								<div class="gallery-item" data-index="7">
-									<img src="./images/socialmedia/portfolio/2.png">
+									<img src="./images/socialmedia/portfolio/2.webp">
 								</div>
 								<div class="gallery-item" data-index="8">
-									<img src="./images/socialmedia/portfolio/3.png">
+									<img src="./images/socialmedia/portfolio/3.webp">
 								</div>
 							</div>
 						</div>

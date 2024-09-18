@@ -17,29 +17,29 @@
 							<div class="slider slider-nav">
 								
 								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial2.png" /></span></h3>
+									<h3><span><img src="./images/testimonialimages/newtestimonial2.webp" /></span></h3>
 								</div>
 								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial3.png" /></span></h3>
+									<h3><span><img src="./images/testimonialimages/newtestimonial3.webp" /></span></h3>
 								</div>
 								<div>
-									<h3><span><img src="./images/testimonialimages/newtestimonial.png" /></span></h3>
+									<h3><span><img src="./images/testimonialimages/newtestimonial.webp" /></span></h3>
 								</div>
 								<div>
-									<h3><span><img src="./images/testimonialimages/test1.png" /></span></h3>
+									<h3><span><img src="./images/testimonialimages/test1.webp" /></span></h3>
 								</div>
 								<div>
-									<h3><span><img src="./images/testimonialimages/test3.png" /></span></h3>
+									<h3><span><img src="./images/testimonialimages/test3.webp" /></span></h3>
 								</div>
 								<div>
-									<h3><span><img src="./images/testimonialimages/test2.png" /></span></h3>
+									<h3><span><img src="./images/testimonialimages/test2.webp" /></span></h3>
 								</div>
 								<div>
-									<h3><span><img src="./images/testimonialimages/test9.png" /></span></h3>
+									<h3><span><img src="./images/testimonialimages/test9.webp" /></span></h3>
 								</div>
 							</div>
 							<div class="testimonial-quote">
-								<img src="./images/testimonialimages/quote.png" />
+								<img src="./images/testimonialimages/quote.webp" />
 							</div>
 							<div class="slider slider-single">
 								<div class="testimonial-text">
@@ -49,7 +49,12 @@
 										significantly improved user engagement. The team’s attention to <br> detail and
 										innovative approach made all the difference.</p>
 										<div class="fivestar-image">
-											<img src="images/testimonialimages/star5.png" alt="">
+											<img src="images/testimonialimages/star5.webp" alt="">
+										</div>
+										<div class="trustpilot">
+											<div class="image-trustpilot">
+												<a href="https://www.trustpilot.com/review/blizztechsolutions.com" target="_blank"><img src="./images/trustpilot.webp" alt=""></a>
+											</div>
 										</div>
 								</div>
 
@@ -60,7 +65,12 @@
 										in eye-catching, engaging <br> visuals that have become a key part of our marketing
 										strategy.</p>
 										<div class="fivestar-image">
-											<img src="images/testimonialimages/star5.png" alt="">
+											<img src="images/testimonialimages/star5.webp" alt="">
+										</div>
+										<div class="trustpilot">
+											<div class="image-trustpilot">
+												<a href="https://www.trustpilot.com/review/blizztechsolutions.com" target="_blank"><img src="./images/trustpilot.webp" alt=""></a>
+											</div>
 										</div>
 								</div>
 
@@ -70,7 +80,12 @@
 										dramatic increase in <br>engagement and brand awareness across all our channels.
 										The tailored approach and <br>strategic insights were game-changers.</p>
 										<div class="fivestar-image">
-											<img src="images/testimonialimages/star5.png" alt="">
+											<img src="images/testimonialimages/star5.webp" alt="">
+										</div>
+										<div class="trustpilot">
+											<div class="image-trustpilot">
+												<a href="https://www.trustpilot.com/review/blizztechsolutions.com" target="_blank"><img src="./images/trustpilot.webp" alt=""></a>
+											</div>
 										</div>
 								</div>
 
@@ -80,7 +95,12 @@
 										compelling brand narrative <br> made us stand out in a competitive market, with
 										overwhelmingly positive feedback from clients.</p>
 										<div class="fivestar-image">
-											<img src="images/testimonialimages/star5.png" alt="">
+											<img src="images/testimonialimages/star5.webp" alt="">
+										</div>
+										<div class="trustpilot">
+											<div class="image-trustpilot">
+												<a href="https://www.trustpilot.com/review/blizztechsolutions.com" target="_blank"><img src="./images/trustpilot.webp" alt=""></a>
+											</div>
 										</div>
 								</div>
 
@@ -90,7 +110,12 @@
 										and maximizing ROI <br> led to better visibility and conversions, proving highly
 										effective.</p>
 										<div class="fivestar-image">
-											<img src="images/testimonialimages/star5.png" alt="">
+											<img src="images/testimonialimages/star5.webp" alt="">
+										</div>
+										<div class="trustpilot">
+											<div class="image-trustpilot">
+												<a href="https://www.trustpilot.com/review/blizztechsolutions.com" target="_blank"><img src="./images/trustpilot.webp" alt=""></a>
+											</div>
 										</div>
 								</div>
 
@@ -100,7 +125,12 @@
 										Compelling <br>and relevant content contributed to a stronger connection with our
 										audience.</p>
 										<div class="fivestar-image">
-											<img src="images/testimonialimages/star5.png" alt="">
+											<img src="images/testimonialimages/star5.webp" alt="">
+										</div>
+										<div class="trustpilot">
+											<div class="image-trustpilot">
+												<a href="https://www.trustpilot.com/review/blizztechsolutions.com" target="_blank"><img src="./images/trustpilot.webp" alt=""></a>
+											</div>
 										</div>
 								</div>
 
@@ -111,7 +141,12 @@
 										significant boost in search engine rankings <br>and organic traffic, leading to
 										enhanced visibility and growth.</p>
 										<div class="fivestar-image">
-											<img src="images/testimonialimages/star5.png" alt="">
+											<img src="images/testimonialimages/star5.webp" alt="">
+										</div>
+										<div class="trustpilot">
+											<div class="image-trustpilot">
+												<a href="https://www.trustpilot.com/review/blizztechsolutions.com" target="_blank"><img src="./images/trustpilot.webp" alt=""></a>
+											</div>
 										</div>
 								</div>
 							</div>

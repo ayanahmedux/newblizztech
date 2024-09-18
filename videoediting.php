@@ -59,87 +59,87 @@
                               <div class="carousel slick-initialized slick-slider slick-dotted"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="display: inline-block;">Previous</button>
                                 <div class="slick-list draggable" style="padding: 0px 50px;"><div class="slick-track" style="opacity: 1; width: 4200px; transform: translate3d(-1400px, 0px, 0px); transition: transform 500ms ease 0s;"><div class="slick-slide slick-cloned" data-slick-index="-7" aria-hidden="true" style="width: 180px;" tabindex="-1">
                                   <div class="card">
-                                    <img src="./images/clogo1.png">
+                                    <img src="./images/clogo1.webp">
                                   </div>
                                 </div><div class="slick-slide slick-cloned" data-slick-index="-6" aria-hidden="true" style="width: 180px;" tabindex="-1">
                                     <div class="card">
-                                        <img src="./images/clogo6.png">
+                                        <img src="./images/clogo6.webp">
                                     </div>
                                 </div><div class="slick-slide slick-cloned" data-slick-index="-5" aria-hidden="true" style="width: 180px;" tabindex="-1">
                                     <div class="card">
-                                        <img src="./images/clogo5.png">
+                                        <img src="./images/clogo5.webp">
                                     </div> 
                                 </div><div class="slick-slide slick-cloned" data-slick-index="-4" aria-hidden="true" style="width: 180px;" tabindex="-1">
                                     <div class="card new">
-                                        <img src="./images/clogo4.png">
+                                        <img src="./images/clogo4.webp">
                                     </div> 
                                 </div><div class="slick-slide slick-cloned" data-slick-index="-3" aria-hidden="true" style="width: 180px;" tabindex="-1">
                                     <div class="card">
-                                        <img src="./images/clogo3.png">
+                                        <img src="./images/clogo3.webp">
                                     </div>
                                 </div><div class="slick-slide slick-cloned" data-slick-index="-2" aria-hidden="true" style="width: 180px;" tabindex="-1">
                                     <div class="card">
-                                        <img src="./images/clogo2.png">
+                                        <img src="./images/clogo2.webp">
                                     </div>
                                 </div><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" style="width: 180px;" tabindex="-1">
                                     <div class="card new">
-                                        <img src="./images/clogo4.png">
+                                        <img src="./images/clogo4.webp">
                                     </div> 
                                 </div><div class="slick-slide" data-slick-index="0" aria-hidden="true" style="width: 180px;" tabindex="-1" role="tabpanel" id="slick-slide00" aria-describedby="slick-slide-control00">
                                   <div class="card">
-                                    <img src="./images/clogo1.png">
+                                    <img src="./images/clogo1.webp">
                                   </div>
                                 </div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 180px;" tabindex="-1" role="tabpanel" id="slick-slide01" aria-describedby="slick-slide-control01">
                                     <div class="card">
-                                        <img src="./images/clogo6.png">
+                                        <img src="./images/clogo6.webp">
                                     </div>
                                 </div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 180px;" tabindex="0" role="tabpanel" id="slick-slide02" aria-describedby="slick-slide-control02">
                                     <div class="card">
-                                        <img src="./images/clogo5.png">
+                                        <img src="./images/clogo5.webp">
                                     </div> 
                                 </div><div class="slick-slide slick-current slick-active slick-center" data-slick-index="3" aria-hidden="false" style="width: 180px;" tabindex="0" role="tabpanel" id="slick-slide03" aria-describedby="slick-slide-control03">
                                     <div class="card new">
-                                        <img src="./images/clogo4.png">
+                                        <img src="./images/clogo4.webp">
                                     </div> 
                                 </div><div class="slick-slide slick-active" data-slick-index="4" aria-hidden="false" style="width: 180px;" tabindex="0" role="tabpanel" id="slick-slide04" aria-describedby="slick-slide-control04">
                                     <div class="card">
-                                        <img src="./images/clogo3.png">
+                                        <img src="./images/clogo3.webp">
                                     </div>
                                 </div><div class="slick-slide slick-active" data-slick-index="5" aria-hidden="false" style="width: 180px;" tabindex="0" role="tabpanel" id="slick-slide05" aria-describedby="slick-slide-control05">
                                     <div class="card">
-                                        <img src="./images/clogo2.png">
+                                        <img src="./images/clogo2.webp">
                                     </div>
                                 </div><div class="slick-slide slick-active" data-slick-index="6" aria-hidden="false" style="width: 180px;" tabindex="0" role="tabpanel" id="slick-slide06" aria-describedby="slick-slide-control06">
                                     <div class="card new">
-                                        <img src="./images/clogo4.png">
+                                        <img src="./images/clogo4.webp">
                                     </div> 
                                 </div><div class="slick-slide slick-cloned" data-slick-index="7" aria-hidden="true" style="width: 180px;" tabindex="-1">
                                   <div class="card">
-                                    <img src="./images/clogo1.png">
+                                    <img src="./images/clogo1.webp">
                                   </div>
                                 </div><div class="slick-slide slick-cloned" data-slick-index="8" aria-hidden="true" style="width: 180px;" tabindex="-1">
                                     <div class="card">
-                                        <img src="./images/clogo6.png">
+                                        <img src="./images/clogo6.webp">
                                     </div>
                                 </div><div class="slick-slide slick-cloned" data-slick-index="9" aria-hidden="true" style="width: 180px;" tabindex="-1">
                                     <div class="card">
-                                        <img src="./images/clogo5.png">
+                                        <img src="./images/clogo5.webp">
                                     </div> 
                                 </div><div class="slick-slide slick-cloned" data-slick-index="10" aria-hidden="true" style="width: 180px;" tabindex="-1">
                                     <div class="card new">
-                                        <img src="./images/clogo4.png">
+                                        <img src="./images/clogo4.webp">
                                     </div> 
                                 </div><div class="slick-slide slick-cloned" data-slick-index="11" aria-hidden="true" style="width: 180px;" tabindex="-1">
                                     <div class="card">
-                                        <img src="./images/clogo3.png">
+                                        <img src="./images/clogo3.webp">
                                     </div>
                                 </div><div class="slick-slide slick-cloned" data-slick-index="12" aria-hidden="true" style="width: 180px;" tabindex="-1">
                                     <div class="card">
-                                        <img src="./images/clogo2.png">
+                                        <img src="./images/clogo2.webp">
                                     </div>
                                 </div><div class="slick-slide slick-cloned" data-slick-index="13" aria-hidden="true" style="width: 180px;" tabindex="-1">
                                     <div class="card new">
-                                        <img src="./images/clogo4.png">
+                                        <img src="./images/clogo4.webp">
                                     </div> 
                                 </div></div></div>    
                                 
@@ -175,7 +175,7 @@
 							</div>
 
 							<div class="col-6 col-12-medium">
-								<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/videoediting/aboutvideo.png"/>
+								<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/videoediting/aboutvideo.webp"/>
 							</div>
 						</div>
 					</div>
@@ -185,7 +185,7 @@
 				
                 <!-- ANIMATION CALL TO ACTION START -->
 				<section id="readysolve-video" style="text-align: center;">
-                    <div class="container" style="background-image: url(./images/videoediting/calltoaction.png); 
+                    <div class="container" style="background-image: url(./images/videoediting/calltoaction.webp); 
                     background-repeat: no-repeat; background-size: 100% 100%;">
                     <div class="heading-text">
                         <h1>Ready to <b>Solve</b> Your <b>Video Editing</b> Problems?</h1>
@@ -225,7 +225,7 @@
                                             edits. Sign up and get your videos edited by expert editors 
                                             who always strive to make you look amazing.</p>
                                             <div class="featureimage">
-                                                <img src="./images/videoediting/fr1.png" width="auto">
+                                                <img src="./images/videoediting/fr1.webp" width="auto">
                                             </div>
                                             <div class="custom-portoflio-button" style="padding-top: 40px;">
                                                 <ul>
@@ -246,7 +246,7 @@
                                             will use to totally exceed your expectations in your edits. 
                                             Simply ask your editor to include whatever and they will do that.</p>
                                             <div class="featureimage">
-                                                <img src="./images/videoediting/fr2.png" width="auto">
+                                                <img src="./images/videoediting/fr2.webp" width="auto">
                                             </div>
                                            
                                 </div>
@@ -263,7 +263,7 @@
                                             other parts of your business. We won’t stop working until you’re overly satisfied 
                                             and that’s built into our culture.</p>
                                             <div class="featureimage" style="text-align: right;">
-                                                <img src="./images/videoediting/fr3.png" width="auto">
+                                                <img src="./images/videoediting/fr3.webp" width="auto">
                                             </div>
                                            
                                 </div>
@@ -278,7 +278,7 @@
                                              for revisions as well. Revisions only take 1 day! For complex videos it 
                                              can take a few additional hours.</p>
                                             <div class="featureimage" style="text-align: right;">
-                                                <img src="./images/videoediting/fr4.png" width="auto">
+                                                <img src="./images/videoediting/fr4.webp" width="auto">
                                             </div>
                                          
                                 </div>
@@ -333,18 +333,18 @@
                                     <div class="row video-previews">
                                         <div class="col-6 col-12-medium">
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview1.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview1.webp" width="auto"/>
                                             </div>
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview3.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview3.webp" width="auto"/>
                                             </div>
                                         </div>
                                         <div class="col-6 col-12-medium">
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview2.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview2.webp" width="auto"/>
                                             </div>
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview4.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview4.webp" width="auto"/>
                                             </div>
                                         </div>
                                     </div>
@@ -362,18 +362,18 @@
                                     <div class="row video-previews">
                                         <div class="col-6 col-12-medium">
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview1.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview1.webp" width="auto"/>
                                             </div>
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview3.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview3.webp" width="auto"/>
                                             </div>
                                         </div>
                                         <div class="col-6 col-12-medium">
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview2.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview2.webp" width="auto"/>
                                             </div>
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview4.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview4.webp" width="auto"/>
                                             </div>
                                         </div>
                                     </div>
@@ -388,18 +388,18 @@
                                     <div class="row video-previews">
                                         <div class="col-6 col-12-medium">
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview1.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview1.webp" width="auto"/>
                                             </div>
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview3.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview3.webp" width="auto"/>
                                             </div>
                                         </div>
                                         <div class="col-6 col-12-medium">
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview2.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview2.webp" width="auto"/>
                                             </div>
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview4.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview4.webp" width="auto"/>
                                             </div>
                                         </div>
                                     </div>
@@ -414,18 +414,18 @@
                                     <div class="row video-previews">
                                         <div class="col-6 col-12-medium">
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview1.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview1.webp" width="auto"/>
                                             </div>
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview3.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview3.webp" width="auto"/>
                                             </div>
                                         </div>
                                         <div class="col-6 col-12-medium">
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview2.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview2.webp" width="auto"/>
                                             </div>
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview4.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview4.webp" width="auto"/>
                                             </div>
                                         </div>
                                     </div>
@@ -441,18 +441,18 @@
                                     <div class="row video-previews">
                                         <div class="col-6 col-12-medium">
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview1.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview1.webp" width="auto"/>
                                             </div>
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview3.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview3.webp" width="auto"/>
                                             </div>
                                         </div>
                                         <div class="col-6 col-12-medium">
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview2.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview2.webp" width="auto"/>
                                             </div>
                                             <div class="video">
-                                                <img src="./images/videoediting/videopreview4.png" width="auto"/>
+                                                <img src="./images/videoediting/videopreview4.webp" width="auto"/>
                                             </div>
                                         </div>
                                     </div>
@@ -490,7 +490,7 @@
 					<div class="container videoeditingforall">
 						<div class="row">
                             <div class="col-6 col-12-medium">
-								<img width="100%" src="./images/videoediting/vid1.png"/>
+								<img width="100%" src="./images/videoediting/vid1.webp"/>
 							</div>
 							<div class="col-6 col-12-medium align-self-center">
 								<div class="processinner-text">
@@ -524,13 +524,13 @@
 								</div>
 							</div>
 							<div class="col-6 col-12-medium">
-								<img width="100%" src="./images/videoediting/vid2.png"/>
+								<img width="100%" src="./images/videoediting/vid2.webp"/>
 							</div>
 						</div>
 					
                         <div class="row">
                             <div class="col-6 col-12-medium">
-								<img width="100%" src="./images/videoediting/vid3.png"/>
+								<img width="100%" src="./images/videoediting/vid3.webp"/>
 							</div>
 							<div class="col-6 col-12-medium align-self-center">
 								<div class="processinner-text">
@@ -552,7 +552,7 @@
                            <div class="heading-text" style="text-align: center; color: #fff;">
                             <h1><b>Video Editing</b> For All</h1>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                            <img src="./images/videoediting/videobanner.png" width="100%" />
+                            <img src="./images/videoediting/videobanner.webp" width="100%" />
                            </div>
 							
 						</div>

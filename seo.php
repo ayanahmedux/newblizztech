@@ -74,7 +74,7 @@
 			<div class="container">
 				<div class="row">
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
 						<div class="logoabout-text seotext">
 							<h1 style="font-size: 90px;"> Professional <b>Seo Services</b></h1>
 							<p> At Blizztech Solutions, we employ a comprehensive SEO approach to
@@ -89,9 +89,9 @@
 						</div>
 					</div>
 
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/seo/about.png" />
+							src="./images/seo/about.webp" />
 					</div>
 				</div>
 				<hr style="border-color: #69d79a !important;
@@ -107,7 +107,7 @@
 					<div class="col-lg-3">
 						<div class="our-holistic-card">
 							<div class="image-holistic">
-								<img src="./images/ecom-1.png" alt="">
+								<img src="./images/ecom-1.webp" alt="">
 							</div>
 							<div class="holistic-content">
 								<h3>E-commerce <b>SEO</b></h3>
@@ -119,7 +119,7 @@
 					<div class="col-lg-3">
 						<div class="our-holistic-card">
 							<div class="image-holistic">
-								<img src="./images/ecom-2.png" alt="">
+								<img src="./images/ecom-2.webp" alt="">
 							</div>
 							<div class="holistic-content">
 								<h3><b>SEO</b> Audit</h3>
@@ -131,7 +131,7 @@
 					<div class="col-lg-3">
 						<div class="our-holistic-card">
 							<div class="image-holistic">
-								<img src="./images/ecom-3.png" alt="">
+								<img src="./images/ecom-3.webp" alt="">
 							</div>
 							<div class="holistic-content">
 								<h3>E-commerce <b>SEO</b></h3>
@@ -143,7 +143,7 @@
 					<div class="col-lg-3">
 						<div class="our-holistic-card">
 							<div class="image-holistic">
-								<img src="./images/ecom-4.png" alt="">
+								<img src="./images/ecom-4.webp" alt="">
 							</div>
 							<div class="holistic-content">
 								<h3>Local <b>SEO</b></h3>
@@ -158,8 +158,8 @@
 		</section> -->
 		<section id="intro-section-seo">
 			<div class="container">
-				<div class="row">
-					<div class="row-text holistic-text">
+				<div class="row" style="margin: auto;">
+					<div class="row-text holistic-text" data-aos="fade-right" data-aos-duration="1500">
 						<h2 style="padding-bottom: 20px;">Our Holistic <b>Search Engine Optimization</b> Services
 						</h2>
 						<p>We are one of the best online SEO agency and offer the best SEO services for online
@@ -174,11 +174,11 @@
 			</div>
 			<div class="containerr">
 				<div class="row" style="margin: auto;">
-					<div class="col-3 col-12-medium">
+					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1500">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/abstract.png">
-								<img class="img2" src="./images/Logodesign/abstract1.png">
+								<img class="img1" src="./images/Logodesign/abstract.webp">
+								<img class="img2" src="./images/Logodesign/abstract1.webp">
 							</div>
 							<h3 class="animated fadeIn">E-commerce SEO</h3>
 							<p>The products that rank higher on the SERPs are the same as your business products, but
@@ -190,11 +190,11 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col-3 col-12-medium">
+					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1500">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/emblem.png">
-								<img class="img2" src="./images/Logodesign/emblem1.png">
+								<img class="img1" src="./images/Logodesign/emblem.webp">
+								<img class="img2" src="./images/Logodesign/emblem1.webp">
 							</div>
 							<h3 class="animated fadeIn">SEO Audit</h3>
 							<p>SEO Audit is the first step to devise an effective SEO strategy. Identifying the problem
@@ -209,11 +209,11 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col-3 col-12-medium">
+					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1500">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/letter.png">
-								<img class="img2" src="./images/Logodesign/letter1.png">
+								<img class="img1" src="./images/Logodesign/letter.webp">
+								<img class="img2" src="./images/Logodesign/letter1.webp">
 							</div>
 							<h3 class="animated fadeIn">Local SEO</h3>
 							<p>Can you believe that 86% of people use Google Maps as a tool to find local businesses
@@ -227,11 +227,11 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col-3 col-12-medium">
+					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1500">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/mascot.png">
-								<img class="img2" src="./images/Logodesign/mascot1.png">
+								<img class="img1" src="./images/Logodesign/mascot.webp">
+								<img class="img2" src="./images/Logodesign/mascot1.webp">
 							</div>
 							<h3 class="animated fadeIn">Off-page Link Building</h3>
 							<p>To gauge your website performance, quality links play a significant role in enhancing
@@ -259,11 +259,11 @@
 						optimization trends. Here’s our general search engine optimization process for
 						booking the leading spot for your website!</p>
 				</div>
-				<div class="row">
-					<div class="col-lg-4">
+				<div class="row" style="margin: auto;">
+					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1500">
 						<div class="choose-box">
 							<div class="choose-image">
-								<img src="./images/optimize-img-1.png" alt="">
+								<img src="./images/optimize-img-1.webp" alt="">
 							</div>
 							<div class="choose-card-text">
 								<h3> <b>Connect</b></h3>
@@ -275,10 +275,10 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1500">
 						<div class="choose-box">
 							<div class="choose-image">
-								<img src="./images/optimize-img-2.png" alt="">
+								<img src="./images/optimize-img-2.webp" alt="">
 							</div>
 							<div class="choose-card-text">
 								<h3> Keyword <b>Research</b></h3>
@@ -288,10 +288,10 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1500">
 						<div class="choose-box">
 							<div class="choose-image">
-								<img src="./images/optimize-img-3.png" alt="">
+								<img src="./images/optimize-img-3.webp" alt="">
 							</div>
 							<div class="choose-card-text">
 								<h3> Strategy <b>Development</b></h3>
@@ -302,10 +302,10 @@
 					</div>
 				</div>
 				<div class="row choose-row">
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1500">
 						<div class="choose-box">
 							<div class="choose-image">
-								<img src="./images/optimize-img-4.png" alt="">
+								<img src="./images/optimize-img-4.webp" alt="">
 							</div>
 							<div class="choose-card-text">
 								<h3>Strategy <b>Execution</b></h3>
@@ -315,10 +315,10 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1500">
 						<div class="choose-box">
 							<div class="choose-image">
-								<img src="./images/optimize-img-5.png" alt="">
+								<img src="./images/optimize-img-5.webp" alt="">
 							</div>
 							<div class="choose-card-text">
 								<h3><b>Analysis</b></h3>
@@ -329,10 +329,10 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1500">
 						<div class="choose-box">
 							<div class="choose-image">
-								<img src="./images/optimize-img-6.png" alt="">
+								<img src="./images/optimize-img-6.webp" alt="">
 							</div>
 							<div class="choose-card-text">
 								<h3><b>Optimization</b></h3>
@@ -365,10 +365,10 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/abstract.png">
+								<img class="img1" src="./images/Logodesign/abstract.webp">
 							</div>
 							<h3 class="animated fadeIn">Continuous Optimization & Improvement</h3>
-							<p>SEO is an ongoing process that requires continuous optimization and improvement. blizztechsolutions Creative Designs can help you stay ahead of the competition by continuously monitoring and optimizing your website's performance. This includes tracking keyword rankings, analyzing website traffic, and making necessary adjustments to improve your website's performance.
+							<p>SEO is an ongoing process that requires continuous optimization and improvement. blizztechsolutions  can help you stay ahead of the competition by continuously monitoring and optimizing your website's performance. This includes tracking keyword rankings, analyzing website traffic, and making necessary adjustments to improve your website's performance.
 
 							</p>
 						</div>
@@ -380,11 +380,11 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/letter.png">
+								<img class="img1" src="./images/Logodesign/letter.webp">
 
 							</div>
 							<h3 class="animated fadeIn"> Increased Organic Traffic</h3>
-							<p>With blizztechsolutions Creative Designs, your website will be able to attract new visitors and potential customers. By investing in our SEO services, you can increase your website's visibility on search engines, leading to more organic traffic. With the right SEO strategies in place, you can attract high-quality traffic that is more likely to convert, resulting in a positive impact on your bottom line.
+							<p>With blizztechsolutions , your website will be able to attract new visitors and potential customers. By investing in our SEO services, you can increase your website's visibility on search engines, leading to more organic traffic. With the right SEO strategies in place, you can attract high-quality traffic that is more likely to convert, resulting in a positive impact on your bottom line.
 
 							</p>
 						</div>
@@ -396,11 +396,11 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/mascot.png">
+								<img class="img1" src="./images/Logodesign/mascot.webp">
 
 							</div>
 							<h3 class="animated fadeIn">Higher ROI</h3>
-							<p>Our SEO strategy has been proven to provide a higher return on investment (ROI) compared to other marketing agencies in the industry. blizztechsolutions Creative Designs offers a long-term and sustainable SEO strategy that can provide ongoing benefits to your business. With the right SEO services, you can target specific audiences and demographics, resulting in higher conversion rates and increased revenue.
+							<p>Our SEO strategy has been proven to provide a higher return on investment (ROI) compared to other marketing agencies in the industry. blizztechsolutions  offers a long-term and sustainable SEO strategy that can provide ongoing benefits to your business. With the right SEO services, you can target specific audiences and demographics, resulting in higher conversion rates and increased revenue.
 
 							</p>
 						</div>
@@ -411,11 +411,11 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/emblem.png">
+								<img class="img1" src="./images/Logodesign/emblem.webp">
 
 							</div>
 							<h3 class="animated fadeIn">Improved Ranking</h3>
-							<p>SEO experts at blizztechsolutions Creative Designs have extensive experience improving a website's ranking on search engines. You can increase your visibility and attract more potential customers with top-notch SEO strategies from the experts. Our SEO services can help improve your ranking by optimizing your website's content, structure, and technical elements. This includes keyword research, on-page optimization, link building, and more.
+							<p>SEO experts at blizztechsolutions  have extensive experience improving a website's ranking on search engines. You can increase your visibility and attract more potential customers with top-notch SEO strategies from the experts. Our SEO services can help improve your ranking by optimizing your website's content, structure, and technical elements. This includes keyword research, on-page optimization, link building, and more.
 
 							</p>
 						</div>
@@ -438,27 +438,27 @@
 			<div class="slider">
 				<div class="slide">
 					<figure>
-						<img width="100%" src="./images/seo/slide1.png" alt="" />
+						<img width="100%" src="./images/seo/slide1.webp" alt="" />
 					</figure>
 
 				</div>
 				<div class="slide">
 					<figure>
-						<img width="100%" src="./images/seo/slide1.png" alt="" />
-					</figure>
-
-
-				</div>
-				<div class="slide">
-					<figure>
-						<img width="100%" src="./images/seo/slide1.png" alt="" />
+						<img width="100%" src="./images/seo/slide1.webp" alt="" />
 					</figure>
 
 
 				</div>
 				<div class="slide">
 					<figure>
-						<img width="100%" src="./images/seo/slide1.png" alt="" />
+						<img width="100%" src="./images/seo/slide1.webp" alt="" />
+					</figure>
+
+
+				</div>
+				<div class="slide">
+					<figure>
+						<img width="100%" src="./images/seo/slide1.webp" alt="" />
 					</figure>
 
 				</div>
@@ -765,19 +765,19 @@
 								specimen book</p>
 							<div class="choose-seo-orderlist">
 								<ul>
-									<li><img src="./images/animation/tick.png" />How to get good audience?</li>
-									<li><img src="./images/animation/tick.png" />How to feel connected to the consumers
+									<li><img src="./images/animation/tick.webp" />How to get good audience?</li>
+									<li><img src="./images/animation/tick.webp" />How to feel connected to the consumers
 										through our branding?</li>
-									<li><img src="./images/animation/tick.png" />How to feel connected to the consumers
+									<li><img src="./images/animation/tick.webp" />How to feel connected to the consumers
 										through our branding?</li>
-									<li><img src="./images/animation/tick.png" />How to feel connected to the consumers
+									<li><img src="./images/animation/tick.webp" />How to feel connected to the consumers
 										through our branding?</li>
 								</ul>
 							</div>
 						</div>
 					</div>
 					<div class="col-6 col-12-medium">
-						<img width="100%" src="./images/seo/choose2.png">
+						<img width="100%" src="./images/seo/choose2.webp">
 					</div>
 
 				</div>
@@ -785,7 +785,7 @@
 				<!-- SECOND ROW -->
 		<!-- <div class="row" style="padding-top: 50px; margin: auto;">
 					<div class="col-6 col-12-medium">
-						<img width="100%" src="./images/seo/choose1.png">
+						<img width="100%" src="./images/seo/choose1.webp">
 					</div>
 					<div class="col-6 col-12-medium align-self-center">
 						<div class="processinner-text">
@@ -800,12 +800,12 @@
 								specimen book</p>
 							<div class="choose-seo-orderlist">
 								<ul>
-									<li><img src="./images/animation/tick.png" />How to get good audience?</li>
-									<li><img src="./images/animation/tick.png" />How to feel connected to the consumers
+									<li><img src="./images/animation/tick.webp" />How to get good audience?</li>
+									<li><img src="./images/animation/tick.webp" />How to feel connected to the consumers
 										through our branding?</li>
-									<li><img src="./images/animation/tick.png" />How to feel connected to the consumers
+									<li><img src="./images/animation/tick.webp" />How to feel connected to the consumers
 										through our branding?</li>
-									<li><img src="./images/animation/tick.png" />How to feel connected to the consumers
+									<li><img src="./images/animation/tick.webp" />How to feel connected to the consumers
 										through our branding?</li>
 								</ul>
 							</div>
@@ -831,7 +831,7 @@
 											data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsethirtyone" aria-expanded="false"
 											aria-controls="collapsethirtyone">
-											How Should I Start Brief? <img src="./images/faqdownarrow.png">
+											How Should I Start Brief? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsethirtyone" class="accordion-collapse collapse"
@@ -851,7 +851,7 @@
 											data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsethirtytwo" aria-expanded="false"
 											aria-controls="collapsethirtytwo">
-											How Much Does It Cost ? <img src="./images/faqdownarrow.png">
+											How Much Does It Cost ? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsethirtytwo" class="accordion-collapse collapse"
@@ -873,7 +873,7 @@
 											data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsethirtythree" aria-expanded="false"
 											aria-controls="collapsethirtythree">
-											How Much Time Does It Need? <img src="./images/faqdownarrow.png">
+											How Much Time Does It Need? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsethirtythree" class="accordion-collapse collapse"
@@ -893,14 +893,14 @@
 						</div>
 					</div>
 					<div class="col-6 col-12-medium">
-						<img width="100%" src="./images/seo/choose3.png">
+						<img width="100%" src="./images/seo/choose3.webp">
 					</div>
 				</div> -->
 		<!-- THIRD ROW END -->
 		<!-- FOUR ROW START -->
 		<!-- <div class="row" style="padding-top: 50px; margin: auto;">
 					<div class="col-6 col-12-medium">
-						<img width="100%" src="./images/seo/choose4.png">
+						<img width="100%" src="./images/seo/choose4.webp">
 					</div>
 
 					<div class="col-6 col-12-medium">
@@ -918,7 +918,7 @@
 											data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsethirtyfour" aria-expanded="false"
 											aria-controls="collapsethirtyfour">
-											How Should I Start Brief? <img src="./images/faqdownarrow.png">
+											How Should I Start Brief? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsethirtyfour" class="accordion-collapse collapse"
@@ -938,7 +938,7 @@
 											data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsethirtyfive" aria-expanded="false"
 											aria-controls="collapsethirtyfive">
-											How Much Does It Cost ? <img src="./images/faqdownarrow.png">
+											How Much Does It Cost ? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsethirtyfive" class="accordion-collapse collapse"
@@ -960,7 +960,7 @@
 											data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsethirtysix" aria-expanded="false"
 											aria-controls="collapsethirtysix">
-											How Much Time Does It Need? <img src="./images/faqdownarrow.png">
+											How Much Time Does It Need? <img src="./images/faqdownarrow.webp">
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsethirtysix" class="accordion-collapse collapse"

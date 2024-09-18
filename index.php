@@ -12,7 +12,7 @@
 				<b>dominance, offering IT</b> solutions <br> that drive success
 			</h1>
 			<div class="scroll-image">
-				<a href="#intro-section"><img src="./images/scroll.png" /></a>
+				<a href="#intro-section"><img src="./images/scroll.webp" /></a>
 			</div>
 			<p style="padding-top: 30px;">Welcome to Blizztech Solutions! Here at Blizztech Solutions, our goal
 				is to partner with you in <br> crafting exceptional digital experiences that
@@ -86,7 +86,7 @@
 					</div>
 				</div>
 			</div>
-			<video playsinline autoplay muted loop poster="polina.jpg" id="bgvid">
+			<video playsinline autoplay muted loop poster="polina.webp" id="bgvid">
 				<source src="./video/blizz-vdeo.mp4" type="video/mp4">
 				<source src="./video/blizz-vdeo.mp4" type="video/mp4">
 			</video>
@@ -94,7 +94,7 @@
 
 		<section id="intro-section-home">
 			<div class="container">
-				<div class="row">
+				<div class="row" style="margin: 0 auto;">
 					<div class="row-text">
 						<h3 style="padding-top: 20px;"> Why Choose </h3>
 						<h1><b>Blizztech </b> Solutions</h1>
@@ -108,8 +108,8 @@
 					<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/low.png">
-								<img class="img2" src="./images/lowcolor.png">
+								<img class="img1" src="./images/low.webp">
+								<img class="img2" src="./images/lowcolor.webp">
 							</div>
 							<h3>Customer-Centric Approach</h3>
 							<p> We put your goals at the center of every
@@ -123,8 +123,8 @@
 					<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/creative.png">
-								<img class="img2" src="./images/creativecolor.png">
+								<img class="img1" src="./images/creative.webp">
+								<img class="img2" src="./images/creativecolor.webp">
 							</div>
 							<h3>Seamless Collaboration</h3>
 							<p> We work closely with you, maintaining clear communication and transparency every step of the way.</p>
@@ -136,8 +136,8 @@
 					<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/educate.png">
-								<img class="img2" src="./images/educatecolor.png">
+								<img class="img1" src="./images/educate.webp">
+								<img class="img2" src="./images/educatecolor.webp">
 							</div>
 							<h3>Adaptable & Scalable</h3>
 							<p>Our solutions grow with your business, adapting to
@@ -150,8 +150,8 @@
 					<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/senior.png">
-								<img class="img2" src="./images/seniorcolor.png">
+								<img class="img1" src="./images/senior.webp">
+								<img class="img2" src="./images/seniorcolor.webp">
 							</div>
 							<h3>Quality Without Compromise</h3>
 							<p> We are committed to delivering top-tier
@@ -164,8 +164,8 @@
 					<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/senior.png">
-								<img class="img2" src="./images/seniorcolor.png">
+								<img class="img1" src="./images/senior.webp">
+								<img class="img2" src="./images/seniorcolor.webp">
 							</div>
 							<h3>Harness the Power of Advanced Technology</h3>
 							<p> Leveraging advanced
@@ -178,8 +178,8 @@
 					<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/senior.png">
-								<img class="img2" src="./images/seniorcolor.png">
+								<img class="img1" src="./images/senior.webp">
+								<img class="img2" src="./images/seniorcolor.webp">
 							</div>
 							<h3>Teamwork and Partnership</h3>
 							<p> We work together with you from start to
@@ -192,8 +192,8 @@
 					<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/senior.png">
-								<img class="img2" src="./images/seniorcolor.png">
+								<img class="img1" src="./images/senior.webp">
+								<img class="img2" src="./images/seniorcolor.webp">
 							</div>
 							<h3>Innovative Thinking, Flawless Execution</h3>
 							<p> Combining creativity with
@@ -206,8 +206,8 @@
 					<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/senior.png">
-								<img class="img2" src="./images/seniorcolor.png">
+								<img class="img1" src="./images/senior.webp">
+								<img class="img2" src="./images/seniorcolor.webp">
 							</div>
 							<h3>Coherent Visual Identity</h3>
 							<p> We streamline the daily ins and outs of branding
@@ -221,8 +221,8 @@
 					<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/senior.png">
-								<img class="img2" src="./images/seniorcolor.png">
+								<img class="img1" src="./images/senior.webp">
+								<img class="img2" src="./images/seniorcolor.webp">
 							</div>
 							<h3>Excellence Through Collaboration</h3>
 							<p>We believe in working closely with you
@@ -244,37 +244,37 @@
 					<div class="carousel">
 						<div>
 							<div class="card">
-								<img src="./images/clogo1.png" />
+								<img src="./images/clogo1.webp" />
 							</div>
 						</div>
 						<div>
 							<div class="card">
-								<img src="./images/clogo6.png" />
+								<img src="./images/clogo6.webp" />
 							</div>
 						</div>
 						<div>
 							<div class="card">
-								<img src="./images/clogo5.png" />
+								<img src="./images/clogo5.webp" />
 							</div>
 						</div>
 						<div>
 							<div class="card new">
-								<img src="./images/clogo4.png" />
+								<img src="./images/clogo4.webp" />
 							</div>
 						</div>
 						<div>
 							<div class="card">
-								<img src="./images/clogo3.png" />
+								<img src="./images/clogo3.webp" />
 							</div>
 						</div>
 						<div>
 							<div class="card">
-								<img src="./images/clogo2.png" />
+								<img src="./images/clogo2.webp" />
 							</div>
 						</div>
 						<div>
 							<div class="card new">
-								<img src="./images/clogo4.png" />
+								<img src="./images/clogo4.webp" />
 							</div>
 						</div>
 					</div>
@@ -304,34 +304,14 @@
     object-fit: cover;
     width: 100%;
     border:6px solid #27D6FC;
-" src="images/portfolioOne.jpg" />
+" src="images/portfolioOne.webp" />
 										</div>
 										<div class="col-lg-6">
 											<img style="
     object-fit: cover;
     width: 100%;
     border:6px solid #27D6FC;
-" src="images/portfolioTwo.jpg" />
-										</div>
-									</div>
-								</div>
-							</div>
-							<div>
-								<div class="card">
-									<div class="row">
-										<div class="col-lg-6">
-											<img style="
-    object-fit: cover;
-    width: 100%;
-    border:6px solid #27D6FC;
-" src="images/portfolioThree.jpg" />
-										</div>
-										<div class="col-lg-6">
-											<img style="
-    object-fit: cover;
-    width: 100%;
-    border:6px solid #27D6FC;
-" src="images/portfolioFour.jpg" />
+" src="images/portfolioTwo.webp" />
 										</div>
 									</div>
 								</div>
@@ -344,14 +324,14 @@
     object-fit: cover;
     width: 100%;
     border:6px solid #27D6FC;
-" src="images/portfolioFive.jpg" />
+" src="images/portfolioThree.webp" />
 										</div>
 										<div class="col-lg-6">
 											<img style="
     object-fit: cover;
     width: 100%;
     border:6px solid #27D6FC;
-" src="images/portfolioSix.jpg" />
+" src="images/portfolioFour.webp" />
 										</div>
 									</div>
 								</div>
@@ -364,14 +344,34 @@
     object-fit: cover;
     width: 100%;
     border:6px solid #27D6FC;
-" src="images/portfolioSeven.jpg" />
+" src="images/portfolioFive.webp" />
 										</div>
 										<div class="col-lg-6">
 											<img style="
     object-fit: cover;
     width: 100%;
     border:6px solid #27D6FC;
-" src="images/portfolioEight.jpg" />
+" src="images/portfolioSix.webp" />
+										</div>
+									</div>
+								</div>
+							</div>
+							<div>
+								<div class="card">
+									<div class="row">
+										<div class="col-lg-6">
+											<img style="
+    object-fit: cover;
+    width: 100%;
+    border:6px solid #27D6FC;
+" src="images/portfolioSeven.webp" />
+										</div>
+										<div class="col-lg-6">
+											<img style="
+    object-fit: cover;
+    width: 100%;
+    border:6px solid #27D6FC;
+" src="images/portfolioEight.webp" />
 										</div>
 									</div>
 								</div>
@@ -446,33 +446,33 @@
 										</div>
 										<div class="col-3 col-12-medium">
 											<div class="logo-images">
-												<img src="./images/Boiler-Room-pens-2.jpg" />
-												<img src="./images/Chic-Color-07.jpg" />
+												<img src="./images/Boiler-Room-pens-2.webp" />
+												<img src="./images/Chic-Color-07.webp" />
 											</div>
 										</div>
 										<div class="col-3 col-12-medium">
 											<div class="logo-images">
-												<img src="./images/Skin-N-Bones-04.jpg	" />
-												<img src="./images/04.jpg" />
+												<img src="./images/Skin-N-Bones-04.webp	" />
+												<img src="./images/04.webp" />
 											</div>
 										</div>
 									</div>
 									<div class="row">
 										<div class="col-4 col-12-medium">
 											<div class="information">
-												<h2><img src="./images/infoicon1.png" />Delivery in 24 Hours</h2>
+												<h2><img src="./images/infoicon1.webp" />Delivery in 24 Hours</h2>
 												<p>Game-changing custom logo design in (X) days/hours. Elevate your business to the top.</p>
 											</div>
 										</div>
 										<div class="col-4 col-12-medium">
 											<div class="information">
-												<h2><img src="./images/infoicon2.png" />500 + Customers Worldwide</h2>
+												<h2><img src="./images/infoicon2.webp" />500 + Customers Worldwide</h2>
 												<p>Serving (X) customers worldwide, experience our exceptional logo design service that sets us apart.</p>
 											</div>
 										</div>
 										<div class="col-4 col-12-medium">
 											<div class="information">
-												<h2><img src="./images/infoicon3.png" />24/7 Customer Support</h2>
+												<h2><img src="./images/infoicon3.webp" />24/7 Customer Support</h2>
 												<p>You get quality and round-the-clock assistance for a seamless design experience with us.</p>
 											</div>
 										</div>
@@ -480,10 +480,10 @@
 									</div>
 									<div class="row">
 										<div class="call-to">
-											<img class="line" src="./images/Line 4.png" />
+											<img class="line" src="./images/Line 4.webp" />
 										</div>
 										<div class="button-text"><a href="javascript:;" class="quote-button">Get Started <img class="arrow"
-													src="./images/buttonarrow.png" /></a></div>
+													src="./images/buttonarrow.webp" /></a></div>
 									</div>
 								</div>
 							</div>
@@ -513,33 +513,33 @@
 									</div>
 									<div class="col-3 col-12-medium">
 										<div class="logo-images">
-											<img src="./images/websitedesigns/portfolio/1.png" style="border-radius: 0px;" />
-											<img src="./images/websitedesigns/portfolio/2.jpg" style="border-radius: 0px;" />
+											<img src="./images/websitedesigns/portfolio/1.webp" style="border-radius: 0px;" />
+											<img src="./images/websitedesigns/portfolio/2.webp" style="border-radius: 0px;" />
 										</div>
 									</div>
 									<div class="col-3 col-12-medium">
 										<div class="logo-images">
-											<img src="./images/websitedesigns/portfolio/3.jpg" style="border-radius: 0px;" />
-											<img src="./images/websitedesigns/portfolio/4.jpg" style="border-radius: 0px;" />
+											<img src="./images/websitedesigns/portfolio/3.webp" style="border-radius: 0px;" />
+											<img src="./images/websitedesigns/portfolio/4.webp" style="border-radius: 0px;" />
 										</div>
 									</div>
 								</div>
 								<div class="row">
 									<div class="col-4 col-12-medium">
 										<div class="information">
-											<h2><img src="./images/infoicon1.png" />Custom Website</h2>
+											<h2><img src="./images/infoicon1.webp" />Custom Website</h2>
 											<p>Build a scalable web presence capable of addressing audiences’ needs gradually as your business grows.</p>
 										</div>
 									</div>
 									<div class="col-4 col-12-medium">
 										<div class="information">
-											<h2><img src="./images/infoicon2.png" />E-Commerce Website</h2>
+											<h2><img src="./images/infoicon2.webp" />E-Commerce Website</h2>
 											<p>Give your audience a good impression of your website so they stay a little longer- hence you grow.</p>
 										</div>
 									</div>
 									<div class="col-4 col-12-medium">
 										<div class="information">
-											<h2><img src="./images/infoicon3.png" />CMS Website</h2>
+											<h2><img src="./images/infoicon3.webp" />CMS Website</h2>
 											<p>Manage your website Content, allowing your content creators and contributors to create, edit,
 												and publish easily.</p>
 										</div>
@@ -548,10 +548,10 @@
 								</div>
 								<div class="row">
 									<div class="call-to">
-										<img class="line" src="./images/Line 4.png" />
+										<img class="line" src="./images/Line 4.webp" />
 									</div>
 									<div class="button-text"><a href="javascript:;" class="quote-button">Get Started <img class="arrow"
-												src="./images/buttonarrow.png" /></a></div>
+												src="./images/buttonarrow.webp" /></a></div>
 								</div>
 							</div>
 						</div>
@@ -592,20 +592,20 @@
 								<div class="row">
 									<div class="col-4 col-12-medium">
 										<div class="information">
-											<h2><img src="./images/infoicon1.png" />High Client Satisfaction</h2>
+											<h2><img src="./images/infoicon1.webp" />High Client Satisfaction</h2>
 											<p>Our customers keep coming back because of the quality we deliver. Our growing client base is our primary motivator.</p>
 										</div>
 									</div>
 									<div class="col-4 col-12-medium">
 										<div class="information">
-											<h2><img src="./images/infoicon2.png" />Professional Team</h2>
+											<h2><img src="./images/infoicon2.webp" />Professional Team</h2>
 											<p>With 20+creative specialists on board, our skilled team of animators ensures top-notch quality and creativity in
 												every project they undertake.</p>
 										</div>
 									</div>
 									<div class="col-4 col-12-medium">
 										<div class="information">
-											<h2><img src="./images/infoicon3.png" />Inexpensive</h2>
+											<h2><img src="./images/infoicon3.webp" />Inexpensive</h2>
 											<p>Our 2D animations offer the best value, effectively conveying your message to the audience while being incredibly affordable.</p>
 										</div>
 									</div>
@@ -613,10 +613,10 @@
 								</div>
 								<div class="row">
 									<div class="call-to">
-										<img class="line" src="./images/Line 4.png" />
+										<img class="line" src="./images/Line 4.webp" />
 									</div>
 									<div class="button-text"><a href="javascript:;" class="quote-button">Get Started <img class="arrow"
-												src="./images/buttonarrow.png" /></a></div>
+												src="./images/buttonarrow.webp" /></a></div>
 								</div>
 							</div>
 						</div>
@@ -645,35 +645,35 @@
 									</div>
 									<div class="col-3 col-12-medium">
 										<div class="logo-images">
-											<img src="./images/mediapost1.jpg" />
-											<img src="./images/mediapost3.jpg" />
+											<img src="./images/mediapost1.webp" />
+											<img src="./images/mediapost3.webp" />
 										</div>
 									</div>
 									<div class="col-3 col-12-medium">
 										<div class="logo-images">
-											<img src="./images/mediapost2.jpg" />
-											<img src="./images/mediapost4.jpg" />
+											<img src="./images/mediapost2.webp" />
+											<img src="./images/mediapost4.webp" />
 										</div>
 									</div>
 								</div>
 								<div class="row">
 									<div class="col-4 col-12-medium">
 										<div class="information">
-											<h2><img src="./images/infoicon1.png" />Branding Strategy</h2>
+											<h2><img src="./images/infoicon1.webp" />Branding Strategy</h2>
 											<p>Our team provides expert brand strategy services, utilizing industry insights and creative approaches
 												to establish a solid and distinctive brand.</p>
 										</div>
 									</div>
 									<div class="col-4 col-12-medium">
 										<div class="information">
-											<h2><img src="./images/infoicon2.png" />Brand Identity</h2>
+											<h2><img src="./images/infoicon2.webp" />Brand Identity</h2>
 											<p>We offer comprehensive brand identity services, craft unique visual elements and create messaging that
 												accurately represent and differentiate your brand.</p>
 										</div>
 									</div>
 									<div class="col-4 col-12-medium">
 										<div class="information">
-											<h2><img src="./images/infoicon3.png" />Brand Marketing</h2>
+											<h2><img src="./images/infoicon3.webp" />Brand Marketing</h2>
 											<p>Our brand marketing services encompass targeted strategies and impactful campaigns to promote and
 												elevate your brand's visibility and reach effectively.</p>
 										</div>
@@ -682,10 +682,10 @@
 								</div>
 								<div class="row">
 									<div class="call-to">
-										<img class="line" src="./images/Line 4.png" />
+										<img class="line" src="./images/Line 4.webp" />
 									</div>
 									<div class="button-text"><a href="javascript:;" class="quote-button">Get Started <img class="arrow"
-												src="./images/buttonarrow.png" /></a></div>
+												src="./images/buttonarrow.webp" /></a></div>
 								</div>
 							</div>
 						</div>
@@ -716,35 +716,35 @@
 									</div>
 									<div class="col-3 col-12-medium">
 										<div class="logo-images">
-											<img src="./images/portfolioOne.jpg"  style="object-fit: cover;width: 100%; border:6px solid #27D6FC;"/>
-											<img src="./images/portfolioThree.jpg" style="object-fit: cover;width: 100%; border:6px solid #27D6FC;" />
+											<img src="./images/portfolioOne.webp"  style="object-fit: cover;width: 100%; border:6px solid #27D6FC;"/>
+											<img src="./images/portfolioThree.webp" style="object-fit: cover;width: 100%; border:6px solid #27D6FC;" />
 										</div>
 									</div>
 									<div class="col-3 col-12-medium">
 										<div class="logo-images">
-											<img src="./images/portfolioTwo.jpg" style="object-fit: cover;width: 100%; border:6px solid #27D6FC;" />
-											<img src="./images/portfolioFour.jpg" style="object-fit: cover;width: 100%; border:6px solid #27D6FC;" />
+											<img src="./images/portfolioTwo.webp" style="object-fit: cover;width: 100%; border:6px solid #27D6FC;" />
+											<img src="./images/portfolioFour.webp" style="object-fit: cover;width: 100%; border:6px solid #27D6FC;" />
 										</div>
 									</div>
 								</div>
 								<div class="row">
 									<div class="col-4 col-12-medium">
 										<div class="information">
-											<h2><img src="./images/infoicon1.png" />Online Exposure</h2>
+											<h2><img src="./images/infoicon1.webp" />Online Exposure</h2>
 											<p>Social media marketing boosts exposure, engagement, and interactions, enhancing the online presence
 												of companies and brands.</p>
 										</div>
 									</div>
 									<div class="col-4 col-12-medium">
 										<div class="information">
-											<h2><img src="./images/infoicon2.png" />Better Search Ranking</h2>
+											<h2><img src="./images/infoicon2.webp" />Better Search Ranking</h2>
 											<p>Through our digital marketing services, we optimize campaigns and websites to generate a high
 												return on investment for our clients.</p>
 										</div>
 									</div>
 									<div class="col-4 col-12-medium">
 										<div class="information">
-											<h2><img src="./images/infoicon3.png" />Better Reach</h2>
+											<h2><img src="./images/infoicon3.webp" />Better Reach</h2>
 											<p>Elevate your brand with every touchpoint - our agency ensures a
 												seamless and consistent design experience across all platforms!</p>
 										</div>
@@ -753,10 +753,10 @@
 								</div>
 								<div class="row">
 									<div class="call-to">
-										<img class="line" src="./images/Line 4.png" />
+										<img class="line" src="./images/Line 4.webp" />
 									</div>
 									<div class="button-text"><a href="javascript:;" class="quote-button">Get Started <img class="arrow"
-												src="./images/buttonarrow.png" /></a></div>
+												src="./images/buttonarrow.webp" /></a></div>
 								</div>
 
 							</div>
@@ -809,16 +809,16 @@
             data-bs-parent="#myTabContent">
             <div class="gallery-container">
               <div class="gallery-item" data-index="1">
-                <img src="images/websitedesigns/portfolio/1.png">
+                <img src="images/websitedesigns/portfolio/1.webp">
               </div>
               <div class="gallery-item" data-index="2">
-                <img src="images/websitedesigns/portfolio/2.jpg">
+                <img src="images/websitedesigns/portfolio/2.webp">
               </div>
               <div class="gallery-item" data-index="3">
-                <img src="images/websitedesigns/portfolio/3.jpg">
+                <img src="images/websitedesigns/portfolio/3.webp">
               </div>
               <div class="gallery-item" data-index="4">
-                <img src="images/websitedesigns/portfolio/4.jpg">
+                <img src="images/websitedesigns/portfolio/4.webp">
               </div>
               
             </div> 
@@ -834,16 +834,16 @@
           data-bs-parent="#myTabContent">
           <div class="gallery-container">
             <div class="gallery-item" data-index="5">
-              <img src="images/Logodesign/portfolio/logo1.jpg">
+              <img src="images/Logodesign/portfolio/logo1.webp">
             </div>
             <div class="gallery-item" data-index="6">
-              <img src="images/Logodesign/portfolio/logo2.jpg">
+              <img src="images/Logodesign/portfolio/logo2.webp">
             </div>
             <div class="gallery-item" data-index="7">
-              <img src="images/Logodesign/portfolio/logo3.jpg">
+              <img src="images/Logodesign/portfolio/logo3.webp">
             </div>
             <div class="gallery-item" data-index="8">
-              <img src="images/Logodesign/portfolio/logo4.jpg">
+              <img src="images/Logodesign/portfolio/logo4.webp">
             </div>
             
           </div>
@@ -860,28 +860,28 @@
     object-fit: cover;
     width: 100%;
     border:6px solid #27D6FC;
-" src="images/portfolioOne.jpg" /> 
+" src="images/portfolioOne.webp" /> 
             </div>
             <div class="gallery-item" data-index="10">
               <img style="
     object-fit: cover;
     width: 100%;
     border:6px solid #27D6FC;
-" src="images/portfolioTwo.jpg" /> 
+" src="images/portfolioTwo.webp" /> 
             </div>
             <div class="gallery-item" data-index="11">
              <img style="
     object-fit: cover;
     width: 100%;
     border:6px solid #27D6FC;
-" src="images/portfolioThree.jpg" /> 
+" src="images/portfolioThree.webp" /> 
             </div>
             <div class="gallery-item" data-index="12">
               <img style="
     object-fit: cover;
     width: 100%;
     border:6px solid #27D6FC;
-" src="images/portfolioFour.jpg" /> 
+" src="images/portfolioFour.webp" /> 
             </div>
          
           </div>
@@ -895,16 +895,16 @@
           data-bs-parent="#myTabContent">
           <div class="gallery-container">
             <div class="gallery-item" data-index="13">
-              <img src="images/portfolioimages/1.png">
+              <img src="images/portfolioimages/1.webp">
             </div>
             <div class="gallery-item" data-index="14">
-              <img src="images/portfolioimages/2.png">
+              <img src="images/portfolioimages/2.webp">
             </div>
             <div class="gallery-item" data-index="15">
-              <img src="images/portfolioimages/3.png">
+              <img src="images/portfolioimages/3.webp">
             </div>
             <div class="gallery-item" data-index="16">
-              <img src="images/portfolioimages/4.png">
+              <img src="images/portfolioimages/4.webp">
             </div>
             
           </div>
@@ -918,16 +918,16 @@
           data-bs-parent="#myTabContent">
            <div class="gallery-container">
             <div class="gallery-item" data-index="17">
-              <img style="width:70%" src="images/portfolioimages/mok1.png">
+              <img style="width:70%" src="images/portfolioimages/mok1.webp">
             </div>
             <div class="gallery-item" data-index="18">
-              <img style="width:70%" src="images/portfolioimages/mok2.png">
+              <img style="width:70%" src="images/portfolioimages/mok2.webp">
             </div>
             <div class="gallery-item" data-index="19">
-              <img style="width:70%" src="images/portfolioimages/mok3.png">
+              <img style="width:70%" src="images/portfolioimages/mok3.webp">
             </div>
             <div class="gallery-item" data-index="20">
-              <img style="width:70%" src="images/portfolioimages/mok4.png">
+              <img style="width:70%" src="images/portfolioimages/mok4.webp">
             </div>
             
           </div>
@@ -971,7 +971,7 @@
 				<div class="center-index">
 					<div class="px-2 py-2">
 						<div class="indutries-image">
-							<img src="./images/industries-image-1.jpg" alt="">
+							<img src="./images/industries-image-1.webp" alt="">
 						</div>
 						<div class="industries-text">
 							<p>Logistics</p>
@@ -979,7 +979,7 @@
 					</div>
 					<div class="px-2 py-2">
 						<div class="indutries-image">
-							<img src="./images/industries-image-2.jpg" alt="">
+							<img src="./images/industries-image-2.webp" alt="">
 						</div>
 						<div class="industries-text">
 							<p>Automotive</p>
@@ -987,7 +987,7 @@
 					</div>
 					<div class="px-2 py-2">
 						<div class="indutries-image">
-							<img src="./images/industries-image-3.jfif" alt="">
+							<img src="./images/industries-image-3.webp" alt="">
 						</div>
 						<div class="industries-text">
 							<p>Healthcare</p>
@@ -995,7 +995,7 @@
 					</div>
 					<div class="px-2 py-2">
 						<div class="indutries-image">
-							<img src="./images/industries-image-4.jpg" alt="">
+							<img src="./images/industries-image-4.webp" alt="">
 						</div>
 						<div class="industries-text">
 							<p>Manufacturing</p>
@@ -1003,7 +1003,7 @@
 					</div>
 					<div class="px-2 py-2">
 						<div class="indutries-image">
-							<img src="./images/industries-image-5.jpg" alt="">
+							<img src="./images/industries-image-5.webp" alt="">
 						</div>
 						<div class="industries-text">
 							<p>Sports</p>
@@ -1011,7 +1011,7 @@
 					</div>
 					<div class="px-2 py-2">
 						<div class="indutries-image">
-							<img src="./images/industries-image-6.jpg" alt="">
+							<img src="./images/industries-image-6.webp" alt="">
 						</div>
 						<div class="industries-text">
 							<p>E-learning</p>
@@ -1019,7 +1019,7 @@
 					</div>
 					<div class="px-2 py-2">
 						<div class="indutries-image">
-							<img src="./images/industries-image-7.jpg" alt="">
+							<img src="./images/industries-image-7.webp" alt="">
 						</div>
 						<div class="industries-text">
 							<p>Transportation</p>
@@ -1027,7 +1027,7 @@
 					</div>
 					<div class="px-2 py-2">
 						<div class="indutries-image">
-							<img src="./images/industries-image-8.jfif" alt="">
+							<img src="./images/industries-image-8.webp" alt="">
 						</div>
 						<div class="industries-text">
 							<p>Agriculture</p>
@@ -1051,7 +1051,7 @@
 						<h2 class="accordion-header" id="headingOne">
 							<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 								data-mdb-target="#basicAccordionCollapseOne" aria-expanded="false" aria-controls="collapseOne">
-								What Services Does Your IT Firm Offer? <img src="./images/faqdownarrow.png" />
+								What Services Does Your IT Firm Offer? <img src="./images/faqdownarrow.webp" />
 							</button>
 						</h2>
 						<div id="basicAccordionCollapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
@@ -1065,7 +1065,7 @@
 						<h2 class="accordion-header" id="headingTwo">
 							<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 								data-mdb-target="#basicAccordionCollapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-								What is the typical timeline for completing a project? <img src="./images/faqdownarrow.png" />
+								What is the typical timeline for completing a project? <img src="./images/faqdownarrow.webp" />
 							</button>
 						</h2>
 						<div id="basicAccordionCollapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -1079,7 +1079,7 @@
 						<h2 class="accordion-header" id="headingThree">
 							<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 								data-mdb-target="#basicAccordionCollapseThree" aria-expanded="false" aria-controls="collapseThree">
-								What industries do you specialize in? <img src="./images/faqdownarrow.png" />
+								What industries do you specialize in? <img src="./images/faqdownarrow.webp" />
 							</button>
 						</h2>
 						<div id="basicAccordionCollapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -1096,7 +1096,7 @@
 							<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 								data-mdb-target="#basicAccordionCollapseFour" aria-expanded="false" aria-controls="collapseFour">
 								What is the cost of your services?
-								<img src="./images/faqdownarrow.png" />
+								<img src="./images/faqdownarrow.webp" />
 							</button>
 						</h2>
 						<div id="basicAccordionCollapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
@@ -1111,7 +1111,7 @@
 						<h2 class="accordion-header" id="headingFive">
 							<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 								data-mdb-target="#basicAccordionCollapseFive" aria-expanded="false" aria-controls="collapseFive">
-								What is the cost of your services? <img src="./images/faqdownarrow.png" />
+								What is the cost of your services? <img src="./images/faqdownarrow.webp" />
 							</button>
 						</h2>
 						<div id="basicAccordionCollapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
@@ -1128,7 +1128,7 @@
 							<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 								data-mdb-target="#basicAccordionCollapsesix" aria-expanded="false" aria-controls="collapsesix">
 								How Do You Ensure Consistency in Design and Messaging Across Different Marketing Platforms?
-								<img src="./images/faqdownarrow.png" />
+								<img src="./images/faqdownarrow.webp" />
 							</button>
 						</h2>
 						<div id="basicAccordionCollapsesix" class="accordion-collapse collapse" aria-labelledby="headingsix"
@@ -1152,7 +1152,7 @@
 							<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 								data-mdb-target="#basicAccordionCollapseseven" aria-expanded="false" aria-controls="collapseseven">
 								Can you provide examples of successful design and marketing projects you have worked on?
-								<img src="./images/faqdownarrow.png" />
+								<img src="./images/faqdownarrow.webp" />
 							</button>
 						</h2>
 						<div id="basicAccordionCollapseseven" class="accordion-collapse collapse" aria-labelledby="headingseven"

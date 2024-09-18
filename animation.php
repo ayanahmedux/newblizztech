@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-6 col-12-medium align-self-center">
                         <div class="first-inner-section-text">
-                            <h1 class="first-inner-section-text-mian-h1"><img class="greenline" src="images/greenlinetext.png" />Humanizing Your Brand with Creative <b>Animations</b> </h1>
+                            <h1 class="first-inner-section-text-mian-h1"><img class="greenline" src="images/greenlinetext.webp" />Humanizing Your Brand with Creative <b>Animations</b> </h1>
                             <p> In a world where visuals dominate, animations bring your brand to life in ways that static content simply
                                 can’t. Whether it’s telling your brand’s story, simplifying complex ideas, or adding a dynamic touch to
                                 your marketing campaigns, creative animations have the power to connect with your audience on an
@@ -84,37 +84,37 @@
                     <div class="carousel">
                         <div>
                             <div class="card">
-                                <img src="images/clogo1.png" />
+                                <img src="images/clogo1.webp" />
                             </div>
                         </div>
                         <div>
                             <div class="card">
-                                <img src="images/clogo6.png" />
+                                <img src="images/clogo6.webp" />
                             </div>
                         </div>
                         <div>
                             <div class="card">
-                                <img src="images/clogo5.png" />
+                                <img src="images/clogo5.webp" />
                             </div>
                         </div>
                         <div>
                             <div class="card new">
-                                <img src="images/clogo4.png" />
+                                <img src="images/clogo4.webp" />
                             </div>
                         </div>
                         <div>
                             <div class="card">
-                                <img src="images/clogo3.png" />
+                                <img src="images/clogo3.webp" />
                             </div>
                         </div>
                         <div>
                             <div class="card">
-                                <img src="images/clogo2.png" />
+                                <img src="images/clogo2.webp" />
                             </div>
                         </div>
                         <div>
                             <div class="card new">
-                                <img src="images/clogo4.png" />
+                                <img src="images/clogo4.webp" />
                             </div>
                         </div>
                     </div>
@@ -123,87 +123,87 @@
                 <!--      <div class="carousel slick-initialized slick-slider slick-dotted"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="display: inline-block;">Previous</button>-->
                 <!--        <div class="slick-list draggable"  data-aos="fade-up" style="padding: 0px 50px;"><div class="slick-track" style="opacity: 1; width: 4200px; transform: translate3d(-1400px, 0px, 0px); transition: transform 500ms ease 0s;"><div class="slick-slide slick-cloned" data-slick-index="-7" aria-hidden="true" style="width: 180px;" tabindex="-1">-->
                 <!--          <div class="card" >-->
-                <!--            <img src="./images/clogo1.png">-->
+                <!--            <img src="./images/clogo1.webp">-->
                 <!--          </div>-->
                 <!--        </div><div class="slick-slide slick-cloned" data-aos="fade-up" data-slick-index="-6" aria-hidden="true" style="width: 180px;" tabindex="-1">-->
                 <!--            <div class="card">-->
-                <!--                <img src="./images/clogo6.png">-->
+                <!--                <img src="./images/clogo6.webp">-->
                 <!--            </div>-->
                 <!--        </div><div class="slick-slide slick-cloned" data-aos="fade-up" data-slick-index="-5" aria-hidden="true" style="width: 180px;" tabindex="-1">-->
                 <!--            <div class="card">-->
-                <!--                <img src="./images/clogo5.png">-->
+                <!--                <img src="./images/clogo5.webp">-->
                 <!--            </div> -->
                 <!--        </div><div class="slick-slide slick-cloned" data-aos="fade-up" data-slick-index="-4" aria-hidden="true" style="width: 180px;" tabindex="-1">-->
                 <!--            <div class="card new">-->
-                <!--                <img src="./images/clogo4.png">-->
+                <!--                <img src="./images/clogo4.webp">-->
                 <!--            </div> -->
                 <!--        </div><div class="slick-slide slick-cloned" data-aos="fade-up" data-slick-index="-3" aria-hidden="true" style="width: 180px;" tabindex="-1">-->
                 <!--            <div class="card">-->
-                <!--                <img src="./images/clogo3.png">-->
+                <!--                <img src="./images/clogo3.webp">-->
                 <!--            </div>-->
                 <!--        </div><div class="slick-slide slick-cloned" data-aos="fade-up" data-slick-index="-2" aria-hidden="true" style="width: 180px;" tabindex="-1">-->
                 <!--            <div class="card">-->
-                <!--                <img src="./images/clogo2.png">-->
+                <!--                <img src="./images/clogo2.webp">-->
                 <!--            </div>-->
                 <!--        </div><div class="slick-slide slick-cloned" data-aos="fade-up" data-slick-index="-1" aria-hidden="true" style="width: 180px;" tabindex="-1">-->
                 <!--            <div class="card new">-->
-                <!--                <img src="./images/clogo4.png">-->
+                <!--                <img src="./images/clogo4.webp">-->
                 <!--            </div> -->
                 <!--        </div><div class="slick-slide data-aos="fade-up"" data-slick-index="0" aria-hidden="true" style="width: 180px;" tabindex="-1" role="tabpanel" id="slick-slide00" aria-describedby="slick-slide-control00">-->
                 <!--          <div class="card">-->
-                <!--            <img src="./images/clogo1.png">-->
+                <!--            <img src="./images/clogo1.webp">-->
                 <!--          </div>-->
                 <!--        </div><div class="slick-slide slick-active" data-aos="fade-up" data-slick-index="1" aria-hidden="false" style="width: 180px;" tabindex="-1" role="tabpanel" id="slick-slide01" aria-describedby="slick-slide-control01">-->
                 <!--            <div class="card">-->
-                <!--                <img src="./images/clogo6.png">-->
+                <!--                <img src="./images/clogo6.webp">-->
                 <!--            </div>-->
                 <!--        </div><div class="slick-slide slick-active" data-aos="fade-up" data-slick-index="2" aria-hidden="false" style="width: 180px;" tabindex="0" role="tabpanel" id="slick-slide02" aria-describedby="slick-slide-control02">-->
                 <!--            <div class="card">-->
-                <!--                <img src="./images/clogo5.png">-->
+                <!--                <img src="./images/clogo5.webp">-->
                 <!--            </div> -->
                 <!--        </div><div class="slick-slide slick-current slick-active slick-center" data-aos="fade-up" data-slick-index="3" aria-hidden="false" style="width: 180px;" tabindex="0" role="tabpanel" id="slick-slide03" aria-describedby="slick-slide-control03">-->
                 <!--            <div class="card new">-->
-                <!--                <img src="./images/clogo4.png">-->
+                <!--                <img src="./images/clogo4.webp">-->
                 <!--            </div> -->
                 <!--        </div><div class="slick-slide slick-active" data-aos="fade-up" data-slick-index="4" aria-hidden="false" style="width: 180px;" tabindex="0" role="tabpanel" id="slick-slide04" aria-describedby="slick-slide-control04">-->
                 <!--            <div class="card">-->
-                <!--                <img src="./images/clogo3.png">-->
+                <!--                <img src="./images/clogo3.webp">-->
                 <!--            </div>-->
                 <!--        </div><div class="slick-slide slick-active" data-slick-index="5" aria-hidden="false" style="width: 180px;" tabindex="0" role="tabpanel" id="slick-slide05" aria-describedby="slick-slide-control05">-->
                 <!--            <div class="card">-->
-                <!--                <img src="./images/clogo2.png">-->
+                <!--                <img src="./images/clogo2.webp">-->
                 <!--            </div>-->
                 <!--        </div><div class="slick-slide slick-active" data-slick-index="6" aria-hidden="false" style="width: 180px;" tabindex="0" role="tabpanel" id="slick-slide06" aria-describedby="slick-slide-control06">-->
                 <!--            <div class="card new">-->
-                <!--                <img src="./images/clogo4.png">-->
+                <!--                <img src="./images/clogo4.webp">-->
                 <!--            </div> -->
                 <!--        </div><div class="slick-slide slick-cloned" data-slick-index="7" aria-hidden="true" style="width: 180px;" tabindex="-1">-->
                 <!--          <div class="card">-->
-                <!--            <img src="./images/clogo1.png">-->
+                <!--            <img src="./images/clogo1.webp">-->
                 <!--          </div>-->
                 <!--        </div><div class="slick-slide slick-cloned" data-slick-index="8" aria-hidden="true" style="width: 180px;" tabindex="-1">-->
                 <!--            <div class="card">-->
-                <!--                <img src="./images/clogo6.png">-->
+                <!--                <img src="./images/clogo6.webp">-->
                 <!--            </div>-->
                 <!--        </div><div class="slick-slide slick-cloned" data-slick-index="9" aria-hidden="true" style="width: 180px;" tabindex="-1">-->
                 <!--            <div class="card">-->
-                <!--                <img src="./images/clogo5.png">-->
+                <!--                <img src="./images/clogo5.webp">-->
                 <!--            </div> -->
                 <!--        </div><div class="slick-slide slick-cloned" data-slick-index="10" aria-hidden="true" style="width: 180px;" tabindex="-1">-->
                 <!--            <div class="card new">-->
-                <!--                <img src="./images/clogo4.png">-->
+                <!--                <img src="./images/clogo4.webp">-->
                 <!--            </div> -->
                 <!--        </div><div class="slick-slide slick-cloned" data-slick-index="11" aria-hidden="true" style="width: 180px;" tabindex="-1">-->
                 <!--            <div class="card">-->
-                <!--                <img src="./images/clogo3.png">-->
+                <!--                <img src="./images/clogo3.webp">-->
                 <!--            </div>-->
                 <!--        </div><div class="slick-slide slick-cloned" data-slick-index="12" aria-hidden="true" style="width: 180px;" tabindex="-1">-->
                 <!--            <div class="card">-->
-                <!--                <img src="./images/clogo2.png">-->
+                <!--                <img src="./images/clogo2.webp">-->
                 <!--            </div>-->
                 <!--        </div><div class="slick-slide slick-cloned" data-slick-index="13" aria-hidden="true" style="width: 180px;" tabindex="-1">-->
                 <!--            <div class="card new">-->
-                <!--                <img src="./images/clogo4.png">-->
+                <!--                <img src="./images/clogo4.webp">-->
                 <!--            </div> -->
                 <!--        </div>-->
                 <!--        </div></div>    -->
@@ -240,9 +240,9 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-6 col-12-medium align-self-center" data-aos="fade-right">
+                    <div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500" >
                         <div class="logoabout-text animation-about">
-                            <h2 class="logoabout-text-h2">Why Choose Animation Services?</h2>
+                            <h2 class="logoabout-text-h2">Why Choose <b>Animation</b> Services?</h2>
                             <p>
                                 Animations are more than just visual effects – they are storytellers, educators, and entertainers rolled
                                 into one.
@@ -274,9 +274,9 @@
                         </div>
                     </div>
 
-                    <div class="col-6 col-12-medium  d-none d-md-block " data-aos="fade-left">
+                    <div class="col-6 col-12-medium  d-md-block " data-aos="fade-left">
                         <div style="height: 100%; display: flex; justify-content: center; align-items: center">
-                            <img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/animation/animation-img1.png" />
+                            <img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/animation/animation-img1.webp" />
                         </div>
                     </div>
                 </div>
@@ -293,7 +293,7 @@
 
                     <div class="col-12 col-12-medium align-self-center" data-aos="fade-right">
                         <div class="logoabout-text animation-about">
-                            <h2 class="logoabout-text-h2"> Our Animation Services</h2>
+                            <h2 class="logoabout-text-h2"> Our <b>Animation</b> Services</h2>
                             <p>
                                 At Blizztech Solutions, we offer a wide range of animation services tailored to meet your unique
                                 business needs.
@@ -340,7 +340,7 @@
                     </div>
 
                     <!--<div class="col-6 col-12-medium">-->
-                    <!--	<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/animation/about.png"/>-->
+                    <!--	<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/animation/about.webp"/>-->
                     <!--</div>-->
                 </div>
             </div>
@@ -355,7 +355,7 @@
 
                     <div class="col-6 col-12-medium align-self-center" data-aos="fade-right">
                         <div class="logoabout-text animation-about">
-                            <h2 class="logoabout-text-h2">The Process of Creating Stunning Animations</h2>
+                            <h2 class="logoabout-text-h2">The Process of Creating Stunning <b>Animations</b></h2>
                             <ol>
                                 <li>
                                     <p><b>Concept Development: </b> We begin by discussing your brand's vision and brainstorming creative
@@ -386,9 +386,9 @@
                         </div>
                     </div>
 
-                    <div class="col-6 col-12-medium  d-none d-md-block " data-aos="fade-left">
+                    <div class="col-6 col-12-medium   d-md-block " data-aos="fade-left">
                         <div style="height: 100%; display: flex; justify-content: center; align-items: center">
-                            <img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/animation/animation-img2.png" />
+                            <img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/animation/animation-img2.webp" />
                         </div>
                     </div>
                 </div>
@@ -405,7 +405,7 @@
 
                     <!--<div class="col-6 col-12-medium  d-none d-md-block" data-aos="fade-right">-->
                     <!--         				<div  style="height: 100%; display: flex; justify-content: center; align-items: center">-->
-                    <!--         					<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="./images/animation/animation-img3.png"/>-->
+                    <!--         					<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="./images/animation/animation-img3.webp"/>-->
                     <!--         				</div>-->
                     <!--         			</div>-->
                     <div class="col-12 col-12-medium align-self-center" data-aos="fade-left">
@@ -457,7 +457,7 @@
 
                     <div class="col-6 col-12-medium align-self-center" data-aos="fade-right">
                         <div class="logoabout-text animation-about">
-                            <h2 class="logoabout-text-h2">Understanding Animation Service Costs</h2>
+                            <h2 class="logoabout-text-h2">Understanding <b>Animation</b> Service Costs</h2>
                             <p>
                                 Pricing depends on your animation’s complexity, style, and length. We ensure transparent, flexible
                                 pricing without compromising quality. You’ll receive high-quality animations within your budget.a
@@ -465,9 +465,9 @@
                         </div>
                     </div>
 
-                    <div class="col-6 col-12-medium  d-none d-md-block" data-aos="fade-left">
+                    <div class="col-6 col-12-medium  d-md-block" data-aos="fade-left">
                         <div style="height: 100%; display: flex; justify-content: center; align-items: center">
-                            <img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/animation/animation-img4.png" />
+                            <img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/animation/animation-img4.webp" />
                         </div>
                     </div>
                 </div>
@@ -481,14 +481,14 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-6 col-12-medium  d-none d-md-block" data-aos="fade-right">
+                    <div class="col-6 col-12-medium  d-md-block" data-aos="fade-right">
                         <div style="height: 100%; display: flex; justify-content: center; align-items: center">
-                            <img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/animation/animation-img5.png" />
+                            <img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/animation/animation-img5.webp" />
                         </div>
                     </div>
                     <div class="col-6 col-12-medium align-self-center" data-aos="fade-left">
                         <div class="logoabout-text animation-about">
-                            <h2 class="logoabout-text-h2"> Elevate Your Brand with Animation Services</h2>
+                            <h2 class="logoabout-text-h2"> Elevate Your Brand with <b>Animation</b> Services</h2>
                             <p>
                                 Elevate Your Brand with Animation Services
                                 Amplify your brand’s voice and captivate your audience with animation. It enhances
@@ -512,16 +512,16 @@
 
                     <div class="col-6 col-12-medium align-self-center" data-aos="fade-right">
                         <div class="logoabout-text animation-about">
-                            <h2 class="logoabout-text-h2">Elevate Your Brand with Animation Services</h2>
+                            <h2 class="logoabout-text-h2">Elevate Your Brand with <b> Animation</b> Services</h2>
                             <p>
-                                Investing in professional animation services is one of the best decisions you can make for your business. High-quality animations not only enhance your brand's visibility but also build trust and recognition among your audience. At blizztechsolutions Creative Designs, we are dedicated to providing top-tier animation services that help your business stand out. Let us help you create animations that truly represent your brand's identity and captivate your audience.
+                                Investing in professional animation services is one of the best decisions you can make for your business. High-quality animations not only enhance your brand's visibility but also build trust and recognition among your audience. At blizztechsolutions , we are dedicated to providing top-tier animation services that help your business stand out. Let us help you create animations that truly represent your brand's identity and captivate your audience.
                             </p>
                         </div>
                     </div>
 
-                    <div class="col-6 col-12-medium  d-none d-md-block" data-aos="fade-left">
+                    <div class="col-6 col-12-medium  d-md-block" data-aos="fade-left">
                         <div style="height: 100%; display: flex; justify-content: center; align-items: center">
-                            <img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/animation/animation-img6.png" />
+                            <img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/animation/animation-img6.webp" />
                         </div>
                     </div>
                 </div>
@@ -536,16 +536,16 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-6 col-12-medium  d-none d-md-block" data-aos="fade-right">
+                    <div class="col-6 col-12-medium d-md-block" data-aos="fade-right">
                         <div style="height: 100%; display: flex; justify-content: center; align-items: center">
-                            <img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/animation/animation-img7.png" />
+                            <img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/animation/animation-img7.webp" />
                         </div>
                     </div>
                     <div class="col-6 col-12-medium align-self-center" data-aos="fade-left">
                         <div class="logoabout-text animation-about">
-                            <h2 class="logoabout-text-h2">Get Started with Animation Services</h2>
+                            <h2 class="logoabout-text-h2">Get Started with <b>Animation</b> Services</h2>
                             <p>
-                                If you're looking for professional animation services that accurately reflect your brand, contact blizztechsolutions Creative Designs today. Our team of experts is ready to help you create animations that set your business apart and drive success. Reach out to us at +1 +1 713-922-8987 or visit our website at [apexcreativedesigns.com] (https://apexcreativedesigns.com) to learn more about our animation services.
+                                If you're looking for professional animation services that accurately reflect your brand, contact blizztechsolutions  today. Our team of experts is ready to help you create animations that set your business apart and drive success. Reach out to us at +1 +1 713-922-8987 or visit our website at [blizztechsolutions.com] (https://blizztechsolutions.com/) to learn more about our animation services.
                             </p>
                         </div>
                     </div>
@@ -594,10 +594,10 @@
                                 <h3>Ready to <b>Solve</b> Your <br><b>Animation</b> Problems?</h3>
                                 <div class="ready-solve-orderlist">
                                     <ul>
-                                        <li><span><img src="images/animation/tick.png" /></span>Character animate</li>
-                                        <li><span><img src="images/animation/tick.png" /></span>Conceptualize</li>
-                                        <li><span><img src="images/animation/tick.png" /></span>Multiple revisions</li>
-                                        <li><span><img src="images/animation/tick.png" /></span>Quick turn around time</li>
+                                        <li><span><img src="images/animation/tick.webp" /></span>Character animate</li>
+                                        <li><span><img src="images/animation/tick.webp" /></span>Conceptualize</li>
+                                        <li><span><img src="images/animation/tick.webp" /></span>Multiple revisions</li>
+                                        <li><span><img src="images/animation/tick.webp" /></span>Quick turn around time</li>
                                     </ul>
                                 </div>
                                 <div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px; text-align: left;">
@@ -618,7 +618,7 @@
                         </div>
 
                         <div class="col-6 col-12-medium align-self-center">
-                            <img width="100%" src="images/animation/calltoaction.png" />
+                            <img width="100%" src="images/animation/calltoaction.webp" />
                         </div>
 
                     </div>
@@ -724,16 +724,16 @@
             <!--            data-bs-parent="#myTabContent">-->
             <!--            <div class="gallery-container">-->
             <!--              <div class="gallery-item" data-index="1">-->
-            <!--                <img src="./images/websitedesigns/portfolio/ecommerce/1.png">-->
+            <!--                <img src="./images/websitedesigns/portfolio/ecommerce/1.webp">-->
             <!--              </div>-->
             <!--              <div class="gallery-item" data-index="2">-->
-            <!--                <img src="./images/websitedesigns/portfolio/ecommerce/2.jpg">-->
+            <!--                <img src="./images/websitedesigns/portfolio/ecommerce/2.webp">-->
             <!--              </div>-->
             <!--              <div class="gallery-item" data-index="3">-->
-            <!--                <img src="./images/websitedesigns/portfolio/ecommerce/3.jpg">-->
+            <!--                <img src="./images/websitedesigns/portfolio/ecommerce/3.webp">-->
             <!--              </div>-->
             <!--              <div class="gallery-item" data-index="4">-->
-            <!--                <img src="./images/websitedesigns/portfolio/ecommerce/4.jpg">-->
+            <!--                <img src="./images/websitedesigns/portfolio/ecommerce/4.webp">-->
             <!--              </div>-->
 
             <!--            </div> -->
@@ -749,16 +749,16 @@
             <!--          data-bs-parent="#myTabContent">-->
             <!--          <div class="gallery-container">-->
             <!--            <div class="gallery-item" data-index="5">-->
-            <!--              <img src="./images/Logodesign/portfolio/logo1.jpg">-->
+            <!--              <img src="./images/Logodesign/portfolio/logo1.webp">-->
             <!--            </div>-->
             <!--            <div class="gallery-item" data-index="6">-->
-            <!--              <img src="./images/Logodesign/portfolio/logo2.jpg">-->
+            <!--              <img src="./images/Logodesign/portfolio/logo2.webp">-->
             <!--            </div>-->
             <!--            <div class="gallery-item" data-index="7">-->
-            <!--              <img src="./images/Logodesign/portfolio/logo3.jpg">-->
+            <!--              <img src="./images/Logodesign/portfolio/logo3.webp">-->
             <!--            </div>-->
             <!--            <div class="gallery-item" data-index="8">-->
-            <!--              <img src="./images/Logodesign/portfolio/logo4.jpg">-->
+            <!--              <img src="./images/Logodesign/portfolio/logo4.webp">-->
             <!--            </div>-->
 
             <!--          </div>-->
@@ -775,28 +775,28 @@
             <!--    object-fit: cover;-->
             <!--    width: 100%;-->
             <!--    border:6px solid #3e9475;-->
-            <!--" src="./images/portfolioOne.jpg" /> -->
+            <!--" src="./images/portfolioOne.webp" /> -->
             <!--            </div>-->
             <!--            <div class="gallery-item" data-index="10">-->
             <!--              <img style="-->
             <!--    object-fit: cover;-->
             <!--    width: 100%;-->
             <!--    border:6px solid #3e9475;-->
-            <!--" src="./images/portfolioTwo.jpg" /> -->
+            <!--" src="./images/portfolioTwo.webp" /> -->
             <!--            </div>-->
             <!--            <div class="gallery-item" data-index="11">-->
             <!--             <img style="-->
             <!--    object-fit: cover;-->
             <!--    width: 100%;-->
             <!--    border:6px solid #3e9475;-->
-            <!--" src="./images/portfolioThree.jpg" /> -->
+            <!--" src="./images/portfolioThree.webp" /> -->
             <!--            </div>-->
             <!--            <div class="gallery-item" data-index="12">-->
             <!--              <img style="-->
             <!--    object-fit: cover;-->
             <!--    width: 100%;-->
             <!--    border:6px solid #3e9475;-->
-            <!--" src="./images/portfolioFour.jpg" /> -->
+            <!--" src="./images/portfolioFour.webp" /> -->
             <!--            </div>-->
 
             <!--          </div>-->
@@ -810,16 +810,16 @@
             <!--          data-bs-parent="#myTabContent">-->
             <!--          <div class="gallery-container">-->
             <!--            <div class="gallery-item" data-index="13">-->
-            <!--              <img src="./images/portfolioimages/1.png">-->
+            <!--              <img src="./images/portfolioimages/1.webp">-->
             <!--            </div>-->
             <!--            <div class="gallery-item" data-index="14">-->
-            <!--              <img src="./images/portfolioimages/2.png">-->
+            <!--              <img src="./images/portfolioimages/2.webp">-->
             <!--            </div>-->
             <!--            <div class="gallery-item" data-index="15">-->
-            <!--              <img src="./images/portfolioimages/3.png">-->
+            <!--              <img src="./images/portfolioimages/3.webp">-->
             <!--            </div>-->
             <!--            <div class="gallery-item" data-index="16">-->
-            <!--              <img src="./images/portfolioimages/4.png">-->
+            <!--              <img src="./images/portfolioimages/4.webp">-->
             <!--            </div>-->
 
             <!--          </div>-->
@@ -833,16 +833,16 @@
             <!--          data-bs-parent="#myTabContent">-->
             <!--           <div class="gallery-container">-->
             <!--            <div class="gallery-item" data-index="17">-->
-            <!--              <img style="width:70%" src="./images/portfolioimages/mok1.png">-->
+            <!--              <img style="width:70%" src="./images/portfolioimages/mok1.webp">-->
             <!--            </div>-->
             <!--            <div class="gallery-item" data-index="18">-->
-            <!--              <img style="width:70%" src="./images/portfolioimages/mok2.png">-->
+            <!--              <img style="width:70%" src="./images/portfolioimages/mok2.webp">-->
             <!--            </div>-->
             <!--            <div class="gallery-item" data-index="19">-->
-            <!--              <img style="width:70%" src="./images/portfolioimages/mok3.png">-->
+            <!--              <img style="width:70%" src="./images/portfolioimages/mok3.webp">-->
             <!--            </div>-->
             <!--            <div class="gallery-item" data-index="20">-->
-            <!--              <img style="width:70%" src="./images/portfolioimages/mok4.png">-->
+            <!--              <img style="width:70%" src="./images/portfolioimages/mok4.webp">-->
             <!--            </div>-->
 
             <!--          </div>-->

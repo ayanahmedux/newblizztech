@@ -22,7 +22,7 @@
 								</ul>
 							</div>
                             <div class="scroll-image">
-                                <a href="#intro-section"><img src="./images/scroll.png"/></a>
+                                <a href="#intro-section"><img src="./images/scroll.webp"/></a>
                             </div>
 						</div>
 						
@@ -72,7 +72,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
                         </div>
                         <div class="col-md-5 col-12-medium">
                             <h6><a href="#">View Page</a></h6>
-                            <img class="logodetails" src="./images/servicespage/logodetail.png"/>
+                            <img class="logodetails" src="./images/servicespage/logodetail.webp"/>
                         </div>
                     </div>
 
@@ -86,7 +86,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
                                 <p>Software Used To <b>Create </b>Logo’s</p>
                             </div>
                             <div class="col-md-6 col-12-medium">
-                                <img class="tools" src="./images/servicespage/logotools.png"/>
+                                <img class="tools" src="./images/servicespage/logotools.webp"/>
                             </div>
                         </div>
                     </div>
@@ -124,7 +124,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
                         </div>
                         <div class="col-md-5 col-12-medium">
                             <h6><a href="#">View Page</a></h6>
-                            <img class="logodetails" src="./images/servicespage/logodetail.png"/>
+                            <img class="logodetails" src="./images/servicespage/logodetail.webp"/>
                         </div>
                     </div>
 
@@ -138,7 +138,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
                                 <p>Software Used To <b>Create </b>Logo’s</p>
                             </div>
                             <div class="col-md-6 col-12-medium">
-                                <img class="tools" src="./images/servicespage/logotools.png"/>
+                                <img class="tools" src="./images/servicespage/logotools.webp"/>
                             </div>
                         </div>
                     </div>
@@ -177,7 +177,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
                         </div>
                         <div class="col-md-5 col-12-medium">
                             <h6><a href="#">View Page</a></h6>
-                            <img class="logodetails" src="./images/servicespage/logodetail.png"/>
+                            <img class="logodetails" src="./images/servicespage/logodetail.webp"/>
                         </div>
                     </div>
 
@@ -191,7 +191,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
                                 <p>Software Used To <b>Create </b>Logo’s</p>
                             </div>
                             <div class="col-md-6 col-12-medium">
-                                <img class="tools" src="./images/servicespage/logotools.png"/>
+                                <img class="tools" src="./images/servicespage/logotools.webp"/>
                             </div>
                         </div>
                     </div>
@@ -220,7 +220,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
 
                             <div class="heading-text">
                                 <h1><b>Social Media Marketing</b> Design</h1>
-                                <p>At blizztechsolutions Creative Designs, we offer high-quality logo
+                                <p>At blizztechsolutions , we offer high-quality logo
                                     design services to help  businesses establish their brand
                                     identity and stand out in the market. Our experienced and
                                      skilled team of designers works closely with clients to 
@@ -231,7 +231,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
                         </div>
                         <div class="col-md-5 col-12-medium">
                             <h6><a href="#">View Page</a></h6>
-                            <img class="logodetails" src="./images/servicespage/logodetail.png"/>
+                            <img class="logodetails" src="./images/servicespage/logodetail.webp"/>
                         </div>
                     </div>
 
@@ -245,7 +245,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
                                 <p>Software Used To <b>Create </b>Logo’s</p>
                             </div>
                             <div class="col-md-6 col-12-medium">
-                                <img class="tools" src="./images/servicespage/logotools.png"/>
+                                <img class="tools" src="./images/servicespage/logotools.webp"/>
                             </div>
                         </div>
                     </div>
@@ -282,7 +282,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
                         </div>
                         <div class="col-md-5 col-12-medium">
                             <h6><a href="#">View Page</a></h6>
-                            <img class="logodetails" src="./images/servicespage/logodetail.png"/>
+                            <img class="logodetails" src="./images/servicespage/logodetail.webp"/>
                         </div>
                     </div>
 
@@ -296,7 +296,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
                                 <p>Software Used To <b>Create </b>Logo’s</p>
                             </div>
                             <div class="col-md-6 col-12-medium">
-                                <img class="tools" src="./images/servicespage/logotools.png"/>
+                                <img class="tools" src="./images/servicespage/logotools.webp"/>
                             </div>
                         </div>
                     </div>
@@ -358,7 +358,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
 					<div class="my-connect-inner">
 						<div class="row">
 							<div class="col-md-6 col-12-medium align-self-center">
-								<img src="./images/aboutuspageimages/laptop.png"/>
+								<img src="./images/aboutuspageimages/laptop.webp"/>
 							</div>
 
 							<div class="my-custom col-md-6 col-12-medium align-self-center">
@@ -397,7 +397,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
 					  <h2 class="accordion-header" id="headingOne">
 						<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 						  data-mdb-target="#basicAccordionCollapseOne" aria-expanded="false" aria-controls="collapseOne">
-						  What services do you offer? <img src="./images/faqdownarrow.png"/>
+						  What services do you offer? <img src="./images/faqdownarrow.webp"/>
 						</button>
 					  </h2>
 					  <div id="basicAccordionCollapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
@@ -414,7 +414,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
 					  <h2 class="accordion-header" id="headingTwo">
 						<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 						  data-mdb-target="#basicAccordionCollapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-						  How much does it cost to work with your agency? <img src="./images/faqdownarrow.png"/>
+						  How much does it cost to work with your agency? <img src="./images/faqdownarrow.webp"/>
 						</button>
 					  </h2>
 					  <div id="basicAccordionCollapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -431,7 +431,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
 					  <h2 class="accordion-header" id="headingThree">
 						<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 						  data-mdb-target="#basicAccordionCollapseThree" aria-expanded="false" aria-controls="collapseThree">
-						  How long does it take to complete a project? <img src="./images/faqdownarrow.png"/>
+						  How long does it take to complete a project? <img src="./images/faqdownarrow.webp"/>
 						</button>
 					  </h2>
 					  <div id="basicAccordionCollapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -450,7 +450,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
 						<h2 class="accordion-header" id="headingFour">
 						  <button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 							data-mdb-target="#basicAccordionCollapseFour" aria-expanded="false" aria-controls="collapseFour">
-							What sets blizztechsolutions Creative Designs apart from others in the industry? <img src="./images/faqdownarrow.png"/>
+							What sets blizztechsolutions  apart from others in the industry? <img src="./images/faqdownarrow.webp"/>
 						  </button>
 						</h2>
 						<div id="basicAccordionCollapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
@@ -468,7 +468,7 @@ Digital Presentations, Mobile Applications, and Business Cards.
 						<h2 class="accordion-header" id="headingFive">
 						  <button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 							data-mdb-target="#basicAccordionCollapseFive" aria-expanded="false" aria-controls="collapseFive">
-							What sets blizztechsolutions Creative Designs apart from others in the industry? <img src="./images/faqdownarrow.png"/>
+							What sets blizztechsolutions  apart from others in the industry? <img src="./images/faqdownarrow.webp"/>
 						  </button>
 						</h2>
 						<div id="basicAccordionCollapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"

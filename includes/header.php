@@ -4,14 +4,14 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-3 col-12-medium">
-						<p class="p1"><img src="./images/icon-top.png" /> Reach us out +1 713-922-8987</p>
+						<p class="p1"><img src="./images/icon-top.webp" /> Reach us out +1 713-922-8987</p>
 					</div>
 					<div class="col-6 col-12-medium">
-						<p class="p2"><img src="./images/icon-top3.png" /> 913 Essex Blvd, Lewisville,
+						<p class="p2"><img src="./images/icon-top3.webp" /> 913 Essex Blvd, Lewisville,
 							Texas 75056, US</p>
 					</div>
 					<div class="col-3 col-12-medium">
-						<p class="p3"><img src="./images/icon-top2.png" /> info@ blizztechsolutions.com</p>
+						<p class="p3"><img src="./images/icon-top2.webp" /> info@ blizztechsolutions.com</p>
 					</div>
 				</div>
 			</div>
@@ -22,7 +22,7 @@
 
 <nav class="navbar navbar-expand-lg ">
 	<div class="container-fluid">
-		<a class="navbar-brand" href="/"><img src="images/blizz.png" alt="" /></a>
+		<a class="navbar-brand" href="/"><img src="images/blizz.webp" alt="" /></a>
 		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>

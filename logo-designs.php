@@ -13,7 +13,7 @@
 					<div class="row" style="margin: auto !important;">
 						<div class="col-6 col-12-medium align-self-center">
 							<div class="first-inner-section-text">
-								<h1><img class="greenline" src="./images/greenlinetext.png" />Our Exceptional <b>Logo Designing Services</b></h1>
+								<h1><img class="greenline" src="./images/greenlinetext.webp" />Our Exceptional <b>Logo Designing Services</b></h1>
 								<p>Blizztech Solutions specializes in designing impactful and memorable logos that reflect your brand’s identity and values. Our custom logo designs are crafted to establish a strong visual presence and make a lasting impression on your audience.</p>
 								<div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
 									<ul>
@@ -73,7 +73,7 @@
 					</div>
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
-						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-about.png" />
+						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-about.webp" />
 					</div>
 				</div>
 			</div>
@@ -82,7 +82,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000">
-						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-design-matters.png" />
+						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-design-matters.webp" />
 					</div>
 
 
@@ -107,7 +107,7 @@
 						</div>
 					</div>
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
-						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/our-professional-logo-design-services.png" />
+						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/our-professional-logo-design-services.webp" />
 					</div>
 				</div>
 
@@ -118,7 +118,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000">
-						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/process-of-professional-logo-design.png" />
+						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/process-of-professional-logo-design.webp" />
 					</div>
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1000">
 						<div class="logoabout-text">
@@ -139,15 +139,15 @@
 				<div class="row">
 					<div class="row-text">
 
-						<h1 style="text-align: center; padding-bottom: 20px;" data-aos-duration="1000" data-aos="fade-right">What We <b>Can Do</b> for You</h1>
+						<h1 style="text-align: center; padding-bottom: 20px;" data-aos-duration="1000" data-aos="fade-right">What We <b> Can Do </b> for You</h1>
 					</div>
 				</div>
 				<div class="row" style="margin: auto;">
 					<div class="col-3 col-12-medium">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/abstract.png">
-								<img class="img2" src="./images/Logodesign/abstract1.png">
+								<img class="img1" src="./images/Logodesign/abstract.webp">
+								<img class="img2" src="./images/Logodesign/abstract1.webp">
 							</div>
 							<h3>Abstract Marks</h3>
 							<p>Abstracts express multiple concepts and feelings in a single symbol; we ensure they are
@@ -161,8 +161,8 @@
 					<div class="col-3 col-12-medium">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/emblem.png">
-								<img class="img2" src="./images/Logodesign/emblem1.png">
+								<img class="img1" src="./images/Logodesign/emblem.webp">
+								<img class="img2" src="./images/Logodesign/emblem1.webp">
 							</div>
 							<h3>Emblem Logos</h3>
 							<p>At blizztechsolutions, our emblem logos prioritize typography over iconography, creating a powerful
@@ -176,8 +176,8 @@
 					<div class="col-3 col-12-medium">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/letter.png">
-								<img class="img2" src="./images/Logodesign/letter1.png">
+								<img class="img1" src="./images/Logodesign/letter.webp">
+								<img class="img2" src="./images/Logodesign/letter1.webp">
 							</div>
 							<h3>Letter Based Logo</h3>
 							<p>Letter-based logos are super easy to adapt across marketing material and marketing
@@ -192,8 +192,8 @@
 					<div class="col-3 col-12-medium">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/mascot.png">
-								<img class="img2" src="./images/Logodesign/mascot1.png">
+								<img class="img1" src="./images/Logodesign/mascot.webp">
+								<img class="img2" src="./images/Logodesign/mascot1.webp">
 							</div>
 							<h3>Mascot Logos</h3>
 							<p>Strengthen your brand identity and build brand recognition through Mascot Logo that
@@ -238,7 +238,7 @@
 						</div>
 
 						<div class="col-6 col-12-medium align-self-center">
-							<img src="./images/Logodesign/cta.png" />
+							<img src="./images/Logodesign/cta.webp" />
 						</div>
 
 					</div>
@@ -302,16 +302,16 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/Logodesign/portfolio/1.png">
+									<img src="./images/Logodesign/portfolio/1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/Logodesign/portfolio/2.png">
+									<img src="./images/Logodesign/portfolio/2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/Logodesign/portfolio/3.png">
+									<img src="./images/Logodesign/portfolio/3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/Logodesign/portfolio/4.png">
+									<img src="./images/Logodesign/portfolio/4.webp">
 								</div>
 
 							</div>
@@ -329,16 +329,16 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/Logodesign/Typographic/typo1.jpg">
+									<img src="./images/Logodesign/Typographic/typo1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/Logodesign/Typographic/typo2.jpg">
+									<img src="./images/Logodesign/Typographic/typo2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/Logodesign/Typographic/typo3.jpg">
+									<img src="./images/Logodesign/Typographic/typo3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/Logodesign/Typographic/typo4.jpg">
+									<img src="./images/Logodesign/Typographic/typo4.webp">
 								</div>
 
 							</div>
@@ -356,16 +356,16 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/Logodesign/Iconic/Iconic1.jpg">
+									<img src="./images/Logodesign/Iconic/Iconic1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/Logodesign/Iconic/Iconic2.png">
+									<img src="./images/Logodesign/Iconic/Iconic2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/Logodesign/Iconic/Iconic3.jpg">
+									<img src="./images/Logodesign/Iconic/Iconic3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/Logodesign/Iconic/Iconic4.png">
+									<img src="./images/Logodesign/Iconic/Iconic4.webp">
 								</div>
 
 							</div>
@@ -383,16 +383,16 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/Logodesign/ILLUSTRATIVE/illu1.jpg">
+									<img src="./images/Logodesign/ILLUSTRATIVE/illu1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/Logodesign/ILLUSTRATIVE/illu2.jpg">
+									<img src="./images/Logodesign/ILLUSTRATIVE/illu2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/Logodesign/ILLUSTRATIVE/illu3.jpg">
+									<img src="./images/Logodesign/ILLUSTRATIVE/illu3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/Logodesign/ILLUSTRATIVE/illu4.jpg">
+									<img src="./images/Logodesign/ILLUSTRATIVE/illu4.webp">
 								</div>
 
 							</div>
@@ -414,16 +414,16 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/Logodesign/Mascot/Mascot1.jpg">
+									<img src="./images/Logodesign/Mascot/Mascot1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/Logodesign/Mascot/Mascot2.png">
+									<img src="./images/Logodesign/Mascot/Mascot2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/Logodesign/Mascot/Mascot3.jpg">
+									<img src="./images/Logodesign/Mascot/Mascot3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/Logodesign/Mascot/Mascot4.jpg">
+									<img src="./images/Logodesign/Mascot/Mascot4.webp">
 								</div>
 
 							</div>
@@ -441,16 +441,16 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/Logodesign/Emblem/Emblem1.jpg">
+									<img src="./images/Logodesign/Emblem/Emblem1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/Logodesign/Emblem/Emblem2.jpg">
+									<img src="./images/Logodesign/Emblem/Emblem2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/Logodesign/Emblem/Emblem3.jpg">
+									<img src="./images/Logodesign/Emblem/Emblem3.webp">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/Logodesign/Emblem/Emblem4.jpg">
+									<img src="./images/Logodesign/Emblem/Emblem4.webp">
 								</div>
 							</div>
 						</div>
@@ -492,7 +492,7 @@
 					</div>
 
 					<!-- TABS PRICE START -->
-					<ul class="nav nav-tabs d-none d-lg-flex" id="myTab" role="tablist">
+					<ul class="nav nav-tabs d-lg-flex" id="myTab" role="tablist">
 						<li class="nav-item" role="presentation">
 							<button class="nav-link active" id="home-tab09" data-bs-toggle="tab" data-bs-target="#home-tab-pane09"
 								type="button" role="tab" aria-controls="home-tab-pane09" aria-selected="true"> Abstract Logo</button>
@@ -930,7 +930,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000">
-						<img width="100%" src="./images/Logodesign/process1.png" />
+						<img width="100%" src="./images/Logodesign/process1.webp" />
 					</div>
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
@@ -945,7 +945,7 @@
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapseOne" aria-expanded="false" aria-controls="collapseOne">
-											How should I start briefly? <img src="./images/faqdownarrow.png" />
+											How should I start briefly? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
@@ -962,7 +962,7 @@
 									<h2 class="accordion-header" id="headingTwo">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-											How much does it cost? <img src="./images/faqdownarrow.png" />
+											How much does it cost? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -979,7 +979,7 @@
 									<h2 class="accordion-header" id="headingThree">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapseThree" aria-expanded="false" aria-controls="collapseThree">
-											How much time does it need? <img src="./images/faqdownarrow.png" />
+											How much time does it need? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -1014,7 +1014,7 @@
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsefour" aria-expanded="false" aria-controls="collapsefour">
-											Can I get more variations? <img src="./images/faqdownarrow.png" />
+											Can I get more variations? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsefour" class="accordion-collapse collapse" aria-labelledby="headingOne"
@@ -1030,7 +1030,7 @@
 									<h2 class="accordion-header" id="headingTwo">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsefive" aria-expanded="false" aria-controls="collapsefive">
-											Will that logo suit my business? <img src="./images/faqdownarrow.png" />
+											Will that logo suit my business? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsefive" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -1047,7 +1047,7 @@
 									<h2 class="accordion-header" id="headingThree">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsesix" aria-expanded="false" aria-controls="collapsesix">
-											How can we concise the time frame? <img src="./images/faqdownarrow.png" />
+											How can we concise the time frame? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsesix" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -1063,14 +1063,14 @@
 						</div>
 					</div>
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
-						<img width="100%" src="./images/Logodesign/manchatting.png" />
+						<img width="100%" src="./images/Logodesign/manchatting.webp" />
 					</div>
 				</div>
 				<hr>
 				<!-- THIRD ROW START -->
 				<div class="row" style="padding-top: 50px; margin: auto;">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000">
-						<img width="100%" src="./images/Logodesign/colleges.png" />
+						<img width="100%" src="./images/Logodesign/colleges.webp" />
 					</div>
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
@@ -1086,7 +1086,7 @@
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapseseven" aria-expanded="false" aria-controls="collapseseven">
 											Will the logo design be delivered in different file formats suitable for various
-											applications (e.g., web, print, social media? <img src="./images/faqdownarrow.png" />
+											applications (e.g., web, print, social media? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseseven" class="accordion-collapse collapse" aria-labelledby="headingOne"
@@ -1103,7 +1103,7 @@
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapseeight" aria-expanded="false" aria-controls="collapseeight">
 											What rights do I have to the logo design, and can I use it for commercial
-											purposes without any restrictions? <img src="./images/faqdownarrow.png" />
+											purposes without any restrictions? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapseeight" class="accordion-collapse collapse" aria-labelledby="headingTwo"

@@ -175,7 +175,7 @@
 					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane08" role="tabpanel" aria-labelledby="profile-tab08" tabindex="0">
 						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
 							<div class="container">
-								<div class="row">
+								<div class="row" style="margin: auto !important;">
 									<div class="col-4 col-12-medium">
 										<div class="price-inner-plan">
 											<h2 class="heading-pricing-colors">ESSENTIAL</h2>
@@ -274,7 +274,7 @@
 					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane07" role="tabpanel" aria-labelledby="profile-tab07" tabindex="0">
 						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingThree" data-bs-parent="#myTabContent">
 							<div class="container">
-								<div class="row">
+								<div class="row" style="margin: auto !important;">
 									<div class="col-4 col-12-medium">
 										<div class="price-inner-plan">
 											<h2 class="heading-pricing-colors">Startup Collateral</h2>
@@ -369,7 +369,7 @@
 					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane06" role="tabpanel" aria-labelledby="profile-tab06" tabindex="0">
 						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingfour" data-bs-parent="#myTabContent">
 							<div class="container">
-								<div class="row">
+								<div class="row" style="margin: auto !important;">
 									<div class="col-4 col-12-medium">
 										<div class="price-inner-plan">
 											<h2 class="heading-pricing-colors">Startup Plan</h2>
@@ -484,7 +484,7 @@
 					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane05" role="tabpanel" aria-labelledby="profile-tab05" tabindex="0">
 						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingfive" data-bs-parent="#myTabContent">
 							<div class="container">
-								<div class="row">
+								<div class="row" style="margin: auto !important;">
 									<div class="col-4 col-12-medium">
 										<div class="price-inner-plan">
 											<h2 class="heading-pricing-colors">Startup Plan</h2>
@@ -598,7 +598,7 @@
 					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane04" role="tabpanel" aria-labelledby="profile-tab04" tabindex="0">
 						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingsix" data-bs-parent="#myTabContent">
 							<div class="container">
-								<div class="row">
+								<div class="row" style="margin: auto !important;">
 									<div class="col-4 col-12-medium">
 										<div class="price-inner-plan">
 											<h2 class="heading-pricing-colors">Startup Video</h2>

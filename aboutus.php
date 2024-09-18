@@ -75,7 +75,7 @@
 						</div>
 					</div>
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
-						<img src="./images/aboutimage.png" style="width: 100%;" />
+						<img src="./images/aboutimage.webp" style="width: 100%;" />
 					</div>
 				</div>
 
@@ -93,7 +93,7 @@
 
 						</div>
 						<div class="col-2 col-12-medium">
-							<img src="./images/globe.png" />
+							<img src="./images/globe.webp" />
 
 						</div>
 						<div class="col-8 col-12-medium align-self-center">
@@ -179,16 +179,16 @@
 				<h6>Websites</h6>
 				<div class="gallery-container">
 					<div class="gallery-item" data-index="1">
-						<img src="./images/aboutuspageimages/1.png">
+						<img src="./images/aboutuspageimages/1.webp">
 					</div>
 					<div class="gallery-item" data-index="2">
-						<img src="./images/aboutuspageimages/2.png">
+						<img src="./images/aboutuspageimages/2.webp">
 					</div>
 					<div class="gallery-item" data-index="3">
-						<img src="./images/aboutuspageimages/3.png">
+						<img src="./images/aboutuspageimages/3.webp">
 					</div>
 					<div class="gallery-item" data-index="4">
-						<img src="./images/aboutuspageimages/4.png">
+						<img src="./images/aboutuspageimages/4.webp">
 					</div>
 				</div>
 			</div>
@@ -265,13 +265,13 @@
 		<section id="call-toaction-section" style="padding-bottom: 50px;">
 			<div class="container">
 				<div class="my-connect-inner">
-					<div class="row">
+					<div class="row" style="margin: 0 auto;">
 
 
 						<div class="my-custom col-md-12 col-12-medium text-center">
 							<button class="work-with-us">Work with us</button>
-							<h1 style="color: white;">We would be happy to help you grow your business
-								Get a quote!</h1>
+							<h1 style="color: white;">We would be happy to help you grow <br> your business
+								<b>Get a quote!</b></h1>
 							<div class="about-banner-buttons" style="padding-top: 30px;">
 								<ul>
 									<li>
@@ -301,7 +301,7 @@
 					<h2 class="accordion-header" id="headingOne">
 						<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 							data-mdb-target="#basicAccordionCollapseOne" aria-expanded="false" aria-controls="collapseOne">
-							What services do you offer? <img src="./images/faqdownarrow.png" />
+							What services do you offer? <img src="./images/faqdownarrow.webp" />
 						</button>
 					</h2>
 					<div id="basicAccordionCollapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
@@ -317,7 +317,7 @@
 					<h2 class="accordion-header" id="headingTwo">
 						<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 							data-mdb-target="#basicAccordionCollapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-							How much does it cost to work with your agency? <img src="./images/faqdownarrow.png" />
+							How much does it cost to work with your agency? <img src="./images/faqdownarrow.webp" />
 						</button>
 					</h2>
 					<div id="basicAccordionCollapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -334,7 +334,7 @@
 					<h2 class="accordion-header" id="headingThree">
 						<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 							data-mdb-target="#basicAccordionCollapseThree" aria-expanded="false" aria-controls="collapseThree">
-							How long does it take to complete a project? <img src="./images/faqdownarrow.png" />
+							How long does it take to complete a project? <img src="./images/faqdownarrow.webp" />
 						</button>
 					</h2>
 					<div id="basicAccordionCollapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -353,7 +353,7 @@
 						<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 							data-mdb-target="#basicAccordionCollapseFour" aria-expanded="false" aria-controls="collapseFour">
 							What Makes blizztechsolutions Creative Design Agency Unique Compared to Other Industry Competitors?
-							<img src="./images/faqdownarrow.png" />
+							<img src="./images/faqdownarrow.webp" />
 						</button>
 					</h2>
 					<div id="basicAccordionCollapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
@@ -371,7 +371,7 @@
 					<h2 class="accordion-header" id="headingFive">
 						<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 							data-mdb-target="#basicAccordionCollapseFive" aria-expanded="false" aria-controls="collapseFive">
-							How Do I Get Started Working with Your Agency? <img src="./images/faqdownarrow.png" />
+							How Do I Get Started Working with Your Agency? <img src="./images/faqdownarrow.webp" />
 						</button>
 					</h2>
 					<div id="basicAccordionCollapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
@@ -391,7 +391,7 @@
 						<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 							data-mdb-target="#basicAccordionCollapsesix" aria-expanded="false" aria-controls="collapsesix">
 							How Do You Ensure Consistency in Design and Messaging Across Different Marketing Platforms?
-							<img src="./images/faqdownarrow.png" />
+							<img src="./images/faqdownarrow.webp" />
 						</button>
 					</h2>
 					<div id="basicAccordionCollapsesix" class="accordion-collapse collapse" aria-labelledby="headingsix"
@@ -415,7 +415,7 @@
 						<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 							data-mdb-target="#basicAccordionCollapseseven" aria-expanded="false" aria-controls="collapseseven">
 							Can you provide examples of successful design and marketing projects you have worked on?
-							<img src="./images/faqdownarrow.png" />
+							<img src="./images/faqdownarrow.webp" />
 						</button>
 					</h2>
 					<div id="basicAccordionCollapseseven" class="accordion-collapse collapse" aria-labelledby="headingseven"
