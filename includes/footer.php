@@ -60,7 +60,7 @@ if (isset($_POST['submit'])) {
 
         <div class="col-2 col-12-medium">
           <div class="floating_btn">
-            <a target="_blank" href="#">
+            <a target="_blank" href="https://wa.link/n0q4ii">
               <div class="contact_icon">
                 <i class="fa fa-whatsapp my-float"></i>
               </div>
@@ -93,7 +93,7 @@ if (isset($_POST['submit'])) {
             <h4>Contact Us</h4>
             <ul class="nav-menu-links">
               <li><span>Phone :</span> <em>+1 713-922-8987</em></li>
-              <li><span>Email :</span> <em> info@ blizztechsolutions.com</em></li>
+              <li><span>Email :</span> <em> info@blizztechsolutions.com</em></li>
               <li><span>Address :</span> <em> 913 Essex Blvd, Lewisville,
                   Texas 75056, US</em></li>
             </ul>
