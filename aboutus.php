@@ -83,7 +83,30 @@
 		</section>
 
 		<!-- ABOUT US SECTION END -->
+<!-- FOUNDER SECTION START -->
+ <section id="founder">
+	<div class="container">
+		<div class="founder-content">
+			<h2><b>Industry Experts</b></h2>
+			<h2 style="margin-bottom: 20px;">The Stars Who Do the Real Work</h2>
+			<p>At blizztechsolutions, our team is the inevitable ingredient in the recipe for our success. <br> We are a congregation of creative thinkers, skilled designers, expert strategists, and qualified developers <br> who perform together to bring every project to fruition</p>
+		</div>
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h2><b>Meet</b></h2>
+				<div class="founder-image-wrapper">
+					<img src="./images/ceo-image.webp" alt="">
+				</div>
+				<div class="ceo-name">
+                <h2>Noor Ali hirani</h2>
+				<h2><b>CEO & Founder</b></h2>
+				</div> 
+			</div>
 
+		</div>
+	</div>
+ </section>
+<!-- FOUNDER SECTION END -->
 		<!-- MILESTONE SECTION START -->
 		<section id="milestone-section" style="padding: 100px 0px;">
 			<div class="container">
@@ -262,14 +285,14 @@
 		<!-- concept section -->
 		<!-- CALL TO ACTION ABOUT US PAGE START -->
 
-		<section id="call-toaction-section" style="padding-bottom: 50px;">
+		<section id="call-toaction-section" style="padding-bottom: 50px;" data-aos="fade-down">
 			<div class="container">
 				<div class="my-connect-inner">
 					<div class="row" style="margin: 0 auto;">
 
 
 						<div class="my-custom col-md-12 col-12-medium text-center">
-							<button class="work-with-us">Work with us</button>
+							<button class="work-with-us" >Work with us</button>
 							<h1 style="color: white;">We would be happy to help you grow <br> your business
 								<b>Get a quote!</b></h1>
 							<div class="about-banner-buttons" style="padding-top: 30px;">

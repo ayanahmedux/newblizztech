@@ -24,7 +24,7 @@
 										</li>
 										<li>
 											<div class="brand-button">
-												<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+												<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 											</div>
 										</li>
 									</ul>
@@ -73,7 +73,7 @@
 					</div>
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
-						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-about.webp" />
+						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/professional-logo-design-services-3.webp" />
 					</div>
 				</div>
 			</div>
@@ -82,7 +82,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000">
-						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/logo-design-matters.webp" />
+						<img class="animate__animated animate__pulse" style="width: 80%;" src="./images/Logodesign/logo-design-matters.webp" />
 					</div>
 
 
@@ -107,7 +107,7 @@
 						</div>
 					</div>
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
-						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/our-professional-logo-design-services.webp" />
+						<img class="animate__animated animate__pulse" style="width: 80%;" src="./images/Logodesign/our-professional-logo-design-services.webp" />
 					</div>
 				</div>
 
@@ -118,7 +118,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000">
-						<img class="animate__animated animate__pulse" style="width: 100%;" src="./images/Logodesign/process-of-professional-logo-design.webp" />
+						<img class="animate__animated animate__pulse" style="width: 80%;" src="./images/Logodesign/process-of-professional-logo-design.webp" />
 					</div>
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1000">
 						<div class="logoabout-text">
@@ -139,11 +139,11 @@
 				<div class="row">
 					<div class="row-text">
 
-						<h1 style="text-align: center; padding-bottom: 20px;" data-aos-duration="1000" data-aos="fade-right">What We <b> Can Do </b> for You</h1>
+						<h1 style="text-align: center; padding-bottom: 20px;" data-aos-duration="1000" data-aos="fade-up">What We <b> Can Do </b> for You</h1>
 					</div>
 				</div>
 				<div class="row" style="margin: auto;">
-					<div class="col-3 col-12-medium">
+					<div class="col-3 col-12-medium" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/abstract.webp">
@@ -158,7 +158,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col-3 col-12-medium">
+					<div class="col-3 col-12-medium" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/emblem.webp">
@@ -173,7 +173,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col-3 col-12-medium">
+					<div class="col-3 col-12-medium" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/letter.webp">
@@ -189,7 +189,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col-3 col-12-medium">
+					<div class="col-3 col-12-medium" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/mascot.webp">
@@ -229,7 +229,7 @@
 										</li>
 										<li>
 											<div class="brand-button">
-												<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+												<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 											</div>
 										</li>
 									</ul>
@@ -249,7 +249,7 @@
 		<!-- LOGO CALL TO ACTIONS END -->
 
 		<!-- LOGO PORTFOLIO SECTION START -->
-		<section id="logoportfolio" style="padding: 80px 0px;">
+		<section id="logoportfolio" class="logo-design" style="padding: 80px 0px;">
 			<div class="container">
 				<div class="row">
 					<div class="col-9 col-12-medium align-self-center">
@@ -260,9 +260,10 @@
 					<div class="col-3 col-12-medium">
 						<div class="projct-box">
 							<h2>Projects Done</h2>
-							<h1 class="contr"><span class="counter">80</span>+</h1>
+							<h1 class="contr"><span class="counter number" id="project-counter">0</span>+</h1>
 						</div>
 					</div>
+
 				</div>
 			</div>
 
@@ -301,16 +302,16 @@
 						<div id="collapseOne" class="accordion-collapse collapse show  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
-								<div class="gallery-item" data-index="1">
+								<div class="gallery-item" data-index="1"  data-aos="flip-right">
 									<img src="./images/Logodesign/portfolio/1.webp">
 								</div>
-								<div class="gallery-item" data-index="2">
+								<div class="gallery-item" data-index="2"  data-aos="flip-right">
 									<img src="./images/Logodesign/portfolio/2.webp">
 								</div>
-								<div class="gallery-item" data-index="3">
+								<div class="gallery-item" data-index="3"  data-aos="flip-right">
 									<img src="./images/Logodesign/portfolio/3.webp">
 								</div>
-								<div class="gallery-item" data-index="4">
+								<div class="gallery-item" data-index="4"  data-aos="flip-right">
 									<img src="./images/Logodesign/portfolio/4.webp">
 								</div>
 
@@ -648,11 +649,6 @@
 														<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 													</div>
 												</li>
-												<li>
-													<div class="brand-button">
-														<h6><a href="#">View More</a></h6>
-													</div>
-												</li>
 											</ul>
 										</div>
 
@@ -729,11 +725,6 @@
 													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 												</div>
 											</li>
-											<li>
-												<div class="brand-button">
-													<h6><a href="#">View More</a></h6>
-												</div>
-											</li>
 										</ul>
 									</div>
 
@@ -802,11 +793,7 @@
 													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 												</div>
 											</li>
-											<li>
-												<div class="brand-button">
-													<h6><a href="#">View More</a></h6>
-												</div>
-											</li>
+											
 										</ul>
 									</div>
 
@@ -876,11 +863,7 @@
 													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 												</div>
 											</li>
-											<li>
-												<div class="brand-button">
-													<h6><a href="#">View More</a></h6>
-												</div>
-											</li>
+											
 										</ul>
 									</div>
 
@@ -930,7 +913,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000">
-						<img width="100%" src="./images/Logodesign/process1.webp" />
+						<img width="80%" src="./images/Logodesign/process1.webp" />
 					</div>
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
@@ -1063,14 +1046,14 @@
 						</div>
 					</div>
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
-						<img width="100%" src="./images/Logodesign/manchatting.webp" />
+						<img width="80%" src="./images/Logodesign/manchatting.webp" />
 					</div>
 				</div>
 				<hr>
 				<!-- THIRD ROW START -->
 				<div class="row" style="padding-top: 50px; margin: auto;">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000">
-						<img width="100%" src="./images/Logodesign/colleges.webp" />
+						<img width="60%" src="./images/Logodesign/colleges.webp" />
 					</div>
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
@@ -1168,7 +1151,7 @@
 									</li>
 									<li>
 										<div class="brand-button">
-											<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+											<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 										</div>
 									</li>
 								</ul>

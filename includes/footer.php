@@ -133,8 +133,10 @@ if (isset($_POST['submit'])) {
         <div class="col-6 col-12-medium">
           <div class="social-links">
             <ul>
-              <li><a href="https://www.facebook.com/profile.php?id=61563666846807"><img src="./images/social/social1.webp" /></a></li>
-              <li><a href="https://www.instagram.com/blizztech.solutions/"><img src="./images/social/social2.webp" /></a></li>
+              <li><a href="https://www.facebook.com/profile.php?id=61563666846807"><i class="bi bi-facebook"></i></li>
+              <li><a href="https://www.instagram.com/blizztech.solutions/"><i class="bi bi-instagram"></i></li>
+              <li><a href=""></a><i class="bi bi-linkedin"></i></li>
+              <li><a href=""><i class="bi bi-pinterest"></i></li>
             </ul>
           </div>
         </div>
@@ -448,9 +450,95 @@ function checkVisibility() {
 window.addEventListener('scroll', checkVisibility);
 
 </script>
+<script>
+ function animateNumber(finalNumber, duration = 4000, startNumber = 0, elementId) {
+  const numberElement = document.getElementById(elementId);
+  let currentNumber = startNumber;
+  const incrementTime = Math.ceil(duration / finalNumber);
+  
+  const timer = setInterval(() => {
+    currentNumber++;
+    numberElement.textContent = currentNumber;
+    if (currentNumber >= finalNumber) {
+      clearInterval(timer);
+    }
+  }, incrementTime);
+}
 
+// Call the function to start the animation when the page loads
+document.addEventListener('DOMContentLoaded', () => {
+  animateNumber(80, 1500, 0, 'project-counter');
+});
+
+
+</script>
+<script>
+  function animateMilestone(finalNumber, duration = 5000, startNumber = 0, elementId) {
+  const counterElement = document.getElementById(elementId);
+  let currentNumber = startNumber;
+  const incrementTime = Math.ceil(duration / finalNumber);
+  
+  const timer = setInterval(() => {
+    currentNumber++;
+    counterElement.textContent = currentNumber;
+    if (currentNumber >= finalNumber) {
+      clearInterval(timer);
+    }
+  }, incrementTime);
+}
+
+// Call the function to start the animation when the page loads
+document.addEventListener('DOMContentLoaded', () => {
+  animateMilestone(150, 2000, 0, 'milestone-counter');
+});
+
+</script>
+<script>
+  function animateMilestone(finalNumber, duration = 2000, elementId) {
+  const counterElement = document.getElementById(elementId);
+  let currentNumber = 0;
+  const incrementTime = Math.ceil(duration / finalNumber);  // Calculate how much time per increment
+  
+  const timer = setInterval(() => {
+    currentNumber++;
+    counterElement.textContent = currentNumber;
+    
+    if (currentNumber >= finalNumber) {
+      clearInterval(timer);  // Stop the timer once the final number is reached
+    }
+  }, incrementTime);
+}
+
+// Start the milestone timer animation when the page loads
+document.addEventListener('DOMContentLoaded', () => {
+  animateMilestone(90, 1500, 'milestone-timer');  // 90 projects, 1.5 seconds duration
+});
+
+</script>
+<script>
+  function animateMilestone(finalNumber, duration = 2000, elementId) {
+  const counterElement = document.getElementById(elementId);
+  let currentNumber = 0;
+  const incrementTime = Math.ceil(duration / finalNumber);  // Time per increment
+  
+  const timer = setInterval(() => {
+    currentNumber++;
+    counterElement.textContent = currentNumber;
+    
+    if (currentNumber >= finalNumber) {
+      clearInterval(timer);  // Stop the timer once the final number is reached
+    }
+  }, incrementTime);
+}
+
+// Start the animation when the page loads
+document.addEventListener('DOMContentLoaded', () => {
+  animateMilestone(90, 2000, 'branding-counter');  // 90 for Branding Accomplished
+});
+
+</script>
 <!-- Meta Pixel Code -->
-<!-- <script>
+<script>
 !function(f,b,e,v,n,t,s)
 {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};
@@ -464,5 +552,5 @@ fbq('track', 'PageView');
 </script>
 <noscript><img height="1" width="1" style="display:none"
 src="https://www.facebook.com/tr?id=540437431813350&ev=PageView&noscript=1"
-/></noscript> -->
+/></noscript>
 <!-- End Meta Pixel Code -->

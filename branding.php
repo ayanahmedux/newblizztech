@@ -28,7 +28,7 @@
 										</li>
 										<li>
 											<div class="brand-button">
-												<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+												<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 											</div>
 										</li>
 									</ul>
@@ -268,7 +268,7 @@
 
 		<section id="intro-section">
 			<div class="containerr">
-				<div class="row">
+				<div class="row" data-aos="fade-up">
 					<div class="row-text">
 
 						<h3 style="text-align: center; color: #27D6FC;">Choose Creative Web Services</h3>
@@ -276,7 +276,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col">
+					<div class="col" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon1.webp">
@@ -289,7 +289,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col">
+					<div class="col" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon1.webp">
@@ -303,7 +303,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col">
+					<div class="col" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon2.webp">
@@ -316,7 +316,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col">
+					<div class="col" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon3.webp">
@@ -329,7 +329,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col">
+					<div class="col" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon4.webp">
@@ -365,7 +365,7 @@
 										</li>
 										<li>
 											<div class="brand-button">
-												<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+												<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 											</div>
 										</li>
 									</ul>
@@ -396,9 +396,10 @@
 					<div class="col-3 col-12-medium">
 						<div class="projct-box">
 							<h2>Projects Done</h2>
-							<h1 class="contr"><span class="counter">90</span>+</h1>
+							<h1 class="contr"><span class="counter" id="milestone-timer">0</span>+</h1>
 						</div>
 					</div>
+
 				</div>
 			</div>
 
@@ -434,7 +435,7 @@
 						<div id="collapseOne" class="accordion-collapse collapse show  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
-							<div class="gallery-item" data-index="1">
+								<div class="gallery-item" data-index="1">
 									<img src="./images/branding/portfolio/1.webp">
 								</div>
 								<div class="gallery-item" data-index="2">
@@ -460,7 +461,7 @@
 						<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
-								
+
 								<div class="gallery-item" data-index="1">
 									<img src="./images/branding/BusinessCard/Business-Card.webp">
 								</div>
@@ -473,7 +474,7 @@
 								<div class="gallery-item" data-index="4">
 									<img src="./images/branding/BusinessCard/Business-Card-04.webp">
 								</div>
-								
+
 							</div>
 						</div>
 
@@ -552,7 +553,7 @@
 								<div class="gallery-item" data-index="4">
 									<img src="./images/branding/MERCHANDISE/MERCHANDISE4.webp">
 								</div>
-								
+
 							</div>
 						</div>
 
@@ -860,36 +861,26 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
-						<img width="100%" src="./images/branding/who.webp" />
+						<img width="80%" src="./images/branding/who.webp" />
 					</div>
 
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
 						<div class="processinner-text">
-							<h2>It is crucial to establish your identity and ask yourself as the brand<b> “who are you?”</b></h2>
-							<p>Here a brand needs to “ensure identification of the brand with customers and an
-								association of the brand in their customer’s minds with a specific product class,
-								product benefit, or customer need.” Salience means that something is Important
-								and relevant. Therefore, brand salience implies that we recognize the brand,
-								and it is relevant to us. Brand salience is the measurement of consumer recall
-								of the brand in different consumption situations. How persuasive is the brand’s
-								awareness? Are our consumers aware of what needs our brand can satisfy?</p>
+							<h2>Discovery <b>Session</b></h2>
+							<p>Uncover the essence of your brand through in-depth discussions. We get deep into the details into your values, vision, and target audience to set the solid foundation for a unique brand identity</p>
 
 							<div class="accordion w-100" id="basicAccordion">
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsenineteen" aria-expanded="false" aria-controls="collapsenineteen">
-											How Should I Start Brief? <img src="./images/faqdownarrow.webp" />
+											What Happens in the Discovery Session? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsenineteen" class="accordion-collapse collapse" aria-labelledby="headingOne"
 										data-mdb-parent="#basicAccordion">
 										<div class="accordion-body">
-											We offer a wide range of services, including web design,
-											logo design, branding, SEO, social media marketing,
-											and animation. Our team of experts can help you with
-											all aspects of your online presence, from creating a
-											professional website to developing a comprehensive branding strategy.
+											A Discovery Session is an in-depth discussion aimed at understanding the core aspects of your brand. It helps us uncover your values, vision, and target audience, which are crucial in crafting a unique brand identity.
 										</div>
 									</div>
 								</div>
@@ -897,16 +888,13 @@
 									<h2 class="accordion-header" id="headingTwo">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwenty" aria-expanded="false" aria-controls="collapsetwenty">
-											How Much Does It Cost ? <img src="./images/faqdownarrow.webp" />
+											How Long Does a Typical Discovery Session Last? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwenty" class="accordion-collapse collapse" aria-labelledby="headingTwo"
 										data-mdb-parent="#basicAccordion">
 										<div class="accordion-body">
-											We offer a wide range of services, including web design, logo design, branding, SEO,
-											social media marketing, and animation. Our team of experts can help you with all aspects
-											of your online presence, from creating a professional website to developing a
-											comprehensive branding strategy.
+											A Discovery Session's duration can vary based on the complexity of your brand and the depth of information needed. On average, it takes around 1-2 hours to thoroughly explore these essential aspects.
 										</div>
 									</div>
 								</div>
@@ -914,16 +902,13 @@
 									<h2 class="accordion-header" id="headingThree">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentyone" aria-expanded="false" aria-controls="collapsetwentyone">
-											How Much Time Does It Need? <img src="./images/faqdownarrow.webp" />
+											Why Is it Important To Discuss Values and Vision During the Discovery Session? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentyone" class="accordion-collapse collapse" aria-labelledby="headingThree"
 										data-mdb-parent="#basicAccordion">
 										<div class="accordion-body">
-											We offer a wide range of services, including web design, logo design, branding, SEO,
-											social media marketing, and animation. Our team of experts can help you with all aspects
-											of your online presence, from creating a professional website to developing a
-											comprehensive branding strategy.
+											Understanding these elements is important as they form the bedrock of your brand identity. Your values guide us in decision-making, your vision sets future goals, and knowing your target audience ensures that your brand resonates effectively. This knowledge enables us to create a brand that truly represents you.
 										</div>
 									</div>
 								</div>
@@ -939,30 +924,22 @@
 
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
 						<div class="processinner-text">
-							<h2>Strategically linking a host of <b>tangible</b> and <b>intangible</b> brand associations.”</h2>
-							<p>In the performance and imagery step, we expect the brand to perform, and to perform well;
-								we need to develop and communicate to our audience imagery relevant to our brand.
-								Brand performance describes how well the product or service meets the customer’s needs.
-								Brand imagery is used by brands to meet their needs psychologically. Brand imagery refers
-								to more intangible aspects of a brand and allows consumers to recall their experiences and
-								associate a brand with its products and imagery.</p>
+							<h2>Conceptual <b>Design</b></h2>
+							<p>
+								Our creative team brings ideas to life. We create custom logos, choose palettes, and create visuals that embody your brand's personality, making sure that it resonates with your audience.</p>
 
 							<div class="accordion w-100" id="basicAccordion">
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentytwo" aria-expanded="false" aria-controls="collapsetwentytwo">
-											How Should I Start Brief? <img src="./images/faqdownarrow.webp" />
+											What if I'm not satisfied with the initial design concepts? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentytwo" class="accordion-collapse collapse" aria-labelledby="headingOne"
 										data-mdb-parent="#basicAccordion">
 										<div class="accordion-body">
-											We offer a wide range of services, including web design,
-											logo design, branding, SEO, social media marketing,
-											and animation. Our team of experts can help you with
-											all aspects of your online presence, from creating a
-											professional website to developing a comprehensive branding strategy.
+											We understand that perfection often requires revisions. If you're not completely satisfied with the initial concepts, we offer a collaborative process for refinement.
 										</div>
 									</div>
 								</div>
@@ -970,16 +947,13 @@
 									<h2 class="accordion-header" id="headingTwo">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentythree" aria-expanded="false" aria-controls="collapsetwentythree">
-											How Much Does It Cost ? <img src="./images/faqdownarrow.webp" />
+											Can I provide my input or ideas during the conceptual design process? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentythree" class="accordion-collapse collapse" aria-labelledby="headingTwo"
 										data-mdb-parent="#basicAccordion">
 										<div class="accordion-body">
-											We offer a wide range of services, including web design, logo design, branding, SEO,
-											social media marketing, and animation. Our team of experts can help you with all aspects
-											of your online presence, from creating a professional website to developing a
-											comprehensive branding strategy.
+											Absolutely! Your input is highly valuable. We encourage collaboration and welcome any ideas or preferences you have for your brand's visual elements. At the end of the day, we ensure that the final design aligns perfectly with your vision.
 										</div>
 									</div>
 								</div>
@@ -987,16 +961,13 @@
 									<h2 class="accordion-header" id="headingThree">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentyfour" aria-expanded="false" aria-controls="collapsetwentyfour">
-											How Much Time Does It Need? <img src="./images/faqdownarrow.webp" />
+											How long does the conceptual design phase typically take? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentyfour" class="accordion-collapse collapse" aria-labelledby="headingThree"
 										data-mdb-parent="#basicAccordion">
 										<div class="accordion-body">
-											We offer a wide range of services, including web design, logo design, branding, SEO,
-											social media marketing, and animation. Our team of experts can help you with all aspects
-											of your online presence, from creating a professional website to developing a
-											comprehensive branding strategy.
+											The duration of the conceptual design phase can vary depending on the complexity of your brand and the number of revisions needed. On average, we take about 2-4 weeks.
 										</div>
 									</div>
 								</div>
@@ -1016,28 +987,22 @@
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
 						<div class="processinner-text">
-							<h2> Judgement
-								& <b>Look Feelings</b></h2>
-							<p>The objective of the judgment and feelings steps is to “elicit proper customer responses to the brand.”
-
-								In the judgment and feelings step, the consumers are developing feelings and making a judgment about our brand. By making judgments about our brand, I mean consumers are evaluating product performance, their experience with the service, and/or making a judgment on whether they would consider our brand when needing to fulfill future needs. Everyone has an opinion, but the brand judgment stage works to ensure the consumers have a reasonable opinion of the brand. Brand quality, credibility, consideration, and superiority fall within this category, and here a brand strategizes ways to ensure consumers’ judgments are favorable.</p>
+							<h2> Refining Your <b>Brand</b></h2>
+							<p>
+								Collaboration is key. We refine designs based on your feedback, ensuring every element aligns seamlessly with your vision. This iterative process guarantees a brand that truly represents you.</p>
 
 							<div class="accordion w-100" id="basicAccordion">
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentyfive" aria-expanded="false" aria-controls="collapsetwentyfive">
-											How Should I Start Brief? <img src="./images/faqdownarrow.webp" />
+											How many rounds of refinement are included in this process? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentyfive" class="accordion-collapse collapse" aria-labelledby="headingOne"
 										data-mdb-parent="#basicAccordion">
 										<div class="accordion-body">
-											We offer a wide range of services, including web design,
-											logo design, branding, SEO, social media marketing,
-											and animation. Our team of experts can help you with
-											all aspects of your online presence, from creating a
-											professional website to developing a comprehensive branding strategy.
+											The number of refinement rounds can vary based on the complexity of the brand and the level of customization required. On average, we offer up to three rounds of refinement.
 										</div>
 									</div>
 								</div>
@@ -1045,16 +1010,13 @@
 									<h2 class="accordion-header" id="headingTwo">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentysix" aria-expanded="false" aria-controls="collapsetwentysix">
-											How Much Does It Cost ? <img src="./images/faqdownarrow.webp" />
+											How long does it take to see the refined designs after providing feedback? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentysix" class="accordion-collapse collapse" aria-labelledby="headingTwo"
 										data-mdb-parent="#basicAccordion">
 										<div class="accordion-body">
-											We offer a wide range of services, including web design, logo design, branding, SEO,
-											social media marketing, and animation. Our team of experts can help you with all aspects
-											of your online presence, from creating a professional website to developing a
-											comprehensive branding strategy.
+											The turnaround time for refined designs depends on the extent of changes requested. Typically, you can expect to receive updated concepts within 3-5 business days after providing feedback.
 										</div>
 									</div>
 								</div>
@@ -1062,16 +1024,13 @@
 									<h2 class="accordion-header" id="headingThree">
 										<button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
 											data-mdb-target="#basicAccordionCollapsetwentyseven" aria-expanded="false" aria-controls="collapsetwentyseven">
-											How Much Time Does It Need? <img src="./images/faqdownarrow.webp" />
+											Can I make additional changes after the refinement process? <img src="./images/faqdownarrow.webp" />
 										</button>
 									</h2>
 									<div id="basicAccordionCollapsetwentyseven" class="accordion-collapse collapse" aria-labelledby="headingThree"
 										data-mdb-parent="#basicAccordion">
 										<div class="accordion-body">
-											We offer a wide range of services, including web design, logo design, branding, SEO,
-											social media marketing, and animation. Our team of experts can help you with all aspects
-											of your online presence, from creating a professional website to developing a
-											comprehensive branding strategy.
+											Yes, we understand that perfection may require further adjustments. Depending on the project scope, additional changes can be made. However, any significant changes from the original approved concept may affect project timelines.
 										</div>
 									</div>
 								</div>
@@ -1205,7 +1164,7 @@
 									</li>
 									<li>
 										<div class="brand-button">
-											<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+											<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 										</div>
 									</li>
 								</ul>

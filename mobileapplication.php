@@ -31,7 +31,7 @@
 										</li>
 										<li>
 											<div class="brand-button">
-												<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+												<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 											</div>
 										</li>
 									</ul>
@@ -269,7 +269,7 @@
 										</li>
 										<li>
 											<div class="brand-button">
-												<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+												<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 											</div>
 										</li>
 									</ul>
@@ -501,7 +501,7 @@
 									</li>
 									<li>
 										<div class="brand-button">
-											<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+											<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 										</div>
 									</li>
 								</ul>

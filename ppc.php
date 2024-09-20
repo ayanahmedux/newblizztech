@@ -55,7 +55,7 @@
 		<section id="payperclick-about" style="padding: 100px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium align-self-center"  data-aos="fade-right" data-aos-duration="1000">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1000">
 						<h1 style="color: #fff;"><img class="headline" src="./images/greenlinetext.webp" />Strategic <b>PPC Campaign</b> Management</h1>
 						<p style="color: #fff;">
 							<b style="color: #fff;">We design and manage PPC campaigns tailored to your business
@@ -81,9 +81,9 @@
 
 		<section id="logoprocess-inner" style="padding: 100px 0px;">
 			<div class="container">
-				<div class="row">
+				<div class="row" style="align-items: center !important;">
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1000">
-						<img width="100%" src="./images/ppc/cru1.webp" />
+						<img width="80%" src="./images/ppc/cru1.webp" />
 					</div>
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
 						<div class="processinner-text">
@@ -160,7 +160,7 @@
 		<!-- RIGHT PPC START -->
 		<section id="right-ppc">
 			<div class="container">
-				<div class="right-content">
+				<div class="right-content" data-aos="fade-up" data-aos-duration="1000">
 					<h2> The Right <b>PPC Campaigns</b> for SMEs</h2>
 					<p>
 						Search engine marketing involves pay per click management
@@ -186,7 +186,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4"  data-aos="flip-left" data-aos-duration="1000">
+					<div class="col-lg-4" data-aos="flip-left" data-aos-duration="1000">
 						<div class="right-ppc-card">
 							<div class="right-image">
 								<img src="./images/ppc/ppc-img-2.webp" alt="">
@@ -199,7 +199,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4"  data-aos="flip-left" data-aos-duration="1000">
+					<div class="col-lg-4" data-aos="flip-left" data-aos-duration="1000">
 						<div class="right-ppc-card">
 							<div class="right-image">
 								<img src="./images/ppc/ppc-img-3.webp" alt="">
@@ -218,7 +218,7 @@
 		<!-- BESPOKE SECTION START  -->
 		<section id="be-spoke-section">
 			<div class="container">
-				<div class="bespoke-content">
+				<div class="bespoke-content" data-aos="fade-up" data-aos-duration="1000">
 					<h2>Our Bespoke <b>Pay Per Click</b> Marketing Services</h2>
 					<p> We have expertise in running various pay per click marketing
 						services that can aid in increasing your brand visibility online
@@ -228,7 +228,7 @@
 						your sales funnel.</p>
 				</div>
 				<div class="row">
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="fade-up" data-aos-duration="1000">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
 								<img src="./images/ppc/be-spoke-img-1.webp" alt="">
@@ -244,7 +244,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="fade-up" data-aos-duration="1000">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
 								<img src="./images/ppc/be-spoke-img-2.webp" alt="">
@@ -258,7 +258,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="fade-up" data-aos-duration="1000">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
 								<img src="./images/ppc/be-spoke-img-3.webp" alt="">
@@ -274,7 +274,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="fade-up" data-aos-duration="1000">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
 								<img src="./images/ppc/be-spoke-img-4.webp" alt="">
@@ -290,7 +290,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="fade-up" data-aos-duration="1000">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
 								<img src="./images/ppc/be-spoke-img-5.webp" alt="">
@@ -305,7 +305,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="fade-up" data-aos-duration="1000">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
 								<img src="./images/ppc/be-spoke-img-6.webp" alt="">
@@ -319,7 +319,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="fade-up" data-aos-duration="1000">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
 								<img src="./images/ppc/be-spoke-img-7.webp" alt="">
@@ -335,7 +335,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="fade-up" data-aos-duration="1000">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
 								<img src="./images/ppc/be-spoke-img-8.webp" alt="">
@@ -352,7 +352,7 @@
 						</div>
 					</div>
 
-					<div class="col-lg-4">
+					<div class="col-lg-4" data-aos="fade-up" data-aos-duration="1000">
 						<div class="be-spoke-card">
 							<div class="be-spoke-image">
 								<img src="./images/ppc/be-spoke-img-9.webp" alt="">
@@ -383,7 +383,7 @@
 
 				<div class="center">
 					<div>
-						<div class="why-choosetext">
+						<div class="why-choosetext" data-aos="flip-right">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/ppc/why-choose.webp">
 							</div>
@@ -399,7 +399,7 @@
 					</div>
 
 					<div>
-						<div class="why-choosetext">
+						<div class="why-choosetext" data-aos="flip-right">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/ppc/why-choose.webp">
 
@@ -416,7 +416,7 @@
 
 					</div>
 					<div>
-						<div class="why-choosetext">
+						<div class="why-choosetext" data-aos="flip-right">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/ppc/why-choose.webp">
 
@@ -432,7 +432,7 @@
 						</div>
 					</div>
 					<div>
-						<div class="why-choosetext">
+						<div class="why-choosetext" data-aos="flip-right">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/ppc/why-choose.webp">
 
@@ -448,7 +448,7 @@
 						</div>
 					</div>
 					<div>
-						<div class="why-choosetext">
+						<div class="why-choosetext" data-aos="flip-right">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/ppc/why-choose.webp">
 
@@ -487,7 +487,7 @@
 										</li>
 										<li>
 											<div class="brand-button">
-												<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+												<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 											</div>
 										</li>
 									</ul>
@@ -514,17 +514,14 @@
 						<h1 style="color: #fff;"><span style="font-weight: 300;">We have done Many Different</span>
 							<br><b style="color: #fff;">Business Tasks</b>
 						</h1>
-						<p style="color: #fff;">Here a brand needs to “ensure identification of the brand with <br>
-							customers and an association of the brand in their
-							customer’s minds<br> with a specific product </p>
 					</div>
 					<div class="col-3 col-12-medium">
 						<div class="projct-box">
-							<h2>Branding Accomplished</h2>
-							<h1 class="contr"><span class="counter">90</span>+</h1>
-
+							<h2>Campaign Accomplished</h2>
+							<h1 class="contr"><span class="counter" id="branding-counter">0</span>+</h1>
 						</div>
 					</div>
+
 				</div>
 			</div>
 
@@ -588,7 +585,7 @@
 
 		<!-- PRICE PLAN LOGO -->
 
-		
+
 		<!-- PRICE PLAN LOGO END -->
 
 		<!-- STRATEGIC SECTION START -->
@@ -605,7 +602,7 @@
 		<section id="logo-contact-form" style="padding: 210px 0px;">
 			<div class="container">
 				<div class="row contact-inner">
-					<div class="col-6 col-12-medium"  data-aos="fade-down" data-aos-duration="1000">
+					<div class="col-6 col-12-medium" data-aos="fade-down" data-aos-duration="1000">
 						<div class="logo-conactfomrinner">
 							<form class="innerpagescalltoaction" method="post" action="">
 
@@ -628,7 +625,7 @@
 						</div>
 					</div>
 
-					<div class="col-6 col-12-medium"  data-aos="fade-left" data-aos-duration="1000">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
 						<div class="heading-text">
 							<h1>If Our Work Resonates with You- <b>Let’s Connect!</b></h1>
 							<p style="color: #fff;">Let’s forge a creative partnership to explore boundless design and marketing solutions.
@@ -642,7 +639,7 @@
 									</li>
 									<li>
 										<div class="brand-button">
-											<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+											<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 										</div>
 									</li>
 								</ul>
@@ -659,7 +656,7 @@
 		<?php include_once("testimonial-global.php") ?>
 
 		<!-- BLOGS START -->
-	
+
 
 		<!-- BLOGS END -->
 

@@ -17,35 +17,42 @@
 <div class=row style=margin:auto!important>
 <div class="col-md-2 col-12-medium">
 <div class=main-inner>
+<a href="website-designs">
 <div class="inner-card card-with">
 <div class=industry-image>
 <i class="bi bi-code-slash"></i>
 </div>
-<h3>Website Designs</h3>
+<h3>Website Designs and development</h3>
 </div>
+</a>
 </div>
 </div>
 <div class="col-md-2 col-12-medium">
 <div class=main-inner>
+<a href="animation">
 <div class="inner-card card-with">
 <div class=industry-image>
 <i class="bi bi-droplet-half"></i>
 </div>
 <h3>Animation</h3>
 </div>
+</a>
 </div>
 </div>
 <div class="col-md-2 col-12-medium">
 <div class=main-inner>
+<a href="socialmediamarketing">
 <div class="inner-card card-with">
 <div class=industry-image>
 <i class="bi bi-line"></i>
 </div>
 <h3>Social Media Marketing</h3>
 </div>
+</a>
 </div>
 </div>
 <div class="col-md-2 col-12-medium">
+<a href="branding">
 <div class=main-inner>
 <div class="inner-card card-with">
 <div class=industry-image>
@@ -54,8 +61,10 @@
 <h3>Branding</h3>
 </div>
 </div>
+</a>
 </div>
 <div class="col-md-2 col-12-medium">
+<a href="ppc">
 <div class=main-inner>
 <div class="inner-card card-with">
 <div class=industry-image>
@@ -64,8 +73,10 @@
 <h3>PPC</h3>
 </div>
 </div>
+</a>
 </div>
 <div class="col-md-2 col-12-medium">
+<a href="seo">
 <div class=main-inner>
 <div class="inner-card card-with">
 <div class=industry-image>
@@ -74,6 +85,7 @@
 <h3>SEO</h3>
 </div>
 </div>
+</a>
 </div>
 </div>
 </div>
@@ -149,8 +161,8 @@ detail sets us apart, delivering exceptional results that elevate your business 
 <div class="px-2 py-2">
 <div class=why-choosetext>
 <div class=why-choose-image>
-<img class=img1 src=./images/senior.webp>
-<img class=img2 src=./images/seniorcolor.webp>
+<img class=img1 src=./images/educate.webp>
+<img class=img2 src=./images/educatecolor.webp>
 </div>
 <h3>Harness the Power of Advanced Technology</h3>
 <p> Leveraging advanced technology to drive innovation and elevate your digital presence.</p>
@@ -175,8 +187,8 @@ detail sets us apart, delivering exceptional results that elevate your business 
 <div class="px-2 py-2">
 <div class=why-choosetext>
 <div class=why-choose-image>
-<img class=img1 src=./images/senior.webp>
-<img class=img2 src=./images/seniorcolor.webp>
+<img class=img1 src=./images/creative.webp>
+<img class=img2 src=./images/creativecolor.webp>
 </div>
 <h3>Innovative Thinking, Flawless Execution</h3>
 <p> Combining creativity with technical expertise to elevate your brand's presence.</p>
@@ -201,8 +213,8 @@ detail sets us apart, delivering exceptional results that elevate your business 
 <div class="px-2 py-2">
 <div class=why-choosetext>
 <div class=why-choose-image>
-<img class=img1 src=./images/senior.webp>
-<img class=img2 src=./images/seniorcolor.webp>
+<img class=img1 src=./images/creative.webp>
+<img class=img2 src=./images/creativecolor.webp>
 </div>
 <h3>Excellence Through Collaboration</h3>
 <p>We believe in working closely with you to bring your vision to life</p>

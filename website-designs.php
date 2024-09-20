@@ -29,7 +29,7 @@
 										</li>
 										<li>
 											<div class="brand-button">
-												<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+												<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 											</div>
 										</li>
 									</ul>
@@ -73,22 +73,23 @@
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
 						<div class="logoabout-text">
 							<h2>Build Your Online Presence with Expert Web Design and <b> Development</b> </h2>
+							<p class="website-abouttext">At Blizztech Solutions, we take pride in our ability to craft high
+								performance websites that not only look stunning but also
+								function seamlessly. Our expert web development services are
+								designed to bring your unique vision to life, ensuring that your
+								website not only reflects your brand identity but also resonates
+								with your target audience. From the initial concept to the final
+								launch, our dedicated team works tirelessly to ensure that every
+								aspect of your website exceeds expectations.</p>
 
 						</div>
 					</div>
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="2000">
-						<img class="" style="width: 100%;" src="./images/websitedesigns/websiteinfographic.webp" />
+						<img class="" style="width: 80%;" src="./images/websitedesigns/websiteinfographic.webp" />
 					</div>
 				</div>
-				<p class="website-abouttext">At Blizztech Solutions, we take pride in our ability to craft high
-					performance websites that not only look stunning but also
-					function seamlessly. Our expert web development services are
-					designed to bring your unique vision to life, ensuring that your
-					website not only reflects your brand identity but also resonates
-					with your target audience. From the initial concept to the final
-					launch, our dedicated team works tirelessly to ensure that every
-					aspect of your website exceeds expectations.</p>
+
 			</div>
 		</section>
 
@@ -329,8 +330,9 @@
 					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1000">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon1.webp">
-								<img class="img2" src="./images/websitedesigns/webicon11.webp">
+
+								<img class="img1" src="./images/websitedesigns/webicon2.webp">
+								<img class="img2" src="./images/websitedesigns/webicon22.webp">
 							</div>
 							<h3>E-commerce Website</h3>
 							<p>Our website designing services seamlessly blend well with creativity and usability. We
@@ -344,8 +346,9 @@
 					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1000">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon2.webp">
-								<img class="img2" src="./images/websitedesigns/webicon22.webp">
+
+								<img class="img1" src="./images/websitedesigns/webicon3.webp">
+								<img class="img2" src="./images/websitedesigns/webicon33.webp">
 							</div>
 							<h3>Corporate Website</h3>
 							<p>Elevate your company profile with our corporate website services. Our websites
@@ -361,8 +364,8 @@
 					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1000">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon3.webp">
-								<img class="img2" src="./images/websitedesigns/webicon33.webp">
+								<img class="img1" src="./images/websitedesigns/webicon1.webp">
+								<img class="img2" src="./images/websitedesigns/webicon11.webp">
 							</div>
 							<h3>Educational Website</h3>
 							<p>Unlock the power of education with our specialized website designing services. We
@@ -411,7 +414,7 @@
 										</li>
 										<li>
 											<div class="brand-button">
-												<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+												<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 											</div>
 										</li>
 									</ul>
@@ -442,9 +445,10 @@
 					<div class="col-3 col-12-medium">
 						<div class="projct-box">
 							<h2>Projects Done</h2>
-							<h1 class="contr"><span class="counter">150</span>+</h1>
+							<h1 class="contr"><span class="counter" id="milestone-counter">0</span>+</h1>
 						</div>
 					</div>
+
 				</div>
 			</div>
 
@@ -476,17 +480,17 @@
 						<div id="collapseOne" class="accordion-collapse collapse show  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
-								<div class="gallery-item" data-index="1">
-									<img src="./images/websitedesigns/portfolio/informative/1.webp">
+								<div class="gallery-item" data-index="1" style="height: 600px;">
+									<img src="./images/websitedesigns/portfolio/informative/1.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 								</div>
-								<div class="gallery-item" data-index="2">
-									<img src="./images/websitedesigns/portfolio/informative/2.webp">
+								<div class="gallery-item" data-index="2" style="height: 600px;">
+									<img src="./images/websitedesigns/portfolio/informative/2.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 								</div>
-								<div class="gallery-item" data-index="3">
-									<img src="./images/websitedesigns/portfolio/informative/3.webp">
+								<div class="gallery-item" data-index="3" style="height: 600px;">
+									<img src="./images/websitedesigns/portfolio/informative/3.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 								</div>
-								<div class="gallery-item" data-index="4">
-									<img src="./images/websitedesigns/portfolio/informative/4.webp">
+								<div class="gallery-item" data-index="4" style="height: 600px;">
+									<img src="./images/websitedesigns/portfolio/informative/4.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 
 								</div>
 							</div>
@@ -502,17 +506,17 @@
 							<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
 								data-bs-parent="#myTabContent">
 								<div class="gallery-container">
-									<div class="gallery-item" data-index="1">
-										<img src="./images/websitedesigns/portfolio/ecommerce/1.webp">
+									<div class="gallery-item" data-index="1" style="height: 600px;">
+										<img src="./images/websitedesigns/portfolio/ecommerce/1.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 									</div>
-									<div class="gallery-item" data-index="2">
-										<img src="./images/websitedesigns/portfolio/ecommerce/2.webp">
+									<div class="gallery-item" data-index="2" style="height: 600px;">
+										<img src="./images/websitedesigns/portfolio/ecommerce/2.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 									</div>
-									<div class="gallery-item" data-index="3">
-										<img src="./images/websitedesigns/portfolio/ecommerce/3.webp">
+									<div class="gallery-item" data-index="3" style="height: 600px;">
+										<img src="./images/websitedesigns/portfolio/ecommerce/1.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 									</div>
-									<div class="gallery-item" data-index="4">
-										<img src="./images/websitedesigns/portfolio/ecommerce/4.webp">
+									<div class="gallery-item" data-index="4" style="height: 600px;">
+										<img src="./images/websitedesigns/portfolio/ecommerce/4.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 									</div>
 
 								</div>
@@ -529,17 +533,17 @@
 							<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
 								data-bs-parent="#myTabContent">
 								<div class="gallery-container">
-									<div class="gallery-item" data-index="1">
-										<img src="./images/websitedesigns/portfolio/webapp/1.webp">
+									<div class="gallery-item" data-index="1" style="height: 600px;">
+										<img src="./images/websitedesigns/portfolio/webapp/1.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 									</div>
-									<div class="gallery-item" data-index="2">
-										<img src="./images/websitedesigns/portfolio/webapp/2.webp">
+									<div class="gallery-item" data-index="2" style="height: 600px;">
+										<img src="./images/websitedesigns/portfolio/webapp/2.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 									</div>
-									<div class="gallery-item" data-index="3">
-										<img src="./images/websitedesigns/portfolio/webapp/3.webp">
-									</div>
-									<div class="gallery-item" data-index="4">
-										<img src="./images/websitedesigns/portfolio/webapp/4.webp">
+									<div class="gallery-item" data-index="3" style="height: 600px;">
+										<img src="./images/websitedesigns/portfolio/webapp/3.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
+									</div> 
+									<div class="gallery-item" data-index="4" style="height: 600px;">
+										<img src="./images/websitedesigns/portfolio/webapp/4.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 									</div>
 								</div>
 							</div>
@@ -555,17 +559,17 @@
 							<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
 								data-bs-parent="#myTabContent">
 								<div class="gallery-container">
-									<div class="gallery-item" data-index="1">
-										<img src="./images/websitedesigns/portfolio/estore/1.webp">
+									<div class="gallery-item" data-index="1" style="height: 600px;">
+										<img src="./images/websitedesigns/portfolio/estore/1.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 									</div>
-									<div class="gallery-item" data-index="2">
-										<img src="./images/websitedesigns/portfolio/estore/2.webp">
+									<div class="gallery-item" data-index="2" style="height: 600px;">
+										<img src="./images/websitedesigns/portfolio/estore/2.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 									</div>
-									<div class="gallery-item" data-index="3">
-										<img src="./images/websitedesigns/portfolio/estore/3.webp">
+									<div class="gallery-item" data-index="3" style="height: 600px;">
+										<img src="./images/websitedesigns/portfolio/estore/3.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 									</div>
-									<div class="gallery-item" data-index="4">
-										<img src="./images/websitedesigns/portfolio/estore/4.webp">
+									<div class="gallery-item" data-index="4" style="height: 600px;">
+										<img src="./images/websitedesigns/portfolio/estore/4.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 									</div>
 								</div>
 							</div>
@@ -629,253 +633,242 @@
 								data-bs-parent="#myTabContent">
 								<div class="container">
 									<div class="row" style="margin: auto !important;">
-										<div class="col-4 col-12-medium">
-											<div class="price-inner-plan">
-												<div class="price-heading-text">
-													<h2>Core Plan</h2>
-													<h4>$199.00</h4>
-												</div>
-												<div class="price-list">
-													<ul>
-														<li>3 Page Website</li>
-														<li>2 Stock Images</li>
-														<li>Contact/Query Form</li>
-														<li>Complete Deployment</li>
-														<li>Dedicated Account Manager</li>
-														<li>48 to 72 hours TAT</li>
-														<li>100% Satisfaction Guarantee</li>
-														<li>100% Unique Design Guarantee</li>
-													</ul>
-
-												</div>
-
-											</div>
-
-										</div>
-
-										<div class="col-4 col-12-medium">
-											<div class="price-inner-plan">
-												<div class="price-heading-text">
-													<h2>Group Plan</h2>
-													<h4>$499.00</h4>
-												</div>
-												<div class="price-list">
-
-													<ul>
-														<li>5-6 Unique Pages Website</li>
-														<li>5 Stock Photos</li>
-														<li>1 Banner Design</li>
-														<li>1 jQuery Slider Banner</li>
-														<li>Google Friendly Sitemap</li>
-														<li>Complete Deployment</li>
-														<li>W3C Certified HTML</li>
-														<li>Cross Browser Compatible</li>
-														<li>1 Banner Design</li>
-														<li>1 jQuery Slider Banner</li>
-														<li>Google Friendly Sitemap</li>
-														<li>Dedicated Account Manager</li>
-														<li>48 to 72 hours TAT</li>
-														<li>100% Satisfaction Guarantee</li>
-														<li>100% Unique Design Guarantee</li>
-													</ul>
-												</div>
-
-											</div>
-
-										</div>
-
-
-										<div class="col-4 col-12-medium">
-											<div class="price-inner-plan">
-												<div class="price-heading-text">
-													<h2>Executive Plan</h2>
-													<h4>$799.00</h4>
-												</div>
-												<div class="price-list">
-
-													<ul>
-														<li> 10 Unique Pages Website</li>
-
-														<li>CMS Integration</li>
-
-														<li>Custom WordPress Backend</li>
-
-														<li>8 Stock images</li>
-
-														<li>3 Slider Banner Design</li>
-
-														<li>1 jQuery Slider Banner</li>
-
-														<li>FREE Google Friendly Sitemap</li>
-
-														<li>Complete Deployment</li>
-
-														<li>W3C Certified HTML</li>
-
-														<li>Mobile Responsive</li>
-
-														<li>Cross Browser Compatible</li>
-
-														<li>Dedicated Account Manager</li>
-
-														<li>48 to 72 hours TAT</li>
-
-														<li>100% Satisfaction Guaranteed</li>
-
-														<li>100% Unique Design Guaranteed</li>
-													</ul>
-												</div>
-
-											</div>
-
-										</div>
-
-
-
-									</div>
-									<div class="row mt-5">
-										<div class="col-4 col-12-medium">
-											<div class="price-inner-plan">
-												<div class="price-heading-text">
-													<h2>Prestige Plan</h2>
-													<h4>$999</h4>
-												</div>
-												<div class="price-list">
-
-													<ul>
-														<li>Upto 16 Unique Pages Website</li>
-														<li>Conceptual and Dynamic Website</li>
-														<li>Online Reservation/Appointment Tool</li>
-														<li>Custom Forms</li>
-														<li>Lead Capturing Forms</li>
-														<li>Striking Hover Effects</li>
-														<li>Newsletter Subscription</li>
-														<li>News Feed Integration</li>
-														<li>Social Media Integration</li>
-														<li>8 Stock Photos</li>
-														<li>3 Unique Banner Design</li>
-														<li>1 jQuery Slider Banner</li>
-														<li>Complete W3C Certified HTML</li>
-														<li>48 to 72 hours TAT (Design Mockup)</li>
-														<li>Complete Deployment</li>
-
-													</ul>
-												</div>
-
-											</div>
-
-										</div>
-
-										<div class="col-4 col-12-medium">
-											<div class="price-inner-plan">
-												<div class="price-heading-text">
-													<h2> Enterprise Plus Plan</h2>
-													<h4>$1499</h4>
-												</div>
-												<div class="price-list">
-
-													<ul>
-														<li>Unlimited Pages Website</li>
-														<li>Custom Made, Interactive, Dynamic & High End Design</li>
-														<li>Custom WP (or) Custom PHP Development</li>
-														<li>1 jQuery Slider Banner</li>
-														<li>Up to 8 Custom Made Banner Designs</li>
-														<li>12 Stock Images</li>
-														<li>Unlimited Revisions</li>
-														<li>Special Hover Effects</li>
-														<li>Content Management System (CMS) or Custom Dashboard PHP</li>
-														<li>Online Appointment/Scheduling/Online Ordering Integration</li>
-														<li>Mobile Responsive (All Devices Compatible)</li>
-														<li>Multi Lingual</li>
-														<li>Custom Dynamic Forms</li>
-														<li>Signup Area (For Newsletters, Offers etc.)</li>
-														<li>Easy Search Bar</li>
-														<li>Live Feeds of Social Networks integration</li>
-														<li>Free Google Friendly Sitemap</li>
-														<li>Search Engine Submission</li>
-														<li>Complete W3C Certified HTML</li>
-														<li>48 to 72 hours TAT (Design Mockup)</li>
-														<li>Complete Deployment</li>
-													</ul>
-												</div>
-
-											</div>
-
-										</div>
-
-
-										<div class="col-4 col-12-medium">
-											<div class="price-inner-plan">
-												<div class="price-heading-text">
-													<h2>Top-tier Plan</h2>
-													<h4>$2299</h4>
-												</div>
-												<div class="price-list">
-
-													<ul>
-														<li>Unlimited Pages Website </li>
-														<li>Custom Made, Interactive, Dynamic & High End Design</li>
-														<li>Custom WP (or) Custom PHP Development</li>
-														<li>1 jQuery Slider Banner</li>
-														<li>Up to 12 Custom Made Banner Designs</li>
-														<li>14 Stock Images</li>
-														<li>Unlimited Revisions</li>
-														<li>Special Hover Effects</li>
-														<li>Content Management System (CMS) or Custom Dashboard PHP</li>
-														<li>Online Appointment/Scheduling/Online Ordering Integration</li>
-														<li>Online Payment Integration</li>
-														<li>Multi Lingual</li>
-														<li>Custom Dynamic Forms</li>
-														<li>Signup Area (For Newsletters, Offers etc.)</li>
-														<li>Easy Search Bar</li>
-														<li>Live Feeds of Social Networks integration</li>
-														<li>Mobile Responsive (All Devices Compatible)</li>
-														<li>FREE 5 Years Domain Name</li>
-														<li>Free Google Friendly Sitemap</li>
-														<li>15 Seconds 2D Explainer Video</li>
-														<li>Professional Script Writing</li>
-														<li>SEO Meta Tags</li>
-														<li>Search Engine Submission</li>
-														<li>Complete W3C Certified HTML</li>
-														<li>48 to 72 hours TAT (Design Mockup)</li>
-														<li>Complete Deployment</li>
-													</ul>
-												</div>
-
-											</div>
-
-										</div>
-
-										<div class="custom-price-button" style="padding-top: 70px;">
-											<ul>
-												<li>
-													<div class="brand-button">
-														<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+										<div class="center">
+											<div class="px-2 py-2">
+												<div class="price-inner-plan">
+													<div class="price-heading-text">
+														<h2>Core Plan</h2>
+														<h4>$199.00</h4>
 													</div>
-												</li>
-												<li>
-													<div class="brand-button">
-														<h6><a href="#">View More</a></h6>
-													</div>
-												</li>
-											</ul>
-										</div>
+													<div class="price-list">
+														<ul>
+															<li>3 Page Website</li>
+															<li>2 Stock Images</li>
+															<li>Contact/Query Form</li>
+															<li>Complete Deployment</li>
+															<li>Dedicated Account Manager</li>
+															<li>48 to 72 hours TAT</li>
+															<li>100% Satisfaction Guarantee</li>
+															<li>100% Unique Design Guarantee</li>
+														</ul>
 
+													</div>
+
+												</div>
+											</div>
+											<div class="px-2 py-2">
+												<div class="price-inner-plan">
+													<div class="price-heading-text">
+														<h2>Group Plan</h2>
+														<h4>$499.00</h4>
+													</div>
+													<div class="price-list">
+
+														<ul>
+															<li>5-6 Unique Pages Website</li>
+															<li>5 Stock Photos</li>
+															<li>1 Banner Design</li>
+															<li>1 jQuery Slider Banner</li>
+															<li>Google Friendly Sitemap</li>
+															<li>Complete Deployment</li>
+															<li>W3C Certified HTML</li>
+															<li>Cross Browser Compatible</li>
+															<li>1 Banner Design</li>
+															<li>1 jQuery Slider Banner</li>
+															<li>Google Friendly Sitemap</li>
+															<li>Dedicated Account Manager</li>
+															<li>48 to 72 hours TAT</li>
+															<li>100% Satisfaction Guarantee</li>
+															<li>100% Unique Design Guarantee</li>
+														</ul>
+													</div>
+
+												</div>
+
+											</div>
+											<div class="px-2 py-2">
+												<div class="price-inner-plan">
+													<div class="price-heading-text">
+														<h2>Executive Plan</h2>
+														<h4>$799.00</h4>
+													</div>
+													<div class="price-list">
+
+														<ul>
+															<li> 10 Unique Pages Website</li>
+
+															<li>CMS Integration</li>
+
+															<li>Custom WordPress Backend</li>
+
+															<li>8 Stock images</li>
+
+															<li>3 Slider Banner Design</li>
+
+															<li>1 jQuery Slider Banner</li>
+
+															<li>FREE Google Friendly Sitemap</li>
+
+															<li>Complete Deployment</li>
+
+															<li>W3C Certified HTML</li>
+
+															<li>Mobile Responsive</li>
+
+															<li>Cross Browser Compatible</li>
+
+															<li>Dedicated Account Manager</li>
+
+															<li>48 to 72 hours TAT</li>
+
+															<li>100% Satisfaction Guaranteed</li>
+
+															<li>100% Unique Design Guaranteed</li>
+														</ul>
+													</div>
+
+												</div>
+
+
+											</div>
+
+											<div class="px-2 py-2">
+
+												<div class="price-inner-plan">
+													<div class="price-heading-text">
+														<h2>Prestige Plan</h2>
+														<h4>$999</h4>
+													</div>
+													<div class="price-list">
+
+														<ul>
+															<li>Upto 16 Unique Pages Website</li>
+															<li>Conceptual and Dynamic Website</li>
+															<li>Online Reservation/Appointment Tool</li>
+															<li>Custom Forms</li>
+															<li>Lead Capturing Forms</li>
+															<li>Striking Hover Effects</li>
+															<li>Newsletter Subscription</li>
+															<li>News Feed Integration</li>
+															<li>Social Media Integration</li>
+															<li>8 Stock Photos</li>
+															<li>3 Unique Banner Design</li>
+															<li>1 jQuery Slider Banner</li>
+															<li>Complete W3C Certified HTML</li>
+															<li>48 to 72 hours TAT (Design Mockup)</li>
+															<li>Complete Deployment</li>
+
+														</ul>
+													</div>
+
+												</div>
+											</div>
+											<div class="px-2 py-2">
+												<div class="price-inner-plan">
+													<div class="price-heading-text">
+														<h2> Enterprise Plus Plan</h2>
+														<h4>$1499</h4>
+													</div>
+													<div class="price-list">
+
+														<ul>
+															<li>Unlimited Pages Website</li>
+															<li>Custom Made, Interactive, Dynamic & High End Design</li>
+															<li>Custom WP (or) Custom PHP Development</li>
+															<li>1 jQuery Slider Banner</li>
+															<li>Up to 8 Custom Made Banner Designs</li>
+															<li>12 Stock Images</li>
+															<li>Unlimited Revisions</li>
+															<li>Special Hover Effects</li>
+															<li>Content Management System (CMS) or Custom Dashboard PHP</li>
+															<li>Online Appointment/Scheduling/Online Ordering Integration</li>
+															<li>Mobile Responsive (All Devices Compatible)</li>
+															<li>Multi Lingual</li>
+															<li>Custom Dynamic Forms</li>
+															<li>Signup Area (For Newsletters, Offers etc.)</li>
+															<li>Easy Search Bar</li>
+															<li>Live Feeds of Social Networks integration</li>
+															<li>Free Google Friendly Sitemap</li>
+															<li>Search Engine Submission</li>
+															<li>Complete W3C Certified HTML</li>
+															<li>48 to 72 hours TAT (Design Mockup)</li>
+															<li>Complete Deployment</li>
+														</ul>
+													</div>
+
+												</div>
+											</div>
+											<div class="px-2 py-2">
+												<div class="price-inner-plan">
+													<div class="price-heading-text">
+														<h2>Top-tier Plan</h2>
+														<h4>$2299</h4>
+													</div>
+													<div class="price-list">
+
+														<ul>
+															<li>Unlimited Pages Website </li>
+															<li>Custom Made, Interactive, Dynamic & High End Design</li>
+															<li>Custom WP (or) Custom PHP Development</li>
+															<li>1 jQuery Slider Banner</li>
+															<li>Up to 12 Custom Made Banner Designs</li>
+															<li>14 Stock Images</li>
+															<li>Unlimited Revisions</li>
+															<li>Special Hover Effects</li>
+															<li>Content Management System (CMS) or Custom Dashboard PHP</li>
+															<li>Online Appointment/Scheduling/Online Ordering Integration</li>
+															<li>Online Payment Integration</li>
+															<li>Multi Lingual</li>
+															<li>Custom Dynamic Forms</li>
+															<li>Signup Area (For Newsletters, Offers etc.)</li>
+															<li>Easy Search Bar</li>
+															<li>Live Feeds of Social Networks integration</li>
+															<li>Mobile Responsive (All Devices Compatible)</li>
+															<li>FREE 5 Years Domain Name</li>
+															<li>Free Google Friendly Sitemap</li>
+															<li>15 Seconds 2D Explainer Video</li>
+															<li>Professional Script Writing</li>
+															<li>SEO Meta Tags</li>
+															<li>Search Engine Submission</li>
+															<li>Complete W3C Certified HTML</li>
+															<li>48 to 72 hours TAT (Design Mockup)</li>
+															<li>Complete Deployment</li>
+														</ul>
+													</div>
+
+												</div>
+											</div>
+										</div>
 									</div>
 								</div>
-							</div>
 
+
+								<div class="custom-price-button" style="padding-top: 70px;">
+									<ul>
+										<li>
+											<div class="brand-button">
+												<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+											</div>
+										</li>
+									</ul>
+								</div>
+
+
+							</div>
 						</div>
 
 					</div>
-					<!-- WEBSITE PRICE SECTION END -->
 
-					<!-- LOGOS PRICE PLAN Start -->
-					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane08" role="tabpanel" aria-labelledby="profile-tab08" tabindex="0">
-						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
-							<div class="container">
-								<div class="row">
-									<div class="col-4 col-12-medium">
+				</div>
+				<!-- WEBSITE PRICE SECTION END -->
+
+				<!-- LOGOS PRICE PLAN Start -->
+				<div class="tab-pane fade accordion-item prr" id="profile-tab-pane08" role="tabpanel" aria-labelledby="profile-tab08" tabindex="0">
+					<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
+						<div class="container">
+							<div class="row">
+								<div class="center">
+									<div class="px-2 py-2">
 										<div class="price-inner-plan">
 											<div class="price-heading-text">
 												<h2>Entry Plan</h2>
@@ -905,10 +898,8 @@
 											</div>
 
 										</div>
-
 									</div>
-
-									<div class="col-4 col-12-medium">
+									<div class="px-2 py-2">
 										<div class="price-inner-plan">
 											<div class="price-heading-text">
 												<h2>Mid-tier Plan</h2>
@@ -940,9 +931,7 @@
 										</div>
 
 									</div>
-
-
-									<div class="col-4 col-12-medium">
+									<div class="px-2 py-2">
 										<div class="price-inner-plan">
 											<div class="price-heading-text">
 												<h2>Pro Plan</h2>
@@ -988,7 +977,7 @@
 										</div>
 
 									</div>
-									<div class="col-4 col-12-medium mt-5">
+									<div class="px-2 py-2">
 										<div class="price-inner-plan">
 											<div class="price-heading-text">
 												<h2> Executive Plan</h2>
@@ -1036,29 +1025,23 @@
 											</div>
 
 										</div>
-
 									</div>
-
-									<div class="custom-price-button" style="padding-top: 70px;">
-										<ul>
-											<li>
-												<div class="brand-button">
-													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-												</div>
-											</li>
-											<li>
-												<div class="brand-button">
-													<h6><a href="#">View More</a></h6>
-												</div>
-											</li>
-										</ul>
-									</div>
-
+								</div>
+								<div class="custom-price-button" style="padding-top: 70px;">
+									<ul>
+										<li>
+											<div class="brand-button">
+												<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+											</div>
+										</li>
+									</ul>
 								</div>
 
 							</div>
+
 						</div>
 					</div>
+				</div>
 		</section>
 		<!-- LOGOS PRICE PLAN END -->
 		<!-- PRICE PLAN LOGO END -->
@@ -1106,7 +1089,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
-						<img width="100%" src="./images/websitedesigns/yourwork.webp" />
+						<img width="80%" src="./images/websitedesigns/yourwork.webp" />
 					</div>
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
@@ -1208,14 +1191,14 @@
 						</div>
 					</div>
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
-						<img width="100%" src="./images/websitedesigns/timeframese.webp" />
+						<img width="80%" src="./images/websitedesigns/timeframese.webp" />
 					</div>
 				</div>
 				<hr>
 				<!-- THIRD ROW START -->
 				<div class="row" style="padding-top: 50px; margin: auto;">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
-						<img width="100%" src="./images/websitedesigns/development.webp" />
+						<img width="80%" src="./images/websitedesigns/development.webp" />
 					</div>
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
@@ -1317,7 +1300,7 @@
 						</div>
 					</div>
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
-						<img width="100%" src="./images/websitedesigns/measures.webp" />
+						<img width="80%" src="./images/websitedesigns/measures.webp" />
 					</div>
 				</div>
 				<!-- FOUR ROW END -->
@@ -1371,7 +1354,7 @@
 									</li>
 									<li>
 										<div class="brand-button">
-											<h6><a href="#"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+											<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 										</div>
 									</li>
 								</ul>

@@ -156,7 +156,7 @@
 												</li>
 												<li>
 													<div class="brand-button">
-														<h6><a href="#">View More</a></h6>
+														<h6><a href="pricing">View More</a></h6>
 													</div>
 												</li>
 											</ul>
@@ -257,7 +257,7 @@
 											</li>
 											<li>
 												<div class="brand-button">
-													<h6><a href="#">View More</a></h6>
+													<h6><a href="pricing">View More</a></h6>
 												</div>
 											</li>
 										</ul>
@@ -352,7 +352,7 @@
 											</li>
 											<li>
 												<div class="brand-button">
-													<h6><a href="#">View More</a></h6>
+													<h6><a href="pricing">View More</a></h6>
 												</div>
 											</li>
 										</ul>
@@ -467,7 +467,7 @@
 											</li>
 											<li>
 												<div class="brand-button">
-													<h6><a href="#">View More</a></h6>
+													<h6><a href="pricing">View More</a></h6>
 												</div>
 											</li>
 										</ul>
@@ -583,7 +583,7 @@
 											</li>
 											<li>
 												<div class="brand-button">
-													<h6><a href="#">View More</a></h6>
+													<h6><a href="pricing">View More</a></h6>
 												</div>
 											</li>
 										</ul>
@@ -686,7 +686,7 @@
 											</li>
 											<li>
 												<div class="brand-button">
-													<h6><a href="#">View More</a></h6>
+													<h6><a href="pricing">View More</a></h6>
 												</div>
 											</li>
 										</ul>
