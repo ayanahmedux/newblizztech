@@ -444,10 +444,12 @@
 					</div>
 					<div class="col-3 col-12-medium">
 						<div class="projct-box">
-							<h2>Projects Done</h2>
-							<h1 class="contr"><span class="counter" id="milestone-counter">0</span>+</h1>
+							<h2>Projects Achieved</h2>
+							<h1 class="contr"><span id="milestone-counter">0</span>+</h1>
 						</div>
 					</div>
+
+
 
 				</div>
 			</div>
@@ -541,7 +543,7 @@
 									</div>
 									<div class="gallery-item" data-index="3" style="height: 600px;">
 										<img src="./images/websitedesigns/portfolio/webapp/3.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
-									</div> 
+									</div>
 									<div class="gallery-item" data-index="4" style="height: 600px;">
 										<img src="./images/websitedesigns/portfolio/webapp/4.webp" style="width: 100%; object-fit: cover; height: 100%; object-position: 0% 0%;">
 									</div>

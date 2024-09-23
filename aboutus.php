@@ -91,7 +91,7 @@
 			<h2 style="margin-bottom: 20px;">The Stars Who Do the Real Work</h2>
 			<p>At blizztechsolutions, our team is the inevitable ingredient in the recipe for our success. <br> We are a congregation of creative thinkers, skilled designers, expert strategists, and qualified developers <br> who perform together to bring every project to fruition</p>
 		</div>
-		<div class="row">
+		<div class="row" style="margin: auto;">
 			<div class="col-lg-12 text-center">
 				<h2><b>Meet</b></h2>
 				<div class="founder-image-wrapper">
@@ -99,7 +99,7 @@
 				</div>
 				<div class="ceo-name">
                 <h2>Noor Ali hirani</h2>
-				<h2><b>CEO & Founder</b></h2>
+				<h2>CEO & Founder</h2>
 				</div> 
 			</div>
 

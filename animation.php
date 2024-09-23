@@ -460,7 +460,7 @@
                             <h2 class="logoabout-text-h2">Understanding <b>Animation</b> Service Costs</h2>
                             <p>
                                 Pricing depends on your animation’s complexity, style, and length. We ensure transparent, flexible
-                                pricing without compromising quality. You’ll receive high-quality animations within your budget.a
+                                pricing without compromising quality. You’ll receive high-quality animations within your budget.
                             </p>
                         </div>
                     </div>
@@ -858,7 +858,7 @@
                     </li>
                     <li>
                         <div class="brand-button">
-                            <h6><a href="portfolio.html">View Portfolio</a></h6>
+                            <h6><a href="portfolio">View Portfolio</a></h6>
                         </div>
                     </li>
                 </ul>

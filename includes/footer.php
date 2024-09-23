@@ -451,7 +451,7 @@ window.addEventListener('scroll', checkVisibility);
 
 </script>
 <script>
- function animateNumber(finalNumber, duration = 4000, startNumber = 0, elementId) {
+function animateNumber(finalNumber, duration = 4000, startNumber = 0, elementId) {
   const numberElement = document.getElementById(elementId);
   let currentNumber = startNumber;
   const incrementTime = Math.ceil(duration / finalNumber);
@@ -460,44 +460,84 @@ window.addEventListener('scroll', checkVisibility);
     currentNumber++;
     numberElement.textContent = currentNumber;
     if (currentNumber >= finalNumber) {
-      clearInterval(timer);
+      clearInterval(timer);  // Stop the timer once the final number is reached
     }
   }, incrementTime);
 }
 
-// Call the function to start the animation when the page loads
+// Use IntersectionObserver to trigger the animation on scroll
 document.addEventListener('DOMContentLoaded', () => {
-  animateNumber(80, 1500, 0, 'project-counter');
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        // Start the number animation when the element is in view
+        animateNumber(80, 1500, 0, 'project-counter');  // 80 projects, 1.5 seconds duration
+        observer.unobserve(entry.target);  // Stop observing after animation starts
+      }
+    });
+  }, { threshold: 0.1 });  // Trigger when 10% of the element is visible
+  
+  // Observe the element with the ID 'project-counter'
+  const numberElement = document.getElementById('project-counter');
+  observer.observe(numberElement);
 });
-
 
 </script>
 <script>
-  function animateMilestone(finalNumber, duration = 5000, startNumber = 0, elementId) {
+function animateMilestone(finalNumber, duration = 5000, startNumber = 0, elementId) {
   const counterElement = document.getElementById(elementId);
+
+  // Check if the element exists
+  if (!counterElement) {
+    console.error(`Element with ID ${elementId} not found.`);
+    return;
+  }
+  
   let currentNumber = startNumber;
   const incrementTime = Math.ceil(duration / finalNumber);
-  
+
   const timer = setInterval(() => {
     currentNumber++;
     counterElement.textContent = currentNumber;
     if (currentNumber >= finalNumber) {
-      clearInterval(timer);
+      clearInterval(timer);  // Stop the timer when final number is reached
     }
   }, incrementTime);
 }
 
-// Call the function to start the animation when the page loads
+// Use IntersectionObserver to trigger the animation on scroll
 document.addEventListener('DOMContentLoaded', () => {
-  animateMilestone(150, 2000, 0, 'milestone-counter');
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        console.log('Milestone counter in view, starting animation.');
+        
+        // Start the milestone animation when the element is in view
+        animateMilestone(150, 2000, 0, 'milestone-counter');  // 150 milestones, 2 seconds duration, start from 0
+        
+        observer.unobserve(entry.target);  // Stop observing after animation starts
+      }
+    });
+  }, { threshold: 0.1 });  // Trigger when 10% of the element is visible
+  
+  // Observe the element with the ID 'milestone-counter'
+  const counterElement = document.getElementById('milestone-counter');
+  
+  if (counterElement) {
+    observer.observe(counterElement);
+    console.log('Observer set up on #milestone-counter.');
+  } else {
+    console.error('Milestone counter element not found.');
+  }
 });
+
 
 </script>
 <script>
-  function animateMilestone(finalNumber, duration = 2000, elementId) {
+ function animateMilestone(finalNumber, duration = 2000, elementId) {
   const counterElement = document.getElementById(elementId);
   let currentNumber = 0;
-  const incrementTime = Math.ceil(duration / finalNumber);  // Calculate how much time per increment
+  const incrementTime = Math.ceil(duration / finalNumber);  // Calculate time per increment
   
   const timer = setInterval(() => {
     currentNumber++;
@@ -509,14 +549,27 @@ document.addEventListener('DOMContentLoaded', () => {
   }, incrementTime);
 }
 
-// Start the milestone timer animation when the page loads
+// Use IntersectionObserver to trigger the animation on scroll
 document.addEventListener('DOMContentLoaded', () => {
-  animateMilestone(90, 1500, 'milestone-timer');  // 90 projects, 1.5 seconds duration
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        // Start the milestone animation when the element is in view
+        animateMilestone(90, 1500, 'milestone-timer');  // 90 projects, 1.5 seconds duration
+        observer.unobserve(entry.target);  // Stop observing after animation starts
+      }
+    });
+  }, { threshold: 0.1 });  // Trigger when 10% of the element is visible
+  
+  // Observe the element with the ID 'milestone-timer'
+  const counterElement = document.getElementById('milestone-timer');
+  observer.observe(counterElement);
 });
+
 
 </script>
 <script>
-  function animateMilestone(finalNumber, duration = 2000, elementId) {
+ function animateMilestone(finalNumber, duration = 2000, elementId) {
   const counterElement = document.getElementById(elementId);
   let currentNumber = 0;
   const incrementTime = Math.ceil(duration / finalNumber);  // Time per increment
@@ -531,9 +584,95 @@ document.addEventListener('DOMContentLoaded', () => {
   }, incrementTime);
 }
 
-// Start the animation when the page loads
+// Use IntersectionObserver to trigger the animation on scroll
 document.addEventListener('DOMContentLoaded', () => {
-  animateMilestone(90, 2000, 'branding-counter');  // 90 for Branding Accomplished
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        // Start the milestone animation when the element is in view
+        animateMilestone(90, 2000, 'branding-counter');  // 90 for Branding Accomplished
+        observer.unobserve(entry.target);  // Stop observing once animation starts
+      }
+    });
+  }, { threshold: 0.1 });  // Trigger when 10% of the element is visible
+  
+  // Observe the element with the ID 'branding-counter'
+  const counterElement = document.getElementById('branding-counter');
+  observer.observe(counterElement);
+});
+
+
+</script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const counters = document.querySelectorAll('.counter');
+    
+    // Function to update the counter
+    const updateCounter = (counter) => {
+        const target = +counter.getAttribute('data-target');
+        const count = +counter.innerText;
+        const speed = target / 200; // Adjust speed here
+        
+        if (count < target) {
+            counter.innerText = Math.ceil(count + speed);
+            setTimeout(() => updateCounter(counter), 20); // Adjust delay here
+        } else {
+            counter.innerText = target; // Ensure it stops at the target number
+        }
+    };
+
+    // Set up the IntersectionObserver to watch when the section comes into view
+    const observer = new IntersectionObserver((entries, observer) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                const counter = entry.target;
+                updateCounter(counter);
+                observer.unobserve(counter); // Stop observing once the animation starts
+            }
+        });
+    }, {
+        threshold: 0.1 // Start animation when 10% of the element is visible
+    });
+
+    // Observe each counter
+    counters.forEach(counter => {
+        observer.observe(counter);
+    });
+});
+
+
+</script>
+<script>
+  function animateNumberRolling(finalNumber, duration = 2000, elementId) {
+  const numberElement = document.getElementById(elementId);
+  let startNumber = 0;
+  const incrementTime = Math.ceil(duration / finalNumber); // Calculate the time per increment
+
+  const timer = setInterval(() => {
+    startNumber++;
+    numberElement.textContent = startNumber;
+    
+    if (startNumber >= finalNumber) {
+      clearInterval(timer);  // Stop the animation when final number is reached
+    }
+  }, incrementTime);
+}
+
+// Use IntersectionObserver to trigger the animation when the section appears
+document.addEventListener('DOMContentLoaded', () => {
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        // Trigger the animation when the section is in view
+        animateNumberRolling(150, 2000, 'milestone-counter');  // 150 as final number, 2 seconds duration
+        observer.unobserve(entry.target);  // Stop observing once the animation has started
+      }
+    });
+  }, { threshold: 0.1 });  // Start when 10% of the element is visible
+  
+  // Observe the element with the ID 'milestone-counter'
+  const counterElement = document.getElementById('milestone-counter');
+  observer.observe(counterElement);
 });
 
 </script>

@@ -35,7 +35,7 @@
 										</li>
 										<li>
 											<div class="brand-button">
-												<h6><a target="_blank" href="https://wa.link/h8rwip"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+												<h6><a   href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 											</div>
 										</li>
 									</ul>
@@ -106,7 +106,7 @@
 					</div>
 					<div class="col-lg-6 col-12-medium  " data-aos="fade-left">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
-							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img1.webp" />
+							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/social-media-marketing-2.webp" />
 						</div>
 					</div>
 
@@ -347,7 +347,7 @@
 					</div>
 					<div class="col-lg-6 col-12-medium  d-none d-md-block" data-aos="fade-right">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
-							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/social-media-marketing-2.webp" />
+							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img1.webp" />
 						</div>
 					</div>
 
@@ -404,8 +404,8 @@
 			</div>
 			<div class="container-fluid">
 				<div class="center">
-					<div>
-						<div class="why-choosetext">
+					<div  data-aos="flip-right">
+						<div class="why-choosetext" >
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/abstract.webp">
 							</div>
@@ -423,7 +423,7 @@
 						</div>
 					</div>
 
-					<div>
+					<div  data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/letter.webp">
@@ -441,7 +441,7 @@
 						</div>
 
 					</div>
-					<div>
+					<div  data-aos="flip-right"> 
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/mascot.webp">
@@ -458,7 +458,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div>
+					<div  data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/emblem.webp">
@@ -475,7 +475,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div>
+					<div  data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/emblem.webp">
@@ -494,7 +494,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div>
+					<div  data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/emblem.webp">
@@ -559,7 +559,7 @@
 									</li>
 									<li>
 										<div class="brand-button">
-											<h6><a target="_blank" href="https://wa.link/h8rwip"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+											<h6><a   href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 										</div>
 									</li>
 								</ul>

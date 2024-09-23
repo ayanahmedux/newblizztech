@@ -72,7 +72,7 @@
 			<div class="container">
 				<div class="row">
 
-					<div class="col-6 col-12-medium align-self-center">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right">
 						<div class="logoabout-text social-media mobile">
 							<h2> Web <b>application development</b> offerings</h2>
 							<p>
@@ -109,7 +109,7 @@
 						</div>
 					</div>
 
-					<div class="col-6 col-12-medium">
+					<div class="col-6 col-12-medium" data-aos="fade-left">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
 							src="./images/mobileapplication/about.webp" />
 					</div>
@@ -182,8 +182,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon1.webp">
-								<img class="img2" src="./images/websitedesigns/webicon11.webp">
+								<img class="img1" src="./images/websitedesigns/webicon4.webp">
+								<img class="img2" src="./images/websitedesigns/webicon44.webp">
 							</div>
 							<h3>Provide More Value to Your Customers</h3>
 
@@ -235,8 +235,8 @@
 					<div class="col">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon4.webp">
-								<img class="img2" src="./images/websitedesigns/webicon44.webp">
+								<img class="img1" src="./images/websitedesigns/webicon1.webp">
+								<img class="img2" src="./images/websitedesigns/webicon11.webp">
 							</div>
 							<h3>Marketing Assistance</h3>
 
@@ -303,9 +303,10 @@
 					<div class="col-3 col-12-medium">
 						<div class="projct-box">
 							<h2>Projects Done</h2>
-							<h1 class="contr"><span class="counter">150</span>+</h1>
+							<h1 class="contr"><span class="counter" data-target="150">0</span>+</h1>
 						</div>
 					</div>
+
 				</div>
 			</div>
 
@@ -319,28 +320,28 @@
 						<div id="collapseOne" class="accordion-collapse collapse show  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
-								<div class="gallery-item" data-index="1">
+								<div class="gallery-item" data-index="1" data-aos="flip-right">
 									<img src="./images/mobileapplication/portfolio/1.webp">
 								</div>
-								<div class="gallery-item" data-index="2">
+								<div class="gallery-item" data-index="2" data-aos="flip-right">
 									<img src="./images/mobileapplication/portfolio/2.webp">
 								</div>
-								<div class="gallery-item" data-index="3">
+								<div class="gallery-item" data-index="3" data-aos="flip-right">
 									<img src="./images/mobileapplication/portfolio/3.webp">
 								</div>
-								<div class="gallery-item" data-index="4">
+								<div class="gallery-item" data-index="4" data-aos="flip-right">
 									<img src="./images/mobileapplication/portfolio/4.webp">
 								</div>
-								<div class="gallery-item" data-index="5">
+								<div class="gallery-item" data-index="5" data-aos="flip-right">
 									<img src="./images/mobileapplication/portfolio/5.webp">
 								</div>
-								<div class="gallery-item" data-index="6">
+								<div class="gallery-item" data-index="6" data-aos="flip-right">
 									<img src="./images/mobileapplication/portfolio/6.webp">
 								</div>
-								<div class="gallery-item" data-index="7">
+								<div class="gallery-item" data-index="7" data-aos="flip-right">
 									<img src="./images/mobileapplication/portfolio/7.webp">
 								</div>
-								<div class="gallery-item" data-index="8">
+								<div class="gallery-item" data-index="8" data-aos="flip-right">
 									<img src="./images/mobileapplication/portfolio/3.webp">
 								</div>
 							</div>
@@ -409,7 +410,6 @@
 								customized application development solutions, we help
 								business and small medium enterprises gain users’ trust
 								and turn website visitors into paying customers.</p>
-							<h5><a href="#">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></h5>
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
@@ -421,7 +421,6 @@
 							<p> Expand your reach with mobile application tailored to
 								your business needs and to create seamless user
 								experiences across various devices and platforms</p>
-							<h5><a href="#">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></h5>
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
@@ -435,7 +434,6 @@
 								solutions that drives sales and implement secure
 								payment gateways and intuitive shopping experiences
 								for customers.</p>
-							<h5><a href="#">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></h5>
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
@@ -448,7 +446,6 @@
 							<p> Elevate your brand with visually appealing user-friendly
 								interfaces and focus on creating intuitive navigation and
 								engaging designs to captivate users.</p>
-							<h5><a href="#">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></h5>
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
@@ -608,7 +605,7 @@
 						</div>
 
 						<!-- second row -->
-						
+
 					</div>
 
 					<!-- LOGOS PRICE PLAN END -->

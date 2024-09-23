@@ -355,14 +355,14 @@
 		<section id="intro-section">
 			<div class="containerr">
 				<div class="row">
-					<div class="row-text">
+					<div class="row-text" data-aos="fade-up">
 
 						<h3 style="text-align: center; color: #27D6FC;">Choose Creative Web Services</h3>
 						<h4 style="text-align: center; color: #fff; font-size: 35px; padding-bottom: 40px;">That Elevate Your Brand To New Heights</h4>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col">
+					<div class="col"  data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon1.webp">
@@ -376,7 +376,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col">
+					<div class="col"  data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon2.webp">
@@ -389,11 +389,11 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col">
+					<div class="col"  data-aos="flip-right">
 						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon2.webp">
-								<img class="img2" src="./images/websitedesigns/webicon22.webp">
+						<div class="why-choose-image">
+								<img class="img1" src="./images/websitedesigns/webicon4.webp">
+								<img class="img2" src="./images/websitedesigns/webicon44.webp">
 							</div>
 							<h3>Influencer Marketing Campaign</h3>
 						</div>
@@ -401,7 +401,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col">
+					<div class="col"  data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon3.webp">
@@ -415,11 +415,11 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div class="col">
+					<div class="col"  data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon4.webp">
-								<img class="img2" src="./images/websitedesigns/webicon44.webp">
+							<img class="img1" src="./images/websitedesigns/webicon1.webp">
+							<img class="img2" src="./images/websitedesigns/webicon11.webp">
 							</div>
 							<h3>Targeted
 								Instagram Campaigns</h3>

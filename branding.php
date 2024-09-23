@@ -87,7 +87,7 @@
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/branding/about.webp" />
+							src="./images/branding/brand-construction-concept-illustration.webp" />
 					</div>
 				</div>
 			</div>
@@ -187,7 +187,7 @@
 					</div>
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
-							src="./images/branding/rebranding-img.webp" />
+							src="./images/branding/rebrand.webp" />
 					</div>
 
 
@@ -801,11 +801,6 @@
 										<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 									</div>
 								</li>
-								<li>
-									<div class="brand-button">
-										<h6><a href="#">View More</a></h6>
-									</div>
-								</li>
 							</ul>
 						</div>
 					</div>
@@ -975,7 +970,7 @@
 						</div>
 					</div>
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
-						<img width="100%" src="./images/branding/tangible.webp" />
+						<img width="80%" src="./images/branding/tangible.webp" />
 					</div>
 				</div>
 				<hr>
@@ -1110,7 +1105,7 @@
 						</div>
 					</div>
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
-						<img width="100%" src="./images/branding/analytics on computer screen.webp" />
+						<img width="80%" src="./images/branding/analytics on computer screen.webp" />
 					</div>
 				</div>
 				<!-- FOUR ROW END -->

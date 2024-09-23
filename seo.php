@@ -177,8 +177,8 @@
 					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1500">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/abstract.webp">
-								<img class="img2" src="./images/Logodesign/abstract1.webp">
+								<img class="img1" src="./images/seo/E-commerce-SEO..png"  style="height: 90px; filter: brightness(0) invert(1);">
+								<img class="img2" src="./images/seo/E-commerce-SEO..png"  style="height: 90px; filter: brightness(0) invert(1);">
 							</div>
 							<h3 class="animated fadeIn">E-commerce SEO</h3>
 							<p>The products that rank higher on the SERPs are the same as your business products, but
@@ -193,8 +193,8 @@
 					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1500">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/emblem.webp">
-								<img class="img2" src="./images/Logodesign/emblem1.webp">
+							<img class="img1" src="./images/seo/seo-audit-2.png"  style="height: 90px; filter: brightness(0) invert(1);">
+							<img class="img2" src="./images/seo/seo-audit-2.png"  style="height: 90px; filter: brightness(0) invert(1);">
 							</div>
 							<h3 class="animated fadeIn">SEO Audit</h3>
 							<p>SEO Audit is the first step to devise an effective SEO strategy. Identifying the problem
@@ -212,8 +212,8 @@
 					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1500">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/letter.webp">
-								<img class="img2" src="./images/Logodesign/letter1.webp">
+							<img class="img1" src="./images/seo/Local-SEO.png"  style="height: 90px; filter: brightness(0) invert(1);">
+							<img class="img2" src="./images/seo/Local-SEO.png"  style="height: 90px; filter: brightness(0) invert(1);">
 							</div>
 							<h3 class="animated fadeIn">Local SEO</h3>
 							<p>Can you believe that 86% of people use Google Maps as a tool to find local businesses
@@ -230,8 +230,8 @@
 					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1500">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/mascot.webp">
-								<img class="img2" src="./images/Logodesign/mascot1.webp">
+							<img class="img1" src="./images/seo/Off-page-Link-Building.png"  style="height: 90px; filter: brightness(0) invert(1);">
+							<img class="img2" src="./images/seo/Off-page-Link-Building.png"  style="height: 90px; filter: brightness(0) invert(1);">
 							</div>
 							<h3 class="animated fadeIn">Off-page Link Building</h3>
 							<p>To gauge your website performance, quality links play a significant role in enhancing
@@ -365,7 +365,8 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/abstract.webp">
+								
+								<img class="img1" src="./images/Logodesign/mascot.webp">
 							</div>
 							<h3 class="animated fadeIn">Continuous Optimization & Improvement</h3>
 							<p>SEO is an ongoing process that requires continuous optimization and improvement. blizztechsolutions  can help you stay ahead of the competition by continuously monitoring and optimizing your website's performance. This includes tracking keyword rankings, analyzing website traffic, and making necessary adjustments to improve your website's performance.
@@ -380,7 +381,7 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/letter.webp">
+								<img class="img1" src="./images/Logodesign/abstract.webp">
 
 							</div>
 							<h3 class="animated fadeIn"> Increased Organic Traffic</h3>
@@ -396,7 +397,7 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/mascot.webp">
+								<img class="img1" src="./images/Logodesign/emblem.webp">
 
 							</div>
 							<h3 class="animated fadeIn">Higher ROI</h3>
@@ -411,7 +412,7 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/emblem.webp">
+							<img class="img1" src="./images/Logodesign/letter.webp">
 
 							</div>
 							<h3 class="animated fadeIn">Improved Ranking</h3>

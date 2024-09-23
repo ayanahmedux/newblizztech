@@ -3789,7 +3789,10 @@ form#contact {
     list-style: none !important
 }
 
-.contact-div ul.nav-menu-links i,
+.contact-div ul.nav-menu-links i{
+    margin-right: 20px;
+    font-size: 25px;
+}
 section#logoprocess-inner .seo-innerrows .choose-seo-orderlist ul li img {
     margin-right: 10px
 }
@@ -6763,4 +6766,9 @@ section#founder h2 b {
     background: linear-gradient(98.46deg, #27d6fc 3.81%, #7d5ce0 101.52%);
     -webkit-text-fill-color: transparent;
     background-clip: text;
+}
+.social-links-2 ul li i {
+    color: white;
+    margin-left: 10px;
+    font-size: 30px;
 }

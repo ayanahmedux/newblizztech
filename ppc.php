@@ -66,7 +66,7 @@
 
 					</div>
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1000">
-						<img src="./images/ppc/payperclickabout.webp" width="100%" />
+						<img src="./images/ppc/pay-per-1.webp" width="100%" />
 					</div>
 				</div>
 			</div>
@@ -533,28 +533,28 @@
 						<div id="collapseOne" class="accordion-collapse collapse show  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
-								<div class="gallery-item" data-index="1">
+								<div class="gallery-item" data-index="1"  data-aos="flip-right">
 									<img src="./images/ppc/portfolio/1.webp">
 								</div>
-								<div class="gallery-item" data-index="2">
+								<div class="gallery-item" data-index="2"  data-aos="flip-left">
 									<img src="./images/ppc/portfolio/2.webp">
 								</div>
-								<div class="gallery-item" data-index="3">
+								<div class="gallery-item" data-index="3"  data-aos="flip-right">
 									<img src="./images/ppc/portfolio/3.webp">
 								</div>
-								<div class="gallery-item" data-index="4">
+								<div class="gallery-item" data-index="4"  data-aos="flip-left">
 									<img src="./images/ppc/portfolio/4.webp">
 								</div>
-								<div class="gallery-item" data-index="5">
+								<div class="gallery-item" data-index="5"  data-aos="flip-right">
 									<img src="./images/ppc/portfolio/5.webp">
 								</div>
-								<div class="gallery-item" data-index="6">
-									<img src="./images/ppc/portfolio/6.webp">
+								<div class="gallery-item" data-index="6"  data-aos="flip-left">
+									<img src="./images/ppc/portfolio/6.webp" >
 								</div>
-								<div class="gallery-item" data-index="7">
+								<div class="gallery-item" data-index="7"  data-aos="flip-right">
 									<img src="./images/ppc/portfolio/7.webp">
 								</div>
-								<div class="gallery-item" data-index="8">
+								<div class="gallery-item" data-index="8"  data-aos="flip-left">
 									<img src="./images/ppc/portfolio/1.webp">
 								</div>
 							</div>
