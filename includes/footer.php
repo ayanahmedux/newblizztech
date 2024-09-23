@@ -133,9 +133,9 @@ if (isset($_POST['submit'])) {
         <div class="col-6 col-12-medium">
           <div class="social-links">
             <ul>
-              <li><a href="https://www.facebook.com/profile.php?id=61563666846807"><i class="bi bi-facebook"></i></li>
-              <li><a href="https://www.instagram.com/blizztech.solutions/"><i class="bi bi-instagram"></i></li>
-              <li><a href=""></a><i class="bi bi-linkedin"></i></li>
+              <li><a href="https://www.facebook.com/profile.php?id=61563666846807"><i class="bi bi-facebook"></i></a></li>
+              <li><a href="https://www.instagram.com/blizztech.solutions/"><i class="bi bi-instagram"></i></a></li>
+              <li><a href="https://www.linkedin.com/company/blizztech-solutions/"><i class="bi bi-linkedin"></i> </a></li>
               <li><a href=""><i class="bi bi-pinterest"></i></li>
             </ul>
           </div>

@@ -87,9 +87,9 @@
 							<div class="social-links-2">
 								<h2>Follow us</h2>
 							<ul class="">
-									<li><a href="https://www.facebook.com/profile.php?id=61563666846807"></a><i class="bi bi-facebook"></i></li>
-									<li><a href="https://www.instagram.com/blizztech.solutions/"></a><i class="bi bi-instagram"></i></li>
-									<li><a href=""></a><i class="bi bi-linkedin"></i></li>
+									<li><a href="https://www.facebook.com/profile.php?id=61563666846807"><i class="bi bi-facebook"></i></a></li>
+									<li><a href="https://www.instagram.com/blizztech.solutions/"><i class="bi bi-instagram"></i></a></li>
+									<li><a href="https://www.linkedin.com/company/blizztech-solutions/"><i class="bi bi-linkedin"></i></a></li>
 								</ul>
 							</div>
 							<div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
