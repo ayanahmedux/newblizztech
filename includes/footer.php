@@ -136,7 +136,7 @@ if (isset($_POST['submit'])) {
               <li><a href="https://www.facebook.com/profile.php?id=61563666846807"><i class="bi bi-facebook"></i></a></li>
               <li><a href="https://www.instagram.com/blizztech.solutions/"><i class="bi bi-instagram"></i></a></li>
               <li><a href="https://www.linkedin.com/company/blizztech-solutions/"><i class="bi bi-linkedin"></i> </a></li>
-              <li><a href=""><i class="bi bi-pinterest"></i></li>
+              <li><a href=""><i class="bi bi-pinterest"></i></a></li>
             </ul>
           </div>
         </div>
@@ -160,15 +160,15 @@ if (isset($_POST['submit'])) {
         <h4>I'm interested in</h4>
         <div class="mycustom-buttons">
           <ul>
-            <li><button type="button" class="interest-btn" data-value="Custom Software">Logo Design</button></li>
-            <li><button type="button" class="interest-btn" data-value="Mobile App">Website Design</button></li>
-            <li><button type="button" class="interest-btn" data-value="UX/UI">Content Creation</button></li>
-            <li><button type="button" class="interest-btn" data-value="Web Development">PPC</button></li>
-            <li><button type="button" class="interest-btn" data-value="Social Media Marketing">Mobile App</button></li>
-            <li><button type="button" class="interest-btn" data-value="Social Media Marketing">SEO</button></li>
+            <li><button type="button" class="interest-btn" data-value="Logo Design">Logo Design</button></li>
+            <li><button type="button" class="interest-btn" data-value="Website Design">Website Design</button></li>
+            <li><button type="button" class="interest-btn" data-value="Content Creation">Content Creation</button></li>
+            <li><button type="button" class="interest-btn" data-value="PPC">PPC</button></li>
+            <li><button type="button" class="interest-btn" data-value="Mobile App">Mobile App</button></li>
+            <li><button type="button" class="interest-btn" data-value="SEO">SEO</button></li>
             <li><button type="button" class="interest-btn" data-value="Social Media Marketing">Social M.M</button></li>
-            <li><button type="button" class="interest-btn" data-value="Social Media Marketing">Branding</button></li>
-            <li><button type="button" class="interest-btn" data-value="Social Media Marketing">Animation</button></li>
+            <li><button type="button" class="interest-btn" data-value="Branding">Branding</button></li>
+            <li><button type="button" class="interest-btn" data-value="Animation">Animation</button></li>
           </ul>
         </div>
         <!-- Hidden input to store selected interests -->
@@ -311,7 +311,9 @@ if (isset($_POST['submit'])) {
     const selectedInterests = [];
 
     buttons.forEach(button => {
-      button.addEventListener('click', function() {
+      button.addEventListener('click', function(event) {
+        event.preventDefault(); // Prevent form submission or page refresh
+
         const value = this.getAttribute('data-value');
 
         // Toggle selection
@@ -329,6 +331,7 @@ if (isset($_POST['submit'])) {
     });
   });
 </script>
+
 <script>
   function openCity(evt, cityName) {
     // Declare all variables
@@ -375,7 +378,7 @@ if (isset($_POST['submit'])) {
       {
         breakpoint: 480,
         settings: {
-          arrows: false,
+          arrows: true,
           centerMode: false,
           centerPadding: '40px',
           slidesToShow: 1
@@ -677,7 +680,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 </script>
 <!-- Meta Pixel Code -->
-<script>
+<!-- <script>
 !function(f,b,e,v,n,t,s)
 {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};
@@ -691,5 +694,5 @@ fbq('track', 'PageView');
 </script>
 <noscript><img height="1" width="1" style="display:none"
 src="https://www.facebook.com/tr?id=540437431813350&ev=PageView&noscript=1"
-/></noscript>
+/></noscript> -->
 <!-- End Meta Pixel Code -->

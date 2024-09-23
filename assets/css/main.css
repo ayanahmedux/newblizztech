@@ -3293,7 +3293,7 @@ section#services-solutions .fade:not(.show),
 section#testimonials-sections .slider-nav button.slick-next.slick-arrow,
 section#testimonials-sections .slider-nav button.slick-prev.slick-arrow,
 section#what-can-we .fade:not(.show) {
-    display: none !important
+    display: none !
 }
 
 .client-icons .card {
@@ -6046,6 +6046,34 @@ form.innerpagescalltoaction button.btn.btn-primary {
 }
 
 @media only screen and (max-width:480px) {
+    .center.slick-initialized.slick-slider button.slick-prev.slick-arrow, section#industries-we-conquered button.slick-prev.slick-arrow {
+        left: 80px !important;
+        top: unset !important;
+        bottom: -40px !important;
+    }
+    .center.slick-initialized.slick-slider button.slick-next.slick-arrow {
+        right: 80px !important;
+        top: unset !important;
+        bottom: -40px !important;
+    }
+    .custom-industries-section .row {
+        margin-top: 30px;
+    }
+    .custom-industries-section .inner-card {
+        height: 190px;
+        padding: 30px 0 20px 0;
+    }
+    .industry-image {
+        width: 70px;       
+         height: 60px;
+    }
+    .inner-card.card-with h3 {
+        font-size: 15px !important;
+        line-height: 25px !important;
+    }
+    .custom-industries-section .col-md-2 {
+        width: 50%;
+    }
     .about-banner-buttons ul,
     .featureimage,
     div#quoteModal form,
@@ -6055,7 +6083,7 @@ form.innerpagescalltoaction button.btn.btn-primary {
     p {
         text-align: center !important
     }
-    .custom-industries-section,
+    /* .custom-industries-section, */
     .first-inner-section-text h1 img.greenline,
     .scroll-image,
     .slider .testimonial-text p br,
@@ -6216,6 +6244,10 @@ form.innerpagescalltoaction button.btn.btn-primary {
     section#recent-past .gallery-item {
         flex-basis: 50%;
         padding: 0 4px
+    }
+    section#recent-past .gallery-item img {
+        object-fit: cover;
+        height: auto;
     }
     section#recent-past .gallery-container {
         display: flex;
@@ -6477,9 +6509,13 @@ form.innerpagescalltoaction button.btn.btn-primary {
 }
 
 .inner-card.card-with h3 {
-    font-size: 17px;
+    font-size: 17px; 
     color: #fff
 }
+.custom-industries-section .col-md-2 a {
+    text-decoration: none;
+}
+
 
 section#industries-we-conquered h1 b {
     background: linear-gradient(98.46deg, #27d6fc 3.81%, #7d5ce0 101.52%);

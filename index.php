@@ -14,7 +14,7 @@
 <p style=padding-top:30px>Welcome to Blizztech Solutions! Here at Blizztech Solutions, our goal is to partner with you in <br> crafting exceptional digital experiences that set your brand apart. </p>
 <div class=custom-industries-section>
 <div class=container>
-<div class=row style=margin:auto!important>
+<div class=row >
 <div class="col-md-2 col-12-medium">
 <div class=main-inner>
 <a href="website-designs">
