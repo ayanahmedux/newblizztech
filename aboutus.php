@@ -95,7 +95,7 @@
 			<div class="col-lg-12 text-center">
 				<h2><b>Meet</b></h2>
 				<div class="founder-image-wrapper">
-					<img src="./images/ceo-image.webp" alt="">
+					<img src="./images/Red Gradient Profile Photo Instagram Post.webp" alt="">
 				</div>
 				<div class="ceo-name">
                 <h2>Noor Ali hirani</h2>
