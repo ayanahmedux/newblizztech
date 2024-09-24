@@ -71,7 +71,7 @@
 
 		<section id="logo-about-us" style="padding: 100px 0px;">
 			<div class="container">
-				<div class="row">
+				<div class="row res-row">
 
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
 						<div class="logoabout-text social-media">
@@ -111,7 +111,7 @@
 						<img class="animate__animated animate__pulse" style="width: 100%;"
 							src="./images/socialmedia/social-media-marketing-2.webp" />
 					</div>
-					<div class="col-6 col-12-medium align-self-center"  data-aos="fade-left" data-aos-duration="1500">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-left" data-aos-duration="1500">
 						<div class="logoabout-text social-media">
 							<h1> Strategic <b>Social Media</b> Planning </h1>
 							<p>
@@ -131,9 +131,9 @@
 		</section>
 		<section id="logo-about-us2" style="padding: 30px 0px;">
 			<div class="container">
-				<div class="row">
+				<div class="row res-row">
 
-					<div class="col-6 col-12-medium align-self-center"  data-aos="fade-right" data-aos-duration="1500">
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
 						<div class="logoabout-text social-media">
 							<h1> Engaging <b>Content Creation</b> </h1>
 							<p>
@@ -147,7 +147,7 @@
 							</p>
 						</div>
 					</div>
-					<div class="col-6 col-12-medium"  data-aos="fade-left" data-aos-duration="1500">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
 							src="./images/socialmedia/social-media-marketing-3.webp" />
 					</div>
@@ -158,7 +158,7 @@
 		<section id="logo-about-us2" style="padding: 30px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium"  data-aos="fade-right" data-aos-duration="1500">
+					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
 						<img class="animate__animated animate__pulse" style="width: 100%;"
 							src="./images/socialmedia/social-media-marketing-4.webp" />
 					</div>
@@ -184,7 +184,7 @@
 		</section>
 		<section id="logo-about-us2" style="padding: 30px 0px;">
 			<div class="container">
-				<div class="row">
+				<div class="row res-row">
 
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
 						<div class="logoabout-text social-media">
@@ -278,7 +278,7 @@
 						advantages:</p>
 				</div>
 				<div class="row">
-					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
+					<div class="col-lg-4  col-sm-6" data-aos="flip-right" data-aos-duration="1000">
 						<div class="choose-box">
 							<div class="choose-image">
 								<img src="./images/so-choose-1.webp" alt="">
@@ -289,7 +289,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
+					<div class="col-lg-4 col-sm-6" data-aos="flip-right" data-aos-duration="1000">
 						<div class="choose-box">
 							<div class="choose-image">
 								<img src="./images/so-choose-2.webp" alt="">
@@ -300,7 +300,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
+					<div class="col-lg-4 col-sm-6" data-aos="flip-right" data-aos-duration="1000">
 						<div class="choose-box">
 							<div class="choose-image">
 								<img src="./images/so-choose-3.webp" alt="">
@@ -314,7 +314,7 @@
 				</div>
 				<div class="row choose-row">
 					<div class="col-lg-4" data-aos="flip-right" data-aos-duration="1000">
-						<div class="choose-box" >
+						<div class="choose-box">
 							<div class="choose-image">
 								<img src="./images/so-choose-4.webp" alt="">
 							</div>
@@ -362,71 +362,73 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col"  data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon1.webp">
-								<img class="img2" src="./images/websitedesigns/webicon11.webp">
-							</div>
-							<h3>Social Media
-								Retargeting Campaign</h3>
+					<div class="center2">
+						<div class="px-2 py-2" data-aos="flip-right">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon1.webp">
+									<img class="img2" src="./images/websitedesigns/webicon11.webp">
+								</div>
+								<h3>Social Media
+									Retargeting Campaign</h3>
 
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
-					</div>
-					<div class="col"  data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon2.webp">
-								<img class="img2" src="./images/websitedesigns/webicon22.webp">
 							</div>
-							<h3>E Commerce Drop Shipping Campaign</h3>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
+						</div>
+						<div class="px-2 py-2">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon2.webp">
+									<img class="img2" src="./images/websitedesigns/webicon22.webp">
+								</div>
+								<h3>E Commerce Drop Shipping Campaign</h3>
 
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
-					</div>
-					<div class="col"  data-aos="flip-right">
-						<div class="why-choosetext">
-						<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon4.webp">
-								<img class="img2" src="./images/websitedesigns/webicon44.webp">
 							</div>
-							<h3>Influencer Marketing Campaign</h3>
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
-					</div>
-					<div class="col"  data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon3.webp">
-								<img class="img2" src="./images/websitedesigns/webicon33.webp">
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 							</div>
-							<h3>Organic Social
-								Strategy & Implementation</h3>
+						</div>
+						<div class="px-2 py-2">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon4.webp">
+									<img class="img2" src="./images/websitedesigns/webicon44.webp">
+								</div>
+								<h3>Influencer Marketing Campaign</h3>
+							</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
+						</div>
+						<div class="px-2 py-2">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon3.webp">
+									<img class="img2" src="./images/websitedesigns/webicon33.webp">
+								</div>
+								<h3>Organic Social
+									Strategy & Implementation</h3>
 
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
-					</div>
-					<div class="col"  data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-							<img class="img1" src="./images/websitedesigns/webicon1.webp">
-							<img class="img2" src="./images/websitedesigns/webicon11.webp">
 							</div>
-							<h3>Targeted
-								Instagram Campaigns</h3>
-
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+						<div class="px-2 py-2">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon1.webp">
+									<img class="img2" src="./images/websitedesigns/webicon11.webp">
+								</div>
+								<h3>Targeted
+									Instagram Campaigns</h3>
+
+							</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -493,7 +495,7 @@
 
 			<div class="row">
 				<!-- TABS GALLERY SECTION START -->
-				<!-- <ul class="nav nav-tabs d-none d-lg-flex" id="myTab" role="tablist">
+		<!-- <ul class="nav nav-tabs d-none d-lg-flex" id="myTab" role="tablist">
 					<li class="nav-item" role="presentation">
 						<button class="nav-link active" id="home-tab4" data-bs-toggle="tab" data-bs-target="#home-tab-pane4"
 							type="button" role="tab" aria-controls="home-tab-pane4" aria-selected="true">All</button>
@@ -518,7 +520,7 @@
 				</ul>
 
 				<!-- ALL GALLERY -->
-				<!-- <div class="tab-content accordion ghm" id="myTabContent">
+		<!-- <div class="tab-content accordion ghm" id="myTabContent">
 					<div class="tab-pane fade show active accordion-item" id="home-tab-pane4" role="tabpanel" aria-labelledby="home-tab4" tabindex="0">
 						<div id="collapseOne" class="accordion-collapse collapse show  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
@@ -555,8 +557,8 @@
 				</div>
 				<!-- ALL GALLERY END -->
 
-				<!-- Informative GALLERY -->
-				<!-- <div class="tab-content accordion ghm" id="myTabContent">
+		<!-- Informative GALLERY -->
+		<!-- <div class="tab-content accordion ghm" id="myTabContent">
 					<div class="tab-pane fade accordion-item" id="profile-tab-pane4" role="tabpanel" aria-labelledby="profile-tab4" tabindex="0">
 						<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
@@ -591,10 +593,10 @@
 					</div>
 
 				</div> -->
-				<!-- informative GALLERY END -->
+		<!-- informative GALLERY END -->
 
-				<!-- E-Commerce GALLERY -->
-				<!-- <div class="tab-content accordion ghm" id="myTabContent">
+		<!-- E-Commerce GALLERY -->
+		<!-- <div class="tab-content accordion ghm" id="myTabContent">
 					<div class="tab-pane fade accordion-item" id="profile-tab-pane5" role="tabpanel" aria-labelledby="profile-tab5" tabindex="0">
 						<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
@@ -629,10 +631,10 @@
 					</div>
 
 				</div> -->
-				<!-- E-Commerce GALLERY END -->
+		<!-- E-Commerce GALLERY END -->
 
-				<!-- Web App GALLERY -->
-				<!-- <div class="tab-content accordion ghm" id="myTabContent">
+		<!-- Web App GALLERY -->
+		<!-- <div class="tab-content accordion ghm" id="myTabContent">
 					<div class="tab-pane fade accordion-item" id="profile-tab-pane6" role="tabpanel" aria-labelledby="profile-tab6" tabindex="0">
 						<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
@@ -667,10 +669,10 @@
 					</div>
 
 				</div> -->
-				<!-- Web App GALLERY END -->
+		<!-- Web App GALLERY END -->
 
-				<!-- E-Store GALLERY -->
-				<!-- <div class="tab-content accordion ghm" id="myTabContent">
+		<!-- E-Store GALLERY -->
+		<!-- <div class="tab-content accordion ghm" id="myTabContent">
 					<div class="tab-pane fade accordion-item" id="profile-tab-pane7" role="tabpanel" aria-labelledby="profile-tab7" tabindex="0">
 						<div id="collapseOne" class="accordion-collapse collapse  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
@@ -705,12 +707,12 @@
 					</div>
 
 				</div> -->
-				<!-- E-Store GALLERY END -->
+		<!-- E-Store GALLERY END -->
 
 
 
 
-				<!-- <div class="custom-portoflio-button" style="padding-top: 40px;">
+		<!-- <div class="custom-portoflio-button" style="padding-top: 40px;">
 					<ul>
 						<li>
 							<div class="brand-button">
@@ -929,7 +931,7 @@
 
 
 								</div>
-								
+
 							</div>
 						</div>
 
@@ -958,7 +960,7 @@
 		<section id="logo-contact-form" style="padding: 210px 0px;">
 			<div class="container">
 				<div class="row contact-inner">
-					<div class="col-6 col-12-medium"  data-aos="fade-down" data-aos-duration="1000">
+					<div class="col-6 col-12-medium" data-aos="fade-down" data-aos-duration="1000">
 						<div class="logo-conactfomrinner">
 							<form class="innerpagescalltoaction" method="post" action="">
 

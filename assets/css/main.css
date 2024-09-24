@@ -948,7 +948,9 @@ ul.actions li {
 ul.actions li:last-child {
     margin-right: 0
 }
-
+.center2 .px-2.py-2.slick-slide {
+    height: 500px;
+}
 .feature-list {
     max-width: 58em;
     margin-left: auto;
@@ -3293,7 +3295,7 @@ section#services-solutions .fade:not(.show),
 section#testimonials-sections .slider-nav button.slick-next.slick-arrow,
 section#testimonials-sections .slider-nav button.slick-prev.slick-arrow,
 section#what-can-we .fade:not(.show) {
-    display: none !
+    display: none !important
 }
 
 .client-icons .card {
@@ -6013,7 +6015,23 @@ span.close {
     top: 0;
     cursor: pointer
 }
+.center2 button.slick-prev.slick-arrow {
+    background-image: url(../../images/leftarrow.webp);
+    background-size: 100% 100%;
+    padding: 30px;
+    z-index: 1111;
+    position: absolute;
+    left: 150px;
+}
+.center2 button.slick-next.slick-arrow {
+    background-image: url(../../images/rightarrow.webp);
+    background-size: 100% 100%;
+    padding: 30px;
+    z-index: 1111;
+    position: absolute;
+    right: -10px;
 
+}
 form.innerpagescalltoaction button.btn.btn-primary {
     width: 100%;
     color: #fff;
@@ -6046,7 +6064,73 @@ form.innerpagescalltoaction button.btn.btn-primary {
 }
 
 @media only screen and (max-width:480px) {
+    section#why-choose-us h3 {
+        font-size: 17px !important;
+        line-height: 23px !important;
+    }
+    .choose-image img {
+        width: 50px !important;
+        margin-bottom: 10px;
+    }
+    .choose-box {
+        margin: 0 0px;
+        padding: 20px 5px;
+        height: 390px;
+    }
+    .res-row{
+    flex-direction: column-reverse;
+    }
+    .center2 button.slick-next.slick-arrow {
+        right: 100px;
+        top: unset !important;
+        bottom: -90px;
+    }
+    .center2 button.slick-prev.slick-arrow {
+        left: 100px;
+        top: unset !important;
+        bottom: -90px;
+    }
+    section#intro-section .center2 .why-choosetext {
+        height: 500px;
+    }
+     section#intro-section .center2 .why-choosetext p {
+        height: 230px;
+        overflow: overlay;
+    }
+    section#price-plans-section-1 .center.slick-initialized.slick-slider button.slick-prev.slick-arrow {
+        left: 80px !important;
+        top: unset !important;
+        bottom: -90px !important;
+    }
+    section#price-plans-section-1 .center.slick-initialized.slick-slider button.slick-next.slick-arrow {
+        right: 80px !important;
+        top: unset !important;
+        bottom: -90px !important;
+    }
+    section#intro-section-logo-design .why-choosetext {
+        height: 470px;
+    }
+    section#industries-we-conquered button.slick-next.slick-arrow {
+        right: 80px !important;
+        top: unset !important;
+        bottom: -45px;
+    }
     .center.slick-initialized.slick-slider button.slick-prev.slick-arrow, section#industries-we-conquered button.slick-prev.slick-arrow {
+        left: 80px !important;
+        top: unset !important;
+        bottom: -45px !important;
+    }
+    section#price-plans-section .center.slick-initialized.slick-slider button.slick-prev.slick-arrow {
+        left: 80px !important;
+        top: unset !important;
+        bottom: -90px !important;
+    }
+    section#price-plans-section .center.slick-initialized.slick-slider button.slick-next.slick-arrow {
+        right: 80px !important;
+        top: unset !important;
+        bottom: -90px !important;
+    }
+    .center.slick-initialized.slick-slider button.slick-prev.slick-arrow {
         left: 80px !important;
         top: unset !important;
         bottom: -40px !important;
@@ -6092,7 +6176,7 @@ form.innerpagescalltoaction button.btn.btn-primary {
     section#branding-sec form#contact,
     section#content-creation form#contact,
     section#logo-call-to-action,
-    section#logo-contact-form,
+    /* section#logo-contact-form, */
     section#logo-designs-sec form#contact,
     section#logoportfolio,
     section#mobile-application form#contact,
@@ -6104,6 +6188,23 @@ form.innerpagescalltoaction button.btn.btn-primary {
     section#website-design form#contact,
     section#what-can-we {
         display: none
+    }
+    section#logo-contact-form {
+        padding: 10px !important;
+    }
+    section#logo-contact-form .contact-inner {
+        padding: 40px 10px;
+        width: -webkit-fill-available;
+    }
+    section#logo-about-us ol li p {
+        text-align: left !important;
+    }
+    section#logo-about-us p.text-1{
+        text-align: left !important;
+    }
+    section#logo-contact-form .logo-conactfomrinner {
+        position: static;
+        width: -webkit-fill-available;
     }
     section#content-creation ul,
     section#intro-section-logo-design .row,
@@ -6363,7 +6464,7 @@ form.innerpagescalltoaction button.btn.btn-primary {
     section#intro-section,
     section#intro-section-logo-design,
     section#recent-past {
-        padding: 20px 0
+        padding: 40px 0
     }
     section#grow-brand .brand-button {
         margin-top: 60px
@@ -6493,8 +6594,15 @@ form.innerpagescalltoaction button.btn.btn-primary {
         height: 400px
     }
     section#price-plans-section ul#myTab {
-        width: 100%
+        width: 100%;
+        display: flex !important;
+        flex-wrap: wrap;
+        gap: 0px 40px;
     }
+    section#price-plans-section .nav-tabs .nav-link{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
     section#logo-about-us .mobile h6 {
         font-size: 57px
     }

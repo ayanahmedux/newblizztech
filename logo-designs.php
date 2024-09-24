@@ -143,7 +143,8 @@
 					</div>
 				</div>
 				<div class="row" style="margin: auto;">
-					<div class="col-3 col-12-medium" data-aos="flip-right">
+					<div class="center">
+						<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/abstract.webp">
@@ -157,8 +158,8 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
-					</div>
-					<div class="col-3 col-12-medium" data-aos="flip-right">
+						</div>
+						<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/emblem.webp">
@@ -172,8 +173,8 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
-					</div>
-					<div class="col-3 col-12-medium" data-aos="flip-right">
+						</div>
+						<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/letter.webp">
@@ -188,8 +189,8 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
-					</div>
-					<div class="col-3 col-12-medium" data-aos="flip-right">
+						</div>
+						<div class="px-2 py-2">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/mascot.webp">
@@ -202,6 +203,7 @@
 						</div>
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+						</div>
 						</div>
 					</div>
 				</div>
@@ -670,7 +672,8 @@
 						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
 							<div class="container">
 								<div class="row">
-									<div class="col-4 col-12-medium">
+									<div class="center">
+										<div class="px-2 py-2">
 										<div class="price-inner-plan">
 											<h2 class="text-center">RUBY ILLUSTRATIVE</h2>
 											<div class="price-heading-text">
@@ -690,10 +693,8 @@
 											</div>
 
 										</div>
-
-									</div>
-
-									<div class="col-4 col-12-medium">
+										</div>
+										<div class="px-2 py-2">
 										<div class="price-inner-plan">
 											<h2 class="text-center">EMERALD ILLUSTRATIVE</h2>
 											<div class="price-heading-text">
@@ -715,9 +716,8 @@
 											</div>
 
 										</div>
-
+										</div>
 									</div>
-
 									<div class="custom-price-button" style="padding-top: 70px;">
 										<ul>
 											<li>
@@ -737,7 +737,8 @@
 						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
 							<div class="container">
 								<div class="row">
-									<div class="col-4 col-12-medium">
+									<div class="center">
+										<div class="px-2 py-2">
 										<div class="price-inner-plan">
 											<h2 class="text-center">ESSENTIAL 3D</h2>
 											<div class="price-heading-text">
@@ -756,10 +757,8 @@
 											</div>
 
 										</div>
-
-									</div>
-
-									<div class="col-4 col-12-medium">
+										</div>
+										<div class="px-2 py-2">
 										<div class="price-inner-plan">
 											<h2 class="text-center">TEAM 3D</h2>
 											<div class="price-heading-text">
@@ -783,9 +782,8 @@
 											</div>
 
 										</div>
-
+										</div>
 									</div>
-
 									<div class="custom-price-button" style="padding-top: 70px;">
 										<ul>
 											<li>
@@ -806,8 +804,8 @@
 						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
 							<div class="container">
 								<div class="row">
-									<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
+									<div class="center">
+										<div class="px-2 py-2"><div class="price-inner-plan">
 											<h2 class="text-center">ESSENTIAL ANIMATION</h2>
 											<div class="price-heading-text">
 												<h2>Value Added Design Solution</h2>
@@ -827,11 +825,8 @@
 												</ul>
 											</div>
 
-										</div>
-
-									</div>
-
-									<div class="col-4 col-12-medium">
+										</div></div>
+										<div class="px-2 py-2">
 										<div class="price-inner-plan">
 											<h2 class="text-center">TEAM 3D</h2>
 											<div class="price-heading-text">
@@ -854,7 +849,7 @@
 											</div>
 
 										</div>
-
+										</div>
 									</div>
 									<div class="custom-price-button" style="padding-top: 70px;">
 										<ul>

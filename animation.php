@@ -243,7 +243,7 @@
                     <div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500" >
                         <div class="logoabout-text animation-about">
                             <h2 class="logoabout-text-h2">Why Choose <b>Animation</b> Services?</h2>
-                            <p>
+                            <p class="text-1">
                                 Animations are more than just visual effects – they are storytellers, educators, and entertainers rolled
                                 into one.
                             </p>
@@ -294,7 +294,7 @@
                     <div class="col-12 col-12-medium align-self-center" data-aos="fade-right">
                         <div class="logoabout-text animation-about">
                             <h2 class="logoabout-text-h2"> Our <b>Animation</b> Services</h2>
-                            <p>
+                            <p class="text-1">
                                 At Blizztech Solutions, we offer a wide range of animation services tailored to meet your unique
                                 business needs.
                             </p>
@@ -629,7 +629,7 @@
         <!-- LOGO CALL TO ACTIONS END -->
 
         <!-- ANIMATED TABS SECTION START -->
-        <section id="recent-past" class="d-none d-md-block">
+        <section id="recent-past" class=" d-md-block">
             <div class="container">
                 <div class="row">
                     <div class="heading-text" style="color: #fff; padding-bottom: 60px;">
@@ -879,7 +879,8 @@
                     <!-- LOGOS PRICE PLAN Start -->
                     <div class="container">
                         <div class="row" style="margin: auto !important;">
-                            <div class="col-4 col-12-medium">
+                            <div class="center">
+                                <div class="px-2 py-2">
                                 <div class="price-inner-plan">
                                     <div class="price-heading-text">
                                         <h2>Start-UP Package</h2>
@@ -900,10 +901,8 @@
                                     </div>
 
                                 </div>
-
-                            </div>
-
-                            <div class="col-4 col-12-medium">
+                                </div>
+                                <div class="px-2 py-2">
                                 <div class="price-inner-plan">
                                     <div class="price-heading-text">
                                         <h2>Business Package</h2>
@@ -929,11 +928,8 @@
                                     </div>
 
                                 </div>
-
-                            </div>
-
-
-                            <div class="col-4 col-12-medium">
+                                </div>
+                                <div class="px-2 py-2">
                                 <div class="price-inner-plan">
                                     <div class="price-heading-text">
                                         <h2>Platinum Package</h2>
@@ -959,10 +955,8 @@
                                     </div>
 
                                 </div>
-
+                                </div>
                             </div>
-
-
                         </div>
 
                         <!-- second row -->
