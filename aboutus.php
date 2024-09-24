@@ -285,7 +285,7 @@
 		<!-- concept section -->
 		<!-- CALL TO ACTION ABOUT US PAGE START -->
 
-		<section id="call-toaction-section" style="padding-bottom: 50px;" data-aos="fade-down">
+		<section id="call-toaction-section" style="padding-bottom: 50px;">
 			<div class="container">
 				<div class="my-connect-inner">
 					<div class="row" style="margin: 0 auto;">
@@ -295,16 +295,18 @@
 							<button class="work-with-us" >Work with us</button>
 							<h1 style="color: white;">We would be happy to help you grow <br> your business
 								<b>Get a quote!</b></h1>
+								<a href="javascript:;" class="quote-button">
 							<div class="about-banner-buttons" style="padding-top: 30px;">
 								<ul>
 									<li>
 										<div class="brand-button">
-											<a href="javascript:;" class="quote-button">Get a Quote</a>
+											Get a Quote
 										</div>
 									</li>
 
 								</ul>
 							</div>
+							</a>
 						</div>
 					</div>
 				</div>

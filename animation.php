@@ -238,7 +238,7 @@
 
         <section id="logo-about-us" style="padding: 10px 0px;">
             <div class="container">
-                <div class="row">
+                <div class="row res-row">
 
                     <div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500" >
                         <div class="logoabout-text animation-about">
@@ -351,7 +351,7 @@
 
         <section id="logo-about-us" style="padding: 10px 0px;">
             <div class="container">
-                <div class="row">
+                <div class="row res-row">
 
                     <div class="col-6 col-12-medium align-self-center" data-aos="fade-right">
                         <div class="logoabout-text animation-about">
@@ -453,7 +453,7 @@
 
         <section id="logo-about-us" style="padding: 10px 0px;">
             <div class="container">
-                <div class="row">
+                <div class="row res-row">
 
                     <div class="col-6 col-12-medium align-self-center" data-aos="fade-right">
                         <div class="logoabout-text animation-about">
@@ -508,7 +508,7 @@
 
         <section id="logo-about-us" style="padding: 10px 0px;">
             <div class="container">
-                <div class="row">
+                <div class="row res-row">
 
                     <div class="col-6 col-12-medium align-self-center" data-aos="fade-right">
                         <div class="logoabout-text animation-about">

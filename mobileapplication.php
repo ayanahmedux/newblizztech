@@ -179,8 +179,9 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col">
-						<div class="why-choosetext">
+					<div class="center3">
+                         <div class="px-2 py-2" data-aos="flip-right">
+						 <div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon4.webp">
 								<img class="img2" src="./images/websitedesigns/webicon44.webp">
@@ -191,9 +192,9 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
-					</div>
-					<div class="col">
-						<div class="why-choosetext">
+						 </div>
+                         <div class="px-2 py-2" data-aos="flip-right">
+						 <div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon1.webp">
 								<img class="img2" src="./images/websitedesigns/webicon11.webp">
@@ -205,9 +206,9 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
-					</div>
-					<div class="col">
-						<div class="why-choosetext">
+						 </div>
+                         <div class="px-2 py-2" data-aos="flip-right">
+						 <div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon2.webp">
 								<img class="img2" src="./images/websitedesigns/webicon22.webp">
@@ -217,9 +218,9 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
-					</div>
-					<div class="col">
-						<div class="why-choosetext">
+						 </div>
+                         <div class="px-2 py-2" data-aos="flip-right">
+						 <div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon3.webp">
 								<img class="img2" src="./images/websitedesigns/webicon33.webp">
@@ -231,9 +232,9 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
-					</div>
-					<div class="col">
-						<div class="why-choosetext">
+						 </div>
+						 <div class="px-2 py-2" data-aos="flip-right">
+						 <div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon1.webp">
 								<img class="img2" src="./images/websitedesigns/webicon11.webp">
@@ -244,6 +245,7 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
+						 </div>
 					</div>
 				</div>
 			</div>
@@ -512,7 +514,7 @@
 			<div class="container">
 				<div class="row" style="margin: auto !important;">
 					<div class="heading-text" style="text-align: center;">
-						<h3>Logo’s </h3>
+						<h3>Mobile App</h3>
 						<h1><b>Pricing</b> And Plans</h1>
 						<p style="color: #fff; padding-bottom: 40px;">We are far from a One-Price-For-All model. We created design and marketing solutions that fit every budget and need.</p>
 					</div>
@@ -521,7 +523,8 @@
 					<!-- LOGOS PRICE PLAN Start -->
 					<div class="container">
 						<div class="row" style="margin: auto !important;">
-							<div class="col-4 col-12-medium">
+							<div class="center">
+								<div class="px-2 py-2">
 								<div class="price-inner-plan">
 									<div class="price-heading-text">
 										<h2>Small</h2>
@@ -541,10 +544,8 @@
 									</div>
 
 								</div>
-
-							</div>
-
-							<div class="col-4 col-12-medium">
+								</div>
+								<div class="px-2 py-2">
 								<div class="price-inner-plan">
 									<div class="price-heading-text">
 										<h2>Regular</h2>
@@ -568,11 +569,8 @@
 									</div>
 
 								</div>
-
-							</div>
-
-
-							<div class="col-4 col-12-medium">
+								</div>
+								<div class="px-2 py-2">
 								<div class="price-inner-plan">
 									<div class="price-heading-text">
 										<h2>Elite</h2>
@@ -598,10 +596,8 @@
 									</div>
 
 								</div>
-
+								</div>
 							</div>
-
-
 						</div>
 
 						<!-- second row -->

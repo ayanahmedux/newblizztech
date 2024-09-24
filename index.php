@@ -810,7 +810,7 @@ Transform your business into a powerful and unforgettable presence with our cutt
 </div>
 <div class="px-2 py-2">
 <div class=indutries-image>
-<img src=./images/industries-image-3.webp alt="">
+<img src=./images/medikor-cover.webp alt="">
 </div>
 <div class=industries-text>
 <p>Healthcare</p>
@@ -918,12 +918,12 @@ Our pricing is tailored to each client's needs and the scope of the project. We 
 <div class=accordion-item>
 <h2 class=accordion-header id=headingFive>
 <button class="accordion-button collapsed" type=button data-mdb-toggle=collapse data-mdb-target=#basicAccordionCollapseFive aria-expanded=false aria-controls=collapseFive>
-What is the cost of your services? <img src=./images/faqdownarrow.webp>
+What are your Payment Steps? <img src=./images/faqdownarrow.webp>
 </button>
 </h2>
 <div id=basicAccordionCollapseFive class="accordion-collapse collapse" aria-labelledby=headingFive data-mdb-parent=#basicAccordion>
 <div class=accordion-body>
-Costs vary depending on the scope and complexity of the project; we provide customized quotes after a detailed consultation to ensure you receive the best value for your investment.
+Our payment process involves clear milestones. Typically, it includes an initial deposit, progress-based payments, and a final payment upon project completion. Detailed payment terms will be outlined in the agreement. For packages between $500-$1,000, 100% upfront payment is required.   
 </div>
 </div>
 </div>

@@ -174,7 +174,8 @@
 			</div>
 			<div class="containerr">
 				<div class="row" style="margin: auto;">
-					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1500">
+					<div class="center2">
+						<div class="px-2 py-2" data-aos="flip-right" data-aos-duration="1500">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/seo/E-commerce-SEO..png"  style="height: 90px; filter: brightness(0) invert(1);">
@@ -189,8 +190,8 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
-					</div>
-					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1500">
+						</div>
+						<div class="px-2 py-2" data-aos="flip-right" data-aos-duration="1500">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 							<img class="img1" src="./images/seo/seo-audit-2.png"  style="height: 90px; filter: brightness(0) invert(1);">
@@ -208,8 +209,8 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
-					</div>
-					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1500">
+						</div>
+						<div class="px-2 py-2" data-aos="flip-right" data-aos-duration="1500">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 							<img class="img1" src="./images/seo/Local-SEO.png"  style="height: 90px; filter: brightness(0) invert(1);">
@@ -226,8 +227,8 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
-					</div>
-					<div class="col-3 col-12-medium" data-aos="flip-right" data-aos-duration="1500">
+						</div>
+						<div class="px-2 py-2" data-aos="flip-right" data-aos-duration="1500">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 							<img class="img1" src="./images/seo/Off-page-Link-Building.png"  style="height: 90px; filter: brightness(0) invert(1);">
@@ -243,6 +244,7 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -250,7 +252,7 @@
 
 		<!-- Our Holistic END -->
 		<!-- optimize start here  -->
-		<section id="why-choose-us">
+		<section id="why-choose-us" style="padding:60px 0px 0px 0px ;">
 			<div class="container">
 				<div class="choose-text">
 					<h2> How We <b>Optimize</b> Your Web Presence!</h2>
@@ -362,7 +364,7 @@
 				</div>
 
 				<div class="center">
-					<div>
+					<div >
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								

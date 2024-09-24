@@ -1,5 +1,5 @@
 
-<section id="testimonials-sections" style="padding-top: 60px; padding-bottom: 60px;">
+<section id="testimonials-sections" style="padding-top: 80px; padding-bottom: 60px;">
 			<div class="heading-text" style="text-align: center;">
 				<h3>Testimonials</h3>
 				<h1>our <b>clients</b> simply love what we do.</h1>

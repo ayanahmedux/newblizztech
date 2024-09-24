@@ -3585,7 +3585,7 @@ section#logoportfolio .gallery-item img {
     object-position: 0% 0%;
 }
 section#logoportfolio .gallery-item {
-    height: 300px;
+    height: auto;
 }
 
 .accordion {
@@ -4475,7 +4475,9 @@ section#call-toaction-section .about-banner-buttons .brand-button {
     border-radius: 50% !important;
     display: flex;
     justify-content: center;
-    align-items: center
+    align-items: center;
+    color:white;
+    font-weight: 500;
 }
 
 section#call-toaction-section .about-banner-buttons .brand-button:hover {
@@ -6021,7 +6023,8 @@ span.close {
     padding: 30px;
     z-index: 1111;
     position: absolute;
-    left: 150px;
+    left: 0px;
+    top: 130px;
 }
 .center2 button.slick-next.slick-arrow {
     background-image: url(../../images/rightarrow.webp);
@@ -6029,8 +6032,28 @@ span.close {
     padding: 30px;
     z-index: 1111;
     position: absolute;
-    right: -10px;
+    right: 0px;
+    top: 130px;
 
+}
+.center3 button.slick-next.slick-arrow {
+    background-image: url(../../images/rightarrow.webp);
+    background-size: 100% 100%;
+    padding: 30px;
+    z-index: 1111;
+    position: absolute;
+    right: 0px;
+    top: 130px;
+
+}
+.center3 button.slick-prev.slick-arrow{
+    background-image: url(../../images/leftarrow.webp);
+    background-size: 100% 100%;
+    padding: 30px;
+    z-index: 1111;
+    position: absolute;
+    left: 0px;
+    top: 130px;
 }
 form.innerpagescalltoaction button.btn.btn-primary {
     width: 100%;
@@ -6064,18 +6087,18 @@ form.innerpagescalltoaction button.btn.btn-primary {
 }
 
 @media only screen and (max-width:480px) {
-    section#why-choose-us h3 {
-        font-size: 17px !important;
-        line-height: 23px !important;
+    section#logoportfolio .gallery-item, section#recent-past .gallery-item, section#what-canwe-about .gallery-item {
+        flex-basis: 49%;
     }
-    .choose-image img {
-        width: 50px !important;
-        margin-bottom: 10px;
+    .center3 button.slick-prev.slick-arrow {
+        left: 100px;
+        top: unset;
+        bottom: -70px
     }
-    .choose-box {
-        margin: 0 0px;
-        padding: 20px 5px;
-        height: 390px;
+    .center3 button.slick-next.slick-arrow {
+        right: 100px;
+        top: unset;
+        bottom: -70px;
     }
     .res-row{
     flex-direction: column-reverse;
@@ -6091,7 +6114,7 @@ form.innerpagescalltoaction button.btn.btn-primary {
         bottom: -90px;
     }
     section#intro-section .center2 .why-choosetext {
-        height: 500px;
+        height: auto;
     }
      section#intro-section .center2 .why-choosetext p {
         height: 230px;
@@ -6130,6 +6153,10 @@ form.innerpagescalltoaction button.btn.btn-primary {
         top: unset !important;
         bottom: -90px !important;
     }
+    .center2 .why-choosetext p {
+        height: 205px;
+        overflow: auto;
+    }
     .center.slick-initialized.slick-slider button.slick-prev.slick-arrow {
         left: 80px !important;
         top: unset !important;
@@ -6141,7 +6168,8 @@ form.innerpagescalltoaction button.btn.btn-primary {
         bottom: -40px !important;
     }
     .custom-industries-section .row {
-        margin-top: 30px;
+        margin-top: 30px !important;
+        margin: 0 auto;
     }
     .custom-industries-section .inner-card {
         height: 190px;
@@ -6178,7 +6206,7 @@ form.innerpagescalltoaction button.btn.btn-primary {
     section#logo-call-to-action,
     /* section#logo-contact-form, */
     section#logo-designs-sec form#contact,
-    section#logoportfolio,
+    /* section#logoportfolio, */
     section#mobile-application form#contact,
     section#payperclick-about img.headline,
     section#ppc-section form#contact,
@@ -6193,7 +6221,7 @@ form.innerpagescalltoaction button.btn.btn-primary {
         padding: 10px !important;
     }
     section#logo-contact-form .contact-inner {
-        padding: 40px 10px;
+        padding: 40px 0px;
         width: -webkit-fill-available;
     }
     section#logo-about-us ol li p {
@@ -6317,8 +6345,8 @@ form.innerpagescalltoaction button.btn.btn-primary {
     section#milestone-section .mile-function-code,
     section#price-plans-section-1,
     section#testimonials-sections {
-        padding: 30px 0 !important
-    }
+        padding: 40px 0 !important
+    }   
     .brand-button {
         margin-bottom: 10px
     }
@@ -6427,7 +6455,7 @@ form.innerpagescalltoaction button.btn.btn-primary {
     section#logo-about-us,
     section#logoportfolio,
     section#price-plans-section {
-        padding: 20px 0 !important
+        padding: 55px 0 !important
     }
     section#price-plans-section .price-inner-plan,
     section#price-plans-section-1 .price-inner-plan {

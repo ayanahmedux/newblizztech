@@ -414,6 +414,32 @@ if (isset($_POST['submit'])) {
   });
 </script>
 <script>
+  $('.center3').slick({
+    centerMode: false,
+    slidesToShow: 4,
+    arrows:true,
+    responsive: [{
+        breakpoint: 768,
+        settings: {
+          arrows: false,
+          centerMode: false,
+          centerPadding: '40px',
+          slidesToShow: 3
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          arrows: true,
+          centerMode: false,
+          centerPadding: '40px',
+          slidesToShow: 1
+        }
+      }
+    ]
+  });
+</script>
+<script>
   $('.center-index').slick({
     centerMode: false,
     slidesToShow: 4,

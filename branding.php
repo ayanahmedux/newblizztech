@@ -67,7 +67,7 @@
 
 		<section id="logo-about-us" style="padding: 20px 0px;">
 			<div class="container">
-				<div class="row">
+				<div class="row res-row">
 
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
 						<div class="logoabout-text">
@@ -119,7 +119,7 @@
 		</section>
 		<section id="logo-about-us" style="padding: 20px 0px;">
 			<div class="container">
-				<div class="row">
+				<div class="row res-row">
 
 
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
@@ -170,7 +170,7 @@
 		</section>
 		<section id="logo-about-us" style="padding: 20px 0px;">
 			<div class="container">
-				<div class="row">
+				<div class="row res-row">
 
 
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
@@ -276,7 +276,8 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col" data-aos="flip-right">
+					<div class="center3">
+						<div class="px-2 py-2" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon1.webp">
@@ -288,8 +289,8 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
-					</div>
-					<div class="col" data-aos="flip-right">
+						</div>
+						<div class="px-2 py-2" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon1.webp">
@@ -302,8 +303,8 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
-					</div>
-					<div class="col" data-aos="flip-right">
+						</div>
+						<div class="px-2 py-2" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon2.webp">
@@ -315,8 +316,8 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
-					</div>
-					<div class="col" data-aos="flip-right">
+						</div>
+						<div class="px-2 py-2" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon3.webp">
@@ -328,8 +329,8 @@
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
-					</div>
-					<div class="col" data-aos="flip-right">
+						</div>
+						<div class="px-2 py-2" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon4.webp">
@@ -340,6 +341,7 @@
 						</div>
 						<div class="button-custom">
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+						</div>
 						</div>
 					</div>
 				</div>
@@ -385,7 +387,7 @@
 		<!-- LOGO CALL TO ACTIONS END -->
 
 		<!-- LOGO PORTFOLIO SECTION START -->
-		<section id="logoportfolio" style="padding: 80px 0px;">
+		<section id="logoportfolio" style="padding: 80px 0px; display: block;">
 			<div class="container">
 				<div class="row">
 					<div class="col-9 col-12-medium align-self-center">
@@ -405,7 +407,7 @@
 
 			<div class="row">
 				<!-- TABS GALLERY SECTION START -->
-				<ul class="nav nav-tabs d-none d-lg-flex" id="myTab" role="tablist">
+				<ul class="nav nav-tabs  d-lg-flex" id="myTab" role="tablist">
 					<li class="nav-item" role="presentation">
 						<button class="nav-link active" id="home-tab4" data-bs-toggle="tab" data-bs-target="#home-tab-pane4"
 							type="button" role="tab" aria-controls="home-tab-pane4" aria-selected="true">All</button>
@@ -914,7 +916,7 @@
 				</div>
 				<hr>
 				<!-- SECOND ROW -->
-				<div class="row" style="padding-top: 50px; margin: auto;">
+				<div class="row res-row" style="padding-top: 50px; margin: auto;">
 
 
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
@@ -1037,7 +1039,7 @@
 				<!-- THIRD ROW END -->
 				<hr>
 				<!-- FOUR ROW START -->
-				<div class="row" style="padding-top: 50px; margin: auto;">
+				<div class="row res-row" style="padding-top: 50px; margin: auto;">
 
 
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">

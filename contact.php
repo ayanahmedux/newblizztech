@@ -72,8 +72,8 @@
 
 					<div class="col-6 col-12-medium">
 						<div class="heading-text">
-							<h1> Get in <b>touch</b></h1>
-							<p style="color: #fff;"> Do not hesitate to reach out. Just fill in the contact form here
+							<h1 style="text-align: left !important;"> Get in <b>touch</b></h1>
+							<p style="color: #fff; text-align:left !important;"> Do not hesitate to reach out. Just fill in the contact form here
 								and we’ll be sure to reply as fast as possible.</p>
 							<div class="contact-div">
 								<ul class="nav-menu-links">
@@ -85,7 +85,7 @@
 								</ul>
 							</div>
 							<div class="social-links-2">
-								<h2>Follow us</h2>
+								<h2 style="text-align: left !important;">Follow us</h2>
 							<ul class="">
 									<li><a href="https://www.facebook.com/profile.php?id=61563666846807"><i class="bi bi-facebook"></i></a></li>
 									<li><a href="https://www.instagram.com/blizztech.solutions/"><i class="bi bi-instagram"></i></a></li>

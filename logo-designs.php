@@ -144,7 +144,7 @@
 				</div>
 				<div class="row" style="margin: auto;">
 					<div class="center">
-						<div class="px-2 py-2">
+						<div class="px-2 py-2" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/abstract.webp">
@@ -159,7 +159,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 						</div>
-						<div class="px-2 py-2">
+						<div class="px-2 py-2" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/emblem.webp">
@@ -174,7 +174,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 						</div>
-						<div class="px-2 py-2">
+						<div class="px-2 py-2" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/letter.webp">
@@ -190,7 +190,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 						</div>
-						<div class="px-2 py-2">
+						<div class="px-2 py-2" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/mascot.webp">

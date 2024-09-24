@@ -80,7 +80,7 @@
 
 		<section id="logo-about-us" style="padding: 0px 0px;">
 			<div class="container">
-				<div class="row">
+				<div class="row res-row">
 
 					<div class="col-lg-6 col-12-medium align-self-center" data-aos="fade-right">
 						<div class="logoabout-text">
@@ -167,7 +167,7 @@
 		<section id="logo-about-us" style="padding: 10px 0px;">
 			<div class="container">
 				<div class="row">
-					<div class="col-6 col-12-medium d-none d-md-block " data-aos="fade-right">
+					<div class="col-6 col-12-medium  d-md-block " data-aos="fade-right">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
 							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img2.webp" />
 						</div>
@@ -201,7 +201,7 @@
 
 		<section id="logo-about-us" style="padding: 10px 0px;">
 			<div class="container">
-				<div class="row">
+				<div class="row res-row">
 
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right">
 						<div class="logoabout-text">
@@ -219,7 +219,7 @@
 
 						</div>
 					</div>
-					<div class="col-6 col-12-medium d-none d-md-block " data-aos="fade-left">
+					<div class="col-6 col-12-medium  d-md-block " data-aos="fade-left">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
 							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img3.webp" />
 						</div>
@@ -234,9 +234,9 @@
 
 		<section id="logo-about-us" style="padding: 10px 0px;">
 			<div class="container">
-				<div class="row">
+				<div class="row ">
 
-					<div class="col-6 col-12-medium  d-none d-md-block" data-aos="fade-right">
+					<div class="col-6 col-12-medium   d-md-block" data-aos="fade-right">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
 							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img4.webp" />
 						</div>
@@ -266,7 +266,7 @@
 
 		<section id="logo-about-us" style="padding: 10px 0px;">
 			<div class="container">
-				<div class="row">
+				<div class="row res-row ">
 
 
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right">
@@ -284,7 +284,7 @@
 						</div>
 					</div>
 
-					<div class="col-6 col-12-medium d-none d-md-block " data-aos="fade-left">
+					<div class="col-6 col-12-medium  d-md-block " data-aos="fade-left">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
 							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img5.webp" />
 						</div>
@@ -300,7 +300,7 @@
 			<div class="container">
 				<div class="row">
 
-					<div class="col-6 col-12-medium  d-none d-md-block" data-aos="fade-right">
+					<div class="col-6 col-12-medium   d-md-block" data-aos="fade-right">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
 							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img6.webp" />
 						</div>
@@ -329,7 +329,7 @@
 
 		<section id="logo-about-us" style="padding: 10px 0px;">
 			<div class="container">
-				<div class="row">
+				<div class="row res-row">
 
 					<div class="col-lg-6 align-self-center" data-aos="fade-right">
 						<div class="logoabout-text">
@@ -345,7 +345,7 @@
 
 						</div>
 					</div>
-					<div class="col-lg-6 col-12-medium  d-none d-md-block" data-aos="fade-right">
+					<div class="col-lg-6 col-12-medium   d-md-block" data-aos="fade-right">
 						<div style="height: 100%; display: flex; justify-content: center; align-items: center">
 							<img class="animate__animated animate__pulse" style="height: 80%; width: auto;" src="images/linkbuilding/link-building-img1.webp" />
 						</div>

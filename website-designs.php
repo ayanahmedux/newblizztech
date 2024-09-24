@@ -328,7 +328,7 @@
 				</div>
 				<div class="row">
 					<div class="center2">
-						<div class="px-2 py-2">
+						<div class="px-2 py-2" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 
@@ -344,7 +344,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 						</div>
-						<div class="px-2 py-2">
+						<div class="px-2 py-2" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 
@@ -362,7 +362,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 						</div>
-						<div class="px-2 py-2">
+						<div class="px-2 py-2" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon1.webp">
@@ -377,7 +377,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 						</div>
-						<div class="px-2 py-2">
+						<div class="px-2 py-2" data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/websitedesigns/webicon4.webp">

@@ -54,7 +54,7 @@
 
 		<section id="payperclick-about" style="padding: 100px 0px;">
 			<div class="container">
-				<div class="row">
+				<div class="row res-row">
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1000">
 						<h1 style="color: #fff;"><img class="headline" src="./images/greenlinetext.webp" />Strategic <b>PPC Campaign</b> Management</h1>
 						<p style="color: #fff;">
