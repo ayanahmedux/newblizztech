@@ -2809,10 +2809,13 @@ section#header h1 {
 .choose-card-text h3 b,
 .choose-text h2 b,
 .concept-heading h1 b,
+.concept-e .concept-content h3,
+.concept-c .concept-content h3,
 .concept-n .concept-content h3,
 .concept-n h2,
 .concept-o .concept-content h3,
 .concept-o h2,
+.concept-item h2,
 .concept-p .concept-content h3,
 .concept-p h2,
 .concept-t .concept-content h3,
@@ -6791,19 +6794,12 @@ section#industries-we-conquered .slick-slide img {
 
 .concept-n,
 .concept-o,
-.concept-p {
+.concept-p,
+.concept-c,
+.concept-t,
+.concept-e {
     background-color: #3e3e3e
 }
-
-.concept-c,
-.concept-t h2 {
-    background: linear-gradient(98.46deg, #27d6fc 3.81%, #7d5ce0 101.52%)
-}
-
-.concept-e {
-    background: -webkit-linear-gradient(90deg, #26d4fb 0, #7d5cdf 100%)
-}
-
 .concept-t h2 {
     font-size: 60px;
     margin-right: 20px;
