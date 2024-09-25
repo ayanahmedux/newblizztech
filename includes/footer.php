@@ -734,7 +734,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 </script>
 <!-- Meta Pixel Code -->
-<!-- <script>
+<script>
 !function(f,b,e,v,n,t,s)
 {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};
@@ -748,5 +748,5 @@ fbq('track', 'PageView');
 </script>
 <noscript><img height="1" width="1" style="display:none"
 src="https://www.facebook.com/tr?id=540437431813350&ev=PageView&noscript=1"
-/></noscript> -->
+/></noscript>
 <!-- End Meta Pixel Code -->
