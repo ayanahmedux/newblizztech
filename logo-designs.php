@@ -63,7 +63,7 @@
 
 		<section id="logo-about-us" style="padding: 50px 0px;">
 			<div class="container">
-				<div class="row">
+				<div class="row res-row">
 
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1000">
 						<div class="logoabout-text">
@@ -99,7 +99,7 @@
 		</section>
 		<section id="logo-about-us" style="padding: 50px 0px;">
 			<div class="container">
-				<div class="row">
+				<div class="row res-row">
 					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1000">
 						<div class="logoabout-text">
 							<h1>Custom <b>Creations</b> that Resonate with Your Audience</h1>
@@ -977,7 +977,7 @@
 				</div>
 				<hr>
 				<!-- SECOND ROW -->
-				<div class="row" style="padding-top: 50px; margin: auto;">
+				<div class="row res-row" style="padding-top: 50px; margin: auto;">
 
 
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1000">

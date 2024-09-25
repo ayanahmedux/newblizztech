@@ -3991,7 +3991,7 @@ section#price-plans-section li.nav-item,
 section#price-plans-section-1 li.nav-item {
     text-align: center;
     margin: 0 auto !important;
-    padding: 0 !important
+    padding: 0px 10px !important
 }
 
 section#price-plans-section .price-inner-plan:hover,
@@ -6106,12 +6106,12 @@ form.innerpagescalltoaction button.btn.btn-primary {
     .center2 button.slick-next.slick-arrow {
         right: 100px;
         top: unset !important;
-        bottom: -90px;
+        bottom: -100px;
     }
     .center2 button.slick-prev.slick-arrow {
         left: 100px;
         top: unset !important;
-        bottom: -90px;
+        bottom: -100px;
     }
     section#intro-section .center2 .why-choosetext {
         height: auto;
@@ -6136,12 +6136,12 @@ form.innerpagescalltoaction button.btn.btn-primary {
     section#industries-we-conquered button.slick-next.slick-arrow {
         right: 80px !important;
         top: unset !important;
-        bottom: -45px;
+        bottom: -55px;
     }
     .center.slick-initialized.slick-slider button.slick-prev.slick-arrow, section#industries-we-conquered button.slick-prev.slick-arrow {
         left: 80px !important;
         top: unset !important;
-        bottom: -45px !important;
+        bottom: -55px !important;
     }
     section#price-plans-section .center.slick-initialized.slick-slider button.slick-prev.slick-arrow {
         left: 80px !important;
@@ -6160,19 +6160,35 @@ form.innerpagescalltoaction button.btn.btn-primary {
     .center.slick-initialized.slick-slider button.slick-prev.slick-arrow {
         left: 80px !important;
         top: unset !important;
-        bottom: -40px !important;
+        bottom: -50px !important;
     }
     .center.slick-initialized.slick-slider button.slick-next.slick-arrow {
         right: 80px !important;
         top: unset !important;
-        bottom: -40px !important;
+        bottom: -50px !important;
     }
     .custom-industries-section .row {
-        margin-top: 30px !important;
+        margin-top: 150px !important;
         margin: 0 auto;
     }
+    section#logoprocess-inner img {
+        display: table;
+        margin: auto;
+    }
+    .about-banner-buttons.animate__animated.animate__bounce {
+        justify-content: center;    
+    }
+    section#hero-section {
+        padding: 60px 0 0;
+    }
+    video#bgvid {
+        height: 60vh;
+    }
+    section#hero-section:after {
+        height: 60%;
+    }
     .custom-industries-section .inner-card {
-        height: 190px;
+        height: 170px;
         padding: 30px 0 20px 0;
     }
     .industry-image {
@@ -6218,7 +6234,7 @@ form.innerpagescalltoaction button.btn.btn-primary {
         display: none
     }
     section#logo-contact-form {
-        padding: 10px !important;
+        padding: 30px 0px !important;
     }
     section#logo-contact-form .contact-inner {
         padding: 40px 0px;
@@ -6292,10 +6308,12 @@ form.innerpagescalltoaction button.btn.btn-primary {
     div#quoteModal button.btn.btn-primary {
         width: 70%
     }
-    .brand-button h6,
+    .brand-button h6{
+        padding: 10px 0px ;
+    }
     section#intro-section-home .inner-section,
     section#price-plans-section .price-heading-text {
-        padding: 10px 0
+        padding: 30px 0
     }
     .image-trustpilot img {
         width: 40% !important;
@@ -6498,12 +6516,14 @@ form.innerpagescalltoaction button.btn.btn-primary {
         margin-top: 60px
     }
     section#grow-brand .brand-portfolio button.slick-prev.slick-arrow {
-        top: 400px;
-        left: 80px
+        top: unset !important;
+        left: 80px;
+        bottom: -100px;
     }
     section#grow-brand .brand-portfolio button.slick-next.slick-arrow {
-        top: 400px;
-        right: 80px
+        top: unset !important;
+        right: 80px;
+        bottom: -100px;
     }
     .custom-portoflio-button ul,
     .footer-nav-1 {
@@ -6917,9 +6937,6 @@ section#founder {
     background: linear-gradient(98.46deg, #27d6fc 3.81%, #7d5ce0 101.52%);
     -webkit-text-fill-color: transparent;
     background-clip: text;
-}
-.founder-image-wrapper {
-    padding: 40px 0px;
 }
 
 .founder-image-wrapper img {
