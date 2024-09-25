@@ -750,10 +750,8 @@
 					<!-- LOGOS PRICE PLAN Start -->
 					<div class="container">
 						<div class="row" style="margin: auto !important;">
-							<div class="center">
-								<div class="px-2 py-2">
-
-									<div class="price-inner-plan">
+							<div class="col-4 col-12-medium">
+							<div class="price-inner-plan">
 										<h2 class="text-center">Startup Plan</h2>
 										<div class="price-heading-text">
 											<h2>Quarterly Plan</h2>
@@ -774,12 +772,9 @@
 										</div>
 
 									</div>
-
-
-								</div>
-								<div class="px-2 py-2">
-
-									<div class="price-inner-plan">
+							</div>
+							<div class="col-4 col-12-medium">
+							<div class="price-inner-plan">
 										<h2 class="text-center">Scaling Plan</h2>
 										<div class="price-heading-text">
 											<h2>Quarterly Plan</h2>
@@ -806,12 +801,9 @@
 										</div>
 
 									</div>
-
-
-								</div>
-								<div class="px-2 py-2">
-
-									<div class="price-inner-plan">
+							</div>
+							<div class="col-4 col-12-medium">
+							<div class="price-inner-plan">
 										<h2 class="text-center">Venture Plan</h2>
 										<div class="price-heading-text">
 											<h2>Quarterly Plan</h2>
@@ -838,12 +830,10 @@
 										</div>
 
 									</div>
-
-
-								</div>
-								<div class="px-2 py-2">
-
-									<div class="price-inner-plan">
+							</div>
+							<div class="row mt-5">
+								<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
 										<h2 class="text-center">Startup Plan</h2>
 										<div class="price-heading-text">
 											<h2>Bi-Annual Plan</h2>
@@ -864,12 +854,9 @@
 										</div>
 
 									</div>
-
-
 								</div>
-								<div class="px-2 py-2">
-
-									<div class="price-inner-plan">
+								<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
 										<h2 class="text-center">Scaling Plan</h2>
 										<div class="price-heading-text">
 											<h2>Bi-Annual Plan</h2>
@@ -896,12 +883,9 @@
 										</div>
 
 									</div>
-
-
 								</div>
-								<div class="px-2 py-2">
-
-									<div class="price-inner-plan">
+								<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
 										<h2 class="text-center">Venture Plan</h2>
 										<div class="price-heading-text">
 											<h2>Bi-Annual Plan</h2>
@@ -928,11 +912,8 @@
 										</div>
 
 									</div>
-
-
 								</div>
-
-							</div>
+							</div>>
 						</div>
 
 						<!-- second row -->

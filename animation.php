@@ -879,9 +879,8 @@
                     <!-- LOGOS PRICE PLAN Start -->
                     <div class="container">
                         <div class="row" style="margin: auto !important;">
-                            <div class="center">
-                                <div class="px-2 py-2">
-                                <div class="price-inner-plan">
+                            <div class="col-4 col-12-medium">
+                            <div class="price-inner-plan">
                                     <div class="price-heading-text">
                                         <h2>Start-UP Package</h2>
                                         <h4>$455</h4>
@@ -901,9 +900,9 @@
                                     </div>
 
                                 </div>
-                                </div>
-                                <div class="px-2 py-2">
-                                <div class="price-inner-plan">
+                            </div>
+                            <div class="col-4 col-12-medium">
+                            <div class="price-inner-plan">
                                     <div class="price-heading-text">
                                         <h2>Business Package</h2>
                                         <h4>$755</h4>
@@ -928,9 +927,9 @@
                                     </div>
 
                                 </div>
-                                </div>
-                                <div class="px-2 py-2">
-                                <div class="price-inner-plan">
+                            </div>
+                            <div class="col-4 col-12-medium">
+                            <div class="price-inner-plan">
                                     <div class="price-heading-text">
                                         <h2>Platinum Package</h2>
                                         <h4>$1155</h4>
@@ -954,7 +953,6 @@
                                         </ul>
                                     </div>
 
-                                </div>
                                 </div>
                             </div>
                         </div>

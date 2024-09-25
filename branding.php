@@ -605,10 +605,8 @@
 					<!-- LOGOS PRICE PLAN Start -->
 					<div class="container">
 						<div class="row" style="margin: auto !important;">
-							<div class="center">
-								<div class="px-2 py-2">
-
-									<div class="price-inner-plan">
+								<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
 										<h2 class="text-center">Startup Collateral</h2>
 										<div class="price-heading-text">
 											<h2>Best Value for Money Guaranteed!</h2>
@@ -627,12 +625,9 @@
 										</div>
 
 									</div>
-
-
 								</div>
-								<div class="px-2 py-2">
-
-									<div class="price-inner-plan">
+								<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
 										<h2 class="text-center">Collateral Classic</h2>
 										<div class="price-heading-text">
 											<h2>Best Value for Money Guaranteed!</h2>
@@ -650,12 +645,9 @@
 										</div>
 
 									</div>
-
-
 								</div>
-								<div class="px-2 py-2">
-
-									<div class="price-inner-plan">
+								<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
 										<h2 class="text-center">Premium Collateral</h2>
 										<div class="price-heading-text">
 											<h2>Best Value for Money Guaranteed!</h2>
@@ -674,11 +666,10 @@
 
 									</div>
 
-
 								</div>
-								<div class="px-2 py-2">
-
-									<div class="price-inner-plan">
+								<div class="row mt-5">
+								<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
 										<h2 class="text-center">Unlimited Collateral</h2>
 										<div class="price-heading-text">
 											<h2>Best Value for Money Guaranteed!</h2>
@@ -696,12 +687,9 @@
 										</div>
 
 									</div>
-
-
 								</div>
-								<div class="px-2 py-2">
-
-									<div class="price-inner-plan">
+								<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
 										<h2 class="text-center">Poster Design</h2>
 										<div class="price-heading-text">
 											<h2>Best Value for Money Guaranteed!</h2>
@@ -721,11 +709,9 @@
 										</div>
 
 									</div>
-
 								</div>
-								<div class="px-2 py-2">
-
-									<div class="price-inner-plan">
+								<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
 										<h2 class="text-center">T-Shirt Design</h2>
 										<div class="price-heading-text">
 											<h2>Best Value for Money Guaranteed!</h2>
@@ -748,12 +734,9 @@
 										</div>
 
 									</div>
-
-
 								</div>
-								<div class="px-2 py-2">
-
-									<div class="price-inner-plan">
+								<div class="col-4 col-12-medium mt-5">
+								<div class="price-inner-plan">
 										<h2 class="text-center">Product Label Design</h2>
 										<div class="price-heading-text">
 											<h2>Best Value for Money Guaranteed!</h2>
@@ -776,22 +759,8 @@
 										</div>
 
 									</div>
-
 								</div>
-							</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
+							
 						</div>
 
 						<!-- second row -->

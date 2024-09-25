@@ -2602,7 +2602,7 @@ section#intro-section-seo .why-choosetext img.img2 {
     h5,
     h6 {
         font-size: 1.2em;
-        letter-spacing: .05em;
+        /* letter-spacing: .05em; */
         margin: 0 0 1em
     }
     hr {
@@ -6090,6 +6090,9 @@ form.innerpagescalltoaction button.btn.btn-primary {
 }
 
 @media only screen and (max-width:480px) {
+    .concept-item h2 {
+        display: none;
+    }    
     section#logoportfolio .gallery-item, section#recent-past .gallery-item, section#what-canwe-about .gallery-item {
         flex-basis: 49%;
     }
@@ -6268,9 +6271,11 @@ form.innerpagescalltoaction button.btn.btn-primary {
         margin: auto
     }
     section#about-us-main-section,
-    section#milestone-section,
     section#payperclick-about {
         padding: 50px 0 !important
+    }
+    section#milestone-section{
+        padding: 0px !important;
     }
     .be-spoke-card {
         gap: 10px
@@ -6358,16 +6363,21 @@ form.innerpagescalltoaction button.btn.btn-primary {
         display: none !important
     }
     section#testimonials-sections .testimonial-quote {
-        right: 360px
+        right: 300px
+    }
+    .concept-section {
+        padding: 20px 40px !important;
     }
     section#intro-section-home .why-choosetext {
         height: 360px !important
     }
     section#milestone-section .mile-function-code,
-    section#price-plans-section-1,
-    section#testimonials-sections {
+    section#price-plans-section-1 {
         padding: 40px 0 !important
     }   
+    section#testimonials-sections{
+        padding: 10px 0px !important;
+    }
     .brand-button {
         margin-bottom: 10px
     }
@@ -6919,7 +6929,6 @@ section#tecnology-stack {
     font-size: 20px
 }
 section#founder {
-    padding: 50px 0px;
     color: white;
 }
 

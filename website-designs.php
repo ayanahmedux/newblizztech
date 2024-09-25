@@ -329,68 +329,68 @@
 				<div class="row">
 					<div class="center2">
 						<div class="px-2 py-2" data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
 
-								<img class="img1" src="./images/websitedesigns/webicon2.webp">
-								<img class="img2" src="./images/websitedesigns/webicon22.webp">
+									<img class="img1" src="./images/websitedesigns/webicon2.webp">
+									<img class="img2" src="./images/websitedesigns/webicon22.webp">
+								</div>
+								<h3>E-commerce Website</h3>
+								<p>Our website designing services seamlessly blend well with creativity and usability. We
+									create solutions that elevate your e-commerce store, attract customers and engage
+									customers with a seamless shopping experience.
 							</div>
-							<h3>E-commerce Website</h3>
-							<p>Our website designing services seamlessly blend well with creativity and usability. We
-								create solutions that elevate your e-commerce store, attract customers and engage
-								customers with a seamless shopping experience.
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 						<div class="px-2 py-2" data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
 
-								<img class="img1" src="./images/websitedesigns/webicon3.webp">
-								<img class="img2" src="./images/websitedesigns/webicon33.webp">
+									<img class="img1" src="./images/websitedesigns/webicon3.webp">
+									<img class="img2" src="./images/websitedesigns/webicon33.webp">
+								</div>
+								<h3>Corporate Website</h3>
+								<p>Elevate your company profile with our corporate website services. Our websites
+									successfully showcase your company&#39;s identity, values, and services. That leaves a
+									lasting impression on your clients and stakeholders. Elevate your brand&#39;s online presence with our corporate website designing services. We
+									craft professional and engaging platforms that showcase your company&#39;s identity,
+									services, and values, leaving a lasting impression on clients and stakeholders.</p>
 							</div>
-							<h3>Corporate Website</h3>
-							<p>Elevate your company profile with our corporate website services. Our websites
-								successfully showcase your company&#39;s identity, values, and services. That leaves a
-								lasting impression on your clients and stakeholders. Elevate your brand&#39;s online presence with our corporate website designing services. We
-								craft professional and engaging platforms that showcase your company&#39;s identity,
-								services, and values, leaving a lasting impression on clients and stakeholders.</p>
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 						<div class="px-2 py-2" data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon1.webp">
-								<img class="img2" src="./images/websitedesigns/webicon11.webp">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon1.webp">
+									<img class="img2" src="./images/websitedesigns/webicon11.webp">
+								</div>
+								<h3>Educational Website</h3>
+								<p>Unlock the power of education with our specialized website designing services. We
+									create interactive and intuitive platforms that engage students and educators. We offer
+									a seamless e-learning experience enriched with functional resources and tools.</p>
 							</div>
-							<h3>Educational Website</h3>
-							<p>Unlock the power of education with our specialized website designing services. We
-								create interactive and intuitive platforms that engage students and educators. We offer
-								a seamless e-learning experience enriched with functional resources and tools.</p>
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 						<div class="px-2 py-2" data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon4.webp">
-								<img class="img2" src="./images/websitedesigns/webicon44.webp">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon4.webp">
+									<img class="img2" src="./images/websitedesigns/webicon44.webp">
+								</div>
+								<h3>Portfolio Website </h3>
+								<p>Nobody should stop you from showcasing your talent in an online space. Our team craft
+									stunning and user-friendly platforms where you can display your creative content
+									leaving a lasting impression on potential clients.</p>
 							</div>
-							<h3>Portfolio Website </h3>
-							<p>Nobody should stop you from showcasing your talent in an online space. Our team craft
-								stunning and user-friendly platforms where you can display your creative content
-								leaving a lasting impression on potential clients.</p>
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -637,211 +637,206 @@
 								data-bs-parent="#myTabContent">
 								<div class="container">
 									<div class="row" style="margin: auto !important;">
-										<div class="center">
-											<div class="px-2 py-2">
-												<div class="price-inner-plan">
-													<div class="price-heading-text">
-														<h2>Core Plan</h2>
-														<h4>$199.00</h4>
-													</div>
-													<div class="price-list">
-														<ul>
-															<li>3 Page Website</li>
-															<li>2 Stock Images</li>
-															<li>Contact/Query Form</li>
-															<li>Complete Deployment</li>
-															<li>Dedicated Account Manager</li>
-															<li>48 to 72 hours TAT</li>
-															<li>100% Satisfaction Guarantee</li>
-															<li>100% Unique Design Guarantee</li>
-														</ul>
-
-													</div>
-
+										<div class="col-4 col-12-medium">
+											<div class="price-inner-plan">
+												<div class="price-heading-text">
+													<h2>Core Plan</h2>
+													<h4>$199.00</h4>
 												</div>
-											</div>
-											<div class="px-2 py-2">
-												<div class="price-inner-plan">
-													<div class="price-heading-text">
-														<h2>Group Plan</h2>
-														<h4>$499.00</h4>
-													</div>
-													<div class="price-list">
-
-														<ul>
-															<li>5-6 Unique Pages Website</li>
-															<li>5 Stock Photos</li>
-															<li>1 Banner Design</li>
-															<li>1 jQuery Slider Banner</li>
-															<li>Google Friendly Sitemap</li>
-															<li>Complete Deployment</li>
-															<li>W3C Certified HTML</li>
-															<li>Cross Browser Compatible</li>
-															<li>1 Banner Design</li>
-															<li>1 jQuery Slider Banner</li>
-															<li>Google Friendly Sitemap</li>
-															<li>Dedicated Account Manager</li>
-															<li>48 to 72 hours TAT</li>
-															<li>100% Satisfaction Guarantee</li>
-															<li>100% Unique Design Guarantee</li>
-														</ul>
-													</div>
+												<div class="price-list">
+													<ul>
+														<li>3 Page Website</li>
+														<li>2 Stock Images</li>
+														<li>Contact/Query Form</li>
+														<li>Complete Deployment</li>
+														<li>Dedicated Account Manager</li>
+														<li>48 to 72 hours TAT</li>
+														<li>100% Satisfaction Guarantee</li>
+														<li>100% Unique Design Guarantee</li>
+													</ul>
 
 												</div>
 
 											</div>
-											<div class="px-2 py-2">
-												<div class="price-inner-plan">
-													<div class="price-heading-text">
-														<h2>Executive Plan</h2>
-														<h4>$799.00</h4>
-													</div>
-													<div class="price-list">
+										</div>
+										<div class="col-4 col-12-medium">
+											<div class="price-inner-plan">
+												<div class="price-heading-text">
+													<h2>Group Plan</h2>
+													<h4>$499.00</h4>
+												</div>
+												<div class="price-list">
 
-														<ul>
-															<li> 10 Unique Pages Website</li>
-
-															<li>CMS Integration</li>
-
-															<li>Custom WordPress Backend</li>
-
-															<li>8 Stock images</li>
-
-															<li>3 Slider Banner Design</li>
-
-															<li>1 jQuery Slider Banner</li>
-
-															<li>FREE Google Friendly Sitemap</li>
-
-															<li>Complete Deployment</li>
-
-															<li>W3C Certified HTML</li>
-
-															<li>Mobile Responsive</li>
-
-															<li>Cross Browser Compatible</li>
-
-															<li>Dedicated Account Manager</li>
-
-															<li>48 to 72 hours TAT</li>
-
-															<li>100% Satisfaction Guaranteed</li>
-
-															<li>100% Unique Design Guaranteed</li>
-														</ul>
-													</div>
-
+													<ul>
+														<li>5-6 Unique Pages Website</li>
+														<li>5 Stock Photos</li>
+														<li>1 Banner Design</li>
+														<li>1 jQuery Slider Banner</li>
+														<li>Google Friendly Sitemap</li>
+														<li>Complete Deployment</li>
+														<li>W3C Certified HTML</li>
+														<li>Cross Browser Compatible</li>
+														<li>1 Banner Design</li>
+														<li>1 jQuery Slider Banner</li>
+														<li>Google Friendly Sitemap</li>
+														<li>Dedicated Account Manager</li>
+														<li>48 to 72 hours TAT</li>
+														<li>100% Satisfaction Guarantee</li>
+														<li>100% Unique Design Guarantee</li>
+													</ul>
 												</div>
 
-
 											</div>
-
-											<div class="px-2 py-2">
-
-												<div class="price-inner-plan">
-													<div class="price-heading-text">
-														<h2>Prestige Plan</h2>
-														<h4>$999</h4>
-													</div>
-													<div class="price-list">
-
-														<ul>
-															<li>Upto 16 Unique Pages Website</li>
-															<li>Conceptual and Dynamic Website</li>
-															<li>Online Reservation/Appointment Tool</li>
-															<li>Custom Forms</li>
-															<li>Lead Capturing Forms</li>
-															<li>Striking Hover Effects</li>
-															<li>Newsletter Subscription</li>
-															<li>News Feed Integration</li>
-															<li>Social Media Integration</li>
-															<li>8 Stock Photos</li>
-															<li>3 Unique Banner Design</li>
-															<li>1 jQuery Slider Banner</li>
-															<li>Complete W3C Certified HTML</li>
-															<li>48 to 72 hours TAT (Design Mockup)</li>
-															<li>Complete Deployment</li>
-
-														</ul>
-													</div>
-
+										</div>
+										<div class="col-4 col-12-medium">
+											<div class="price-inner-plan">
+												<div class="price-heading-text">
+													<h2>Executive Plan</h2>
+													<h4>$799.00</h4>
 												</div>
-											</div>
-											<div class="px-2 py-2">
-												<div class="price-inner-plan">
-													<div class="price-heading-text">
-														<h2> Enterprise Plus Plan</h2>
-														<h4>$1499</h4>
-													</div>
-													<div class="price-list">
+												<div class="price-list">
 
-														<ul>
-															<li>Unlimited Pages Website</li>
-															<li>Custom Made, Interactive, Dynamic & High End Design</li>
-															<li>Custom WP (or) Custom PHP Development</li>
-															<li>1 jQuery Slider Banner</li>
-															<li>Up to 8 Custom Made Banner Designs</li>
-															<li>12 Stock Images</li>
-															<li>Unlimited Revisions</li>
-															<li>Special Hover Effects</li>
-															<li>Content Management System (CMS) or Custom Dashboard PHP</li>
-															<li>Online Appointment/Scheduling/Online Ordering Integration</li>
-															<li>Mobile Responsive (All Devices Compatible)</li>
-															<li>Multi Lingual</li>
-															<li>Custom Dynamic Forms</li>
-															<li>Signup Area (For Newsletters, Offers etc.)</li>
-															<li>Easy Search Bar</li>
-															<li>Live Feeds of Social Networks integration</li>
-															<li>Free Google Friendly Sitemap</li>
-															<li>Search Engine Submission</li>
-															<li>Complete W3C Certified HTML</li>
-															<li>48 to 72 hours TAT (Design Mockup)</li>
-															<li>Complete Deployment</li>
-														</ul>
-													</div>
+													<ul>
+														<li> 10 Unique Pages Website</li>
 
+														<li>CMS Integration</li>
+
+														<li>Custom WordPress Backend</li>
+
+														<li>8 Stock images</li>
+
+														<li>3 Slider Banner Design</li>
+
+														<li>1 jQuery Slider Banner</li>
+
+														<li>FREE Google Friendly Sitemap</li>
+
+														<li>Complete Deployment</li>
+
+														<li>W3C Certified HTML</li>
+
+														<li>Mobile Responsive</li>
+
+														<li>Cross Browser Compatible</li>
+
+														<li>Dedicated Account Manager</li>
+
+														<li>48 to 72 hours TAT</li>
+
+														<li>100% Satisfaction Guaranteed</li>
+
+														<li>100% Unique Design Guaranteed</li>
+													</ul>
 												</div>
+
 											</div>
-											<div class="px-2 py-2">
-												<div class="price-inner-plan">
-													<div class="price-heading-text">
-														<h2>Top-tier Plan</h2>
-														<h4>$2299</h4>
-													</div>
-													<div class="price-list">
-
-														<ul>
-															<li>Unlimited Pages Website </li>
-															<li>Custom Made, Interactive, Dynamic & High End Design</li>
-															<li>Custom WP (or) Custom PHP Development</li>
-															<li>1 jQuery Slider Banner</li>
-															<li>Up to 12 Custom Made Banner Designs</li>
-															<li>14 Stock Images</li>
-															<li>Unlimited Revisions</li>
-															<li>Special Hover Effects</li>
-															<li>Content Management System (CMS) or Custom Dashboard PHP</li>
-															<li>Online Appointment/Scheduling/Online Ordering Integration</li>
-															<li>Online Payment Integration</li>
-															<li>Multi Lingual</li>
-															<li>Custom Dynamic Forms</li>
-															<li>Signup Area (For Newsletters, Offers etc.)</li>
-															<li>Easy Search Bar</li>
-															<li>Live Feeds of Social Networks integration</li>
-															<li>Mobile Responsive (All Devices Compatible)</li>
-															<li>FREE 5 Years Domain Name</li>
-															<li>Free Google Friendly Sitemap</li>
-															<li>15 Seconds 2D Explainer Video</li>
-															<li>Professional Script Writing</li>
-															<li>SEO Meta Tags</li>
-															<li>Search Engine Submission</li>
-															<li>Complete W3C Certified HTML</li>
-															<li>48 to 72 hours TAT (Design Mockup)</li>
-															<li>Complete Deployment</li>
-														</ul>
-													</div>
-
+										</div>
+										<div class="row mt-5">
+										<div class="col-4 col-12-medium">
+											<div class="price-inner-plan">
+												<div class="price-heading-text">
+													<h2>Prestige Plan</h2>
+													<h4>$999</h4>
 												</div>
+												<div class="price-list">
+
+													<ul>
+														<li>Upto 16 Unique Pages Website</li>
+														<li>Conceptual and Dynamic Website</li>
+														<li>Online Reservation/Appointment Tool</li>
+														<li>Custom Forms</li>
+														<li>Lead Capturing Forms</li>
+														<li>Striking Hover Effects</li>
+														<li>Newsletter Subscription</li>
+														<li>News Feed Integration</li>
+														<li>Social Media Integration</li>
+														<li>8 Stock Photos</li>
+														<li>3 Unique Banner Design</li>
+														<li>1 jQuery Slider Banner</li>
+														<li>Complete W3C Certified HTML</li>
+														<li>48 to 72 hours TAT (Design Mockup)</li>
+														<li>Complete Deployment</li>
+
+													</ul>
+												</div>
+
 											</div>
+										</div>
+										<div class="col-4 col-12-medium">
+											<div class="price-inner-plan">
+												<div class="price-heading-text">
+													<h2> Enterprise Plus Plan</h2>
+													<h4>$1499</h4>
+												</div>
+												<div class="price-list">
+
+													<ul>
+														<li>Unlimited Pages Website</li>
+														<li>Custom Made, Interactive, Dynamic & High End Design</li>
+														<li>Custom WP (or) Custom PHP Development</li>
+														<li>1 jQuery Slider Banner</li>
+														<li>Up to 8 Custom Made Banner Designs</li>
+														<li>12 Stock Images</li>
+														<li>Unlimited Revisions</li>
+														<li>Special Hover Effects</li>
+														<li>Content Management System (CMS) or Custom Dashboard PHP</li>
+														<li>Online Appointment/Scheduling/Online Ordering Integration</li>
+														<li>Mobile Responsive (All Devices Compatible)</li>
+														<li>Multi Lingual</li>
+														<li>Custom Dynamic Forms</li>
+														<li>Signup Area (For Newsletters, Offers etc.)</li>
+														<li>Easy Search Bar</li>
+														<li>Live Feeds of Social Networks integration</li>
+														<li>Free Google Friendly Sitemap</li>
+														<li>Search Engine Submission</li>
+														<li>Complete W3C Certified HTML</li>
+														<li>48 to 72 hours TAT (Design Mockup)</li>
+														<li>Complete Deployment</li>
+													</ul>
+												</div>
+
+											</div>
+										</div>
+										<div class="col-4 col-12-medium">
+											<div class="price-inner-plan">
+												<div class="price-heading-text">
+													<h2>Top-tier Plan</h2>
+													<h4>$2299</h4>
+												</div>
+												<div class="price-list">
+
+													<ul>
+														<li>Unlimited Pages Website </li>
+														<li>Custom Made, Interactive, Dynamic & High End Design</li>
+														<li>Custom WP (or) Custom PHP Development</li>
+														<li>1 jQuery Slider Banner</li>
+														<li>Up to 12 Custom Made Banner Designs</li>
+														<li>14 Stock Images</li>
+														<li>Unlimited Revisions</li>
+														<li>Special Hover Effects</li>
+														<li>Content Management System (CMS) or Custom Dashboard PHP</li>
+														<li>Online Appointment/Scheduling/Online Ordering Integration</li>
+														<li>Online Payment Integration</li>
+														<li>Multi Lingual</li>
+														<li>Custom Dynamic Forms</li>
+														<li>Signup Area (For Newsletters, Offers etc.)</li>
+														<li>Easy Search Bar</li>
+														<li>Live Feeds of Social Networks integration</li>
+														<li>Mobile Responsive (All Devices Compatible)</li>
+														<li>FREE 5 Years Domain Name</li>
+														<li>Free Google Friendly Sitemap</li>
+														<li>15 Seconds 2D Explainer Video</li>
+														<li>Professional Script Writing</li>
+														<li>SEO Meta Tags</li>
+														<li>Search Engine Submission</li>
+														<li>Complete W3C Certified HTML</li>
+														<li>48 to 72 hours TAT (Design Mockup)</li>
+														<li>Complete Deployment</li>
+													</ul>
+												</div>
+
+											</div>
+										</div>
 										</div>
 									</div>
 								</div>
@@ -870,165 +865,161 @@
 				<div class="tab-pane fade accordion-item prr" id="profile-tab-pane08" role="tabpanel" aria-labelledby="profile-tab08" tabindex="0">
 					<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
 						<div class="container">
-							<div class="row">
-								<div class="center">
-									<div class="px-2 py-2">
-										<div class="price-inner-plan">
-											<div class="price-heading-text">
-												<h2>Entry Plan</h2>
-												<h4>$599</h4>
-											</div>
-											<div class="price-list">
-
-												<ul>
-													<li>Content Management System (CMS)</li>
-													<li>Easy Product Search</li>
-													<li>Product Reviews</li>
-													<li>Up To 100 Products</li>
-													<li>Up To 7 Categories</li>
-													<li>Mini Shop Cart Integration</li>
-													<li>Payment Module Integration</li>
-													<li>JQuery Slider</li>
-													<li>Google Friendly Sitemap</li>
-													<li>Complete W3C Certified HTML</li>
-													<li>Industry Specified Team of Expert Designers & Developers</li>
-													<li>Dedicated Accounts Manager</li>
-													<li>Complete W3C Certified HTML</li>
-													<li>48 to 72 hours TAT (Design Mockup)</li>
-													<li>Complete Deployment</li>
-													<li>*Mobile Responsive $149</li>
-
-												</ul>
-											</div>
-
+							<div class="row" style="margin: auto !important;">
+								<div class="col-4 col-12-medium">
+									<div class="price-inner-plan">
+										<div class="price-heading-text">
+											<h2>Entry Plan</h2>
+											<h4>$599</h4>
 										</div>
-									</div>
-									<div class="px-2 py-2">
-										<div class="price-inner-plan">
-											<div class="price-heading-text">
-												<h2>Mid-tier Plan</h2>
-												<h4>$799</h4>
-											</div>
-											<div class="price-list">
+										<div class="price-list">
 
-												<ul>
-													<li>Conceptual and Dynamic Website</li>
-													<li>Content Management System (CMS)</li>
-													<li>Mobile Responsive Design</li>
-													<li>24 - 48 Hours Turnaround Time</li>
-													<li>WooCommerce or Shopify Based Backend</li>
-													<li>Easy Product Search</li>
-													<li>Up-to 250 Products</li>
-													<li>Up-to 30 Categories</li>
-													<li>Full Shopping Cart Integration</li>
-													<li>Payment Module Integration</li>
-													<li>JQuery Slider</li>
-													<li>Google Friendly Sitemap</li>
-													<li>Complete W3C Certified HTML</li>
-													<li>Industry Specified Team of Expert Designers and Developers</li>
-													<li>Dedicated Accounts Manager</li>
-													<li>48 to 72 hours TAT (Design Mockup)</li>
-													<li>Complete Deployment</li>
-												</ul>
-											</div>
+											<ul>
+												<li>Content Management System (CMS)</li>
+												<li>Easy Product Search</li>
+												<li>Product Reviews</li>
+												<li>Up To 100 Products</li>
+												<li>Up To 7 Categories</li>
+												<li>Mini Shop Cart Integration</li>
+												<li>Payment Module Integration</li>
+												<li>JQuery Slider</li>
+												<li>Google Friendly Sitemap</li>
+												<li>Complete W3C Certified HTML</li>
+												<li>Industry Specified Team of Expert Designers & Developers</li>
+												<li>Dedicated Accounts Manager</li>
+												<li>Complete W3C Certified HTML</li>
+												<li>48 to 72 hours TAT (Design Mockup)</li>
+												<li>Complete Deployment</li>
+												<li>*Mobile Responsive $149</li>
 
+											</ul>
 										</div>
 
 									</div>
-									<div class="px-2 py-2">
-										<div class="price-inner-plan">
-											<div class="price-heading-text">
-												<h2>Pro Plan</h2>
-												<h4>$1299</h4>
-											</div>
-											<div class="price-list">
+								</div>
+								<div class="col-4 col-12-medium">
+									<div class="price-inner-plan">
+										<div class="price-heading-text">
+											<h2>Mid-tier Plan</h2>
+											<h4>$799</h4>
+										</div>
+										<div class="price-list">
 
-												<ul>
-													<li>Custom Dynamic Design & Development</li>
-													<li>500 Products & Custom Category Sections</li>
-													<li>Unlimited Banner Designs</li>
-													<li>Interactive Sliding Banners</li>
-													<li>Special Hover Effects</li>
-													<li>Customized Contact Us Form</li>
-													<li>Multiple Filtration Options (Search by Age, Experience, Talent, Industry, etc.)</li>
-													<li>Profile Comparison (As per Category)</li>
-													<li>File Converter</li>
-													<li>Custom Video Functionality</li>
-													<li>Multiple File Format Uploading</li>
-													<li>User Signup & Login Area</li>
-													<li>User Dashboard Area</li>
-													<li>Custom Coding and Development</li>
-													<li>Content Management System (Custom)</li>
-													<li>Online Appointment/Scheduling Integration</li>
-													<li>Online Payment Integration (Stripe, PayPal, Apple Pay, Google Pay)</li>
-													<li>Custom Dynamic Forms</li>
-													<li>Complete Database Creation</li>
-													<li>Social Media Integration (Instagram, Facebook, etc.)</li>
-													<li>Signup Automated Email Authentication</li>
-													<li>Signup Area (For Newsletters, Offers, etc.)</li>
-													<li>Search Bar for Easy Search</li>
-													<li>Search Engine Submission</li>
-													<li>SEO Friendly</li>
-													<li>Mobile Responsive (All Screens)</li>
-													<li>Custom Admin Panel</li>
-													<li>Award-Winning Team of Expert Designers and Developers</li>
-													<li>Complete W3C Certified HTML</li>
-													<li>48 to 72 hours TAT (Design Mockup)</li>
-													<li>Complete Deployment</li>
-												</ul>
-											</div>
-
+											<ul>
+												<li>Conceptual and Dynamic Website</li>
+												<li>Content Management System (CMS)</li>
+												<li>Mobile Responsive Design</li>
+												<li>24 - 48 Hours Turnaround Time</li>
+												<li>WooCommerce or Shopify Based Backend</li>
+												<li>Easy Product Search</li>
+												<li>Up-to 250 Products</li>
+												<li>Up-to 30 Categories</li>
+												<li>Full Shopping Cart Integration</li>
+												<li>Payment Module Integration</li>
+												<li>JQuery Slider</li>
+												<li>Google Friendly Sitemap</li>
+												<li>Complete W3C Certified HTML</li>
+												<li>Industry Specified Team of Expert Designers and Developers</li>
+												<li>Dedicated Accounts Manager</li>
+												<li>48 to 72 hours TAT (Design Mockup)</li>
+												<li>Complete Deployment</li>
+											</ul>
 										</div>
 
 									</div>
-									<div class="px-2 py-2">
-										<div class="price-inner-plan">
-											<div class="price-heading-text">
-												<h2> Executive Plan</h2>
-												<h4>$4499</h4>
-											</div>
-											<div class="price-list">
+								</div>
+								<div class="col-4 col-12-medium">
+									<div class="price-inner-plan">
+										<div class="price-heading-text">
+											<h2>Pro Plan</h2>
+											<h4>$1299</h4>
+										</div>
+										<div class="price-list">
 
-												<ul>
-													<li>Complete Custom Design & Development of Portal Based Platform</li>
-													<li>Unique, User Friendly, Interactive, Dynamic, High End UI Design</li>
-													<li>Unlimited Banner Designs</li>
-													<li>Interactive Sliding Banners</li>
-													<li>Special Hover Effects</li>
-													<li>Customized Contact Us Form</li>
-													<li>Multiple Filtration Option (Search by Age, Experience, Talent, Industry etc)</li>
-													<li>Profile Comparison (As per Category)</li>
-													<li>File Converter</li>
-													<li>Custom Video Functionality</li>
-													<li>Multiple File Format Uploading</li>
-													<li>User Signup Area (Talent)</li>
-													<li>User Signup Area (Casting)</li>
-													<li>User Signup Area (Agency)</li>
-													<li>Client/User Dashboard Area</li>
-													<li>Vendor / Agency Dashboard Area</li>
-													<li>Custom Coding and Development</li>
-													<li>Content Management System (Custom)</li>
-													<li>Online Appointment/Scheduling Integration (Optional)</li>
-													<li>Online Payment Integration</li>
-													<li>Invoicing System</li>
-													<li>Custom Dynamic Forms</li>
-													<li>Complete Database Creation</li>
-													<li>3rd Party Links Integration (Instagram, IMDB, etc.)</li>
-													<li>Signup Automated Email Authentication</li>
-													<li>Signup Area (For Newsletters, Offers, etc.)</li>
-													<li>Search Bar for Easy Search</li>
-													<li>SEO Friendly</li>
-													<li>Mobile Responsive</li>
-													<li>Master Admin Panel</li>
-													<li>Award-Winning Team of Expert Designers and Developers</li>
-													<li>Complete Deployment</li>
-													<li>Complete W3C Validation</li>
-												</ul>
+											<ul>
+												<li>Custom Dynamic Design & Development</li>
+												<li>500 Products & Custom Category Sections</li>
+												<li>Unlimited Banner Designs</li>
+												<li>Interactive Sliding Banners</li>
+												<li>Special Hover Effects</li>
+												<li>Customized Contact Us Form</li>
+												<li>Multiple Filtration Options (Search by Age, Experience, Talent, Industry, etc.)</li>
+												<li>Profile Comparison (As per Category)</li>
+												<li>File Converter</li>
+												<li>Custom Video Functionality</li>
+												<li>Multiple File Format Uploading</li>
+												<li>User Signup & Login Area</li>
+												<li>User Dashboard Area</li>
+												<li>Custom Coding and Development</li>
+												<li>Content Management System (Custom)</li>
+												<li>Online Appointment/Scheduling Integration</li>
+												<li>Online Payment Integration (Stripe, PayPal, Apple Pay, Google Pay)</li>
+												<li>Custom Dynamic Forms</li>
+												<li>Complete Database Creation</li>
+												<li>Social Media Integration (Instagram, Facebook, etc.)</li>
+												<li>Signup Automated Email Authentication</li>
+												<li>Signup Area (For Newsletters, Offers, etc.)</li>
+												<li>Search Bar for Easy Search</li>
+												<li>Search Engine Submission</li>
+												<li>SEO Friendly</li>
+												<li>Mobile Responsive (All Screens)</li>
+												<li>Custom Admin Panel</li>
+												<li>Award-Winning Team of Expert Designers and Developers</li>
+												<li>Complete W3C Certified HTML</li>
+												<li>48 to 72 hours TAT (Design Mockup)</li>
+												<li>Complete Deployment</li>
+											</ul>
+										</div>
 
+									</div>
+								</div>
+								<div class="col-4 col-12-medium mt-5">
+									<div class="price-inner-plan">
+										<div class="price-heading-text">
+											<h2> Executive Plan</h2>
+											<h4>$4499</h4>
+										</div>
+										<div class="price-list">
 
-											</div>
+											<ul>
+												<li>Complete Custom Design & Development of Portal Based Platform</li>
+												<li>Unique, User Friendly, Interactive, Dynamic, High End UI Design</li>
+												<li>Unlimited Banner Designs</li>
+												<li>Interactive Sliding Banners</li>
+												<li>Special Hover Effects</li>
+												<li>Customized Contact Us Form</li>
+												<li>Multiple Filtration Option (Search by Age, Experience, Talent, Industry etc)</li>
+												<li>Profile Comparison (As per Category)</li>
+												<li>File Converter</li>
+												<li>Custom Video Functionality</li>
+												<li>Multiple File Format Uploading</li>
+												<li>User Signup Area (Talent)</li>
+												<li>User Signup Area (Casting)</li>
+												<li>User Signup Area (Agency)</li>
+												<li>Client/User Dashboard Area</li>
+												<li>Vendor / Agency Dashboard Area</li>
+												<li>Custom Coding and Development</li>
+												<li>Content Management System (Custom)</li>
+												<li>Online Appointment/Scheduling Integration (Optional)</li>
+												<li>Online Payment Integration</li>
+												<li>Invoicing System</li>
+												<li>Custom Dynamic Forms</li>
+												<li>Complete Database Creation</li>
+												<li>3rd Party Links Integration (Instagram, IMDB, etc.)</li>
+												<li>Signup Automated Email Authentication</li>
+												<li>Signup Area (For Newsletters, Offers, etc.)</li>
+												<li>Search Bar for Easy Search</li>
+												<li>SEO Friendly</li>
+												<li>Mobile Responsive</li>
+												<li>Master Admin Panel</li>
+												<li>Award-Winning Team of Expert Designers and Developers</li>
+												<li>Complete Deployment</li>
+												<li>Complete W3C Validation</li>
+											</ul>
+
 
 										</div>
+
 									</div>
 								</div>
 								<div class="custom-price-button" style="padding-top: 70px;">

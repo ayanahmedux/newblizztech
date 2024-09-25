@@ -523,9 +523,8 @@
 					<!-- LOGOS PRICE PLAN Start -->
 					<div class="container">
 						<div class="row" style="margin: auto !important;">
-							<div class="center">
-								<div class="px-2 py-2">
-								<div class="price-inner-plan">
+							<div class="col-4 col-12-medium">
+							<div class="price-inner-plan">
 									<div class="price-heading-text">
 										<h2>Small</h2>
 									</div>
@@ -544,9 +543,9 @@
 									</div>
 
 								</div>
-								</div>
-								<div class="px-2 py-2">
-								<div class="price-inner-plan">
+							</div>
+							<div class="col-4 col-12-medium">
+							<div class="price-inner-plan">
 									<div class="price-heading-text">
 										<h2>Regular</h2>
 									</div>
@@ -569,9 +568,9 @@
 									</div>
 
 								</div>
-								</div>
-								<div class="px-2 py-2">
-								<div class="price-inner-plan">
+							</div>
+							<div class="col-4 col-12-medium">
+							<div class="price-inner-plan">
 									<div class="price-heading-text">
 										<h2>Elite</h2>
 									</div>
@@ -595,7 +594,6 @@
 										</ul>
 									</div>
 
-								</div>
 								</div>
 							</div>
 						</div>

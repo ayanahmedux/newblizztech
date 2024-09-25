@@ -145,65 +145,65 @@
 				<div class="row" style="margin: auto;">
 					<div class="center">
 						<div class="px-2 py-2" data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/abstract.webp">
-								<img class="img2" src="./images/Logodesign/abstract1.webp">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/Logodesign/abstract.webp">
+									<img class="img2" src="./images/Logodesign/abstract1.webp">
+								</div>
+								<h3>Abstract Marks</h3>
+								<p>Abstracts express multiple concepts and feelings in a single symbol; we ensure they are
+									visually striking- making them easy to remember. Elevate your business with our unique
+									abstract logos that stand out.
 							</div>
-							<h3>Abstract Marks</h3>
-							<p>Abstracts express multiple concepts and feelings in a single symbol; we ensure they are
-								visually striking- making them easy to remember. Elevate your business with our unique
-								abstract logos that stand out.
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 						<div class="px-2 py-2" data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/emblem.webp">
-								<img class="img2" src="./images/Logodesign/emblem1.webp">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/Logodesign/emblem.webp">
+									<img class="img2" src="./images/Logodesign/emblem1.webp">
+								</div>
+								<h3>Emblem Logos</h3>
+								<p>At blizztechsolutions, our emblem logos prioritize typography over iconography, creating a powerful
+									and cohesive brand representation. With typography at the heart of each design, we
+									ensure a memorable and impactful logo.</p>
 							</div>
-							<h3>Emblem Logos</h3>
-							<p>At blizztechsolutions, our emblem logos prioritize typography over iconography, creating a powerful
-								and cohesive brand representation. With typography at the heart of each design, we
-								ensure a memorable and impactful logo.</p>
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 						<div class="px-2 py-2" data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/letter.webp">
-								<img class="img2" src="./images/Logodesign/letter1.webp">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/Logodesign/letter.webp">
+									<img class="img2" src="./images/Logodesign/letter1.webp">
+								</div>
+								<h3>Letter Based Logo</h3>
+								<p>Letter-based logos are super easy to adapt across marketing material and marketing
+									channels. We at blizztechsolutions help turn your business into a recognizable brand. Over the
+									years, we have had some great logos for our clients, including monograms, signatures,
+									initials, and acronyms.</p>
 							</div>
-							<h3>Letter Based Logo</h3>
-							<p>Letter-based logos are super easy to adapt across marketing material and marketing
-								channels. We at blizztechsolutions help turn your business into a recognizable brand. Over the
-								years, we have had some great logos for our clients, including monograms, signatures,
-								initials, and acronyms.</p>
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 						<div class="px-2 py-2" data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/Logodesign/mascot.webp">
-								<img class="img2" src="./images/Logodesign/mascot1.webp">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/Logodesign/mascot.webp">
+									<img class="img2" src="./images/Logodesign/mascot1.webp">
+								</div>
+								<h3>Mascot Logos</h3>
+								<p>Strengthen your brand identity and build brand recognition through Mascot Logo that
+									WE create for you. The difference between a good and lousy mascot logo is that a good
+									mascot logo instills life into your brand that appeals to humans.</p>
 							</div>
-							<h3>Mascot Logos</h3>
-							<p>Strengthen your brand identity and build brand recognition through Mascot Logo that
-								WE create for you. The difference between a good and lousy mascot logo is that a good
-								mascot logo instills life into your brand that appeals to humans.</p>
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -304,16 +304,16 @@
 						<div id="collapseOne" class="accordion-collapse collapse show  d-lg-block" aria-labelledby="headingOne"
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
-								<div class="gallery-item" data-index="1"  data-aos="flip-right">
+								<div class="gallery-item" data-index="1" data-aos="flip-right">
 									<img src="./images/Logodesign/portfolio/1.webp">
 								</div>
-								<div class="gallery-item" data-index="2"  data-aos="flip-right">
+								<div class="gallery-item" data-index="2" data-aos="flip-right">
 									<img src="./images/Logodesign/portfolio/2.webp">
 								</div>
-								<div class="gallery-item" data-index="3"  data-aos="flip-right">
+								<div class="gallery-item" data-index="3" data-aos="flip-right">
 									<img src="./images/Logodesign/portfolio/3.webp">
 								</div>
-								<div class="gallery-item" data-index="4"  data-aos="flip-right">
+								<div class="gallery-item" data-index="4" data-aos="flip-right">
 									<img src="./images/Logodesign/portfolio/4.webp">
 								</div>
 
@@ -520,29 +520,28 @@
 								data-bs-parent="#myTabContent">
 								<div class="container">
 									<div class="row" style="margin: auto !important;">
-										<div class="center">
-											<div class="px-2 py-2">
-												<div class="price-inner-plan">
-													<h2 class="text-center">ESSENTIAL</h2>
-													<div class="price-heading-text">
-														<h2>Value Added Design Solution</h2>
-														<h4>$49.00</h4>
-													</div>
-													<div class="price-list">
-														<ul>
-															<li>2 Logo Concepts</li>
-															<li>4 Revisions (Additional $20)</li>
-															<li>By 2 Top Rated Dedicated Designers</li>
-															<li>24 - 48 Hours Turnaround Time</li>
-															<li>Final Files (Jpeg, PNG)</li>
-
-														</ul>
-													</div>
-
+										<div class="col-4 col-12-medium">
+											<div class="price-inner-plan">
+												<h2 class="text-center">ESSENTIAL</h2>
+												<div class="price-heading-text">
+													<h2>Value Added Design Solution</h2>
+													<h4>$49.00</h4>
 												</div>
+												<div class="price-list">
+													<ul>
+														<li>2 Logo Concepts</li>
+														<li>4 Revisions (Additional $20)</li>
+														<li>By 2 Top Rated Dedicated Designers</li>
+														<li>24 - 48 Hours Turnaround Time</li>
+														<li>Final Files (Jpeg, PNG)</li>
+
+													</ul>
+												</div>
+
 											</div>
-											<div class="px-2 py-2">
-												<div class="price-inner-plan">
+										</div>
+										<div class="col-4 col-12-medium">
+										<div class="price-inner-plan">
 													<h2 class="text-center">TEAM</h2>
 													<div class="price-heading-text">
 														<h2>Value Added Design Solution</h2>
@@ -561,9 +560,9 @@
 													</div>
 
 												</div>
-											</div>
-											<div class="px-2 py-2">
-												<div class="price-inner-plan">
+										</div>
+										<div class="col-4 col-12-medium">
+										<div class="price-inner-plan">
 													<h2 class="text-center">
 														CORPORATE
 													</h2>
@@ -584,9 +583,9 @@
 													</div>
 
 												</div>
-											</div>
-											<div class="px-2 py-2">
-												<div class="price-inner-plan">
+										</div>
+										<div class="col-4 col-12-medium mt-4">
+										<div class="price-inner-plan">
 													<h2 class="text-center">BUSINESS</h2>
 													<div class="price-heading-text">
 														<h2>Value Added Design Solution</h2>
@@ -640,10 +639,7 @@
 													</div>
 
 												</div>
-
-											</div>
 										</div>
-
 										<div class="custom-price-button" style="padding-top: 70px;">
 											<ul>
 												<li>
@@ -671,52 +667,50 @@
 					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane08" role="tabpanel" aria-labelledby="profile-tab08" tabindex="0">
 						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
 							<div class="container">
-								<div class="row">
-									<div class="center">
-										<div class="px-2 py-2">
-										<div class="price-inner-plan">
-											<h2 class="text-center">RUBY ILLUSTRATIVE</h2>
-											<div class="price-heading-text">
-												<h2>Value Added Design Solution</h2>
-												<h4>$198.00</h4>
-											</div>
-											<div class="price-list">
-												<ul>
-													<li>2 Custom Illustrative Logo Concepts</li>
-													<li>Unlimited Revisions</li>
-													<li>By 3 Top Rated Dedicated Designers</li>
-													<li>Brand Icon</li>
-													<li>48 - 72 Hours Turnaround Time</li>
-													<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-													<li>Gray Scale Format</li>
-												</ul>
-											</div>
+								<div class="row" style="margin: auto !important;">
+									<div class="col-4 col-12-medium">
+									<div class="price-inner-plan">
+												<h2 class="text-center">RUBY ILLUSTRATIVE</h2>
+												<div class="price-heading-text">
+													<h2>Value Added Design Solution</h2>
+													<h4>$198.00</h4>
+												</div>
+												<div class="price-list">
+													<ul>
+														<li>2 Custom Illustrative Logo Concepts</li>
+														<li>Unlimited Revisions</li>
+														<li>By 3 Top Rated Dedicated Designers</li>
+														<li>Brand Icon</li>
+														<li>48 - 72 Hours Turnaround Time</li>
+														<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+														<li>Gray Scale Format</li>
+													</ul>
+												</div>
 
-										</div>
-										</div>
-										<div class="px-2 py-2">
-										<div class="price-inner-plan">
-											<h2 class="text-center">EMERALD ILLUSTRATIVE</h2>
-											<div class="price-heading-text">
-												<h2>Value Added Design Solution</h2>
-												<h4>$449.00</h4>
 											</div>
-											<div class="price-list">
-												<ul>
-													<li>4 Custom Illustrative Logo Concepts</li>
-													<li>Unlimited Revisions</li>
-													<li>By 6 Top Rated Dedicated Designers</li>
-													<li>Social Media Design (Facebook, LinkedIn, Twitter)</li>
-													<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
-													<li>Brand Icon</li>
-													<li>48 - 72 Hours Turnaround Time</li>
-													<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-													<li>Gray Scale Format</li>
-												</ul>
-											</div>
+									</div>
+									<div class="col-4 col-12-medium">
+									<div class="price-inner-plan">
+												<h2 class="text-center">EMERALD ILLUSTRATIVE</h2>
+												<div class="price-heading-text">
+													<h2>Value Added Design Solution</h2>
+													<h4>$449.00</h4>
+												</div>
+												<div class="price-list">
+													<ul>
+														<li>4 Custom Illustrative Logo Concepts</li>
+														<li>Unlimited Revisions</li>
+														<li>By 6 Top Rated Dedicated Designers</li>
+														<li>Social Media Design (Facebook, LinkedIn, Twitter)</li>
+														<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
+														<li>Brand Icon</li>
+														<li>48 - 72 Hours Turnaround Time</li>
+														<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+														<li>Gray Scale Format</li>
+													</ul>
+												</div>
 
-										</div>
-										</div>
+											</div>
 									</div>
 									<div class="custom-price-button" style="padding-top: 70px;">
 										<ul>
@@ -736,53 +730,51 @@
 					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane07" role="tabpanel" aria-labelledby="profile-tab07" tabindex="0">
 						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
 							<div class="container">
-								<div class="row">
-									<div class="center">
-										<div class="px-2 py-2">
-										<div class="price-inner-plan">
-											<h2 class="text-center">ESSENTIAL 3D</h2>
-											<div class="price-heading-text">
-												<h2>Value Added Design Solution</h2>
-												<h4>$129.00</h4>
-											</div>
-											<div class="price-list">
-												<ul>
-													<li>4 Revisions (Additional $20)</li>
-													<li>By 3 Top Rated Dedicated Designers</li>
-													<li>Brand Icon</li>
-													<li>48 - 72 Hours Turnaround Time</li>
-													<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-													<li>Gray Scale Format</li>
-												</ul>
-											</div>
+								<div class="row" style="margin: auto !important;">
+									<div class="col-4 col-12-medium">
+									<div class="price-inner-plan">
+												<h2 class="text-center">ESSENTIAL 3D</h2>
+												<div class="price-heading-text">
+													<h2>Value Added Design Solution</h2>
+													<h4>$129.00</h4>
+												</div>
+												<div class="price-list">
+													<ul>
+														<li>4 Revisions (Additional $20)</li>
+														<li>By 3 Top Rated Dedicated Designers</li>
+														<li>Brand Icon</li>
+														<li>48 - 72 Hours Turnaround Time</li>
+														<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+														<li>Gray Scale Format</li>
+													</ul>
+												</div>
 
-										</div>
-										</div>
-										<div class="px-2 py-2">
-										<div class="price-inner-plan">
-											<h2 class="text-center">TEAM 3D</h2>
-											<div class="price-heading-text">
-												<h2>Value Added Design Solution</h2>
-												<h4>$385.00</h4>
 											</div>
-											<div class="price-list">
-												<ul>
-													<li>2 Custom 3D Logo Concepts</li>
-													<li>5 Revisions (Additional $20)</li>
-													<li>By 6 Top Rated Dedicated Designers</li>
-													<li>Social Media Design (Facebook, LinkedIn, Twitter)</li>
-													<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
-													<li>Email Signature</li>
-													<li>Brand Icon</li>
-													<li>Up-to 30 Categories</li>
-													<li>48 - 72 Hours Turnaround Time</li>
-													<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-													<li>Gray Scale Format</li>
-												</ul>
-											</div>
+									</div>
+									<div class="col-4 col-12-medium">
+									<div class="price-inner-plan">
+												<h2 class="text-center">TEAM 3D</h2>
+												<div class="price-heading-text">
+													<h2>Value Added Design Solution</h2>
+													<h4>$385.00</h4>
+												</div>
+												<div class="price-list">
+													<ul>
+														<li>2 Custom 3D Logo Concepts</li>
+														<li>5 Revisions (Additional $20)</li>
+														<li>By 6 Top Rated Dedicated Designers</li>
+														<li>Social Media Design (Facebook, LinkedIn, Twitter)</li>
+														<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
+														<li>Email Signature</li>
+														<li>Brand Icon</li>
+														<li>Up-to 30 Categories</li>
+														<li>48 - 72 Hours Turnaround Time</li>
+														<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+														<li>Gray Scale Format</li>
+													</ul>
+												</div>
 
-										</div>
-										</div>
+											</div>
 									</div>
 									<div class="custom-price-button" style="padding-top: 70px;">
 										<ul>
@@ -791,7 +783,7 @@
 													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 												</div>
 											</li>
-											
+
 										</ul>
 									</div>
 
@@ -803,53 +795,53 @@
 					<div class="tab-pane fade accordion-item prr" id="profile-tab-pane06" role="tabpanel" aria-labelledby="profile-tab06" tabindex="0">
 						<div id="collapseTwo" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingTwo" data-bs-parent="#myTabContent">
 							<div class="container">
-								<div class="row">
-									<div class="center">
-										<div class="px-2 py-2"><div class="price-inner-plan">
-											<h2 class="text-center">ESSENTIAL ANIMATION</h2>
-											<div class="price-heading-text">
-												<h2>Value Added Design Solution</h2>
-												<h4>$245.00</h4>
-											</div>
-											<div class="price-list">
-												<ul>
-													<li>4 Custom 5 Sec Animated Logo Concepts</li>
-													<li>5 Revisions (Additional $20)</li>
-													<li>By 4 Dedicated Design Animators</li>
-													<li>Visual Effects &amp; Sound Effects</li>
-													<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
-													<li>Brand Icon</li>
-													<li>48 - 72 Hours Turn Around Time</li>
-													<li>Gray Scale Format</li>
-													<li>Final Files (Mp4, MOV, Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-												</ul>
-											</div>
+								<div class="row" style="margin: auto !important;">
+									<div class="col-4 col-medium-12">
+									<div class="price-inner-plan">
+												<h2 class="text-center">ESSENTIAL ANIMATION</h2>
+												<div class="price-heading-text">
+													<h2>Value Added Design Solution</h2>
+													<h4>$245.00</h4>
+												</div>
+												<div class="price-list">
+													<ul>
+														<li>4 Custom 5 Sec Animated Logo Concepts</li>
+														<li>5 Revisions (Additional $20)</li>
+														<li>By 4 Dedicated Design Animators</li>
+														<li>Visual Effects &amp; Sound Effects</li>
+														<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
+														<li>Brand Icon</li>
+														<li>48 - 72 Hours Turn Around Time</li>
+														<li>Gray Scale Format</li>
+														<li>Final Files (Mp4, MOV, Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+													</ul>
+												</div>
 
-										</div></div>
-										<div class="px-2 py-2">
-										<div class="price-inner-plan">
-											<h2 class="text-center">TEAM 3D</h2>
-											<div class="price-heading-text">
-												<h2>Value Added Design Solution</h2>
-												<h4>$385.00</h4>
 											</div>
-											<div class="price-list">
-												<ul>
-													<li>6 Custom 5 Sec Animated Logo Concepts</li>
-													<li>10 Sec Teaser / Intro Animation</li>
-													<li>By 4 Top Rated Dedicated Design Animators</li>
-													<li>Visual Effects &amp; Sound Effects</li>
-													<li>Social Media Intro (Facebook, LinkedIn, Twitter)</li>
-													<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
-													<li>Brand Icon</li>
-													<li>48 - 72 Hours Turnaround Time</li>
-													<li>Final Files (Mp4, MOV, Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-													<li>Gray Scale Format</li>
-												</ul>
-											</div>
+									</div>
+									<div class="col-4 col-medium-12">
+									<div class="price-inner-plan">
+												<h2 class="text-center">TEAM 3D</h2>
+												<div class="price-heading-text">
+													<h2>Value Added Design Solution</h2>
+													<h4>$385.00</h4>
+												</div>
+												<div class="price-list">
+													<ul>
+														<li>6 Custom 5 Sec Animated Logo Concepts</li>
+														<li>10 Sec Teaser / Intro Animation</li>
+														<li>By 4 Top Rated Dedicated Design Animators</li>
+														<li>Visual Effects &amp; Sound Effects</li>
+														<li>Social Media Intro (Facebook, LinkedIn, Twitter)</li>
+														<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
+														<li>Brand Icon</li>
+														<li>48 - 72 Hours Turnaround Time</li>
+														<li>Final Files (Mp4, MOV, Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+														<li>Gray Scale Format</li>
+													</ul>
+												</div>
 
-										</div>
-										</div>
+											</div>
 									</div>
 									<div class="custom-price-button" style="padding-top: 70px;">
 										<ul>
@@ -858,7 +850,7 @@
 													<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 												</div>
 											</li>
-											
+
 										</ul>
 									</div>
 
