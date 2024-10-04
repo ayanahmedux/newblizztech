@@ -4,7 +4,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-3 col-12-medium">
-						<p class="p1"><img src="./images/icon-top.webp" /> Reach us out +1 713-922-8987</p>
+						<p class="p1"><img src="./images/icon-top.webp" /> Reach us out +19722134007</p>
 					</div>
 					<div class="col-6 col-12-medium">
 						<p class="p2"><img src="./images/icon-top3.webp" /> 913 Essex Blvd, Lewisville,

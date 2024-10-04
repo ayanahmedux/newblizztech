@@ -545,7 +545,7 @@
                         <div class="logoabout-text animation-about">
                             <h2 class="logoabout-text-h2">Get Started with <b>Animation</b> Services</h2>
                             <p>
-                                If you're looking for professional animation services that accurately reflect your brand, contact blizztechsolutions  today. Our team of experts is ready to help you create animations that set your business apart and drive success. Reach out to us at +1 +1 713-922-8987 or visit our website at [blizztechsolutions.com] (https://blizztechsolutions.com/) to learn more about our animation services.
+                                If you're looking for professional animation services that accurately reflect your brand, contact blizztechsolutions  today. Our team of experts is ready to help you create animations that set your business apart and drive success. Reach out to us at +1 +19722134007 or visit our website at [blizztechsolutions.com] (https://blizztechsolutions.com/) to learn more about our animation services.
                             </p>
                         </div>
                     </div>
