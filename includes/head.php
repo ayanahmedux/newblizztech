@@ -4,6 +4,7 @@ error_reporting(0);
 <head>
 		
 		<title>BlizzTechSolutions</title>
+		<meta name="description" content="From brand identity to digital dominance, offering IT solutions that drive success">
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />

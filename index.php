@@ -5,7 +5,7 @@
 <div id=page-wrapper>
 <?php include_once("includes/header.php") ?>
 <section id=hero-section class=text-center>
-<h1 class=fade-in-up>From brand identity to digital Than <br>
+<h1 class=fade-in-up>From brand identity to digital  <br>
 <b>dominance, offering IT</b> solutions <br> that drive success
 </h1>
 <div class=scroll-image>
