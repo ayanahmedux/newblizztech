@@ -99,7 +99,7 @@
 				</div>
 				<div class="ceo-name">
                 <h2>Noor Ali hirani</h2>
-				<h2>CEO & Founder</h2>
+				<h2>Founder & CEO</h2>
 				</div> 
 			</div>
 

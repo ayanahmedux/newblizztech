@@ -4,7 +4,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-3 col-12-medium">
-						<p class="p1"><img src="./images/icon-top.webp" /> Reach us out +19722134007</p>
+						<p class="p1"><img src="./images/icon-top.webp" /> Reach us out +1(833) 944-1694</p>
 					</div>
 					<div class="col-6 col-12-medium">
 						<p class="p2"><img src="./images/icon-top3.webp" /> 913 Essex Blvd, Lewisville,
@@ -41,7 +41,7 @@
 					<ul class="dropdown-menu">
 						<li><a class="dropdown-item" href="logo-designs">Logo Designs</a></li>
 						<li><a class="dropdown-item" href="website-designs">Website Designs And Development</a></li>
-						<li><a class="dropdown-item" href="animation">Animation</a></li>
+						<li><a class="dropdown-item" href="animation">Animation & Character Art</a></li>
 						<li><a class="dropdown-item" href="socialmediamarketing">Social Media Marketing</a></li>
 						<li><a class="dropdown-item" href="branding">Branding</a></li>
 						<li><a class="dropdown-item" href="ppc">Pay Per Click</a></li>

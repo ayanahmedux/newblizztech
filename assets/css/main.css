@@ -6402,7 +6402,7 @@ form.innerpagescalltoaction button.btn.btn-primary {
         padding: 20px 15px !important
     }
     section#recent-past .gallery-item {
-        flex-basis: 50%;
+        flex-basis: 49%;
         padding: 0 4px
     }
     section#recent-past .gallery-item img {

@@ -109,7 +109,7 @@ p br {
 
                     <br><b>Email:</b> info@blizztechsolutions.com<br>
 
-                    <br><b>Phone:</b> +19722134007<br>
+                    <br><b>Phone:</b> +1(833) 944-1694<br>
 
                     <br><b>Address:</b> 913 Essex Blvd, Lewisville, Texas 75056, US<br>
 

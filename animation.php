@@ -9,59 +9,59 @@
         <?php include_once("includes/header.php") ?>
         <!-- Service Logo first section -->
         <section id="animation">
-        <div class="service-logosection animation" style="padding-top: 50px; padding-left: 50px; padding-right: 50px;">
-            <div class="container">
-                <div class="row">
-                    <div class="col-6 col-12-medium align-self-center">
-                        <div class="first-inner-section-text">
-                            <h1 class="first-inner-section-text-mian-h1"><img class="greenline" src="images/greenlinetext.webp" />Humanizing Your Brand with Creative <b>Animations</b> </h1>
-                            <p> In a world where visuals dominate, animations bring your brand to life in ways that static content simply
-                                can’t. Whether it’s telling your brand’s story, simplifying complex ideas, or adding a dynamic touch to
-                                your marketing campaigns, creative animations have the power to connect with your audience on an
-                                emotional level. By blending art and technology, we transform your brand into an experience that feels
-                                personal, memorable, and engaging.</p>
-                            <div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
-                                <ul>
-                                    <li>
-                                        <div class="brand-button">
-                                            <h6><a class="quote-button" href="javascript:;">Get Started</a></h6>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="brand-button">
-                                            <h6><a  href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
+            <div class="service-logosection animation" style="padding-top: 50px; padding-left: 50px; padding-right: 50px;">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-6 col-12-medium align-self-center">
+                            <div class="first-inner-section-text">
+                                <h1 class="first-inner-section-text-mian-h1"><img class="greenline" src="images/greenlinetext.webp" />Humanizing Your Brand with Creative <b>Animations</b> </h1>
+                                <p> In a world where visuals dominate, animations bring your brand to life in ways that static content simply
+                                    can’t. Whether it’s telling your brand’s story, simplifying complex ideas, or adding a dynamic touch to
+                                    your marketing campaigns, creative animations have the power to connect with your audience on an
+                                    emotional level. By blending art and technology, we transform your brand into an experience that feels
+                                    personal, memorable, and engaging.</p>
+                                <div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px;">
+                                    <ul>
+                                        <li>
+                                            <div class="brand-button">
+                                                <h6><a class="quote-button" href="javascript:;">Get Started</a></h6>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="brand-button">
+                                                <h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
 
+                            </div>
+                        </div>
+                        <div class="col-6 col-12-medium">
+                            <div class="log-quote-form">
+                                <form class="innerpagescalltoaction" method="post" action="" id="contact">
+
+
+
+
+                                    <input type="text" class="form-control" name="name" placeholder="Name" required>
+
+                                    <input type="email" class="form-control" name="email" placeholder="Email" required>
+
+
+
+                                    <input type="text" class="form-control" name="phone" placeholder="Phone" required>
+
+
+                                    <textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
+
+                                    <button class="btn btn-primary" type="submit" name="submit">Submit</button>
+                                </form>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-6 col-12-medium">
-							<div class="log-quote-form">
-								<form class="innerpagescalltoaction" method="post" action="" id="contact">
-
-
-
-
-									<input type="text" class="form-control" name="name" placeholder="Name" required>
-
-									<input type="email" class="form-control" name="email" placeholder="Email" required>
-
-
-
-									<input type="text" class="form-control" name="phone" placeholder="Phone" required>
-
-
-									<textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
-
-									<button class="btn btn-primary" type="submit" name="submit">Submit</button>
-								</form>
-							</div>
-						</div>
                 </div>
             </div>
-        </div>
         </section>
         <!-- END LOGO FIRST SECTION -->
         </section>
@@ -240,7 +240,7 @@
             <div class="container">
                 <div class="row res-row">
 
-                    <div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500" >
+                    <div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
                         <div class="logoabout-text animation-about">
                             <h2 class="logoabout-text-h2">Why Choose <b>Animation</b> Services?</h2>
                             <p class="text-1">
@@ -545,7 +545,7 @@
                         <div class="logoabout-text animation-about">
                             <h2 class="logoabout-text-h2">Get Started with <b>Animation</b> Services</h2>
                             <p>
-                                If you're looking for professional animation services that accurately reflect your brand, contact blizztechsolutions  today. Our team of experts is ready to help you create animations that set your business apart and drive success. Reach out to us at +1 +19722134007 or visit our website at [blizztechsolutions.com] (https://blizztechsolutions.com/) to learn more about our animation services.
+                                If you're looking for professional animation services that accurately reflect your brand, contact blizztechsolutions today. Our team of experts is ready to help you create animations that set your business apart and drive success. Reach out to us at +1 +1(833) 944-1694 or visit our website at [blizztechsolutions.com] (https://blizztechsolutions.com/) to learn more about our animation services.
                             </p>
                         </div>
                     </div>
@@ -580,6 +580,30 @@
                 </div>
             </div>
         </section>
+        <section id="logo-about-us" style="padding: 10px 0px;">
+            <div class="container">
+                <div class="row res-row">
+                    <div class="col-6 col-12-medium align-self-center" data-aos="fade-left">
+                        <div class="logoabout-text animation-about">
+                            <h2 class="logoabout-text-h2">Character <b>Art</b></h2>
+                            <p>
+                                We bring projects to life with our exceptional characters using
+                                the latest technologies and design tools. Our creative solutions
+                                are entirely based on the needs and desires of our clients.
+
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-6 col-12-medium d-md-block" data-aos="fade-right">
+                        <div style="height: 100%; display: flex; justify-content: center; align-items: center">
+                            <img class="animate__animated animate__pulse" style="height: 50%; width: auto;" src="images/animation/character-image-section-image.png" />
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </section>
 
         <!-- LOGO ABOUT US END -->
 
@@ -609,7 +633,7 @@
                                         </li>
                                         <li>
                                             <div class="brand-button">
-                                                <h6><a  href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+                                                <h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
                                             </div>
                                         </li>
                                     </ul>
@@ -666,7 +690,7 @@
             <!--      type="button" role="tab" aria-controls="#profile-tab-pane7" aria-selected="false">Mobile App Design</button>-->
             <!--  </li>-->
             <!--</ul>-->
-            <div class="gallery-container row">
+            <!-- <div class="gallery-container row">
                 <div class="gallery-item col-lg-4" data-aos="flip-left" style="
     flex-basis: auto;
 " data-index="1">
@@ -716,7 +740,42 @@
 " height="315" src="https://www.youtube.com/embed/4Y0HQmpU6wI?si=HKwt5Xe77t4NVZy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
 
+            </div> -->
+            <div class="gallery-container row">
+                <div class="gallery-item col-lg-4" data-aos="flip-left" style="flex-basis: auto;"  data-index="1">
+                    <div class="recent-image">
+                        <img src="./images/animation/character-image-1.webp" alt="" style="object-fit: cover; width: 100%; height:350px;">
+                    </div>
+                </div>
+                <div class="gallery-item col-lg-4" data-aos="flip-left" style="flex-basis: auto;"  data-index="1">
+                    <div class="recent-image">
+                        <img src="./images/animation/character-image-2.webp" alt="" style="object-fit: cover; width: 100%; height:350px;">
+                    </div>
+                </div>
+                <div class="gallery-item col-lg-4" data-aos="flip-left" style="flex-basis: auto;" data-index="1">
+                    <div class="recent-image">
+                        <img src="./images/animation/character-image-3.webp" alt="" style="object-fit: cover; width: 100%; height:350px;">
+                    </div>
+                </div>
+                <div class="gallery-item col-lg-4 mt-3" data-aos="flip-left" style="flex-basis: auto;" data-index="1">
+                    <div class="recent-image">
+                        <img src="./images/animation/character-image-4.webp" alt="" style="object-fit: cover; width: 100%; height:350px;">
+                    </div>
+                </div>
+                <div class="gallery-item col-lg-4 mt-3" data-aos="flip-left" style="flex-basis: auto;"  data-index="1">
+                    <div class="recent-image">
+                        <img src="./images/animation/character-image-5.webp" alt="" style="object-fit: cover; width: 100%; height:350px;">
+                    </div>
+                </div>
+                <div class="gallery-item col-lg-4 mt-3" data-aos="flip-left" style="flex-basis: auto;"  data-index="1">
+                    <div class="recent-image">
+                        <img src="./images/animation/character-image-6.webp" alt="" style="object-fit: cover; width: 100%; height:350px;">
+                    </div>
+                </div>
+                
+                
             </div>
+          
             <!--      <div class="tab-content accordion ghm" id="myTabContent">-->
             <!--        <div class="tab-pane fade show active accordion-item" id="home-tab-pane4" role="tabpanel"-->
             <!--          aria-labelledby="home-tab4" tabindex="0">-->
@@ -880,7 +939,7 @@
                     <div class="container">
                         <div class="row" style="margin: auto !important;">
                             <div class="col-4 col-12-medium">
-                            <div class="price-inner-plan">
+                                <div class="price-inner-plan">
                                     <div class="price-heading-text">
                                         <h2>Start-UP Package</h2>
                                         <h4>$455</h4>
@@ -902,7 +961,7 @@
                                 </div>
                             </div>
                             <div class="col-4 col-12-medium">
-                            <div class="price-inner-plan">
+                                <div class="price-inner-plan">
                                     <div class="price-heading-text">
                                         <h2>Business Package</h2>
                                         <h4>$755</h4>
@@ -929,7 +988,7 @@
                                 </div>
                             </div>
                             <div class="col-4 col-12-medium">
-                            <div class="price-inner-plan">
+                                <div class="price-inner-plan">
                                     <div class="price-heading-text">
                                         <h2>Platinum Package</h2>
                                         <h4>$1155</h4>
@@ -966,7 +1025,7 @@
                                         <h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
                                     </div>
                                 </li>
-                               
+
                             </ul>
                         </div>
                     </div>
