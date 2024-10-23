@@ -632,7 +632,7 @@
 
 									</div>
 							</div>
-							<div class="col-4 co-12-medium">
+							<div class="col-4 col-12-medium">
 							<div class="price-inner-plan">
 										<h2 class="text-center">
 											Scaling Plan
@@ -663,7 +663,7 @@
 
 									</div>
 							</div>
-							<div class="col-4 co-12-medium mt-5">
+							<div class="col-4 col-12-medium mt-5">
 							<div class="price-inner-plan">
 										<h2 class="text-center">
 											Venture Plan
