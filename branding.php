@@ -3,6 +3,10 @@
 <?php include_once("includes/head.php"); ?>
 
 <body class="homepage is-preload">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T85BXSH6"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 	<div id="page-wrapper">
 		<!-- top-header -->
 		<?php include_once("includes/header.php") ?>
@@ -278,70 +282,70 @@
 				<div class="row">
 					<div class="center3">
 						<div class="px-2 py-2" data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon1.webp">
-								<img class="img2" src="./images/websitedesigns/webicon11.webp">
-							</div>
-							<h3>Identifying Audience</h3>
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon1.webp">
+									<img class="img2" src="./images/websitedesigns/webicon11.webp">
+								</div>
+								<h3>Identifying Audience</h3>
 
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 						<div class="px-2 py-2" data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon1.webp">
-								<img class="img2" src="./images/websitedesigns/webicon11.webp">
-							</div>
-							<h3>Brands Purpose
-								& Position</h3>
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon1.webp">
+									<img class="img2" src="./images/websitedesigns/webicon11.webp">
+								</div>
+								<h3>Brands Purpose
+									& Position</h3>
 
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 						<div class="px-2 py-2" data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon2.webp">
-								<img class="img2" src="./images/websitedesigns/webicon22.webp">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon2.webp">
+									<img class="img2" src="./images/websitedesigns/webicon22.webp">
+								</div>
+								<h3>Create Brand Story
+									& Logo</h3>
 							</div>
-							<h3>Create Brand Story
-								& Logo</h3>
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 						<div class="px-2 py-2" data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon3.webp">
-								<img class="img2" src="./images/websitedesigns/webicon33.webp">
-							</div>
-							<h3>Design Brand Identity</h3>
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon3.webp">
+									<img class="img2" src="./images/websitedesigns/webicon33.webp">
+								</div>
+								<h3>Design Brand Identity</h3>
 
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 						<div class="px-2 py-2" data-aos="flip-right">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon4.webp">
-								<img class="img2" src="./images/websitedesigns/webicon44.webp">
-							</div>
-							<h3>Integrate Brand Into Business</h3>
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon4.webp">
+									<img class="img2" src="./images/websitedesigns/webicon44.webp">
+								</div>
+								<h3>Integrate Brand Into Business</h3>
 
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -605,71 +609,71 @@
 					<!-- LOGOS PRICE PLAN Start -->
 					<div class="container">
 						<div class="row" style="margin: auto !important;">
-								<div class="col-4 col-12-medium">
+							<div class="col-4 col-12-medium">
 								<div class="price-inner-plan">
-										<h2 class="text-center">Startup Collateral</h2>
-										<div class="price-heading-text">
-											<h2>Best Value for Money Guaranteed!</h2>
-											<h4>$99</h4>
-										</div>
-										<div class="price-list">
-											<ul>
-												<li>2 Stationery Design Set</li>
-												<li>FREE Fax Template</li>
-												<li>Print Ready Formats</li>
-												<li>UNLIMITED Revisions</li>
-												<li>100% Satisfaction Guarantee</li>
-												<li>100% Money Back Guarantee</li>
-
-											</ul>
-										</div>
-
+									<h2 class="text-center">Startup Collateral</h2>
+									<div class="price-heading-text">
+										<h2>Best Value for Money Guaranteed!</h2>
+										<h4>$99</h4>
 									</div>
-								</div>
-								<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-										<h2 class="text-center">Collateral Classic</h2>
-										<div class="price-heading-text">
-											<h2>Best Value for Money Guaranteed!</h2>
-											<h4>$199</h4>
-										</div>
-										<div class="price-list">
-											<ul>
-												<li>4 Stationery Design Set</li>
-												<li>UNLIMITED Revisions</li>
-												<li>Flyer Design</li>
-												<li>Brochure Design (Bi-fold/Tri-fold)</li>
-												<li>100% Satisfaction Guarantee</li>
-												<li>100% Money Back Guarantee</li>
-											</ul>
-										</div>
+									<div class="price-list">
+										<ul>
+											<li>2 Stationery Design Set</li>
+											<li>FREE Fax Template</li>
+											<li>Print Ready Formats</li>
+											<li>UNLIMITED Revisions</li>
+											<li>100% Satisfaction Guarantee</li>
+											<li>100% Money Back Guarantee</li>
 
-									</div>
-								</div>
-								<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
-										<h2 class="text-center">Premium Collateral</h2>
-										<div class="price-heading-text">
-											<h2>Best Value for Money Guaranteed!</h2>
-											<h4>$399</h4>
-										</div>
-										<div class="price-list">
-											<ul>
-												<li><span>6 Stationery Design Set</span></li>
-												<li><span>Packaging Design</span></li>
-												<li><span>UNLIMITED Revisions</span></li>
-												<li><span>T-Shirt Design</span></li>
-												<li><span>100% Satisfaction Guarantee</span></li>
-												<li><span>100% Money Back Guarantee </span></li>
-											</ul>
-										</div>
-
+										</ul>
 									</div>
 
 								</div>
-								<div class="row mt-5">
-								<div class="col-4 col-12-medium">
+							</div>
+							<div class="col-4 col-12-medium">
 								<div class="price-inner-plan">
+									<h2 class="text-center">Collateral Classic</h2>
+									<div class="price-heading-text">
+										<h2>Best Value for Money Guaranteed!</h2>
+										<h4>$199</h4>
+									</div>
+									<div class="price-list">
+										<ul>
+											<li>4 Stationery Design Set</li>
+											<li>UNLIMITED Revisions</li>
+											<li>Flyer Design</li>
+											<li>Brochure Design (Bi-fold/Tri-fold)</li>
+											<li>100% Satisfaction Guarantee</li>
+											<li>100% Money Back Guarantee</li>
+										</ul>
+									</div>
+
+								</div>
+							</div>
+							<div class="col-4 col-12-medium">
+								<div class="price-inner-plan">
+									<h2 class="text-center">Premium Collateral</h2>
+									<div class="price-heading-text">
+										<h2>Best Value for Money Guaranteed!</h2>
+										<h4>$399</h4>
+									</div>
+									<div class="price-list">
+										<ul>
+											<li><span>6 Stationery Design Set</span></li>
+											<li><span>Packaging Design</span></li>
+											<li><span>UNLIMITED Revisions</span></li>
+											<li><span>T-Shirt Design</span></li>
+											<li><span>100% Satisfaction Guarantee</span></li>
+											<li><span>100% Money Back Guarantee </span></li>
+										</ul>
+									</div>
+
+								</div>
+
+							</div>
+							<div class="row mt-5">
+								<div class="col-4 col-12-medium">
+									<div class="price-inner-plan">
 										<h2 class="text-center">Unlimited Collateral</h2>
 										<div class="price-heading-text">
 											<h2>Best Value for Money Guaranteed!</h2>
@@ -689,7 +693,7 @@
 									</div>
 								</div>
 								<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
+									<div class="price-inner-plan">
 										<h2 class="text-center">Poster Design</h2>
 										<div class="price-heading-text">
 											<h2>Best Value for Money Guaranteed!</h2>
@@ -711,7 +715,7 @@
 									</div>
 								</div>
 								<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
+									<div class="price-inner-plan">
 										<h2 class="text-center">T-Shirt Design</h2>
 										<div class="price-heading-text">
 											<h2>Best Value for Money Guaranteed!</h2>
@@ -736,7 +740,7 @@
 									</div>
 								</div>
 								<div class="col-4 col-12-medium mt-5">
-								<div class="price-inner-plan">
+									<div class="price-inner-plan">
 										<h2 class="text-center">Product Label Design</h2>
 										<div class="price-heading-text">
 											<h2>Best Value for Money Guaranteed!</h2>
@@ -760,26 +764,26 @@
 
 									</div>
 								</div>
-							
+
+							</div>
+
+							<!-- second row -->
+
+							<div class="custom-price-button" style="padding-top: 70px;">
+								<ul>
+									<li>
+										<div class="brand-button">
+											<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+										</div>
+									</li>
+								</ul>
+							</div>
 						</div>
 
-						<!-- second row -->
+						<!-- LOGOS PRICE PLAN END -->
 
-						<div class="custom-price-button" style="padding-top: 70px;">
-							<ul>
-								<li>
-									<div class="brand-button">
-										<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-									</div>
-								</li>
-							</ul>
-						</div>
 					</div>
-
-					<!-- LOGOS PRICE PLAN END -->
-
 				</div>
-			</div>
 		</section>
 		<!-- PRICE PLAN LOGO END -->
 

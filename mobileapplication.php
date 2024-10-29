@@ -3,6 +3,10 @@
 <?php include_once("includes/head.php"); ?>
 
 <body class="homepage is-preload">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T85BXSH6"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 	<div id="page-wrapper">
 		<!-- top-header -->
 		<?php include_once("includes/header.php") ?>
@@ -180,72 +184,72 @@
 				</div>
 				<div class="row">
 					<div class="center3">
-                         <div class="px-2 py-2" data-aos="flip-right">
-						 <div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon4.webp">
-								<img class="img2" src="./images/websitedesigns/webicon44.webp">
-							</div>
-							<h3>Provide More Value to Your Customers</h3>
+						<div class="px-2 py-2" data-aos="flip-right">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon4.webp">
+									<img class="img2" src="./images/websitedesigns/webicon44.webp">
+								</div>
+								<h3>Provide More Value to Your Customers</h3>
 
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
-						 </div>
-                         <div class="px-2 py-2" data-aos="flip-right">
-						 <div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon1.webp">
-								<img class="img2" src="./images/websitedesigns/webicon11.webp">
 							</div>
-							<h3>Increases Brand
-								Awareness</h3>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
+						</div>
+						<div class="px-2 py-2" data-aos="flip-right">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon1.webp">
+									<img class="img2" src="./images/websitedesigns/webicon11.webp">
+								</div>
+								<h3>Increases Brand
+									Awareness</h3>
 
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
-						 </div>
-                         <div class="px-2 py-2" data-aos="flip-right">
-						 <div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon2.webp">
-								<img class="img2" src="./images/websitedesigns/webicon22.webp">
 							</div>
-							<h3>Allows You To Personalize</h3>
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
-						 </div>
-                         <div class="px-2 py-2" data-aos="flip-right">
-						 <div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon3.webp">
-								<img class="img2" src="./images/websitedesigns/webicon33.webp">
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 							</div>
-							<h3>Strengthens Your
-								Business</h3>
+						</div>
+						<div class="px-2 py-2" data-aos="flip-right">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon2.webp">
+									<img class="img2" src="./images/websitedesigns/webicon22.webp">
+								</div>
+								<h3>Allows You To Personalize</h3>
+							</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
+						</div>
+						<div class="px-2 py-2" data-aos="flip-right">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon3.webp">
+									<img class="img2" src="./images/websitedesigns/webicon33.webp">
+								</div>
+								<h3>Strengthens Your
+									Business</h3>
 
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
-						 </div>
-						 <div class="px-2 py-2" data-aos="flip-right">
-						 <div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/websitedesigns/webicon1.webp">
-								<img class="img2" src="./images/websitedesigns/webicon11.webp">
 							</div>
-							<h3>Marketing Assistance</h3>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
+						</div>
+						<div class="px-2 py-2" data-aos="flip-right">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/websitedesigns/webicon1.webp">
+									<img class="img2" src="./images/websitedesigns/webicon11.webp">
+								</div>
+								<h3>Marketing Assistance</h3>
 
+							</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
-						 </div>
 					</div>
 				</div>
 			</div>
@@ -524,7 +528,7 @@
 					<div class="container">
 						<div class="row" style="margin: auto !important;">
 							<div class="col-4 col-12-medium">
-							<div class="price-inner-plan">
+								<div class="price-inner-plan">
 									<div class="price-heading-text">
 										<h2>Small</h2>
 									</div>
@@ -545,7 +549,7 @@
 								</div>
 							</div>
 							<div class="col-4 col-12-medium">
-							<div class="price-inner-plan">
+								<div class="price-inner-plan">
 									<div class="price-heading-text">
 										<h2>Regular</h2>
 									</div>
@@ -570,7 +574,7 @@
 								</div>
 							</div>
 							<div class="col-4 col-12-medium">
-							<div class="price-inner-plan">
+								<div class="price-inner-plan">
 									<div class="price-heading-text">
 										<h2>Elite</h2>
 									</div>

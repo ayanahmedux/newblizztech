@@ -3,6 +3,10 @@
 <?php include_once("includes/head.php"); ?>
 
 <body class="about-us is-preload">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T85BXSH6"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 	<div id="page-wrapper">
 		<!-- top-header -->
 		<?php include_once("includes/header.php") ?>
@@ -83,30 +87,30 @@
 		</section>
 
 		<!-- ABOUT US SECTION END -->
-<!-- FOUNDER SECTION START -->
- <section id="founder">
-	<div class="container">
-		<div class="founder-content">
-			<h2><b>Industry Experts</b></h2>
-			<h2 style="margin-bottom: 20px;">The Stars Who Do the Real Work</h2>
-			<p>At blizztechsolutions, our team is the inevitable ingredient in the recipe for our success. <br> We are a congregation of creative thinkers, skilled designers, expert strategists, and qualified developers <br> who perform together to bring every project to fruition</p>
-		</div>
-		<div class="row" style="margin: auto;">
-			<div class="col-lg-12 text-center">
-				<h2><b>Meet</b></h2>
-				<div class="founder-image-wrapper">
-					<img src="./images/Red Gradient Profile Photo Instagram Post.webp" alt="">
+		<!-- FOUNDER SECTION START -->
+		<section id="founder">
+			<div class="container">
+				<div class="founder-content">
+					<h2><b>Industry Experts</b></h2>
+					<h2 style="margin-bottom: 20px;">The Stars Who Do the Real Work</h2>
+					<p>At blizztechsolutions, our team is the inevitable ingredient in the recipe for our success. <br> We are a congregation of creative thinkers, skilled designers, expert strategists, and qualified developers <br> who perform together to bring every project to fruition</p>
 				</div>
-				<div class="ceo-name">
-                <h2>Noor Ali hirani</h2>
-				<h2>Founder & CEO</h2>
-				</div> 
-			</div>
+				<div class="row" style="margin: auto;">
+					<div class="col-lg-12 text-center">
+						<h2><b>Meet</b></h2>
+						<div class="founder-image-wrapper">
+							<img src="./images/Red Gradient Profile Photo Instagram Post.webp" alt="">
+						</div>
+						<div class="ceo-name">
+							<h2>Noor Ali hirani</h2>
+							<h2>Founder & CEO</h2>
+						</div>
+					</div>
 
-		</div>
-	</div>
- </section>
-<!-- FOUNDER SECTION END -->
+				</div>
+			</div>
+		</section>
+		<!-- FOUNDER SECTION END -->
 		<!-- MILESTONE SECTION START -->
 		<section id="milestone-section" style="padding: 100px 0px;">
 			<div class="container">
@@ -224,11 +228,11 @@
 
 		<!-- TESTIMONIAL SECTION END -->
 		<!-- concept section -->
-		<section class="concept-section"  >
+		<section class="concept-section">
 			<div class="concept-heading">
 				<h1 class="text-center">Our Core Values at <b>Blizztech</b></h1>
 			</div>
-			<div class="concept-container" >
+			<div class="concept-container">
 				<div class="concept-item concept-c">
 					<h2>C</h2>
 					<div class="concept-content">
@@ -292,20 +296,21 @@
 
 
 						<div class="my-custom col-md-12 col-12-medium text-center">
-							<button class="work-with-us" >Work with us</button>
+							<button class="work-with-us">Work with us</button>
 							<h1 style="color: white;">We would be happy to help you grow <br> your business
-								<b>Get a quote!</b></h1>
-								<a href="javascript:;" class="quote-button">
-							<div class="about-banner-buttons" style="padding-top: 30px;">
-								<ul>
-									<li>
-										<div class="brand-button">
-											Get a Quote
-										</div>
-									</li>
+								<b>Get a quote!</b>
+							</h1>
+							<a href="javascript:;" class="quote-button">
+								<div class="about-banner-buttons" style="padding-top: 30px;">
+									<ul>
+										<li>
+											<div class="brand-button">
+												Get a Quote
+											</div>
+										</li>
 
-								</ul>
-							</div>
+									</ul>
+								</div>
 							</a>
 						</div>
 					</div>

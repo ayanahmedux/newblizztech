@@ -3,6 +3,10 @@
 <?php include_once("includes/head.php"); ?>
 
 <body class="homepage is-preload cnhhh">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T85BXSH6"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 	<div id="page-wrapper">
 		<!-- top-header -->
 
@@ -86,7 +90,7 @@
 							</div>
 							<div class="social-links-2">
 								<h2 style="text-align: left !important;">Follow us</h2>
-							<ul class="">
+								<ul class="">
 									<li><a href="https://www.facebook.com/profile.php?id=61563666846807"><i class="bi bi-facebook"></i></a></li>
 									<li><a href="https://www.instagram.com/blizztech.solutions/"><i class="bi bi-instagram"></i></a></li>
 									<li><a href="https://www.linkedin.com/company/blizztech-solutions/"><i class="bi bi-linkedin"></i></a></li>
@@ -115,7 +119,7 @@
 
 		<!-- TESTIMONIAL START -->
 		<?php include_once("testimonial-global.php") ?>
-		
+
 
 		<!-- FOOTER START -->
 

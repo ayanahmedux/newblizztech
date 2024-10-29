@@ -3,6 +3,10 @@
 <?php include_once("includes/head.php"); ?>
 
 <body class="homepage is-preload websites">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T85BXSH6"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 	<div id="page-wrapper">
 		<!-- top-header -->
 		<?php include_once("includes/header.php") ?>
@@ -732,111 +736,111 @@
 											</div>
 										</div>
 										<div class="row mt-5">
-										<div class="col-4 col-12-medium">
-											<div class="price-inner-plan">
-												<div class="price-heading-text">
-													<h2>Prestige Plan</h2>
-													<h4>$999</h4>
+											<div class="col-4 col-12-medium">
+												<div class="price-inner-plan">
+													<div class="price-heading-text">
+														<h2>Prestige Plan</h2>
+														<h4>$999</h4>
+													</div>
+													<div class="price-list">
+
+														<ul>
+															<li>Upto 16 Unique Pages Website</li>
+															<li>Conceptual and Dynamic Website</li>
+															<li>Online Reservation/Appointment Tool</li>
+															<li>Custom Forms</li>
+															<li>Lead Capturing Forms</li>
+															<li>Striking Hover Effects</li>
+															<li>Newsletter Subscription</li>
+															<li>News Feed Integration</li>
+															<li>Social Media Integration</li>
+															<li>8 Stock Photos</li>
+															<li>3 Unique Banner Design</li>
+															<li>1 jQuery Slider Banner</li>
+															<li>Complete W3C Certified HTML</li>
+															<li>48 to 72 hours TAT (Design Mockup)</li>
+															<li>Complete Deployment</li>
+
+														</ul>
+													</div>
+
 												</div>
-												<div class="price-list">
-
-													<ul>
-														<li>Upto 16 Unique Pages Website</li>
-														<li>Conceptual and Dynamic Website</li>
-														<li>Online Reservation/Appointment Tool</li>
-														<li>Custom Forms</li>
-														<li>Lead Capturing Forms</li>
-														<li>Striking Hover Effects</li>
-														<li>Newsletter Subscription</li>
-														<li>News Feed Integration</li>
-														<li>Social Media Integration</li>
-														<li>8 Stock Photos</li>
-														<li>3 Unique Banner Design</li>
-														<li>1 jQuery Slider Banner</li>
-														<li>Complete W3C Certified HTML</li>
-														<li>48 to 72 hours TAT (Design Mockup)</li>
-														<li>Complete Deployment</li>
-
-													</ul>
-												</div>
-
 											</div>
-										</div>
-										<div class="col-4 col-12-medium">
-											<div class="price-inner-plan">
-												<div class="price-heading-text">
-													<h2> Enterprise Plus Plan</h2>
-													<h4>$1499</h4>
-												</div>
-												<div class="price-list">
+											<div class="col-4 col-12-medium">
+												<div class="price-inner-plan">
+													<div class="price-heading-text">
+														<h2> Enterprise Plus Plan</h2>
+														<h4>$1499</h4>
+													</div>
+													<div class="price-list">
 
-													<ul>
-														<li>Unlimited Pages Website</li>
-														<li>Custom Made, Interactive, Dynamic & High End Design</li>
-														<li>Custom WP (or) Custom PHP Development</li>
-														<li>1 jQuery Slider Banner</li>
-														<li>Up to 8 Custom Made Banner Designs</li>
-														<li>12 Stock Images</li>
-														<li>Unlimited Revisions</li>
-														<li>Special Hover Effects</li>
-														<li>Content Management System (CMS) or Custom Dashboard PHP</li>
-														<li>Online Appointment/Scheduling/Online Ordering Integration</li>
-														<li>Mobile Responsive (All Devices Compatible)</li>
-														<li>Multi Lingual</li>
-														<li>Custom Dynamic Forms</li>
-														<li>Signup Area (For Newsletters, Offers etc.)</li>
-														<li>Easy Search Bar</li>
-														<li>Live Feeds of Social Networks integration</li>
-														<li>Free Google Friendly Sitemap</li>
-														<li>Search Engine Submission</li>
-														<li>Complete W3C Certified HTML</li>
-														<li>48 to 72 hours TAT (Design Mockup)</li>
-														<li>Complete Deployment</li>
-													</ul>
-												</div>
+														<ul>
+															<li>Unlimited Pages Website</li>
+															<li>Custom Made, Interactive, Dynamic & High End Design</li>
+															<li>Custom WP (or) Custom PHP Development</li>
+															<li>1 jQuery Slider Banner</li>
+															<li>Up to 8 Custom Made Banner Designs</li>
+															<li>12 Stock Images</li>
+															<li>Unlimited Revisions</li>
+															<li>Special Hover Effects</li>
+															<li>Content Management System (CMS) or Custom Dashboard PHP</li>
+															<li>Online Appointment/Scheduling/Online Ordering Integration</li>
+															<li>Mobile Responsive (All Devices Compatible)</li>
+															<li>Multi Lingual</li>
+															<li>Custom Dynamic Forms</li>
+															<li>Signup Area (For Newsletters, Offers etc.)</li>
+															<li>Easy Search Bar</li>
+															<li>Live Feeds of Social Networks integration</li>
+															<li>Free Google Friendly Sitemap</li>
+															<li>Search Engine Submission</li>
+															<li>Complete W3C Certified HTML</li>
+															<li>48 to 72 hours TAT (Design Mockup)</li>
+															<li>Complete Deployment</li>
+														</ul>
+													</div>
 
+												</div>
 											</div>
-										</div>
-										<div class="col-4 col-12-medium">
-											<div class="price-inner-plan">
-												<div class="price-heading-text">
-													<h2>Top-tier Plan</h2>
-													<h4>$2299</h4>
-												</div>
-												<div class="price-list">
+											<div class="col-4 col-12-medium">
+												<div class="price-inner-plan">
+													<div class="price-heading-text">
+														<h2>Top-tier Plan</h2>
+														<h4>$2299</h4>
+													</div>
+													<div class="price-list">
 
-													<ul>
-														<li>Unlimited Pages Website </li>
-														<li>Custom Made, Interactive, Dynamic & High End Design</li>
-														<li>Custom WP (or) Custom PHP Development</li>
-														<li>1 jQuery Slider Banner</li>
-														<li>Up to 12 Custom Made Banner Designs</li>
-														<li>14 Stock Images</li>
-														<li>Unlimited Revisions</li>
-														<li>Special Hover Effects</li>
-														<li>Content Management System (CMS) or Custom Dashboard PHP</li>
-														<li>Online Appointment/Scheduling/Online Ordering Integration</li>
-														<li>Online Payment Integration</li>
-														<li>Multi Lingual</li>
-														<li>Custom Dynamic Forms</li>
-														<li>Signup Area (For Newsletters, Offers etc.)</li>
-														<li>Easy Search Bar</li>
-														<li>Live Feeds of Social Networks integration</li>
-														<li>Mobile Responsive (All Devices Compatible)</li>
-														<li>FREE 5 Years Domain Name</li>
-														<li>Free Google Friendly Sitemap</li>
-														<li>15 Seconds 2D Explainer Video</li>
-														<li>Professional Script Writing</li>
-														<li>SEO Meta Tags</li>
-														<li>Search Engine Submission</li>
-														<li>Complete W3C Certified HTML</li>
-														<li>48 to 72 hours TAT (Design Mockup)</li>
-														<li>Complete Deployment</li>
-													</ul>
-												</div>
+														<ul>
+															<li>Unlimited Pages Website </li>
+															<li>Custom Made, Interactive, Dynamic & High End Design</li>
+															<li>Custom WP (or) Custom PHP Development</li>
+															<li>1 jQuery Slider Banner</li>
+															<li>Up to 12 Custom Made Banner Designs</li>
+															<li>14 Stock Images</li>
+															<li>Unlimited Revisions</li>
+															<li>Special Hover Effects</li>
+															<li>Content Management System (CMS) or Custom Dashboard PHP</li>
+															<li>Online Appointment/Scheduling/Online Ordering Integration</li>
+															<li>Online Payment Integration</li>
+															<li>Multi Lingual</li>
+															<li>Custom Dynamic Forms</li>
+															<li>Signup Area (For Newsletters, Offers etc.)</li>
+															<li>Easy Search Bar</li>
+															<li>Live Feeds of Social Networks integration</li>
+															<li>Mobile Responsive (All Devices Compatible)</li>
+															<li>FREE 5 Years Domain Name</li>
+															<li>Free Google Friendly Sitemap</li>
+															<li>15 Seconds 2D Explainer Video</li>
+															<li>Professional Script Writing</li>
+															<li>SEO Meta Tags</li>
+															<li>Search Engine Submission</li>
+															<li>Complete W3C Certified HTML</li>
+															<li>48 to 72 hours TAT (Design Mockup)</li>
+															<li>Complete Deployment</li>
+														</ul>
+													</div>
 
+												</div>
 											</div>
-										</div>
 										</div>
 									</div>
 								</div>

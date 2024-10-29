@@ -3,6 +3,10 @@
 <?php include_once("includes/head.php"); ?>
 
 <body class="homepage is-preload">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T85BXSH6"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 	<div id="page-wrapper">
 		<!-- top-header -->
 		<?php include_once("includes/header.php") ?>
@@ -541,104 +545,104 @@
 											</div>
 										</div>
 										<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-													<h2 class="text-center">TEAM</h2>
-													<div class="price-heading-text">
-														<h2>Value Added Design Solution</h2>
-														<h4>$119.00</h4>
-													</div>
-													<div class="price-list">
-														<ul>
-															<li>4 Logo Concepts</li>
-															<li>12 Revisions</li>
-															<li>By 2 Top Rated Dedicated Designers</li>
-															<li>Free Business Card Design Stationery Design (Business Cards, Letterhead, Invoice)</li>
-															<li>Free Icon</li>
-															<li>24 - 48 Hours Turnaround Time</li>
-															<li>Final Files (PDF, SVG, EPS, Jpeg, PNG, Tif</li>
-														</ul>
-													</div>
-
+											<div class="price-inner-plan">
+												<h2 class="text-center">TEAM</h2>
+												<div class="price-heading-text">
+													<h2>Value Added Design Solution</h2>
+													<h4>$119.00</h4>
 												</div>
+												<div class="price-list">
+													<ul>
+														<li>4 Logo Concepts</li>
+														<li>12 Revisions</li>
+														<li>By 2 Top Rated Dedicated Designers</li>
+														<li>Free Business Card Design Stationery Design (Business Cards, Letterhead, Invoice)</li>
+														<li>Free Icon</li>
+														<li>24 - 48 Hours Turnaround Time</li>
+														<li>Final Files (PDF, SVG, EPS, Jpeg, PNG, Tif</li>
+													</ul>
+												</div>
+
+											</div>
 										</div>
 										<div class="col-4 col-12-medium">
-										<div class="price-inner-plan">
-													<h2 class="text-center">
-														CORPORATE
-													</h2>
-													<div class="price-heading-text">
-														<h2>Value Added Design Solution</h2>
-														<h4>$249.00</h4>
-													</div>
-													<div class="price-list">
-														<ul>
-															<li>6 Logo Concepts</li>
-															<!--<li>12 Revisions</li>-->
-															<!--<li>By 2 Top Rated Dedicated Designers</li>-->
-															<li>Free Business Card Design Stationery Design (Business Cards, Letterhead, Invoice)</li>
-															<li>Free Icon</li>
-															<li>24 - 48 Hours Turnaround Time</li>
-															<li>Final Files (PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-														</ul>
-													</div>
-
+											<div class="price-inner-plan">
+												<h2 class="text-center">
+													CORPORATE
+												</h2>
+												<div class="price-heading-text">
+													<h2>Value Added Design Solution</h2>
+													<h4>$249.00</h4>
 												</div>
+												<div class="price-list">
+													<ul>
+														<li>6 Logo Concepts</li>
+														<!--<li>12 Revisions</li>-->
+														<!--<li>By 2 Top Rated Dedicated Designers</li>-->
+														<li>Free Business Card Design Stationery Design (Business Cards, Letterhead, Invoice)</li>
+														<li>Free Icon</li>
+														<li>24 - 48 Hours Turnaround Time</li>
+														<li>Final Files (PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+													</ul>
+												</div>
+
+											</div>
 										</div>
 										<div class="col-4 col-12-medium mt-4">
-										<div class="price-inner-plan">
-													<h2 class="text-center">BUSINESS</h2>
-													<div class="price-heading-text">
-														<h2>Value Added Design Solution</h2>
-														<h4>$499.00</h4>
-													</div>
-													<div class="price-list">
-														<ul class="prs-lst">
-															<li>
-																Unlimited Logo Concepts
-															</li>
-															<li>
-																UNLIMITED Revisions
-															</li>
-															<li>
-																By 5 Top Rated Dedicated Designers
-															</li>
-															<li>
-																3 Page Custom Website
-															</li>
-															<li>
-																Social Media Integration
-															</li>
-															<li>
-																W3C Certified HTML
-															</li>
-															<li>
-																Animated Logo
-															</li>
-															<li>
-																W3C Certified HTML
-															</li>
-															<li>
-																Email Signature Design
-															</li>
-															<li>
-																Free Icon Design
-															</li>
-															<li>
-																Free Custom Stationery Design (Business Cards, Letterhead, Envelope)
-															</li>
-															<li>
-																300 Printed Business Cards (Free Delivery)
-															</li>
-															<li>
-																24 - 48 Hours Turnaround Time
-															</li>
-															<li>
-																Final Files (PDF, SVG, EPS, Jpeg, PNG, Tiff)
-															</li>
-														</ul>
-													</div>
-
+											<div class="price-inner-plan">
+												<h2 class="text-center">BUSINESS</h2>
+												<div class="price-heading-text">
+													<h2>Value Added Design Solution</h2>
+													<h4>$499.00</h4>
 												</div>
+												<div class="price-list">
+													<ul class="prs-lst">
+														<li>
+															Unlimited Logo Concepts
+														</li>
+														<li>
+															UNLIMITED Revisions
+														</li>
+														<li>
+															By 5 Top Rated Dedicated Designers
+														</li>
+														<li>
+															3 Page Custom Website
+														</li>
+														<li>
+															Social Media Integration
+														</li>
+														<li>
+															W3C Certified HTML
+														</li>
+														<li>
+															Animated Logo
+														</li>
+														<li>
+															W3C Certified HTML
+														</li>
+														<li>
+															Email Signature Design
+														</li>
+														<li>
+															Free Icon Design
+														</li>
+														<li>
+															Free Custom Stationery Design (Business Cards, Letterhead, Envelope)
+														</li>
+														<li>
+															300 Printed Business Cards (Free Delivery)
+														</li>
+														<li>
+															24 - 48 Hours Turnaround Time
+														</li>
+														<li>
+															Final Files (PDF, SVG, EPS, Jpeg, PNG, Tiff)
+														</li>
+													</ul>
+												</div>
+
+											</div>
 										</div>
 										<div class="custom-price-button" style="padding-top: 70px;">
 											<ul>
@@ -669,48 +673,48 @@
 							<div class="container">
 								<div class="row" style="margin: auto !important;">
 									<div class="col-4 col-12-medium">
-									<div class="price-inner-plan">
-												<h2 class="text-center">RUBY ILLUSTRATIVE</h2>
-												<div class="price-heading-text">
-													<h2>Value Added Design Solution</h2>
-													<h4>$198.00</h4>
-												</div>
-												<div class="price-list">
-													<ul>
-														<li>2 Custom Illustrative Logo Concepts</li>
-														<li>Unlimited Revisions</li>
-														<li>By 3 Top Rated Dedicated Designers</li>
-														<li>Brand Icon</li>
-														<li>48 - 72 Hours Turnaround Time</li>
-														<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-														<li>Gray Scale Format</li>
-													</ul>
-												</div>
-
+										<div class="price-inner-plan">
+											<h2 class="text-center">RUBY ILLUSTRATIVE</h2>
+											<div class="price-heading-text">
+												<h2>Value Added Design Solution</h2>
+												<h4>$198.00</h4>
 											</div>
+											<div class="price-list">
+												<ul>
+													<li>2 Custom Illustrative Logo Concepts</li>
+													<li>Unlimited Revisions</li>
+													<li>By 3 Top Rated Dedicated Designers</li>
+													<li>Brand Icon</li>
+													<li>48 - 72 Hours Turnaround Time</li>
+													<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+													<li>Gray Scale Format</li>
+												</ul>
+											</div>
+
+										</div>
 									</div>
 									<div class="col-4 col-12-medium">
-									<div class="price-inner-plan">
-												<h2 class="text-center">EMERALD ILLUSTRATIVE</h2>
-												<div class="price-heading-text">
-													<h2>Value Added Design Solution</h2>
-													<h4>$449.00</h4>
-												</div>
-												<div class="price-list">
-													<ul>
-														<li>4 Custom Illustrative Logo Concepts</li>
-														<li>Unlimited Revisions</li>
-														<li>By 6 Top Rated Dedicated Designers</li>
-														<li>Social Media Design (Facebook, LinkedIn, Twitter)</li>
-														<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
-														<li>Brand Icon</li>
-														<li>48 - 72 Hours Turnaround Time</li>
-														<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-														<li>Gray Scale Format</li>
-													</ul>
-												</div>
-
+										<div class="price-inner-plan">
+											<h2 class="text-center">EMERALD ILLUSTRATIVE</h2>
+											<div class="price-heading-text">
+												<h2>Value Added Design Solution</h2>
+												<h4>$449.00</h4>
 											</div>
+											<div class="price-list">
+												<ul>
+													<li>4 Custom Illustrative Logo Concepts</li>
+													<li>Unlimited Revisions</li>
+													<li>By 6 Top Rated Dedicated Designers</li>
+													<li>Social Media Design (Facebook, LinkedIn, Twitter)</li>
+													<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
+													<li>Brand Icon</li>
+													<li>48 - 72 Hours Turnaround Time</li>
+													<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+													<li>Gray Scale Format</li>
+												</ul>
+											</div>
+
+										</div>
 									</div>
 									<div class="custom-price-button" style="padding-top: 70px;">
 										<ul>
@@ -732,49 +736,49 @@
 							<div class="container">
 								<div class="row" style="margin: auto !important;">
 									<div class="col-4 col-12-medium">
-									<div class="price-inner-plan">
-												<h2 class="text-center">ESSENTIAL 3D</h2>
-												<div class="price-heading-text">
-													<h2>Value Added Design Solution</h2>
-													<h4>$129.00</h4>
-												</div>
-												<div class="price-list">
-													<ul>
-														<li>4 Revisions (Additional $20)</li>
-														<li>By 3 Top Rated Dedicated Designers</li>
-														<li>Brand Icon</li>
-														<li>48 - 72 Hours Turnaround Time</li>
-														<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-														<li>Gray Scale Format</li>
-													</ul>
-												</div>
-
+										<div class="price-inner-plan">
+											<h2 class="text-center">ESSENTIAL 3D</h2>
+											<div class="price-heading-text">
+												<h2>Value Added Design Solution</h2>
+												<h4>$129.00</h4>
 											</div>
+											<div class="price-list">
+												<ul>
+													<li>4 Revisions (Additional $20)</li>
+													<li>By 3 Top Rated Dedicated Designers</li>
+													<li>Brand Icon</li>
+													<li>48 - 72 Hours Turnaround Time</li>
+													<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+													<li>Gray Scale Format</li>
+												</ul>
+											</div>
+
+										</div>
 									</div>
 									<div class="col-4 col-12-medium">
-									<div class="price-inner-plan">
-												<h2 class="text-center">TEAM 3D</h2>
-												<div class="price-heading-text">
-													<h2>Value Added Design Solution</h2>
-													<h4>$385.00</h4>
-												</div>
-												<div class="price-list">
-													<ul>
-														<li>2 Custom 3D Logo Concepts</li>
-														<li>5 Revisions (Additional $20)</li>
-														<li>By 6 Top Rated Dedicated Designers</li>
-														<li>Social Media Design (Facebook, LinkedIn, Twitter)</li>
-														<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
-														<li>Email Signature</li>
-														<li>Brand Icon</li>
-														<li>Up-to 30 Categories</li>
-														<li>48 - 72 Hours Turnaround Time</li>
-														<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-														<li>Gray Scale Format</li>
-													</ul>
-												</div>
-
+										<div class="price-inner-plan">
+											<h2 class="text-center">TEAM 3D</h2>
+											<div class="price-heading-text">
+												<h2>Value Added Design Solution</h2>
+												<h4>$385.00</h4>
 											</div>
+											<div class="price-list">
+												<ul>
+													<li>2 Custom 3D Logo Concepts</li>
+													<li>5 Revisions (Additional $20)</li>
+													<li>By 6 Top Rated Dedicated Designers</li>
+													<li>Social Media Design (Facebook, LinkedIn, Twitter)</li>
+													<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
+													<li>Email Signature</li>
+													<li>Brand Icon</li>
+													<li>Up-to 30 Categories</li>
+													<li>48 - 72 Hours Turnaround Time</li>
+													<li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+													<li>Gray Scale Format</li>
+												</ul>
+											</div>
+
+										</div>
 									</div>
 									<div class="custom-price-button" style="padding-top: 70px;">
 										<ul>
@@ -797,51 +801,51 @@
 							<div class="container">
 								<div class="row" style="margin: auto !important;">
 									<div class="col-4 col-medium-12">
-									<div class="price-inner-plan">
-												<h2 class="text-center">ESSENTIAL ANIMATION</h2>
-												<div class="price-heading-text">
-													<h2>Value Added Design Solution</h2>
-													<h4>$245.00</h4>
-												</div>
-												<div class="price-list">
-													<ul>
-														<li>4 Custom 5 Sec Animated Logo Concepts</li>
-														<li>5 Revisions (Additional $20)</li>
-														<li>By 4 Dedicated Design Animators</li>
-														<li>Visual Effects &amp; Sound Effects</li>
-														<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
-														<li>Brand Icon</li>
-														<li>48 - 72 Hours Turn Around Time</li>
-														<li>Gray Scale Format</li>
-														<li>Final Files (Mp4, MOV, Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-													</ul>
-												</div>
-
+										<div class="price-inner-plan">
+											<h2 class="text-center">ESSENTIAL ANIMATION</h2>
+											<div class="price-heading-text">
+												<h2>Value Added Design Solution</h2>
+												<h4>$245.00</h4>
 											</div>
+											<div class="price-list">
+												<ul>
+													<li>4 Custom 5 Sec Animated Logo Concepts</li>
+													<li>5 Revisions (Additional $20)</li>
+													<li>By 4 Dedicated Design Animators</li>
+													<li>Visual Effects &amp; Sound Effects</li>
+													<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
+													<li>Brand Icon</li>
+													<li>48 - 72 Hours Turn Around Time</li>
+													<li>Gray Scale Format</li>
+													<li>Final Files (Mp4, MOV, Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+												</ul>
+											</div>
+
+										</div>
 									</div>
 									<div class="col-4 col-medium-12">
-									<div class="price-inner-plan">
-												<h2 class="text-center">TEAM 3D</h2>
-												<div class="price-heading-text">
-													<h2>Value Added Design Solution</h2>
-													<h4>$385.00</h4>
-												</div>
-												<div class="price-list">
-													<ul>
-														<li>6 Custom 5 Sec Animated Logo Concepts</li>
-														<li>10 Sec Teaser / Intro Animation</li>
-														<li>By 4 Top Rated Dedicated Design Animators</li>
-														<li>Visual Effects &amp; Sound Effects</li>
-														<li>Social Media Intro (Facebook, LinkedIn, Twitter)</li>
-														<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
-														<li>Brand Icon</li>
-														<li>48 - 72 Hours Turnaround Time</li>
-														<li>Final Files (Mp4, MOV, Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-														<li>Gray Scale Format</li>
-													</ul>
-												</div>
-
+										<div class="price-inner-plan">
+											<h2 class="text-center">TEAM 3D</h2>
+											<div class="price-heading-text">
+												<h2>Value Added Design Solution</h2>
+												<h4>$385.00</h4>
 											</div>
+											<div class="price-list">
+												<ul>
+													<li>6 Custom 5 Sec Animated Logo Concepts</li>
+													<li>10 Sec Teaser / Intro Animation</li>
+													<li>By 4 Top Rated Dedicated Design Animators</li>
+													<li>Visual Effects &amp; Sound Effects</li>
+													<li>Social Media Intro (Facebook, LinkedIn, Twitter)</li>
+													<li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
+													<li>Brand Icon</li>
+													<li>48 - 72 Hours Turnaround Time</li>
+													<li>Final Files (Mp4, MOV, Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+													<li>Gray Scale Format</li>
+												</ul>
+											</div>
+
+										</div>
 									</div>
 									<div class="custom-price-button" style="padding-top: 70px;">
 										<ul>

@@ -3,6 +3,10 @@
 <?php include_once("includes/head.php"); ?>
 
 <body class="animationservice is-preload">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T85BXSH6"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <div id="page-wrapper">
         <!-- top-header -->
 
@@ -742,12 +746,12 @@
 
             </div> -->
             <div class="gallery-container row">
-                <div class="gallery-item col-lg-4" data-aos="flip-left" style="flex-basis: auto;"  data-index="1">
+                <div class="gallery-item col-lg-4" data-aos="flip-left" style="flex-basis: auto;" data-index="1">
                     <div class="recent-image">
                         <img src="./images/animation/character-image-1.webp" alt="" style="object-fit: cover; width: 100%; height:350px;">
                     </div>
                 </div>
-                <div class="gallery-item col-lg-4" data-aos="flip-left" style="flex-basis: auto;"  data-index="1">
+                <div class="gallery-item col-lg-4" data-aos="flip-left" style="flex-basis: auto;" data-index="1">
                     <div class="recent-image">
                         <img src="./images/animation/character-image-2.webp" alt="" style="object-fit: cover; width: 100%; height:350px;">
                     </div>
@@ -762,20 +766,20 @@
                         <img src="./images/animation/character-image-4.webp" alt="" style="object-fit: cover; width: 100%; height:350px;">
                     </div>
                 </div>
-                <div class="gallery-item col-lg-4 mt-3" data-aos="flip-left" style="flex-basis: auto;"  data-index="1">
+                <div class="gallery-item col-lg-4 mt-3" data-aos="flip-left" style="flex-basis: auto;" data-index="1">
                     <div class="recent-image">
                         <img src="./images/animation/character-image-5.webp" alt="" style="object-fit: cover; width: 100%; height:350px;">
                     </div>
                 </div>
-                <div class="gallery-item col-lg-4 mt-3" data-aos="flip-left" style="flex-basis: auto;"  data-index="1">
+                <div class="gallery-item col-lg-4 mt-3" data-aos="flip-left" style="flex-basis: auto;" data-index="1">
                     <div class="recent-image">
                         <img src="./images/animation/character-image-6.webp" alt="" style="object-fit: cover; width: 100%; height:350px;">
                     </div>
                 </div>
-                
-                
+
+
             </div>
-          
+
             <!--      <div class="tab-content accordion ghm" id="myTabContent">-->
             <!--        <div class="tab-pane fade show active accordion-item" id="home-tab-pane4" role="tabpanel"-->
             <!--          aria-labelledby="home-tab4" tabindex="0">-->

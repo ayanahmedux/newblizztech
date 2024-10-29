@@ -3,44 +3,50 @@
 <?php include_once("includes/head.php"); ?>
 <style>
     p {
-    text-align: left !important;
-}
-p br {
-    display: block !important;
-}
+        text-align: left !important;
+    }
+
+    p br {
+        display: block !important;
+    }
 </style>
+
 <body class="homepage is-preload">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T85BXSH6"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <?php include_once("includes/header.php") ?>
     <div id="page-wrapper">
-     <section id="privacy-policy">
-     <div class="service-logosection" style="padding-top: 50px; padding-left: 50px; padding-right: 50px;">
-            <div class="container">
-                <div class="row">
+        <section id="privacy-policy">
+            <div class="service-logosection" style="padding-top: 50px; padding-left: 50px; padding-right: 50px;">
+                <div class="container">
+                    <div class="row">
 
-                    <div class="first-inner-section-text social" style="text-align: center;">
-                        <h2 style="text-align: center;">PRIVACY POLICY</h2>
-                        <p style="text-align: center;"></p>
-                        <div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px; text-align: center; justify-content: center;">
-                            <ul style="text-align: center;">
-                                <li>
-                                    <div class="brand-button">
-                                        <h6><a href="#">Get Started</a></h6>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="brand-button">
-                                        <h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
-                                    </div>
-                                </li>
-                            </ul>
+                        <div class="first-inner-section-text social" style="text-align: center;">
+                            <h2 style="text-align: center;">PRIVACY POLICY</h2>
+                            <p style="text-align: center;"></p>
+                            <div class="about-banner-buttons animate__animated animate__bounce" style="padding-top: 30px; text-align: center; justify-content: center;">
+                                <ul style="text-align: center;">
+                                    <li>
+                                        <div class="brand-button">
+                                            <h6><a href="#">Get Started</a></h6>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="brand-button">
+                                            <h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
+
+
                     </div>
-
-
                 </div>
             </div>
-        </div>
-     </section>
+        </section>
         <!-- END LOGO FIRST SECTION -->
         </section>
 

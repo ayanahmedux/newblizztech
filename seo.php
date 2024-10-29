@@ -3,6 +3,10 @@
 <?php include_once("includes/head.php"); ?>
 
 <body class="animationservice is-preload">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T85BXSH6"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 	<div id="page-wrapper">
 		<!-- top-header -->
 		<?php include_once("includes/header.php") ?>
@@ -176,74 +180,74 @@
 				<div class="row" style="margin: auto;">
 					<div class="center2">
 						<div class="px-2 py-2" data-aos="flip-right" data-aos-duration="1500">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-								<img class="img1" src="./images/seo/E-commerce-SEO..png"  style="height: 90px; filter: brightness(0) invert(1);">
-								<img class="img2" src="./images/seo/E-commerce-SEO..png"  style="height: 90px; filter: brightness(0) invert(1);">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/seo/E-commerce-SEO..png" style="height: 90px; filter: brightness(0) invert(1);">
+									<img class="img2" src="./images/seo/E-commerce-SEO..png" style="height: 90px; filter: brightness(0) invert(1);">
+								</div>
+								<h3 class="animated fadeIn">E-commerce SEO</h3>
+								<p>The products that rank higher on the SERPs are the same as your business products, but
+									you are not getting the traffic; that’s all because you need exceptional e-commerce SEO
+									services for getting your products featured in the top search results.
+								</p>
 							</div>
-							<h3 class="animated fadeIn">E-commerce SEO</h3>
-							<p>The products that rank higher on the SERPs are the same as your business products, but
-								you are not getting the traffic; that’s all because you need exceptional e-commerce SEO
-								services for getting your products featured in the top search results.
-							</p>
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 						<div class="px-2 py-2" data-aos="flip-right" data-aos-duration="1500">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-							<img class="img1" src="./images/seo/seo-audit-2.png"  style="height: 90px; filter: brightness(0) invert(1);">
-							<img class="img2" src="./images/seo/seo-audit-2.png"  style="height: 90px; filter: brightness(0) invert(1);">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/seo/seo-audit-2.png" style="height: 90px; filter: brightness(0) invert(1);">
+									<img class="img2" src="./images/seo/seo-audit-2.png" style="height: 90px; filter: brightness(0) invert(1);">
+								</div>
+								<h3 class="animated fadeIn">SEO Audit</h3>
+								<p>SEO Audit is the first step to devise an effective SEO strategy. Identifying the problem
+									areas related to technical, on-page and off-page sets the foundation for all activities.
+									Whether you are failing at drawing the right traffic or not getting enough traffic, you
+									probably need an SEO audit. We perform an in depth website audit to find any gaps and
+									then devise a targeted SEO Strategy to fix those gaps. Connect with us right away for a
+									free website audit!
+								</p>
 							</div>
-							<h3 class="animated fadeIn">SEO Audit</h3>
-							<p>SEO Audit is the first step to devise an effective SEO strategy. Identifying the problem
-								areas related to technical, on-page and off-page sets the foundation for all activities.
-								Whether you are failing at drawing the right traffic or not getting enough traffic, you
-								probably need an SEO audit. We perform an in depth website audit to find any gaps and
-								then devise a targeted SEO Strategy to fix those gaps. Connect with us right away for a
-								free website audit!
-							</p>
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 						<div class="px-2 py-2" data-aos="flip-right" data-aos-duration="1500">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-							<img class="img1" src="./images/seo/Local-SEO.png"  style="height: 90px; filter: brightness(0) invert(1);">
-							<img class="img2" src="./images/seo/Local-SEO.png"  style="height: 90px; filter: brightness(0) invert(1);">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/seo/Local-SEO.png" style="height: 90px; filter: brightness(0) invert(1);">
+									<img class="img2" src="./images/seo/Local-SEO.png" style="height: 90px; filter: brightness(0) invert(1);">
+								</div>
+								<h3 class="animated fadeIn">Local SEO</h3>
+								<p>Can you believe that 86% of people use Google Maps as a tool to find local businesses
+									near them. If you don't use local SEO services, you could be losing almost all of the
+									people who are browsing for your company's goods and services online. Lets strategize to
+									get high-converting leads based on regional parameters with our efficient local search
+									engine optimization services company.
+								</p>
 							</div>
-							<h3 class="animated fadeIn">Local SEO</h3>
-							<p>Can you believe that 86% of people use Google Maps as a tool to find local businesses
-								near them. If you don't use local SEO services, you could be losing almost all of the
-								people who are browsing for your company's goods and services online. Lets strategize to
-								get high-converting leads based on regional parameters with our efficient local search
-								engine optimization services company.
-							</p>
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 						<div class="px-2 py-2" data-aos="flip-right" data-aos-duration="1500">
-						<div class="why-choosetext">
-							<div class="why-choose-image">
-							<img class="img1" src="./images/seo/Off-page-Link-Building.png"  style="height: 90px; filter: brightness(0) invert(1);">
-							<img class="img2" src="./images/seo/Off-page-Link-Building.png"  style="height: 90px; filter: brightness(0) invert(1);">
+							<div class="why-choosetext">
+								<div class="why-choose-image">
+									<img class="img1" src="./images/seo/Off-page-Link-Building.png" style="height: 90px; filter: brightness(0) invert(1);">
+									<img class="img2" src="./images/seo/Off-page-Link-Building.png" style="height: 90px; filter: brightness(0) invert(1);">
+								</div>
+								<h3 class="animated fadeIn">Off-page Link Building</h3>
+								<p>To gauge your website performance, quality links play a significant role in enhancing
+									your domain authority and ultimately improving ranking. We create a comprehensive SEO
+									strategy to get inbound traffic from credible sources through efficient link building,
+									guest posting and other techniques.
+								</p>
 							</div>
-							<h3 class="animated fadeIn">Off-page Link Building</h3>
-							<p>To gauge your website performance, quality links play a significant role in enhancing
-								your domain authority and ultimately improving ranking. We create a comprehensive SEO
-								strategy to get inbound traffic from credible sources through efficient link building,
-								guest posting and other techniques.
-							</p>
-						</div>
-						<div class="button-custom">
-							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
-						</div>
+							<div class="button-custom">
+								<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -364,14 +368,14 @@
 				</div>
 
 				<div class="center">
-					<div >
+					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-								
+
 								<img class="img1" src="./images/Logodesign/mascot.webp">
 							</div>
 							<h3 class="animated fadeIn">Continuous Optimization & Improvement</h3>
-							<p>SEO is an ongoing process that requires continuous optimization and improvement. blizztechsolutions  can help you stay ahead of the competition by continuously monitoring and optimizing your website's performance. This includes tracking keyword rankings, analyzing website traffic, and making necessary adjustments to improve your website's performance.
+							<p>SEO is an ongoing process that requires continuous optimization and improvement. blizztechsolutions can help you stay ahead of the competition by continuously monitoring and optimizing your website's performance. This includes tracking keyword rankings, analyzing website traffic, and making necessary adjustments to improve your website's performance.
 
 							</p>
 						</div>
@@ -403,7 +407,7 @@
 
 							</div>
 							<h3 class="animated fadeIn">Higher ROI</h3>
-							<p>Our SEO strategy has been proven to provide a higher return on investment (ROI) compared to other marketing agencies in the industry. blizztechsolutions  offers a long-term and sustainable SEO strategy that can provide ongoing benefits to your business. With the right SEO services, you can target specific audiences and demographics, resulting in higher conversion rates and increased revenue.
+							<p>Our SEO strategy has been proven to provide a higher return on investment (ROI) compared to other marketing agencies in the industry. blizztechsolutions offers a long-term and sustainable SEO strategy that can provide ongoing benefits to your business. With the right SEO services, you can target specific audiences and demographics, resulting in higher conversion rates and increased revenue.
 
 							</p>
 						</div>
@@ -414,11 +418,11 @@
 					<div>
 						<div class="why-choosetext">
 							<div class="why-choose-image">
-							<img class="img1" src="./images/Logodesign/letter.webp">
+								<img class="img1" src="./images/Logodesign/letter.webp">
 
 							</div>
 							<h3 class="animated fadeIn">Improved Ranking</h3>
-							<p>SEO experts at blizztechsolutions  have extensive experience improving a website's ranking on search engines. You can increase your visibility and attract more potential customers with top-notch SEO strategies from the experts. Our SEO services can help improve your ranking by optimizing your website's content, structure, and technical elements. This includes keyword research, on-page optimization, link building, and more.
+							<p>SEO experts at blizztechsolutions have extensive experience improving a website's ranking on search engines. You can increase your visibility and attract more potential customers with top-notch SEO strategies from the experts. Our SEO services can help improve your ranking by optimizing your website's content, structure, and technical elements. This includes keyword research, on-page optimization, link building, and more.
 
 							</p>
 						</div>
@@ -491,91 +495,91 @@
 					<div class="container">
 						<div class="row" style="margin: auto;">
 							<div class="col-4 col-12-medium">
-							<div class="price-inner-plan">
-										<h2 class="text-center">Startup Plan</h2>
-										<div class="price-heading-text">
-											<h2>Quarterly Plan</h2>
-											<h4>$750</h4>
-										</div>
-										<div class="price-list">
-											<ul>
-												<li>Features: 10 Keywords</li>
-												<li>Prior Analysis</li>
-												<li>Pages Keyword Targeted: 5 Pages</li>
-												<li>Web Page Optimization</li>
-												<li>On Page Optimization</li>
-												<li>Meta Data</li>
-												<li>Off Page Optimization</li>
-												<li>Content Creation</li>
-												<li>Guest Bloging: 06 Per Month</li>
-												<li>Web 2.0</li>
-												<li>Bussiness Listing</li>
-											</ul>
-
-										</div>
+								<div class="price-inner-plan">
+									<h2 class="text-center">Startup Plan</h2>
+									<div class="price-heading-text">
+										<h2>Quarterly Plan</h2>
+										<h4>$750</h4>
+									</div>
+									<div class="price-list">
+										<ul>
+											<li>Features: 10 Keywords</li>
+											<li>Prior Analysis</li>
+											<li>Pages Keyword Targeted: 5 Pages</li>
+											<li>Web Page Optimization</li>
+											<li>On Page Optimization</li>
+											<li>Meta Data</li>
+											<li>Off Page Optimization</li>
+											<li>Content Creation</li>
+											<li>Guest Bloging: 06 Per Month</li>
+											<li>Web 2.0</li>
+											<li>Bussiness Listing</li>
+										</ul>
 
 									</div>
+
+								</div>
 							</div>
 							<div class="col-4 col-12-medium">
-							<div class="price-inner-plan">
-										<h2 class="text-center">Startup Plan</h2>
-										<div class="price-heading-text">
-											<h2>Quarterly Plan</h2>
-											<h4>$750</h4>
-										</div>
-										<div class="price-list">
-											<ul>
-												<li>Features: 10 Keywords</li>
-												<li>Prior Analysis</li>
-												<li>Pages Keyword Targeted: 5 Pages</li>
-												<li>Web Page Optimization</li>
-												<li>On Page Optimization</li>
-												<li>Meta Data</li>
-												<li>Off Page Optimization</li>
-												<li>Content Creation</li>
-												<li>Guest Bloging: 06 Per Month</li>
-												<li>Web 2.0</li>
-												<li>Bussiness Listing</li>
-											</ul>
-
-										</div>
+								<div class="price-inner-plan">
+									<h2 class="text-center">Startup Plan</h2>
+									<div class="price-heading-text">
+										<h2>Quarterly Plan</h2>
+										<h4>$750</h4>
+									</div>
+									<div class="price-list">
+										<ul>
+											<li>Features: 10 Keywords</li>
+											<li>Prior Analysis</li>
+											<li>Pages Keyword Targeted: 5 Pages</li>
+											<li>Web Page Optimization</li>
+											<li>On Page Optimization</li>
+											<li>Meta Data</li>
+											<li>Off Page Optimization</li>
+											<li>Content Creation</li>
+											<li>Guest Bloging: 06 Per Month</li>
+											<li>Web 2.0</li>
+											<li>Bussiness Listing</li>
+										</ul>
 
 									</div>
+
+								</div>
 							</div>
 							<div class="col-4 col-12-medium">
-							<div class="price-inner-plan">
-										<h2 class="text-center">
-											Scaling Plan
-										</h2>
-										<div class="price-heading-text">
-											<h2>Quarterly Plan</h2>
-											<h4>$1750</h4>
-										</div>
-										<div class="price-list">
-											<ul>
-												<li>Features: 25 Keywords</li>
-												<li>Prior Analysis</li>
-												<li>Pages Keyword Targeted: 15 Pages</li>
-												<li>Web Page Optimization</li>
-												<li>On Page Optimization</li>
-												<li>Meta Data</li>
-												<li>Off Page Optimization</li>
-												<li>Content Creation</li>
-												<li>Guest Bloging: 12 Per Month</li>
-												<li>Web 2.0</li>
-												<li>Bussiness Listing</li>
-												<li>
-													Reporting
-												</li>
-												<li>Website Audit</li>
-											</ul>
-										</div>
-
+								<div class="price-inner-plan">
+									<h2 class="text-center">
+										Scaling Plan
+									</h2>
+									<div class="price-heading-text">
+										<h2>Quarterly Plan</h2>
+										<h4>$1750</h4>
 									</div>
+									<div class="price-list">
+										<ul>
+											<li>Features: 25 Keywords</li>
+											<li>Prior Analysis</li>
+											<li>Pages Keyword Targeted: 15 Pages</li>
+											<li>Web Page Optimization</li>
+											<li>On Page Optimization</li>
+											<li>Meta Data</li>
+											<li>Off Page Optimization</li>
+											<li>Content Creation</li>
+											<li>Guest Bloging: 12 Per Month</li>
+											<li>Web 2.0</li>
+											<li>Bussiness Listing</li>
+											<li>
+												Reporting
+											</li>
+											<li>Website Audit</li>
+										</ul>
+									</div>
+
+								</div>
 							</div>
 							<div class="row mt-5">
-							<div class="col-4 col-12-medium">
-							<div class="price-inner-plan">
+								<div class="col-4 col-12-medium">
+									<div class="price-inner-plan">
 										<h2 class="text-center">
 											Venture Plan
 										</h2>
@@ -604,9 +608,9 @@
 										</div>
 
 									</div>
-							</div>
-							<div class="col-4 col-12-medium">
-							<div class="price-inner-plan">
+								</div>
+								<div class="col-4 col-12-medium">
+									<div class="price-inner-plan">
 										<h2 class="text-center">
 											Startup Plan
 										</h2>
@@ -631,9 +635,9 @@
 										</div>
 
 									</div>
-							</div>
-							<div class="col-4 col-12-medium">
-							<div class="price-inner-plan">
+								</div>
+								<div class="col-4 col-12-medium">
+									<div class="price-inner-plan">
 										<h2 class="text-center">
 											Scaling Plan
 										</h2>
@@ -662,9 +666,9 @@
 										</div>
 
 									</div>
-							</div>
-							<div class="col-4 col-12-medium mt-5">
-							<div class="price-inner-plan">
+								</div>
+								<div class="col-4 col-12-medium mt-5">
+									<div class="price-inner-plan">
 										<h2 class="text-center">
 											Venture Plan
 										</h2>
@@ -693,12 +697,12 @@
 										</div>
 
 									</div>
-							</div>
+								</div>
 							</div>
 						</div>
 
 						<!-- second row -->
-					
+
 					</div>
 
 					<!-- LOGOS PRICE PLAN END -->
@@ -1017,7 +1021,7 @@
 		<section id="logo-contact-form" style="padding: 210px 0px;">
 			<div class="container">
 				<div class="row contact-inner">
-					<div class="col-6 col-12-medium"  data-aos="fade-down" data-aos-duration="1000">
+					<div class="col-6 col-12-medium" data-aos="fade-down" data-aos-duration="1000">
 						<div class="logo-conactfomrinner">
 							<form class="innerpagescalltoaction" method="post" id="contact" action="">
 

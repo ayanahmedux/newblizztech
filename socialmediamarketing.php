@@ -3,6 +3,10 @@
 <?php include_once("includes/head.php"); ?>
 
 <body class="homepage is-preload">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T85BXSH6"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 	<div id="page-wrapper">
 		<!-- top-header -->
 		<?php include_once("includes/header.php") ?>
@@ -751,89 +755,89 @@
 					<div class="container">
 						<div class="row" style="margin: auto !important;">
 							<div class="col-4 col-12-medium">
-							<div class="price-inner-plan">
-										<h2 class="text-center">Startup Plan</h2>
-										<div class="price-heading-text">
-											<h2>Quarterly Plan</h2>
-											<h4>$1125</h4>
-										</div>
-										<div class="price-list">
-											<ul>
-												<li>Features: 12 Post Per Month </li>
-												<li>Reels Posts: 3 Reel Per Month</li>
-												<li>Graphics Posts: 4 Graphics Per Month</li>
-												<li>Carousel: 5 Carousel Per Month</li>
-												<li>Stories+Highlights (Complimentary): 2 Stories/Highlights</li>
-												<li>Number Of Networks: 2 Networks</li>
-												<li>Social Media Marketing Strategy</li>
-												<li>Dedicated Social Media Account Manager</li>
-												<li>Daily/Weekly Monitoring Of Included Social Assets</li>
-											</ul>
-										</div>
-
+								<div class="price-inner-plan">
+									<h2 class="text-center">Startup Plan</h2>
+									<div class="price-heading-text">
+										<h2>Quarterly Plan</h2>
+										<h4>$1125</h4>
 									</div>
+									<div class="price-list">
+										<ul>
+											<li>Features: 12 Post Per Month </li>
+											<li>Reels Posts: 3 Reel Per Month</li>
+											<li>Graphics Posts: 4 Graphics Per Month</li>
+											<li>Carousel: 5 Carousel Per Month</li>
+											<li>Stories+Highlights (Complimentary): 2 Stories/Highlights</li>
+											<li>Number Of Networks: 2 Networks</li>
+											<li>Social Media Marketing Strategy</li>
+											<li>Dedicated Social Media Account Manager</li>
+											<li>Daily/Weekly Monitoring Of Included Social Assets</li>
+										</ul>
+									</div>
+
+								</div>
 							</div>
 							<div class="col-4 col-12-medium">
-							<div class="price-inner-plan">
-										<h2 class="text-center">Scaling Plan</h2>
-										<div class="price-heading-text">
-											<h2>Quarterly Plan</h2>
-											<h4>$2250</h4>
-										</div>
-										<div class="price-list">
-											<ul>
-												<li>Features: 16 Post Per Month </li>
-												<li>Reels Posts: 4 Reel Per Month</li>
-												<li>Graphics Posts: 6 Graphics Per Month</li>
-												<li>Carousel: 6 Carousel Per Month</li>
-												<li>Stories+Highlights (Complimentary): 4 Stories/Highlights</li>
-												<li>Number Of Networks: 3 Networks</li>
-												<li>Social Media Marketing Strategy</li>
-												<li>Social Media Competitive Analysis</li>
-												<li>Social Media Brand Reputation Analysis</li>
-												<li>Social Media Audit + Recommendations</li>
-												<li>Dedicated Social Media Account Manager</li>
-												<li>Daily/Weekly Monitoring Of Included Social Assets</li>
-												<li>Standard Monthly Reporting And Analysis</li>
-												<li>Cross-Platform Integration</li>
-												<li>Network Setup &amp; Optimization</li>
-											</ul>
-										</div>
-
+								<div class="price-inner-plan">
+									<h2 class="text-center">Scaling Plan</h2>
+									<div class="price-heading-text">
+										<h2>Quarterly Plan</h2>
+										<h4>$2250</h4>
 									</div>
+									<div class="price-list">
+										<ul>
+											<li>Features: 16 Post Per Month </li>
+											<li>Reels Posts: 4 Reel Per Month</li>
+											<li>Graphics Posts: 6 Graphics Per Month</li>
+											<li>Carousel: 6 Carousel Per Month</li>
+											<li>Stories+Highlights (Complimentary): 4 Stories/Highlights</li>
+											<li>Number Of Networks: 3 Networks</li>
+											<li>Social Media Marketing Strategy</li>
+											<li>Social Media Competitive Analysis</li>
+											<li>Social Media Brand Reputation Analysis</li>
+											<li>Social Media Audit + Recommendations</li>
+											<li>Dedicated Social Media Account Manager</li>
+											<li>Daily/Weekly Monitoring Of Included Social Assets</li>
+											<li>Standard Monthly Reporting And Analysis</li>
+											<li>Cross-Platform Integration</li>
+											<li>Network Setup &amp; Optimization</li>
+										</ul>
+									</div>
+
+								</div>
 							</div>
 							<div class="col-4 col-12-medium">
-							<div class="price-inner-plan">
-										<h2 class="text-center">Venture Plan</h2>
-										<div class="price-heading-text">
-											<h2>Quarterly Plan</h2>
-											<h4>$4725</h4>
-										</div>
-										<div class="price-list">
-											<ul>
-												<li>Features: 24 Post Per Month </li>
-												<li>Reels Posts: 6 Reel Per Month</li>
-												<li>Graphics Posts: 9 Graphics Per Month</li>
-												<li>Carousel: 9 Carousel Per Month</li>
-												<li>Stories+Highlights (Complimentary): 6 Stories/Highlights</li>
-												<li>Number Of Networks: 7 Networks</li>
-												<li>Social Media Marketing Strategy</li>
-												<li>Social Media Competitive Analysis</li>
-												<li>Social Media Brand Reputation Analysis</li>
-												<li>Social Media Audit + Recommendations</li>
-												<li>Dedicated Social Media Account Manager</li>
-												<li>Daily/Weekly Monitoring Of Included Social Assets</li>
-												<li>Standard Monthly Reporting And Analysis</li>
-												<li>Cross-Platform Integration</li>
-												<li>Network Setup &amp; Optimization</li>
-											</ul>
-										</div>
-
+								<div class="price-inner-plan">
+									<h2 class="text-center">Venture Plan</h2>
+									<div class="price-heading-text">
+										<h2>Quarterly Plan</h2>
+										<h4>$4725</h4>
 									</div>
+									<div class="price-list">
+										<ul>
+											<li>Features: 24 Post Per Month </li>
+											<li>Reels Posts: 6 Reel Per Month</li>
+											<li>Graphics Posts: 9 Graphics Per Month</li>
+											<li>Carousel: 9 Carousel Per Month</li>
+											<li>Stories+Highlights (Complimentary): 6 Stories/Highlights</li>
+											<li>Number Of Networks: 7 Networks</li>
+											<li>Social Media Marketing Strategy</li>
+											<li>Social Media Competitive Analysis</li>
+											<li>Social Media Brand Reputation Analysis</li>
+											<li>Social Media Audit + Recommendations</li>
+											<li>Dedicated Social Media Account Manager</li>
+											<li>Daily/Weekly Monitoring Of Included Social Assets</li>
+											<li>Standard Monthly Reporting And Analysis</li>
+											<li>Cross-Platform Integration</li>
+											<li>Network Setup &amp; Optimization</li>
+										</ul>
+									</div>
+
+								</div>
 							</div>
 							<div class="row mt-5">
 								<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
+									<div class="price-inner-plan">
 										<h2 class="text-center">Startup Plan</h2>
 										<div class="price-heading-text">
 											<h2>Bi-Annual Plan</h2>
@@ -856,7 +860,7 @@
 									</div>
 								</div>
 								<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
+									<div class="price-inner-plan">
 										<h2 class="text-center">Scaling Plan</h2>
 										<div class="price-heading-text">
 											<h2>Bi-Annual Plan</h2>
@@ -885,7 +889,7 @@
 									</div>
 								</div>
 								<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
+									<div class="price-inner-plan">
 										<h2 class="text-center">Venture Plan</h2>
 										<div class="price-heading-text">
 											<h2>Bi-Annual Plan</h2>

@@ -3,6 +3,10 @@
 <?php include_once("includes/head.php"); ?>
 
 <body class="homepage is-preload">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T85BXSH6"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 	<div id="page-wrapper">
 		<!-- top-header -->
 		<?php include_once("includes/header.php") ?>
@@ -35,7 +39,7 @@
 										</li>
 										<li>
 											<div class="brand-button">
-												<h6><a   href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+												<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 											</div>
 										</li>
 									</ul>
@@ -404,8 +408,8 @@
 			</div>
 			<div class="container-fluid">
 				<div class="center">
-					<div  data-aos="flip-right">
-						<div class="why-choosetext" >
+					<div data-aos="flip-right">
+						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/abstract.webp">
 							</div>
@@ -423,7 +427,7 @@
 						</div>
 					</div>
 
-					<div  data-aos="flip-right">
+					<div data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/letter.webp">
@@ -441,7 +445,7 @@
 						</div>
 
 					</div>
-					<div  data-aos="flip-right"> 
+					<div data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/mascot.webp">
@@ -458,7 +462,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div  data-aos="flip-right">
+					<div data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/emblem.webp">
@@ -475,7 +479,7 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div  data-aos="flip-right">
+					<div data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/emblem.webp">
@@ -494,17 +498,17 @@
 							<h6><a href="javascript:;" class="quote-button">Get Started</a></h6>
 						</div>
 					</div>
-					<div  data-aos="flip-right">
+					<div data-aos="flip-right">
 						<div class="why-choosetext">
 							<div class="why-choose-image">
 								<img class="img1" src="./images/Logodesign/emblem.webp">
 
 							</div>
-							<h3 class="animated fadeIn">  Content Publishing</h3>
+							<h3 class="animated fadeIn"> Content Publishing</h3>
 							<p>We use the best tools for publishing your content in the
- digital space having modules to keep an eye on
- crucial KPIs for quantifying the content marketing
- performance
+								digital space having modules to keep an eye on
+								crucial KPIs for quantifying the content marketing
+								performance
 
 							</p>
 						</div>
@@ -514,7 +518,7 @@
 					</div>
 				</div>
 		</section>
-		
+
 
 
 
@@ -522,7 +526,7 @@
 		<section id="logo-contact-form" style="padding: 210px 0px;">
 			<div class="container">
 				<div class="row contact-inner">
-					<div class="col-6 col-12-medium"  data-aos="fade-down" data-aos-duration="1000">
+					<div class="col-6 col-12-medium" data-aos="fade-down" data-aos-duration="1000">
 						<div class="logo-conactfomrinner">
 							<form class="innerpagescalltoaction" method="post" action="">
 
@@ -559,7 +563,7 @@
 									</li>
 									<li>
 										<div class="brand-button">
-											<h6><a   href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
+											<h6><a href="javascript:void(Tawk_API.toggle())"><i class="fa fa-message my-float"></i> Live Chat</a></h6>
 										</div>
 									</li>
 								</ul>
