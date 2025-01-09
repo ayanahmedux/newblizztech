@@ -309,16 +309,16 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1" data-aos="flip-right">
-									<img src="./images/Logodesign/portfolio/1.webp">
+									<img src="./images/blizz-logo-1.png" style="height: 450px;">
 								</div>
 								<div class="gallery-item" data-index="2" data-aos="flip-right">
-									<img src="./images/Logodesign/portfolio/2.webp">
+									<img src="./images/blizz-logo-full-1.jpg" style="height: 450px;">
 								</div>
 								<div class="gallery-item" data-index="3" data-aos="flip-right">
-									<img src="./images/Logodesign/portfolio/3.webp">
+									<img src="./images/blizz-logo-2.jpg" style="height: 450px;">
 								</div>
 								<div class="gallery-item" data-index="4" data-aos="flip-right">
-									<img src="./images/Logodesign/portfolio/4.webp">
+									<img src="./images/blizz-logo-full-2.jpg" style="height: 450px;">
 								</div>
 
 							</div>
@@ -336,13 +336,13 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/Logodesign/Typographic/typo1.webp">
+									<img src="./images/blizz-logo-4.png">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/Logodesign/Typographic/typo2.webp">
+									<img src="./images/blizz-logo-5.jpg">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/Logodesign/Typographic/typo3.webp">
+									<img src="./images/blizz-logo-6.jpg">
 								</div>
 								<div class="gallery-item" data-index="4">
 									<img src="./images/Logodesign/Typographic/typo4.webp">
@@ -363,16 +363,16 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/Logodesign/Iconic/Iconic1.webp">
+									<img src="./images/blizz-logo-full-3.jpg">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/Logodesign/Iconic/Iconic2.webp">
+									<img src="./images/blizz-logo-full-4.png">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/Logodesign/Iconic/Iconic3.webp">
+									<img src="./images/blizz-logo-full-5.png">
 								</div>
 								<div class="gallery-item" data-index="4">
-									<img src="./images/Logodesign/Iconic/Iconic4.webp">
+									<img src="./images/blizz-logo-full-6.png">
 								</div>
 
 							</div>
@@ -421,10 +421,10 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/Logodesign/Mascot/Mascot1.webp">
+									<img src="./images/blizz-logo-1.png">
 								</div>
 								<div class="gallery-item" data-index="2">
-									<img src="./images/Logodesign/Mascot/Mascot2.webp">
+									<img src="./images/blizz-logo-2.jpg">
 								</div>
 								<div class="gallery-item" data-index="3">
 									<img src="./images/Logodesign/Mascot/Mascot3.webp">
@@ -448,13 +448,13 @@
 							data-bs-parent="#myTabContent">
 							<div class="gallery-container">
 								<div class="gallery-item" data-index="1">
-									<img src="./images/Logodesign/Emblem/Emblem1.webp">
+									<img src="./images/blizz-logo-3.jpg">
 								</div>
 								<div class="gallery-item" data-index="2">
 									<img src="./images/Logodesign/Emblem/Emblem2.webp">
 								</div>
 								<div class="gallery-item" data-index="3">
-									<img src="./images/Logodesign/Emblem/Emblem3.webp">
+									<img src="./images/blizz-logo-6.jpg">
 								</div>
 								<div class="gallery-item" data-index="4">
 									<img src="./images/Logodesign/Emblem/Emblem4.webp">

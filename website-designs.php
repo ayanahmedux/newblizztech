@@ -69,33 +69,56 @@
 		</section>
 
 		<!-- LOGO ABOUT US START -->
-
-		<section id="logo-about-us" style="padding: 100px 0px;">
+		<section id="four-days-left">
 			<div class="container">
-				<div class="row res-row">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="four-days-image-wrapper">
+							<div class="secure-shopify-card">
+								<div class="shopify-season-end-sale">
+									<h3>Season Big Sale</h3>
+									<h2>Up to 50% OFF</h2>
+								</div>
+								<div class="get-over-discount-div">
+									<div class="countdown" id="countdown">
+										<div class="countdown-box">
+											<div class="number" id="days">00</div>
+											<div class="label">Days</div>
+										</div>
+										<div class="countdown-box">
+											<div class="number" id="hours">00</div>
+											<div class="label">Hours</div>
+										</div>
+										<div class="countdown-box">
+											<div class="number" id="minutes">00</div>
+											<div class="label">Minutes</div>
+										</div>
+										<div class="countdown-box">
+											<div class="number" id="seconds">00</div>
+											<div class="label">Seconds</div>
+										</div>
+									</div>
+								</div>
+								<div class="brand-button">
+									<h6><a href="javascript:;" class="quote-button">Get Offer Now</a></h6>
+								</div>
+								<div class="special-offer-div">
+									<h4>Special offer until January 2025</h4>
+								</div>
+							</div>
 
-					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
-						<div class="logoabout-text">
-							<h2>Build Your Online Presence with Expert Web Design and <b> Development</b> </h2>
-							<p class="website-abouttext">At Blizztech Solutions, we take pride in our ability to craft high
-								performance websites that not only look stunning but also
-								function seamlessly. Our expert web development services are
-								designed to bring your unique vision to life, ensuring that your
-								website not only reflects your brand identity but also resonates
-								with your target audience. From the initial concept to the final
-								launch, our dedicated team works tirelessly to ensure that every
-								aspect of your website exceeds expectations.</p>
-
+							hello
 						</div>
 					</div>
-
-					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="2000">
-						<img class="" style="width: 80%;" src="./images/websitedesigns/websiteinfographic.webp" />
+					<div class="col-lg-6">
+						<div class="four-days-image-wrapper">
+							<img src="./images/blizz-four-days-image.png" alt="">
+						</div>
 					</div>
 				</div>
-
 			</div>
 		</section>
+
 
 		<!-- LOGO ABOUT US END -->
 		<!-- OUR KEY FEATURES START  -->
@@ -213,6 +236,7 @@
 					</div>
 				</div>
 
+
 				<div id="Paris" class="tabcontent">
 					<div class="container">
 						<ul class="row">
@@ -305,6 +329,7 @@
 
 			</div>
 		</section>
+
 		<!-- TECNOLOGY STACK END -->
 		<section id="blizztech-question">
 			<div class="container">
@@ -317,6 +342,32 @@
 						solutions ensure your website stands out, engages
 						visitors, and achieves your business goals.</p>
 				</div>
+			</div>
+		</section>
+		<section id="logo-about-us" style="padding: 100px 0px;">
+			<div class="container">
+				<div class="row res-row">
+					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="2000">
+						<img class="" style="width: 80%;" src="./images/websitedesigns/websiteinfographic.webp" />
+					</div>
+					<div class="col-6 col-12-medium align-self-center" data-aos="fade-right" data-aos-duration="1500">
+						<div class="logoabout-text">
+							<h2>Build Your Online Presence with Expert Web Design and <b> Development</b> </h2>
+							<p class="website-abouttext">At Blizztech Solutions, we take pride in our ability to craft high
+								performance websites that not only look stunning but also
+								function seamlessly. Our expert web development services are
+								designed to bring your unique vision to life, ensuring that your
+								website not only reflects your brand identity but also resonates
+								with your target audience. From the initial concept to the final
+								launch, our dedicated team works tirelessly to ensure that every
+								aspect of your website exceeds expectations.</p>
+
+						</div>
+					</div>
+
+
+				</div>
+
 			</div>
 		</section>
 		<!-- LOGO WE CREATE OF YOU START -->
@@ -1088,7 +1139,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-6 col-12-medium" data-aos="fade-right" data-aos-duration="1500">
-						<img width="80%" src="./images/websitedesigns/yourwork.webp" />
+
 					</div>
 
 					<div class="col-6 col-12-medium" data-aos="fade-left" data-aos-duration="1500">

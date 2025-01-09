@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,900);
+
 table.default td,
 table.default th {
     padding: .5em 1em
@@ -948,9 +949,11 @@ ul.actions li {
 ul.actions li:last-child {
     margin-right: 0
 }
+
 .center2 .px-2.py-2.slick-slide {
     height: 500px;
 }
+
 .feature-list {
     max-width: 58em;
     margin-left: auto;
@@ -1593,14 +1596,17 @@ section#intro-section-seo .why-choosetext img.img2 {
     .container {
         width: 70em
     }
+
     .row,
     .row>* {
         box-sizing: border-box
     }
+
     .row.gtr-0,
     .row.gtr-0.gtr-uniform {
         margin-top: 0
     }
+
     .row {
         display: flex;
         flex-wrap: wrap;
@@ -1608,169 +1614,223 @@ section#intro-section-seo .why-choosetext img.img2 {
         margin-top: -50px;
         margin-left: -50px
     }
+
     .row.gtr-uniform>*>:last-child {
         margin-bottom: 0
     }
+
     .row.aln-left {
         justify-content: flex-start
     }
+
     .row.aln-center {
         justify-content: center
     }
+
     .row.aln-right {
         justify-content: flex-end
     }
+
     .row.aln-top {
         align-items: flex-start
     }
+
     .row.aln-middle {
         align-items: center
     }
+
     .row.aln-bottom {
         align-items: flex-end
     }
+
     .row>.imp-xlarge {
         order: -1
     }
+
     .row>.col-1-xlarge {
         width: 8.33333%
     }
+
     .row>.off-1-xlarge {
         margin-left: 8.33333%
     }
+
     .row>.col-2-xlarge {
         width: 16.66667%
     }
+
     .row>.off-2-xlarge {
         margin-left: 16.66667%
     }
+
     .row>.col-3-xlarge {
         width: 25%
     }
+
     .row>.off-3-xlarge {
         margin-left: 25%
     }
+
     .row>.col-4-xlarge {
         width: 33.33333%
     }
+
     .row>.off-4-xlarge {
         margin-left: 33.33333%
     }
+
     .row>.col-5-xlarge {
         width: 41.66667%
     }
+
     .row>.off-5-xlarge {
         margin-left: 41.66667%
     }
+
     .row>.col-6-xlarge {
         width: 50%
     }
+
     .row>.off-6-xlarge {
         margin-left: 50%
     }
+
     .row>.col-7-xlarge {
         width: 58.33333%
     }
+
     .row>.off-7-xlarge {
         margin-left: 58.33333%
     }
+
     .row>.col-8-xlarge {
         width: 66.66667%
     }
+
     .row>.off-8-xlarge {
         margin-left: 66.66667%
     }
+
     .row>.col-9-xlarge {
         width: 75%
     }
+
     .row>.off-9-xlarge {
         margin-left: 75%
     }
+
     .row>.col-10-xlarge {
         width: 83.33333%
     }
+
     .row>.off-10-xlarge {
         margin-left: 83.33333%
     }
+
     .row>.col-11-xlarge {
         width: 91.66667%
     }
+
     .row>.off-11-xlarge {
         margin-left: 91.66667%
     }
+
     .row>.col-12-xlarge {
         width: 100%
     }
+
     .row>.off-12-xlarge {
         margin-left: 100%
     }
+
     .row.gtr-0 {
         margin-left: 0
     }
+
     .row.gtr-0>* {
         padding: 0
     }
+
     .row.gtr-25,
     .row.gtr-25.gtr-uniform {
         margin-top: -12.5px
     }
+
     .row.gtr-0.gtr-uniform>* {
         padding-top: 0
     }
+
     .row.gtr-25 {
         margin-left: -12.5px
     }
+
     .row.gtr-25>* {
         padding: 12.5px 0 0 12.5px
     }
+
     .row.gtr-50,
     .row.gtr-50.gtr-uniform {
         margin-top: -25px
     }
+
     .row.gtr-25.gtr-uniform>* {
         padding-top: 12.5px
     }
+
     .row.gtr-50 {
         margin-left: -25px
     }
+
     .row.gtr-50>* {
         padding: 25px 0 0 25px
     }
+
     .row.gtr-50.gtr-uniform>* {
         padding-top: 25px
     }
+
     .row.gtr-uniform {
         margin-top: -50px
     }
+
     .row.gtr-150,
     .row.gtr-150.gtr-uniform {
         margin-top: -75px
     }
+
     .row.gtr-uniform>* {
         padding-top: 50px
     }
+
     .row.gtr-150 {
         margin-left: -75px
     }
+
     .row.gtr-150>* {
         padding: 75px 0 0 75px
     }
+
     .row.gtr-200,
     .row.gtr-200.gtr-uniform {
         margin-top: -100px
     }
+
     .row.gtr-150.gtr-uniform>* {
         padding-top: 75px
     }
+
     .row.gtr-200 {
         margin-left: -100px
     }
+
     .row.gtr-200>* {
         padding: 100px 0 0 100px
     }
+
     .row.gtr-200.gtr-uniform>* {
         padding-top: 100px
     }
+
     body,
     input,
     select,
@@ -1786,17 +1846,21 @@ section#intro-section-seo .why-choosetext img.img2 {
         position: unset !important;
         margin: 0 auto !important
     }
+
     .container {
         width: calc(100% - 100px)
     }
+
     .row,
     .row>* {
         box-sizing: border-box
     }
+
     .row.gtr-0,
     .row.gtr-0.gtr-uniform {
         margin-top: 0
     }
+
     .row {
         display: flex;
         flex-wrap: wrap;
@@ -1804,169 +1868,223 @@ section#intro-section-seo .why-choosetext img.img2 {
         margin-top: -35px;
         margin-left: -35px
     }
+
     .row.gtr-uniform>*>:last-child {
         margin-bottom: 0
     }
+
     .row.aln-left {
         justify-content: flex-start
     }
+
     .row.aln-center {
         justify-content: center
     }
+
     .row.aln-right {
         justify-content: flex-end
     }
+
     .row.aln-top {
         align-items: flex-start
     }
+
     .row.aln-middle {
         align-items: center
     }
+
     .row.aln-bottom {
         align-items: flex-end
     }
+
     .row>.imp-large {
         order: -1
     }
+
     .row>.col-1-large {
         width: 8.33333%
     }
+
     .row>.off-1-large {
         margin-left: 8.33333%
     }
+
     .row>.col-2-large {
         width: 16.66667%
     }
+
     .row>.off-2-large {
         margin-left: 16.66667%
     }
+
     .row>.col-3-large {
         width: 25%
     }
+
     .row>.off-3-large {
         margin-left: 25%
     }
+
     .row>.col-4-large {
         width: 33.33333%
     }
+
     .row>.off-4-large {
         margin-left: 33.33333%
     }
+
     .row>.col-5-large {
         width: 41.66667%
     }
+
     .row>.off-5-large {
         margin-left: 41.66667%
     }
+
     .row>.col-6-large {
         width: 50%
     }
+
     .row>.off-6-large {
         margin-left: 50%
     }
+
     .row>.col-7-large {
         width: 58.33333%
     }
+
     .row>.off-7-large {
         margin-left: 58.33333%
     }
+
     .row>.col-8-large {
         width: 66.66667%
     }
+
     .row>.off-8-large {
         margin-left: 66.66667%
     }
+
     .row>.col-9-large {
         width: 75%
     }
+
     .row>.off-9-large {
         margin-left: 75%
     }
+
     .row>.col-10-large {
         width: 83.33333%
     }
+
     .row>.off-10-large {
         margin-left: 83.33333%
     }
+
     .row>.col-11-large {
         width: 91.66667%
     }
+
     .row>.off-11-large {
         margin-left: 91.66667%
     }
+
     .row>.col-12-large {
         width: 100%
     }
+
     .row>.off-12-large {
         margin-left: 100%
     }
+
     .row.gtr-0 {
         margin-left: 0
     }
+
     .row.gtr-0>* {
         padding: 0
     }
+
     .row.gtr-25,
     .row.gtr-25.gtr-uniform {
         margin-top: -8.75px
     }
+
     .row.gtr-0.gtr-uniform>* {
         padding-top: 0
     }
+
     .row.gtr-25 {
         margin-left: -8.75px
     }
+
     .row.gtr-25>* {
         padding: 8.75px 0 0 8.75px
     }
+
     .row.gtr-50,
     .row.gtr-50.gtr-uniform {
         margin-top: -17.5px
     }
+
     .row.gtr-25.gtr-uniform>* {
         padding-top: 8.75px
     }
+
     .row.gtr-50 {
         margin-left: -17.5px
     }
+
     .row.gtr-50>* {
         padding: 17.5px 0 0 17.5px
     }
+
     .row.gtr-50.gtr-uniform>* {
         padding-top: 17.5px
     }
+
     .row.gtr-uniform {
         margin-top: -35px
     }
+
     .row.gtr-150,
     .row.gtr-150.gtr-uniform {
         margin-top: -52.5px
     }
+
     .row.gtr-uniform>* {
         padding-top: 35px
     }
+
     .row.gtr-150 {
         margin-left: -52.5px
     }
+
     .row.gtr-150>* {
         padding: 52.5px 0 0 52.5px
     }
+
     .row.gtr-200,
     .row.gtr-200.gtr-uniform {
         margin-top: -70px
     }
+
     .row.gtr-150.gtr-uniform>* {
         padding-top: 52.5px
     }
+
     .row.gtr-200 {
         margin-left: -70px
     }
+
     .row.gtr-200>* {
         padding: 70px 0 0 70px
     }
+
     .row.gtr-200.gtr-uniform>* {
         padding-top: 70px
     }
+
     body,
     input,
     select,
@@ -1975,32 +2093,41 @@ section#intro-section-seo .why-choosetext img.img2 {
         line-height: 1.5em;
         letter-spacing: .015em
     }
+
     .wrapper {
         padding: 4em 0 7em
     }
+
     #logo {
         margin-top: -.5em !important
     }
+
     #logo h1 {
         font-size: 1.75em
     }
+
     #intro {
         padding-bottom: 7em
     }
+
     #intro p.style1 {
         font-size: 1.25em
     }
+
     #intro p.style2 {
         font-size: 2.25em
     }
+
     #footer {
         padding-bottom: 4em
     }
+
     #footer header.style1 {
         padding-bottom: 4em;
         margin-bottom: 4em;
         border-bottom: 1px solid rgba(255, 255, 255, .05)
     }
+
     #copyright {
         padding-top: 4em;
         margin-top: 4em
@@ -2018,14 +2145,17 @@ section#intro-section-seo .why-choosetext img.img2 {
     .container {
         width: calc(100% - 100px)
     }
+
     .row,
     .row>* {
         box-sizing: border-box
     }
+
     .row.gtr-0,
     .row.gtr-0.gtr-uniform {
         margin-top: 0
     }
+
     .row {
         display: flex;
         flex-wrap: wrap;
@@ -2033,217 +2163,283 @@ section#intro-section-seo .why-choosetext img.img2 {
         margin-top: -50px;
         margin-left: -50px
     }
+
     .row>* {
         padding: 50px 0 0 50px
     }
+
     .row.gtr-uniform>*>:last-child {
         margin-bottom: 0
     }
+
     .row.aln-left {
         justify-content: flex-start
     }
+
     .row.aln-center {
         justify-content: center
     }
+
     .row.aln-right {
         justify-content: flex-end
     }
+
     .row.aln-top {
         align-items: flex-start
     }
+
     .row.aln-middle {
         align-items: center
     }
+
     .row.aln-bottom {
         align-items: flex-end
     }
+
     .row>.imp-medium {
         order: -1
     }
+
     .row>.col-1-medium {
         width: 8.33333%
     }
+
     .row>.off-1-medium {
         margin-left: 8.33333%
     }
+
     .row>.col-2-medium {
         width: 16.66667%
     }
+
     .row>.off-2-medium {
         margin-left: 16.66667%
     }
+
     .row>.col-3-medium {
         width: 25%
     }
+
     .row>.off-3-medium {
         margin-left: 25%
     }
+
     .row>.col-4-medium {
         width: 33.33333%
     }
+
     .row>.off-4-medium {
         margin-left: 33.33333%
     }
+
     .row>.col-5-medium {
         width: 41.66667%
     }
+
     .row>.off-5-medium {
         margin-left: 41.66667%
     }
+
     .row>.col-6-medium {
         width: 50%
     }
+
     .row>.off-6-medium {
         margin-left: 50%
     }
+
     .row>.col-7-medium {
         width: 58.33333%
     }
+
     .row>.off-7-medium {
         margin-left: 58.33333%
     }
+
     .row>.col-8-medium {
         width: 66.66667%
     }
+
     .row>.off-8-medium {
         margin-left: 66.66667%
     }
+
     .row>.col-9-medium {
         width: 75%
     }
+
     .row>.off-9-medium {
         margin-left: 75%
     }
+
     .row>.col-10-medium {
         width: 83.33333%
     }
+
     .row>.off-10-medium {
         margin-left: 83.33333%
     }
+
     .row>.col-11-medium {
         width: 91.66667%
     }
+
     .row>.off-11-medium {
         margin-left: 91.66667%
     }
+
     .row>.col-12-medium {
         width: 100%
     }
+
     .row>.off-12-medium {
         margin-left: 100%
     }
+
     .row.gtr-0 {
         margin-left: 0
     }
+
     .row.gtr-0>* {
         padding: 0
     }
+
     .row.gtr-25,
     .row.gtr-25.gtr-uniform {
         margin-top: -12.5px
     }
+
     .row.gtr-0.gtr-uniform>* {
         padding-top: 0
     }
+
     .row.gtr-25 {
         margin-left: -12.5px
     }
+
     .row.gtr-25>* {
         padding: 12.5px 0 0 12.5px
     }
+
     .row.gtr-50,
     .row.gtr-50.gtr-uniform {
         margin-top: -25px
     }
+
     .row.gtr-25.gtr-uniform>* {
         padding-top: 12.5px
     }
+
     .row.gtr-50 {
         margin-left: -25px
     }
+
     .row.gtr-50>* {
         padding: 25px 0 0 25px
     }
+
     .row.gtr-50.gtr-uniform>* {
         padding-top: 25px
     }
+
     .row.gtr-uniform {
         margin-top: -50px
     }
+
     .row.gtr-150,
     .row.gtr-150.gtr-uniform {
         margin-top: -75px
     }
+
     .row.gtr-uniform>* {
         padding-top: 50px
     }
+
     .row.gtr-150 {
         margin-left: -75px
     }
+
     .row.gtr-150>* {
         padding: 75px 0 0 75px
     }
+
     .row.gtr-200,
     .row.gtr-200.gtr-uniform {
         margin-top: -100px
     }
+
     .row.gtr-150.gtr-uniform>* {
         padding-top: 75px
     }
+
     .row.gtr-200 {
         margin-left: -100px
     }
+
     .row.gtr-200>* {
         padding: 100px 0 0 100px
     }
+
     .row.gtr-200.gtr-uniform>* {
         padding-top: 100px
     }
+
     #nav,
     #titleBar .title,
     header br {
         display: none
     }
+
     form ul.actions {
         text-align: center
     }
+
     .feature-list {
         max-width: 40em
     }
+
     .feature-list section {
         padding-top: 4em
     }
+
     .feature-list>.row>:first-child>section {
         border-top: 0;
         padding-top: 0
     }
+
     #logo {
         top: 0
     }
+
     #intro p.style3 {
         width: auto
     }
+
     #highlights .highlight {
         max-width: 40em;
         margin-left: auto;
         margin-right: auto
     }
+
     #footer .feature-list {
         border-top: 1px solid rgba(255, 255, 255, .05);
         padding-top: 4em
     }
+
     #page-wrapper,
     #titleBar {
         -moz-backface-visibility: hidden;
         -webkit-backface-visibility: hidden;
         -ms-backface-visibility: hidden
     }
+
     #navPanel,
     #titleBar {
         left: 0;
         position: fixed;
         top: 0
     }
+
     #page-wrapper {
         backface-visibility: hidden;
         -moz-transition: -moz-transform .5s;
@@ -2252,6 +2448,7 @@ section#intro-section-seo .why-choosetext img.img2 {
         transition: transform .5s;
         padding-bottom: 1px
     }
+
     #titleBar {
         backface-visibility: hidden;
         -moz-transition: -moz-transform .5s;
@@ -2264,6 +2461,7 @@ section#intro-section-seo .why-choosetext img.img2 {
         z-index: 10001;
         background: 0 0
     }
+
     #titleBar .toggle {
         text-decoration: none;
         position: absolute;
@@ -2272,6 +2470,7 @@ section#intro-section-seo .why-choosetext img.img2 {
         width: 60px;
         height: 44px
     }
+
     #titleBar .toggle:before {
         -moz-osx-font-smoothing: grayscale;
         -webkit-font-smoothing: antialiased;
@@ -2300,9 +2499,11 @@ section#intro-section-seo .why-choosetext img.img2 {
         background-color: rgba(92, 95, 103, .5);
         border-radius: .25em
     }
+
     #titleBar .toggle:active:before {
         background-color: rgba(92, 95, 103, .75)
     }
+
     #navPanel {
         -moz-backface-visibility: hidden;
         -webkit-backface-visibility: hidden;
@@ -2324,6 +2525,7 @@ section#intro-section-seo .why-choosetext img.img2 {
         background: url("images/overlay.webp") #242730;
         box-shadow: inset -3px 0 4px 0 rgba(0, 0, 0, .1)
     }
+
     #navPanel .link {
         display: block;
         color: rgba(255, 255, 255, .5);
@@ -2336,32 +2538,40 @@ section#intro-section-seo .why-choosetext img.img2 {
         border-top: 1px solid rgba(255, 255, 255, .05);
         margin: 0 15px
     }
+
     #navPanel .link:first-child {
         border-top: 0
     }
+
     #navPanel .indent-1 {
         display: inline-block;
         width: 1em
     }
+
     #navPanel .indent-2 {
         display: inline-block;
         width: 2em
     }
+
     #navPanel .indent-3 {
         display: inline-block;
         width: 3em
     }
+
     #navPanel .indent-4 {
         display: inline-block;
         width: 4em
     }
+
     #navPanel .indent-5 {
         display: inline-block;
         width: 5em
     }
+
     #navPanel .depth-0 {
         color: #fff
     }
+
     body.navPanel-visible #page-wrapper,
     body.navPanel-visible #titleBar {
         -moz-transform: translateX(275px);
@@ -2369,6 +2579,7 @@ section#intro-section-seo .why-choosetext img.img2 {
         -ms-transform: translateX(275px);
         transform: translateX(275px)
     }
+
     body.navPanel-visible #navPanel {
         -moz-transform: translateX(0);
         -webkit-transform: translateX(0);
@@ -2381,16 +2592,19 @@ section#intro-section-seo .why-choosetext img.img2 {
     .container {
         width: calc(100% - 40px)
     }
+
     .row,
     .row>* {
         box-sizing: border-box
     }
+
     #copyright ul li:first-child,
     .row.gtr-0,
     .row.gtr-0.gtr-uniform,
     ul.actions li:first-child {
         margin-top: 0
     }
+
     .row {
         display: flex;
         flex-wrap: wrap;
@@ -2398,196 +2612,256 @@ section#intro-section-seo .why-choosetext img.img2 {
         margin-top: -30px;
         margin-left: -30px
     }
+
     .row>* {
         padding: 30px 0 0 30px
     }
+
     .row.gtr-uniform>*>:last-child {
         margin-bottom: 0
     }
+
     .row.aln-left {
         justify-content: flex-start
     }
+
     .row.aln-center {
         justify-content: center
     }
+
     .row.aln-right {
         justify-content: flex-end
     }
+
     .row.aln-top {
         align-items: flex-start
     }
+
     .row.aln-middle {
         align-items: center
     }
+
     .row.aln-bottom {
         align-items: flex-end
     }
+
     .row>.imp-small {
         order: -1
     }
+
     .row>.col-1-small {
         width: 8.33333%
     }
+
     .row>.off-1-small {
         margin-left: 8.33333%
     }
+
     .row>.col-2-small {
         width: 16.66667%
     }
+
     .row>.off-2-small {
         margin-left: 16.66667%
     }
+
     .row>.col-3-small {
         width: 25%
     }
+
     .row>.off-3-small {
         margin-left: 25%
     }
+
     .row>.col-4-small {
         width: 33.33333%
     }
+
     .row>.off-4-small {
         margin-left: 33.33333%
     }
+
     .row>.col-5-small {
         width: 41.66667%
     }
+
     .row>.off-5-small {
         margin-left: 41.66667%
     }
+
     .row>.col-6-small {
         width: 50%
     }
+
     .row>.off-6-small {
         margin-left: 50%
     }
+
     .row>.col-7-small {
         width: 58.33333%
     }
+
     .row>.off-7-small {
         margin-left: 58.33333%
     }
+
     .row>.col-8-small {
         width: 66.66667%
     }
+
     .row>.off-8-small {
         margin-left: 66.66667%
     }
+
     .row>.col-9-small {
         width: 75%
     }
+
     .row>.off-9-small {
         margin-left: 75%
     }
+
     .row>.col-10-small {
         width: 83.33333%
     }
+
     .row>.off-10-small {
         margin-left: 83.33333%
     }
+
     .row>.col-11-small {
         width: 91.66667%
     }
+
     .row>.off-11-small {
         margin-left: 91.66667%
     }
+
     .row>.col-12-small {
         width: 100%
     }
+
     .row>.off-12-small {
         margin-left: 100%
     }
+
     .row.gtr-0 {
         margin-left: 0
     }
+
     .row.gtr-0>* {
         padding: 0
     }
+
     .row.gtr-25,
     .row.gtr-25.gtr-uniform {
         margin-top: -7.5px
     }
+
     .row.gtr-0.gtr-uniform>* {
         padding-top: 0
     }
+
     .row.gtr-25 {
         margin-left: -7.5px
     }
+
     .row.gtr-25>* {
         padding: 7.5px 0 0 7.5px
     }
+
     .row.gtr-50,
     .row.gtr-50.gtr-uniform {
         margin-top: -15px
     }
+
     .row.gtr-25.gtr-uniform>* {
         padding-top: 7.5px
     }
+
     .row.gtr-50 {
         margin-left: -15px
     }
+
     .row.gtr-50>* {
         padding: 15px 0 0 15px
     }
+
     .row.gtr-50.gtr-uniform>* {
         padding-top: 15px
     }
+
     .row.gtr-uniform {
         margin-top: -30px
     }
+
     .row.gtr-150,
     .row.gtr-150.gtr-uniform {
         margin-top: -45px
     }
+
     .row.gtr-uniform>* {
         padding-top: 30px
     }
+
     .row.gtr-150 {
         margin-left: -45px
     }
+
     .row.gtr-150>* {
         padding: 45px 0 0 45px
     }
+
     .row.gtr-200,
     .row.gtr-200.gtr-uniform {
         margin-top: -60px
     }
+
     .row.gtr-150.gtr-uniform>* {
         padding-top: 45px
     }
+
     .row.gtr-200 {
         margin-left: -60px
     }
+
     .row.gtr-200>* {
         padding: 60px 0 0 60px
     }
+
     .row.gtr-200.gtr-uniform>* {
         padding-top: 60px
     }
+
     #logo h1,
     #logo p {
         letter-spacing: .2em
     }
+
     #intro,
     #logo {
         text-align: center;
         padding-right: 2em;
         padding-left: 2em
     }
+
     #intro p.style2,
     header.style1 h2 {
         font-size: 1.5em;
         line-height: 1.25em
     }
+
     #copyright,
     #features ul.actions {
         margin-top: 4em
     }
+
     #copyright,
     #footer .feature-list {
         padding-top: 0;
         border-top: 0
     }
+
     body,
     input,
     select,
@@ -2596,6 +2870,7 @@ section#intro-section-seo .why-choosetext img.img2 {
         font-size: 10.5pt;
         letter-spacing: 0
     }
+
     h2,
     h3,
     h4,
@@ -2605,28 +2880,35 @@ section#intro-section-seo .why-choosetext img.img2 {
         /* letter-spacing: .05em; */
         margin: 0 0 1em
     }
+
     hr {
         margin: 1em 0
     }
+
     article,
     section {
         clear: both
     }
+
     header br {
         display: none
     }
+
     header.style1 {
         padding: 0 0 1em
     }
+
     header.style1 h2 {
         letter-spacing: .075em
     }
+
     header.style1 p {
         font-size: 1em;
         letter-spacing: 0;
         display: block;
         margin: 0
     }
+
     .button,
     button,
     input[type=button],
@@ -2638,33 +2920,41 @@ section#intro-section-seo .why-choosetext img.img2 {
         max-width: 30em;
         margin: 0 auto
     }
+
     ul.actions {
         margin: 2em 0 0
     }
+
     ul.actions li {
         margin: 15px 0 0;
         display: block
     }
+
     .feature-list section {
         padding-top: 2em;
         padding-left: 4em
     }
+
     .feature-list h3:before {
         font-size: .9em
     }
+
     .box.post-excerpt .image.left {
         position: relative;
         top: .25em;
         width: 25%;
         margin: 0
     }
+
     .box.post-excerpt h3,
     .box.post-excerpt p {
         margin-left: 32.5%
     }
+
     .wrapper {
         padding: 3em 0 6em
     }
+
     .wrapper .title {
         font-size: .9em;
         width: 18em;
@@ -2675,58 +2965,73 @@ section#intro-section-seo .why-choosetext img.img2 {
         margin-left: -9em;
         padding-top: .5em
     }
+
     .wrapper .title:after,
     .wrapper .title:before {
         height: 15px;
         bottom: -15px;
         background-size: 100% 100%
     }
+
     #header {
         height: 17em
     }
+
     .homepage #header {
         height: 20em
     }
+
     #logo h1 {
         font-size: 1.5em
     }
+
     #logo p {
         margin: 1.25em 0 0;
         display: block;
         font-size: .9em
     }
+
     #intro {
         padding-bottom: 5em;
         margin: 0 auto
     }
+
     #intro p.style1 {
         margin-bottom: 1.5em
     }
+
     #intro p.style2 {
         letter-spacing: .05em;
         padding: 1.25em
     }
+
     #features header.style1 {
         padding-bottom: 4em
     }
+
     #content {
         padding: 0 0 2em
     }
+
     #content header.style1 {
         padding-bottom: 2.5em
     }
+
     #footer {
         padding-bottom: 0
     }
+
     #footer header.style1 {
         padding-bottom: 0;
         margin-bottom: 2em;
         border-bottom: 0
     }
+
     #copyright ul {
         padding: 1em 2em;
         width: 100%
     }
+
     #copyright ul li {
         display: block;
         margin: .5em 0 0;
@@ -2917,6 +3222,7 @@ section#header .custom-industries-section .inner-card h3 {
 .main-inner {
     padding: 2px 0
 }
+
 .main-inner a {
     text-decoration: none;
 }
@@ -3176,6 +3482,7 @@ div#profile-tab-pane6 .gallery-item img {
 .gallery-item img {
     height: 600px;
 }
+
 section#intro-section-content .why-choosetext,
 section#intro-section-home .why-choosetext {
     border-radius: 5px 5px 0 0 !important;
@@ -3561,6 +3868,7 @@ section#what-canwe-about .gallery-container {
     justify-content: space-between;
     margin: 0 auto
 }
+
 section#logoportfolio .gallery-item,
 section#recent-past .gallery-item,
 section#what-canwe-about .gallery-item {
@@ -3573,12 +3881,172 @@ section#what-canwe-about .gallery-item {
 section#recent-past .gallery-item img {
     width: 100%;
     object-fit: cover;
-    height: 450px;
+    height: 360px;
     object-position: top;
     transition: 1s all ease;
 }
+
 section#recent-past .gallery-item img:hover {
     object-position: bottom;
+}
+
+.four-days-image-wrapper img {
+    width: 80%;
+    display: table;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.secure-shopify-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 30px 50px;
+    padding: 20px;
+    text-align: center;
+}
+
+.four-days-image-wrapper {
+    margin: 0 auto;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Anek Tamil, sans-serif !important;
+}
+
+.secure-shopify-card h3,
+.secure-shopify-card h2 {
+    color: black;
+    font-weight: 600;
+}
+
+.secure-shopify-button-wrapper {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.shopify-call-button {
+    background-color: #0073e6;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.shopify-call-button i {
+    margin-right: 8px;
+}
+
+.shopify-spots-available {
+    background-color: #f3f8ff;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #0073e6;
+}
+
+.shopify-cards-image-wrapper img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.get-over-discount-div h5 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.get-over-discount-div h5 span {
+    color: #ff5722;
+    font-weight: bold;
+}
+
+.countdown {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.countdown-box {
+    text-align: center;
+}
+
+.number {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    padding: 13px 34px;
+    background: #f6f6f6;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.secure-shopify-card .label {
+    font-size: 18px;
+    color: black;
+    font-weight: 700;
+    font-family: Anek Tamil, sans-serif;
+}
+
+.special-offer-div h4 {
+    color: black;
+    font-weight: 600;
+}
+
+section#four-days-left {
+    padding: 50px 0px;
+}
+
+.brand-button {
+    margin: 30px auto;
+}
+
+.shopify-season-end-sale h2 {
+    margin-bottom: 20px;
+}
+
+.shopify-card-bottom-card-sec {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+.shopify-bottom-card {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    width: calc(50% - 10px);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.shopify-card-image-wrapper img {
+    max-width: 50px;
+    margin-bottom: 10px;
+}
+
+.shopify-card-content p {
+    font-size: 14px;
+    margin: 0;
+}
+
+.shopify-card-content p span {
+    font-weight: bold;
+    color: #333;
 }
 
 section#logoportfolio .gallery-item img {
@@ -3587,6 +4055,7 @@ section#logoportfolio .gallery-item img {
     height: 100%;
     object-position: 0% 0%;
 }
+
 section#logoportfolio .gallery-item {
     height: auto;
 }
@@ -3719,8 +4188,8 @@ section#testimonials-sections #page .slick-track .testimonial-text {
     text-align: center;
     color: #fff
 }
-p.website-abouttext
-{
+
+p.website-abouttext {
     color: #fff
 }
 
@@ -3794,10 +4263,11 @@ form#contact {
     list-style: none !important
 }
 
-.contact-div ul.nav-menu-links i{
+.contact-div ul.nav-menu-links i {
     margin-right: 20px;
     font-size: 25px;
 }
+
 section#logoprocess-inner .seo-innerrows .choose-seo-orderlist ul li img {
     margin-right: 10px
 }
@@ -4044,11 +4514,13 @@ footer#main-footer-sections {
     padding: 60px 0 0;
     background: #00000091
 }
+
 .social-links i {
     color: white;
     margin-left: 10px;
     font-size: 20px;
 }
+
 .social-links a {
     text-decoration: none;
 }
@@ -4479,7 +4951,7 @@ section#call-toaction-section .about-banner-buttons .brand-button {
     display: flex;
     justify-content: center;
     align-items: center;
-    color:white;
+    color: white;
     font-weight: 500;
 }
 
@@ -4635,10 +5107,12 @@ section#services-solutions .tabsinner-sec-sol h6 a {
     .gallery-container {
         width: 100%
     }
+
     .gallery-item {
         flex-basis: 49.80%;
         margin-bottom: 3px
     }
+
     .lightbox-content {
         width: 80%;
         height: 60%;
@@ -4651,6 +5125,7 @@ section#services-solutions .tabsinner-sec-sol h6 a {
         flex-basis: 100%;
         margin-bottom: 1px
     }
+
     .lightbox-content {
         width: 90%;
         margin: 20% auto
@@ -4661,6 +5136,7 @@ section#services-solutions .tabsinner-sec-sol h6 a {
     0% {
         transform: translateY(0)
     }
+
     100% {
         transform: translateY(-10px)
     }
@@ -4670,26 +5146,31 @@ section#services-solutions .tabsinner-sec-sol h6 a {
     0% {
         transform: translateY(0)
     }
+
     100% {
         transform: translateY(-10px)
     }
 }
 
 @keyframes pulse {
+
     0%,
     100% {
         opacity: 0
     }
+
     50% {
         opacity: 1
     }
 }
 
 @-webkit-keyframes pulse {
+
     0%,
     100% {
         opacity: 0
     }
+
     50% {
         opacity: 1
     }
@@ -5143,6 +5624,7 @@ section#logo-about-us2 h1 {
     width: 80px !important;
     margin-bottom: 20px
 }
+
 section#logoprocess-inner img {
     filter: hue-rotate(95deg);
 }
@@ -6020,6 +6502,7 @@ span.close {
     top: 0;
     cursor: pointer
 }
+
 .center2 button.slick-prev.slick-arrow {
     background-image: url(../../images/leftarrow.webp);
     background-size: 100% 100%;
@@ -6029,6 +6512,7 @@ span.close {
     left: 0px;
     top: 130px;
 }
+
 .center2 button.slick-next.slick-arrow {
     background-image: url(../../images/rightarrow.webp);
     background-size: 100% 100%;
@@ -6039,6 +6523,7 @@ span.close {
     top: 130px;
 
 }
+
 .center3 button.slick-next.slick-arrow {
     background-image: url(../../images/rightarrow.webp);
     background-size: 100% 100%;
@@ -6049,7 +6534,8 @@ span.close {
     top: 130px;
 
 }
-.center3 button.slick-prev.slick-arrow{
+
+.center3 button.slick-prev.slick-arrow {
     background-image: url(../../images/leftarrow.webp);
     background-size: 100% 100%;
     padding: 30px;
@@ -6058,6 +6544,7 @@ span.close {
     left: 0px;
     top: 130px;
 }
+
 form.innerpagescalltoaction button.btn.btn-primary {
     width: 100%;
     color: #fff;
@@ -6069,145 +6556,217 @@ form.innerpagescalltoaction button.btn.btn-primary {
     font-weight: 400;
     border: 0
 }
-
+@media only screen and (max-width:1024px){
+    .number {
+        font-size: 24px;
+        padding: 13px 23px;
+    }
+    .secure-shopify-card{
+        margin: 30px 0px;
+    }
+    .four-days-image-wrapper img{
+        width: 100%;
+    }
+}
 @media only screen and (max-width:800px) {
+    section#four-days-left .row{
+    flex-direction: column-reverse;
+    margin: 0 auto;
+    }
+    .four-days-image-wrapper img{
+        width: 80%;
+    }
+    .secure-shopify-card {
+        margin: 30px 70px;
+    }
+    
     div#titleBar,
     section#top-header {
         display: none
     }
+
     nav button.navbar-toggler {
         height: 50px !important;
         background: #fff;
         min-width: auto;
         max-width: fit-content
     }
+
     h1.fade-in-up {
         font-size: 40px
     }
+
     section#what-can-we ul#myTab {
         gap: 20px
     }
 }
 
 @media only screen and (max-width:480px) {
+    .secure-shopify-card {
+        margin: 30px 0px;
+    }
+    .four-days-image-wrapper img {
+        width: 100%;
+        display: table;
+        margin: 0 auto;
+    }
     .concept-item h2 {
         display: none;
-    }    
-    section#logoportfolio .gallery-item, section#recent-past .gallery-item, section#what-canwe-about .gallery-item {
+    }
+    .number {
+        font-size: 24px;
+        padding: 13px 18px;
+    }
+    section#four-days-left{
+        padding: 30px 0px;
+    }
+
+    section#logoportfolio .gallery-item,
+    section#recent-past .gallery-item,
+    section#what-canwe-about .gallery-item {
         flex-basis: 49%;
     }
+
     .center3 button.slick-prev.slick-arrow {
         left: 100px;
         top: unset;
         bottom: -70px
     }
+
     .center3 button.slick-next.slick-arrow {
         right: 100px;
         top: unset;
         bottom: -70px;
     }
-    .res-row{
-    flex-direction: column-reverse;
+
+    .res-row {
+        flex-direction: column-reverse;
     }
+
     .center2 button.slick-next.slick-arrow {
         right: 100px;
         top: unset !important;
         bottom: -100px;
     }
+
     .center2 button.slick-prev.slick-arrow {
         left: 100px;
         top: unset !important;
         bottom: -100px;
     }
+
     section#intro-section .center2 .why-choosetext {
         height: auto;
     }
-     section#intro-section .center2 .why-choosetext p {
+
+    section#intro-section .center2 .why-choosetext p {
         height: 230px;
         overflow: overlay;
     }
+
     section#price-plans-section-1 .center.slick-initialized.slick-slider button.slick-prev.slick-arrow {
         left: 80px !important;
         top: unset !important;
         bottom: -90px !important;
     }
+
     section#price-plans-section-1 .center.slick-initialized.slick-slider button.slick-next.slick-arrow {
         right: 80px !important;
         top: unset !important;
         bottom: -90px !important;
     }
+
     section#intro-section-logo-design .why-choosetext {
         height: 470px;
     }
+
     section#industries-we-conquered button.slick-next.slick-arrow {
         right: 80px !important;
         top: unset !important;
         bottom: -55px;
     }
-    .center.slick-initialized.slick-slider button.slick-prev.slick-arrow, section#industries-we-conquered button.slick-prev.slick-arrow {
+
+    .center.slick-initialized.slick-slider button.slick-prev.slick-arrow,
+    section#industries-we-conquered button.slick-prev.slick-arrow {
         left: 80px !important;
         top: unset !important;
         bottom: -55px !important;
     }
+
     section#price-plans-section .center.slick-initialized.slick-slider button.slick-prev.slick-arrow {
         left: 80px !important;
         top: unset !important;
         bottom: -90px !important;
     }
+
     section#price-plans-section .center.slick-initialized.slick-slider button.slick-next.slick-arrow {
         right: 80px !important;
         top: unset !important;
         bottom: -90px !important;
     }
+
     .center2 .why-choosetext p {
         height: 205px;
         overflow: auto;
     }
+
     .center.slick-initialized.slick-slider button.slick-prev.slick-arrow {
         left: 80px !important;
         top: unset !important;
         bottom: -50px !important;
     }
+
     .center.slick-initialized.slick-slider button.slick-next.slick-arrow {
         right: 80px !important;
         top: unset !important;
         bottom: -50px !important;
     }
+
     .custom-industries-section .row {
         margin-top: 150px !important;
         margin: 0 auto;
     }
+
     section#logoprocess-inner img {
         display: table;
         margin: auto;
     }
+
     .about-banner-buttons.animate__animated.animate__bounce {
-        justify-content: center;    
+        justify-content: center;
     }
+
     section#hero-section {
         padding: 60px 0 0;
     }
+
     video#bgvid {
         height: 60vh;
     }
+
     section#hero-section:after {
         height: 60%;
     }
+
     .custom-industries-section .inner-card {
         height: 170px;
         padding: 30px 0 20px 0;
     }
+
     .industry-image {
-        width: 70px;       
-         height: 60px;
+        width: 70px;
+        height: 60px;
     }
+
     .inner-card.card-with h3 {
         font-size: 15px !important;
         line-height: 25px !important;
     }
+
     .custom-industries-section .col-md-2 {
         width: 50%;
     }
+
     .about-banner-buttons ul,
     .featureimage,
     div#quoteModal form,
@@ -6217,6 +6776,7 @@ form.innerpagescalltoaction button.btn.btn-primary {
     p {
         text-align: center !important
     }
+
     /* .custom-industries-section, */
     .first-inner-section-text h1 img.greenline,
     .scroll-image,
@@ -6239,156 +6799,198 @@ form.innerpagescalltoaction button.btn.btn-primary {
     section#what-can-we {
         display: none
     }
+
     section#logo-contact-form {
         padding: 30px 0px !important;
     }
+
     section#logo-contact-form .contact-inner {
         padding: 40px 0px;
         width: -webkit-fill-available;
     }
+
     section#logo-about-us ol li p {
         text-align: left !important;
     }
-    section#logo-about-us p.text-1{
+
+    section#logo-about-us p.text-1 {
         text-align: left !important;
     }
+
     section#logo-contact-form .logo-conactfomrinner {
         position: static;
         width: -webkit-fill-available;
     }
+
     section#content-creation ul,
     section#intro-section-logo-design .row,
     section#payperclick-about .row,
     section#why-choose-us .row {
         margin: 0 auto
     }
+
     section#logo-about-us2,
     section#mobileapp-details {
         padding: 10px 0 !important
     }
+
     .service-logosection .row,
     section#mobileapp-details .row {
         margin: auto
     }
+
     section#about-us-main-section,
     section#payperclick-about {
         padding: 50px 0 !important
     }
-    section#milestone-section{
+
+    section#milestone-section {
         padding: 0px !important;
     }
+
     .be-spoke-card {
         gap: 10px
     }
+
     section#intro-section-1,
     section#some-best-feature .featured-box-video {
         padding: 30px 0
     }
+
     .logo-steps h2 span {
         bottom: 9px;
         margin-left: -1px
     }
+
     section#logo-about-us img {
         height: 100% !important;
         width: 100% !important
     }
+
     form#contact,
     section#intro-section h3 {
         padding: 10px !important
     }
+
     footer#main-footer-sections .copyright-section {
         padding: 12px 0
     }
+
     section#price-plans-section-1 .nav-tabs .nav-link {
         padding: 10px
     }
+
     section#price-plans-section-1 ul#myTab {
         width: 90%
     }
+
     #myTabContent,
     section#price-plans-section-1 .tab-pane {
         margin-top: 20px
     }
+
     div#quoteModal input.form-control,
     div#quoteModal textarea {
         padding: 10px 14px !important
     }
+
     div#quoteModal button.btn.btn-primary {
         width: 70%
     }
-    .brand-button h6{
-        padding: 10px 0px ;
+
+    .brand-button h6 {
+        padding: 10px 0px;
     }
+
     section#intro-section-home .inner-section,
     section#price-plans-section .price-heading-text {
         padding: 30px 0
     }
+
     .image-trustpilot img {
         width: 40% !important;
         height: auto !important
     }
+
     .tab-pane .collapse:not(.show),
     section#logoportfolio .collapse:not(.show) {
         display: block !important
     }
+
     h1 {
         font-size: 30px !important;
         line-height: 40px !important
     }
+
     h2 {
         font-size: 21px !important;
         line-height: 30px !important
     }
+
     h3 {
         font-size: 23px !important;
         line-height: 33px !important
     }
+
     h4 {
         font-size: 21px !important;
         line-height: 31px !important
     }
+
     h5 {
         font-size: 19px !important;
         line-height: 29px !important
     }
+
     h6 {
         font-size: 17px !important;
         line-height: 27px !important
     }
+
     p {
         font-size: 15px !important;
         line-height: 25px !important
     }
+
     h1 br {
         display: none !important
     }
+
     section#testimonials-sections .testimonial-quote {
         right: 300px
     }
+
     .concept-section {
         padding: 20px 40px !important;
     }
+
     section#intro-section-home .why-choosetext {
         height: 360px !important
     }
+
     section#milestone-section .mile-function-code,
     section#price-plans-section-1 {
         padding: 40px 0 !important
-    }   
-    section#testimonials-sections{
+    }
+
+    section#testimonials-sections {
         padding: 10px 0px !important;
     }
+
     .brand-button {
         margin-bottom: 10px
     }
+
     section#intro-section-home .inner-section h1 {
         padding: 0 !important
     }
+
     section#intro-section-home h3 {
         color: #fff;
         padding: 0;
         margin: 0
     }
+
     section#recent-past ul#myTab {
         display: flex !important;
         gap: 0 !important;
@@ -6398,41 +7000,50 @@ form.innerpagescalltoaction button.btn.btn-primary {
         text-align: center;
         justify-content: space-around
     }
+
     section#recent-past .nav-tabs .nav-link {
         padding: 20px 15px !important
     }
+
     section#recent-past .gallery-item {
         flex-basis: 49%;
         padding: 0 4px
     }
+
     section#recent-past .gallery-item img {
         object-fit: cover;
         height: auto;
     }
+
     section#recent-past .gallery-container {
         display: flex;
         justify-content: space-between;
         flex-wrap: wrap;
         margin: 0 auto
     }
+
     div#quoteModal .modal-content {
         width: 100% !important;
         margin: 0 auto !important;
         top: 16px !important;
         padding: 30px 20px !important
     }
+
     .choose-card-text p {
         height: 175px
     }
+
     .choose-card-text h3 {
         font-size: 26px;
         line-height: 30px
     }
+
     .logoabout-text h2.heading-text-h3,
     section#logo-about-us h2.logoabout-text-h2 {
         font-size: 25px;
         line-height: 30px
     }
+
     .heading-text h1,
     section#grow-brand h1,
     section#intro-section h1,
@@ -6442,114 +7053,142 @@ form.innerpagescalltoaction button.btn.btn-primary {
         font-size: 30px;
         line-height: 35px
     }
+
     a.navbar-brand img {
         height: 50px
     }
+
     .contact_icon {
         width: 50px;
         height: 50px;
         transform: translateX(-50px)
     }
+
     section#hero-section p {
         padding-top: 10px !important
     }
+
     #basicAccordion,
     .brand-portfolio .card {
         padding: 0
     }
+
     section#what-can-we .accordion-item {
         padding: 30px 10px
     }
+
     .lightbox-content img {
         width: 100%;
         top: -40px
     }
+
     section#portfolio-sec .portofliosec img {
         position: unset;
         width: 100%
     }
+
     section#portfolio-sec .text-center {
         display: flex;
         width: 33%
     }
+
     .brand-button h6 a {
         padding: 10px 23px;
         font-size: 15px
     }
+
     .industries-text {
         left: -100px !important
     }
+
     section#testimonials-sections .slider.slider-nav.slick-initialized.slick-slider {
         margin: 10px 0
     }
+
     section#industries-we-conquered,
     section#logo-about-us,
     section#logoportfolio,
     section#price-plans-section {
         padding: 55px 0 !important
     }
+
     section#price-plans-section .price-inner-plan,
     section#price-plans-section-1 .price-inner-plan {
         padding: 20px
     }
+
     section#testimonials-sections .slick-slide img {
         width: 80px
     }
+
     section#testimonials-sections .slider.slider-single {
         margin: 40px 0;
         padding: 15px 10px
     }
+
     section#faqs button.accordion-button.collapsed {
         font-size: 16px;
         line-height: 21px;
         padding: 40px
     }
+
     section#contact-us .custom-form-sec {
         margin: 0
     }
+
     section#contact-us {
         padding: 30px 0 40px !important
     }
+
     section#faqs .accordion-button:not(.collapsed) {
         font-size: 16px;
         padding: 70px 20px;
         line-height: 25px
     }
+
     .heading-text {
         padding-bottom: 10px !important;
         padding: 0 10px
     }
+
     section#grow-brand,
     section#intro-section,
     section#intro-section-logo-design,
     section#recent-past {
         padding: 40px 0
     }
+
     section#grow-brand .brand-button {
         margin-top: 60px
     }
+
     section#grow-brand .brand-portfolio button.slick-prev.slick-arrow {
         top: unset !important;
         left: 80px;
         bottom: -100px;
     }
+
     section#grow-brand .brand-portfolio button.slick-next.slick-arrow {
         top: unset !important;
         right: 80px;
         bottom: -100px;
     }
+
     .custom-portoflio-button ul,
     .footer-nav-1 {
         padding-left: 0 !important
     }
+
     .heading-text p,
     .row-text h1 {
         padding-bottom: 0 !important
     }
+
     section#intro-section h3 {
         font-size: 19px;
         line-height: 13.8%
     }
+
     .heading-text h3 {
         font-family: 'Anek Tamil';
         font-style: normal;
@@ -6558,6 +7197,7 @@ form.innerpagescalltoaction button.btn.btn-primary {
         font-size: 22px;
         line-height: 30px
     }
+
     section#about-sec,
     section#animation-sec,
     section#branding-sec,
@@ -6575,98 +7215,123 @@ form.innerpagescalltoaction button.btn.btn-primary {
         background-size: cover;
         padding: 20px 10px
     }
+
     .about-banner-buttons .brand-button h6 a {
         padding: 12px 24px
     }
+
     section#logoprocess-inner button.accordion-button.collapsed {
         font-size: 15px;
         line-height: 20px;
         padding: 40px 20px !important
     }
+
     .concept-item {
         width: 100% !important
     }
+
     .my-connect-inner {
         padding: 60px 10px 50px
     }
+
     .gallery-about-section,
     .service-logosection {
         padding-top: 20px !important
     }
+
     .about-banner-buttons ul {
         padding-left: 0
     }
+
     section#milestone-section .text-mile-area .heading-text h1 b {
         font-size: 45px;
         line-height: 55px
     }
+
     section#milestone-section .mision-vision .mis-vis {
         padding: 30px 20px
     }
+
     section#what-canwe-about .gallery-about-section h6 {
         font-size: 77px;
         line-height: 30px
     }
+
     footer#main-footer-sections .footer-payment-section .payment-inner img {
         float: unset;
         width: 100%
     }
+
     .copyright-section .social-links {
         text-align: left
     }
+
     .service-logosection {
         padding-left: 0 !important;
         padding-right: 0 !important
     }
+
     .log-quote-form form#contact {
         padding: 50px 40px;
         border: 4px solid #27d5fc;
         margin: 0
     }
+
     section#logoprocess-inner .processinner-text h2 {
         font-size: 32px;
         line-height: 42px
     }
+
     section#logo-about-us .logoabout-text h1 {
         font-size: 30px !important;
         line-height: 35px
     }
+
     .features-text h1,
     .service-logosection .first-inner-section-text h1 {
         font-size: 30px !important;
         line-height: 35px !important
     }
+
     section#payperclick-about h1 {
         font-size: 30px;
         line-height: 30px
     }
+
     section#logoportfolio ul#myTab li {
         padding-left: 5px;
         padding-right: 5px;
         margin-bottom: 10px
     }
+
     button.tablinks {
         margin-bottom: 5px !important
     }
+
     section#tecnology-stack ul.row {
         margin: auto !important
     }
+
     section#intro-section-content .why-choosetext {
         height: 400px
     }
+
     section#price-plans-section ul#myTab {
         width: 100%;
         display: flex !important;
         flex-wrap: wrap;
         gap: 0px 40px;
     }
-    section#price-plans-section .nav-tabs .nav-link{
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-}
+
+    section#price-plans-section .nav-tabs .nav-link {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
     section#logo-about-us .mobile h6 {
         font-size: 57px
     }
+
     section#readysolve-video .container {
         padding: 60px 20px
     }
@@ -6678,9 +7343,10 @@ form.innerpagescalltoaction button.btn.btn-primary {
 }
 
 .inner-card.card-with h3 {
-    font-size: 17px; 
+    font-size: 17px;
     color: #fff
 }
+
 .custom-industries-section .col-md-2 a {
     text-decoration: none;
 }
@@ -6810,6 +7476,7 @@ section#industries-we-conquered .slick-slide img {
 .concept-e {
     background-color: #3e3e3e
 }
+
 .concept-t h2 {
     font-size: 60px;
     margin-right: 20px;
@@ -6928,6 +7595,7 @@ section#tecnology-stack {
 .price-inner-plan h2 {
     font-size: 20px
 }
+
 section#founder {
     color: white;
 }
@@ -6935,9 +7603,11 @@ section#founder {
 .founder-content {
     text-align: center;
 }
+
 .founder-content h2 {
     color: white;
 }
+
 .founder-content h2 b {
     background: linear-gradient(98.46deg, #27d6fc 3.81%, #7d5ce0 101.52%);
     -webkit-text-fill-color: transparent;
@@ -6951,16 +7621,19 @@ section#founder {
     object-fit: cover;
     border-radius: 50%;
 }
+
 section#founder h2 {
     color: white;
     font-size: 50px;
     text-transform: capitalize;
 }
+
 section#founder h2 b {
     background: linear-gradient(98.46deg, #27d6fc 3.81%, #7d5ce0 101.52%);
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
+
 .social-links-2 ul li i {
     color: white;
     margin-left: 10px;

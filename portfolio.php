@@ -119,16 +119,16 @@
           data-bs-parent="#myTabContent">
           <div class="gallery-container">
             <div class="gallery-item" data-index="5">
-              <img src="images/Logodesign/portfolio/logo1.webp">
+              <img src="./images/blizz-logo-4.png">
             </div>
             <div class="gallery-item" data-index="6">
-              <img src="images/Logodesign/portfolio/logo2.webp">
+              <img src="./images/blizz-logo-full-4.png">
             </div>
             <div class="gallery-item" data-index="7">
-              <img src="images/Logodesign/portfolio/logo3.webp">
+              <img src="./images/blizz-logo-5.jpg">
             </div>
             <div class="gallery-item" data-index="8">
-              <img src="images/Logodesign/portfolio/logo4.webp">
+              <img src="images/blizz-logo-full-7.png">
             </div>
 
           </div>

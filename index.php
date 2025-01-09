@@ -388,14 +388,14 @@
                                         </div>
                                         <div class="col-3 col-12-medium">
                                             <div class=logo-images>
-                                                <img src=./images/Boiler-Room-pens-2.webp>
-                                                <img src=./images/Chic-Color-07.webp>
+                                                <img src="./images/blizz-logo-1.png">
+                                                <img src="./images/blizz-logo-2.jpg">
                                             </div>
                                         </div>
                                         <div class="col-3 col-12-medium">
                                             <div class=logo-images>
-                                                <img src=./images/Skin-N-Bones-04.webp>
-                                                <img src=./images/04.webp>
+                                                <img src="./images/blizz-logo-3.jpg">
+                                                <img src="./images/blizz-logo-4.png">
                                             </div>
                                         </div>
                                     </div>
@@ -705,16 +705,16 @@
                 <div id=collapseTwo class="accordion-collapse collapse d-lg-block" aria-labelledby=headingTwo data-bs-parent=#myTabContent>
                     <div class=gallery-container>
                         <div class=gallery-item data-index=5>
-                            <img src=images/Logodesign/portfolio/logo1.webp>
+                            <img src="./images/blizz-logo-full-1.jpg">
                         </div>
                         <div class=gallery-item data-index=6>
-                            <img src=images/Logodesign/portfolio/logo2.webp>
+                            <img src="./images/blizz-logo-full-2.jpg">
                         </div>
                         <div class=gallery-item data-index=7>
-                            <img src=images/Logodesign/portfolio/logo3.webp>
+                            <img src="./images/blizz-logo-full-3.jpg">
                         </div>
                         <div class=gallery-item data-index=8>
-                            <img src=images/Logodesign/portfolio/logo4.webp>
+                            <img src="./images/blizz-logo-full-4.png">
                         </div>
                     </div>
                 </div>

@@ -733,6 +733,31 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 </script>
+<script>
+    const targetDate = new Date().getTime() + 4 * 24 * 60 * 60 * 1000; // 4 days from now
+
+    function updateCountdown() {
+        const now = new Date().getTime();
+        const timeLeft = targetDate - now;
+
+        if (timeLeft > 0) {
+            const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+
+            document.getElementById("days").textContent = days;
+            document.getElementById("hours").textContent = hours.toString().padStart(2, "0");
+            document.getElementById("minutes").textContent = minutes.toString().padStart(2, "0");
+            document.getElementById("seconds").textContent = seconds.toString().padStart(2, "0");
+        } else {
+            clearInterval(countdownInterval);
+            document.getElementById("countdown").innerHTML = "<p>Time's Up!</p>";
+        }
+    }
+
+    const countdownInterval = setInterval(updateCountdown, 1000);
+</script>
 <!-- Meta Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s)
