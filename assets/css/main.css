@@ -1292,7 +1292,8 @@ section#hero-section p {
 }
 
 section#hero-section {
-    padding: 10px 0 0
+    padding: 10px 0 0;
+    margin-bottom: 150px;
 }
 
 #logo {

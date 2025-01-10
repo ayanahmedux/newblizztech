@@ -100,6 +100,56 @@
                 <source src=./video/blizz-vdeo.mp4 type=video/mp4>
             </video>
         </section>
+        <!-- LOGO ABOUT US START -->
+		<section id="four-days-left">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="four-days-image-wrapper">
+							<div class="secure-shopify-card">
+								<div class="shopify-season-end-sale">
+									<h3>Season Big Sale</h3>
+									<h2>Up to 50% OFF</h2>
+								</div>
+								<div class="get-over-discount-div">
+									<div class="countdown" id="countdown">
+										<div class="countdown-box">
+											<div class="number" id="days">00</div>
+											<div class="label">Days</div>
+										</div>
+										<div class="countdown-box">
+											<div class="number" id="hours">00</div>
+											<div class="label">Hours</div>
+										</div>
+										<div class="countdown-box">
+											<div class="number" id="minutes">00</div>
+											<div class="label">Minutes</div>
+										</div>
+										<div class="countdown-box">
+											<div class="number" id="seconds">00</div>
+											<div class="label">Seconds</div>
+										</div>
+									</div>
+								</div>
+								<div class="brand-button">
+									<h6><a href="javascript:;" class="quote-button">Get Offer Now</a></h6>
+								</div>
+								<div class="special-offer-div">
+									<h4>Special offer until January 2025</h4>
+								</div>
+							</div>
+
+							hello
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="four-days-image-wrapper">
+							<img src="./images/threedays-image.png" alt="">
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
         <section id=intro-section-home>
             <div class=container>
                 <div class=row style="margin:0 auto">

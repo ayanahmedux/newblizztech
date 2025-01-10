@@ -112,7 +112,7 @@
 					</div>
 					<div class="col-lg-6">
 						<div class="four-days-image-wrapper">
-							<img src="./images/blizz-four-days-image.png" alt="">
+							<img src="./images/threedays-image.png" alt="">
 						</div>
 					</div>
 				</div>

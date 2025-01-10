@@ -734,7 +734,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 </script>
 <script>
-    const targetDate = new Date().getTime() + 4 * 24 * 60 * 60 * 1000; // 4 days from now
+    const targetDate = new Date().getTime() + 3 * 24 * 60 * 60 * 1000; // 4 days from now
 
     function updateCountdown() {
         const now = new Date().getTime();
