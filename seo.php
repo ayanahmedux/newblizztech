@@ -522,32 +522,6 @@
 							</div>
 							<div class="col-4 col-12-medium">
 								<div class="price-inner-plan">
-									<h2 class="text-center">Startup Plan</h2>
-									<div class="price-heading-text">
-										<h2>Quarterly Plan</h2>
-										<h4>$750</h4>
-									</div>
-									<div class="price-list">
-										<ul>
-											<li>Features: 10 Keywords</li>
-											<li>Prior Analysis</li>
-											<li>Pages Keyword Targeted: 5 Pages</li>
-											<li>Web Page Optimization</li>
-											<li>On Page Optimization</li>
-											<li>Meta Data</li>
-											<li>Off Page Optimization</li>
-											<li>Content Creation</li>
-											<li>Guest Bloging: 06 Per Month</li>
-											<li>Web 2.0</li>
-											<li>Bussiness Listing</li>
-										</ul>
-
-									</div>
-
-								</div>
-							</div>
-							<div class="col-4 col-12-medium">
-								<div class="price-inner-plan">
 									<h2 class="text-center">
 										Scaling Plan
 									</h2>
@@ -577,8 +551,7 @@
 
 								</div>
 							</div>
-							<div class="row mt-5">
-								<div class="col-4 col-12-medium">
+							<div class="col-4 col-12-medium">
 									<div class="price-inner-plan">
 										<h2 class="text-center">
 											Venture Plan
@@ -609,6 +582,8 @@
 
 									</div>
 								</div>
+							<div class="row mt-5">
+								
 								<div class="col-4 col-12-medium">
 									<div class="price-inner-plan">
 										<h2 class="text-center">
@@ -667,7 +642,7 @@
 
 									</div>
 								</div>
-								<div class="col-4 col-12-medium mt-5">
+								<div class="col-4 col-12-medium">
 									<div class="price-inner-plan">
 										<h2 class="text-center">
 											Venture Plan
