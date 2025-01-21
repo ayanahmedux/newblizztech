@@ -26,7 +26,7 @@
 									Our experienced copywriters know exactly how to tell your
 									brand story so that it attracts your customers the right
 									way. Furthermore, all the digital content creators and
-									copywriters at Red Feather are well versed with SEO and
+									copywriters at  Blizztech Solutions are well versed with SEO and
 									know how to make the content of your website and social
 									media pages highly engaging for the targeted audience
 								</p>
