@@ -43,10 +43,6 @@
 			</div>
 			<!-- END LOGO FIRST SECTION -->
 		</section>
-
-
-
-
 		<!-- LOGO CONTACT FORM START -->
 		<section id="logo-contact-form" style="padding: 210px 0px;">
 			<div class="container">

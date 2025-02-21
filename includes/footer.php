@@ -361,417 +361,770 @@ if (isset($_POST['submit'])) {
   // Get the element with id="defaultOpen" and click on it
   document.getElementById("defaultOpen").click();
 </script>
-<script>
-  $('.center').slick({
-    centerMode: false,
-    slidesToShow: 3,
-    arrows:true,
-    autoplay:true,
-    speed:1000,
-    responsive: [{
-        breakpoint: 768,
-        settings: {
-          arrows: false,
-          centerMode: false,
-          centerPadding: '40px',
-          slidesToShow: 3
+<!-- <script>
+  $(document).ready(function() {
+    function initializeSlick() {
+      $('.center').not('.slick-initialized').slick({
+        centerMode: false,
+        slidesToShow: 3,
+        arrows: true,
+        autoplay: true,
+        speed: 1000,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+              arrows: false,
+              centerMode: false,
+              centerPadding: '40px',
+              slidesToShow: 3
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              arrows: true,
+              centerMode: false,
+              centerPadding: '40px',
+              slidesToShow: 1
+            }
+          }
+        ]
+      });
+    }
+
+    initializeSlick(); // Pehli dafa slider initialize karein
+
+    // Form Submit using AJAX
+    $("#contact").submit(function(event) {
+      event.preventDefault(); // Page reload hone se rokne ke liye
+
+      var formData = $(this).serialize(); // Form data lein
+
+      $.ajax({
+        type: "POST",
+        url: $(this).attr("action"), // Form action URL
+        data: formData,
+        success: function(response) {
+          alert("Form successfully submitted!"); // Success message
+          $("#contact")[0].reset(); // Form clear karein
+
+          // Reinitialize Slick after form submission
+          $(".center").slick("unslick"); // Purani slider destroy karein
+          initializeSlick(); // Dobara initialize karein
+        },
+        error: function() {
+          alert("Something went wrong!");
         }
-      },
-      {
-        breakpoint: 480,
-        settings: {
-          arrows: true,
-          centerMode: false,
-          centerPadding: '40px',
-          slidesToShow: 1
-        }
-      }
-    ]
+      });
+    });
   });
 </script>
 <script>
-  $('.center2').slick({
-    centerMode: false,
-    slidesToShow: 4,
-    arrows:true,
-    responsive: [{
-        breakpoint: 768,
-        settings: {
-          arrows: false,
-          centerMode: false,
-          centerPadding: '40px',
-          slidesToShow: 3
+  $(document).ready(function() {
+    function initializeSlick() {
+      $('.center').not('.slick-initialized').slick({
+        centerMode: false,
+        slidesToShow: 3,
+        arrows: true,
+        autoplay: true,
+        speed: 1000,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+              arrows: false,
+              centerMode: false,
+              centerPadding: '40px',
+              slidesToShow: 3
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              arrows: true,
+              centerMode: false,
+              centerPadding: '40px',
+              slidesToShow: 1
+            }
+          }
+        ]
+      });
+    }
+
+    function initializeCenter2() {
+      $('.center2').not('.slick-initialized').slick({
+        centerMode: false,
+        slidesToShow: 4,
+        arrows: true,
+        autoplay: true,
+        speed: 1000,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+              arrows: false,
+              centerMode: false,
+              centerPadding: '40px',
+              slidesToShow: 3
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              arrows: true,
+              centerMode: false,
+              centerPadding: '40px',
+              slidesToShow: 1
+            }
+          }
+        ]
+      });
+    }
+
+    initializeSlick(); // Pehli dafa initialize karein
+    initializeCenter2(); // Center2 bhi initialize karein
+
+    // Form Submit using AJAX
+    $("#contact").submit(function(event) {
+      event.preventDefault(); // Page reload hone se rokne ke liye
+
+      var formData = $(this).serialize(); // Form data lein
+
+      $.ajax({
+        type: "POST",
+        url: $(this).attr("action"), // Form action URL
+        data: formData,
+        success: function(response) {
+          alert("Form successfully submitted!"); // Success message
+          $("#contact")[0].reset(); // Form clear karein
+
+          // Reinitialize only .center2 slider after form submission
+          $(".center2").slick("unslick"); // Purani slider destroy karein
+          initializeCenter2(); // Dobara initialize karein
+        },
+        error: function() {
+          alert("Something went wrong!");
         }
-      },
-      {
-        breakpoint: 480,
-        settings: {
-          arrows: true,
-          centerMode: false,
-          centerPadding: '40px',
-          slidesToShow: 1
-        }
-      }
-    ]
+      });
+    });
   });
 </script>
 <script>
-  $('.center3').slick({
-    centerMode: false,
-    slidesToShow: 4,
-    arrows:true,
-    responsive: [{
-        breakpoint: 768,
-        settings: {
-          arrows: false,
-          centerMode: false,
-          centerPadding: '40px',
-          slidesToShow: 3
+  $(document).ready(function() {
+    function initializeSlick() {
+      $('.center, .center2').not('.slick-initialized').slick({
+        centerMode: false,
+        slidesToShow: function() {
+          return $(this).hasClass("center") ? 3 : 4;
+        },
+        arrows: true,
+        autoplay: true,
+        speed: 1000,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+              arrows: false,
+              centerMode: false,
+              centerPadding: '40px',
+              slidesToShow: 3
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              arrows: true,
+              centerMode: false,
+              centerPadding: '40px',
+              slidesToShow: 1
+            }
+          }
+        ]
+      });
+    }
+
+    function initializeCenter3() {
+      $('.center3').not('.slick-initialized').slick({
+        centerMode: false,
+        slidesToShow: 4,
+        arrows: true,
+        autoplay: true,
+        speed: 1000,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+              arrows: false,
+              centerMode: false,
+              centerPadding: '40px',
+              slidesToShow: 3
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              arrows: true,
+              centerMode: false,
+              centerPadding: '40px',
+              slidesToShow: 1
+            }
+          }
+        ]
+      });
+    }
+
+    initializeSlick(); // Pehli dafa initialize karein
+    initializeCenter3(); // Center3 bhi initialize karein
+
+    // Form Submit using AJAX
+    $("#contact").submit(function(event) {
+      event.preventDefault(); // Page reload hone se rokne ke liye
+
+      var formData = $(this).serialize(); // Form data lein
+
+      $.ajax({
+        type: "POST",
+        url: $(this).attr("action"), // Form action URL
+        data: formData,
+        success: function(response) {
+          alert("Form successfully submitted!"); // Success message
+          $("#contact")[0].reset(); // Form clear karein
+
+          // Reinitialize only .center3 slider after form submission
+          $(".center3").slick("unslick"); // Purani slider destroy karein
+          initializeCenter3(); // Dobara initialize karein
+        },
+        error: function() {
+          alert("Something went wrong!");
         }
-      },
-      {
-        breakpoint: 480,
-        settings: {
-          arrows: true,
-          centerMode: false,
-          centerPadding: '40px',
-          slidesToShow: 1
-        }
-      }
-    ]
+      });
+    });
   });
 </script>
 <script>
-  $('.center-index').slick({
-    centerMode: false,
-    slidesToShow: 4,
-    arrows:true,
-    responsive: [{
-        breakpoint: 768,
-        settings: {
-          arrows: false,
-          centerMode: false,
-          centerPadding: '40px',
-          slidesToShow: 3
+  $(document).ready(function() {
+    function initializeCenterIndex() {
+      $('.center-index').not('.slick-initialized').slick({
+        centerMode: false,
+        slidesToShow: 4,
+        arrows: true,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+              arrows: false,
+              centerMode: false,
+              centerPadding: '40px',
+              slidesToShow: 3
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              arrows: true,
+              centerMode: false,
+              centerPadding: '40px',
+              slidesToShow: 1
+            }
+          }
+        ]
+      });
+    }
+
+    initializeCenterIndex(); // Pehli dafa initialize karein
+
+    // Form Submit using AJAX
+    $("#contact").submit(function(event) {
+      event.preventDefault(); // Page reload hone se rokne ke liye
+
+      var formData = $(this).serialize(); // Form data lein
+
+      $.ajax({
+        type: "POST",
+        url: $(this).attr("action"), // Form action URL
+        data: formData,
+        success: function(response) {
+          alert("Form successfully submitted!"); // Success message
+          $("#contact")[0].reset(); // Form clear karein
+
+          // Reinitialize only .center-index slider after form submission
+          $(".center-index").slick("unslick"); // Purani slider destroy karein
+          initializeCenterIndex(); // Dobara initialize karein
+        },
+        error: function() {
+          alert("Something went wrong!");
         }
-      },
-      {
-        breakpoint: 480,
-        settings: {
-          arrows: true,
-          centerMode: false,
-          centerPadding: '40px',
-          slidesToShow: 1
-        }
-      }
-    ]
+      });
+    });
   });
+</script> -->
+<script>
+  $(document).ready(function () {
+    function initializeCenter() {
+        $('.center').not('.slick-initialized').slick({
+            centerMode: false,
+            slidesToShow: 3,
+            arrows: true,
+            autoplay: true,
+            speed: 1000,
+            responsive: [{
+                    breakpoint: 768,
+                    settings: {
+                        arrows: false,
+                        centerMode: false,
+                        centerPadding: '40px',
+                        slidesToShow: 3
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        arrows: true,
+                        centerMode: false,
+                        centerPadding: '40px',
+                        slidesToShow: 1
+                    }
+                }
+            ]
+        });
+    }
+
+    function initializeCenter2() {
+        $('.center2').not('.slick-initialized').slick({
+            centerMode: false,
+            slidesToShow: 4,
+            arrows: true,
+            autoplay: true,
+            speed: 1000,
+            responsive: [{
+                    breakpoint: 768,
+                    settings: {
+                        arrows: false,
+                        centerMode: false,
+                        centerPadding: '40px',
+                        slidesToShow: 3
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        arrows: true,
+                        centerMode: false,
+                        centerPadding: '40px',
+                        slidesToShow: 1
+                    }
+                }
+            ]
+        });
+    }
+
+    function initializeCenter3() {
+        $('.center3').not('.slick-initialized').slick({
+            centerMode: false,
+            slidesToShow: 4,
+            arrows: true,
+            autoplay: true,
+            speed: 1000,
+            responsive: [{
+                    breakpoint: 768,
+                    settings: {
+                        arrows: false,
+                        centerMode: false,
+                        centerPadding: '40px',
+                        slidesToShow: 3
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        arrows: true,
+                        centerMode: false,
+                        centerPadding: '40px',
+                        slidesToShow: 1
+                    }
+                }
+            ]
+        });
+    }
+
+    function initializeCenterIndex() {
+        $('.center-index').not('.slick-initialized').slick({
+            centerMode: false,
+            slidesToShow: 4,
+            arrows: true,
+            autoplay: true,
+            speed: 1000,
+            responsive: [{
+                    breakpoint: 768,
+                    settings: {
+                        arrows: false,
+                        centerMode: false,
+                        centerPadding: '40px',
+                        slidesToShow: 3
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        arrows: true,
+                        centerMode: false,
+                        centerPadding: '40px',
+                        slidesToShow: 1
+                    }
+                }
+            ]
+        });
+    }
+
+    // Sab sliders ko pehli dafa initialize karein
+    initializeCenter();
+    initializeCenter2();
+    initializeCenter3();
+    initializeCenterIndex();
+
+    // Form Submit using AJAX (Multiple alerts fix)
+    $("#contact").off("submit").on("submit", function (event) {
+        event.preventDefault(); // Page reload hone se rokne ke liye
+
+        var formData = $(this).serialize(); // Form data lein
+
+        $.ajax({
+            type: "POST",
+            url: $(this).attr("action"), // Form action URL
+            data: formData,
+            success: function (response) {
+                alert("Form successfully submitted!"); // ✅ Only one alert will show
+                $("#contact")[0].reset(); // Form clear karein
+
+                // 🎯 Sirf specific slider ko reinitialize karna ho to yahan uncomment karein
+                // $(".center").slick("unslick");
+                // initializeCenter();
+
+                // $(".center2").slick("unslick");
+                // initializeCenter2();
+
+                // $(".center3").slick("unslick");
+                // initializeCenter3();
+
+                // $(".center-index").slick("unslick");
+                // initializeCenterIndex();
+            },
+            error: function () {
+                alert("Something went wrong!");
+            }
+        });
+    });
+});
+
 </script>
 <script>
   // Function to animate counters
-function animateCounters() {
-  const counters = document.querySelectorAll('.counter');
-  
-  counters.forEach(counter => {
-    const target = +counter.getAttribute('data-target');
-    const speed = 200; // Adjust speed if necessary
-    
-    const updateCounter = () => {
-      const current = +counter.innerText;
-      const increment = target / speed;
-      
-      if (current < target) {
-        counter.innerText = Math.ceil(current + increment);
-        setTimeout(updateCounter, 10);
-      } else {
-        counter.innerText = target;
-      }
-    };
-    
-    updateCounter();
-  });
-}
-
-// Run counter when it comes into view
-function checkVisibility() {
-  const countersSection = document.querySelector('.mile-function-code');
-  const sectionPosition = countersSection.getBoundingClientRect().top;
-  const screenPosition = window.innerHeight / 1.3;
-
-  if (sectionPosition < screenPosition) {
-    animateCounters();
-    window.removeEventListener('scroll', checkVisibility);
-  }
-}
-
-window.addEventListener('scroll', checkVisibility);
-
-</script>
-<script>
-function animateNumber(finalNumber, duration = 4000, startNumber = 0, elementId) {
-  const numberElement = document.getElementById(elementId);
-  let currentNumber = startNumber;
-  const incrementTime = Math.ceil(duration / finalNumber);
-  
-  const timer = setInterval(() => {
-    currentNumber++;
-    numberElement.textContent = currentNumber;
-    if (currentNumber >= finalNumber) {
-      clearInterval(timer);  // Stop the timer once the final number is reached
-    }
-  }, incrementTime);
-}
-
-// Use IntersectionObserver to trigger the animation on scroll
-document.addEventListener('DOMContentLoaded', () => {
-  const observer = new IntersectionObserver((entries, observer) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        // Start the number animation when the element is in view
-        animateNumber(80, 1500, 0, 'project-counter');  // 80 projects, 1.5 seconds duration
-        observer.unobserve(entry.target);  // Stop observing after animation starts
-      }
-    });
-  }, { threshold: 0.1 });  // Trigger when 10% of the element is visible
-  
-  // Observe the element with the ID 'project-counter'
-  const numberElement = document.getElementById('project-counter');
-  observer.observe(numberElement);
-});
-
-</script>
-<script>
-function animateMilestone(finalNumber, duration = 5000, startNumber = 0, elementId) {
-  const counterElement = document.getElementById(elementId);
-
-  // Check if the element exists
-  if (!counterElement) {
-    console.error(`Element with ID ${elementId} not found.`);
-    return;
-  }
-  
-  let currentNumber = startNumber;
-  const incrementTime = Math.ceil(duration / finalNumber);
-
-  const timer = setInterval(() => {
-    currentNumber++;
-    counterElement.textContent = currentNumber;
-    if (currentNumber >= finalNumber) {
-      clearInterval(timer);  // Stop the timer when final number is reached
-    }
-  }, incrementTime);
-}
-
-// Use IntersectionObserver to trigger the animation on scroll
-document.addEventListener('DOMContentLoaded', () => {
-  const observer = new IntersectionObserver((entries, observer) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        console.log('Milestone counter in view, starting animation.');
-        
-        // Start the milestone animation when the element is in view
-        animateMilestone(150, 2000, 0, 'milestone-counter');  // 150 milestones, 2 seconds duration, start from 0
-        
-        observer.unobserve(entry.target);  // Stop observing after animation starts
-      }
-    });
-  }, { threshold: 0.1 });  // Trigger when 10% of the element is visible
-  
-  // Observe the element with the ID 'milestone-counter'
-  const counterElement = document.getElementById('milestone-counter');
-  
-  if (counterElement) {
-    observer.observe(counterElement);
-    console.log('Observer set up on #milestone-counter.');
-  } else {
-    console.error('Milestone counter element not found.');
-  }
-});
-
-
-</script>
-<script>
- function animateMilestone(finalNumber, duration = 2000, elementId) {
-  const counterElement = document.getElementById(elementId);
-  let currentNumber = 0;
-  const incrementTime = Math.ceil(duration / finalNumber);  // Calculate time per increment
-  
-  const timer = setInterval(() => {
-    currentNumber++;
-    counterElement.textContent = currentNumber;
-    
-    if (currentNumber >= finalNumber) {
-      clearInterval(timer);  // Stop the timer once the final number is reached
-    }
-  }, incrementTime);
-}
-
-// Use IntersectionObserver to trigger the animation on scroll
-document.addEventListener('DOMContentLoaded', () => {
-  const observer = new IntersectionObserver((entries, observer) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        // Start the milestone animation when the element is in view
-        animateMilestone(90, 1500, 'milestone-timer');  // 90 projects, 1.5 seconds duration
-        observer.unobserve(entry.target);  // Stop observing after animation starts
-      }
-    });
-  }, { threshold: 0.1 });  // Trigger when 10% of the element is visible
-  
-  // Observe the element with the ID 'milestone-timer'
-  const counterElement = document.getElementById('milestone-timer');
-  observer.observe(counterElement);
-});
-
-
-</script>
-<script>
- function animateMilestone(finalNumber, duration = 2000, elementId) {
-  const counterElement = document.getElementById(elementId);
-  let currentNumber = 0;
-  const incrementTime = Math.ceil(duration / finalNumber);  // Time per increment
-  
-  const timer = setInterval(() => {
-    currentNumber++;
-    counterElement.textContent = currentNumber;
-    
-    if (currentNumber >= finalNumber) {
-      clearInterval(timer);  // Stop the timer once the final number is reached
-    }
-  }, incrementTime);
-}
-
-// Use IntersectionObserver to trigger the animation on scroll
-document.addEventListener('DOMContentLoaded', () => {
-  const observer = new IntersectionObserver((entries, observer) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        // Start the milestone animation when the element is in view
-        animateMilestone(90, 2000, 'branding-counter');  // 90 for Branding Accomplished
-        observer.unobserve(entry.target);  // Stop observing once animation starts
-      }
-    });
-  }, { threshold: 0.1 });  // Trigger when 10% of the element is visible
-  
-  // Observe the element with the ID 'branding-counter'
-  const counterElement = document.getElementById('branding-counter');
-  observer.observe(counterElement);
-});
-
-
-</script>
-<script>
-document.addEventListener("DOMContentLoaded", function() {
+  function animateCounters() {
     const counters = document.querySelectorAll('.counter');
-    
+
+    counters.forEach(counter => {
+      const target = +counter.getAttribute('data-target');
+      const speed = 200; // Adjust speed if necessary
+
+      const updateCounter = () => {
+        const current = +counter.innerText;
+        const increment = target / speed;
+
+        if (current < target) {
+          counter.innerText = Math.ceil(current + increment);
+          setTimeout(updateCounter, 10);
+        } else {
+          counter.innerText = target;
+        }
+      };
+
+      updateCounter();
+    });
+  }
+
+  // Run counter when it comes into view
+  function checkVisibility() {
+    const countersSection = document.querySelector('.mile-function-code');
+    const sectionPosition = countersSection.getBoundingClientRect().top;
+    const screenPosition = window.innerHeight / 1.3;
+
+    if (sectionPosition < screenPosition) {
+      animateCounters();
+      window.removeEventListener('scroll', checkVisibility);
+    }
+  }
+
+  window.addEventListener('scroll', checkVisibility);
+</script>
+<script>
+  function animateNumber(finalNumber, duration = 4000, startNumber = 0, elementId) {
+    const numberElement = document.getElementById(elementId);
+    let currentNumber = startNumber;
+    const incrementTime = Math.ceil(duration / finalNumber);
+
+    const timer = setInterval(() => {
+      currentNumber++;
+      numberElement.textContent = currentNumber;
+      if (currentNumber >= finalNumber) {
+        clearInterval(timer); // Stop the timer once the final number is reached
+      }
+    }, incrementTime);
+  }
+
+  // Use IntersectionObserver to trigger the animation on scroll
+  document.addEventListener('DOMContentLoaded', () => {
+    const observer = new IntersectionObserver((entries, observer) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          // Start the number animation when the element is in view
+          animateNumber(80, 1500, 0, 'project-counter'); // 80 projects, 1.5 seconds duration
+          observer.unobserve(entry.target); // Stop observing after animation starts
+        }
+      });
+    }, {
+      threshold: 0.1
+    }); // Trigger when 10% of the element is visible
+
+    // Observe the element with the ID 'project-counter'
+    const numberElement = document.getElementById('project-counter');
+    observer.observe(numberElement);
+  });
+</script>
+<script>
+  function animateMilestone(finalNumber, duration = 5000, startNumber = 0, elementId) {
+    const counterElement = document.getElementById(elementId);
+
+    // Check if the element exists
+    if (!counterElement) {
+      console.error(`Element with ID ${elementId} not found.`);
+      return;
+    }
+
+    let currentNumber = startNumber;
+    const incrementTime = Math.ceil(duration / finalNumber);
+
+    const timer = setInterval(() => {
+      currentNumber++;
+      counterElement.textContent = currentNumber;
+      if (currentNumber >= finalNumber) {
+        clearInterval(timer); // Stop the timer when final number is reached
+      }
+    }, incrementTime);
+  }
+
+  // Use IntersectionObserver to trigger the animation on scroll
+  document.addEventListener('DOMContentLoaded', () => {
+    const observer = new IntersectionObserver((entries, observer) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          console.log('Milestone counter in view, starting animation.');
+
+          // Start the milestone animation when the element is in view
+          animateMilestone(150, 2000, 0, 'milestone-counter'); // 150 milestones, 2 seconds duration, start from 0
+
+          observer.unobserve(entry.target); // Stop observing after animation starts
+        }
+      });
+    }, {
+      threshold: 0.1
+    }); // Trigger when 10% of the element is visible
+
+    // Observe the element with the ID 'milestone-counter'
+    const counterElement = document.getElementById('milestone-counter');
+
+    if (counterElement) {
+      observer.observe(counterElement);
+      console.log('Observer set up on #milestone-counter.');
+    } else {
+      console.error('Milestone counter element not found.');
+    }
+  });
+</script>
+<script>
+  function animateMilestone(finalNumber, duration = 2000, elementId) {
+    const counterElement = document.getElementById(elementId);
+    let currentNumber = 0;
+    const incrementTime = Math.ceil(duration / finalNumber); // Calculate time per increment
+
+    const timer = setInterval(() => {
+      currentNumber++;
+      counterElement.textContent = currentNumber;
+
+      if (currentNumber >= finalNumber) {
+        clearInterval(timer); // Stop the timer once the final number is reached
+      }
+    }, incrementTime);
+  }
+
+  // Use IntersectionObserver to trigger the animation on scroll
+  document.addEventListener('DOMContentLoaded', () => {
+    const observer = new IntersectionObserver((entries, observer) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          // Start the milestone animation when the element is in view
+          animateMilestone(90, 1500, 'milestone-timer'); // 90 projects, 1.5 seconds duration
+          observer.unobserve(entry.target); // Stop observing after animation starts
+        }
+      });
+    }, {
+      threshold: 0.1
+    }); // Trigger when 10% of the element is visible
+
+    // Observe the element with the ID 'milestone-timer'
+    const counterElement = document.getElementById('milestone-timer');
+    observer.observe(counterElement);
+  });
+</script>
+<script>
+  function animateMilestone(finalNumber, duration = 2000, elementId) {
+    const counterElement = document.getElementById(elementId);
+    let currentNumber = 0;
+    const incrementTime = Math.ceil(duration / finalNumber); // Time per increment
+
+    const timer = setInterval(() => {
+      currentNumber++;
+      counterElement.textContent = currentNumber;
+
+      if (currentNumber >= finalNumber) {
+        clearInterval(timer); // Stop the timer once the final number is reached
+      }
+    }, incrementTime);
+  }
+
+  // Use IntersectionObserver to trigger the animation on scroll
+  document.addEventListener('DOMContentLoaded', () => {
+    const observer = new IntersectionObserver((entries, observer) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          // Start the milestone animation when the element is in view
+          animateMilestone(90, 2000, 'branding-counter'); // 90 for Branding Accomplished
+          observer.unobserve(entry.target); // Stop observing once animation starts
+        }
+      });
+    }, {
+      threshold: 0.1
+    }); // Trigger when 10% of the element is visible
+
+    // Observe the element with the ID 'branding-counter'
+    const counterElement = document.getElementById('branding-counter');
+    observer.observe(counterElement);
+  });
+</script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const counters = document.querySelectorAll('.counter');
+
     // Function to update the counter
     const updateCounter = (counter) => {
-        const target = +counter.getAttribute('data-target');
-        const count = +counter.innerText;
-        const speed = target / 200; // Adjust speed here
-        
-        if (count < target) {
-            counter.innerText = Math.ceil(count + speed);
-            setTimeout(() => updateCounter(counter), 20); // Adjust delay here
-        } else {
-            counter.innerText = target; // Ensure it stops at the target number
-        }
+      const target = +counter.getAttribute('data-target');
+      const count = +counter.innerText;
+      const speed = target / 200; // Adjust speed here
+
+      if (count < target) {
+        counter.innerText = Math.ceil(count + speed);
+        setTimeout(() => updateCounter(counter), 20); // Adjust delay here
+      } else {
+        counter.innerText = target; // Ensure it stops at the target number
+      }
     };
 
     // Set up the IntersectionObserver to watch when the section comes into view
     const observer = new IntersectionObserver((entries, observer) => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                const counter = entry.target;
-                updateCounter(counter);
-                observer.unobserve(counter); // Stop observing once the animation starts
-            }
-        });
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const counter = entry.target;
+          updateCounter(counter);
+          observer.unobserve(counter); // Stop observing once the animation starts
+        }
+      });
     }, {
-        threshold: 0.1 // Start animation when 10% of the element is visible
+      threshold: 0.1 // Start animation when 10% of the element is visible
     });
 
     // Observe each counter
     counters.forEach(counter => {
-        observer.observe(counter);
+      observer.observe(counter);
     });
-});
-
-
+  });
 </script>
 <script>
   function animateNumberRolling(finalNumber, duration = 2000, elementId) {
-  const numberElement = document.getElementById(elementId);
-  let startNumber = 0;
-  const incrementTime = Math.ceil(duration / finalNumber); // Calculate the time per increment
+    const numberElement = document.getElementById(elementId);
+    let startNumber = 0;
+    const incrementTime = Math.ceil(duration / finalNumber); // Calculate the time per increment
 
-  const timer = setInterval(() => {
-    startNumber++;
-    numberElement.textContent = startNumber;
-    
-    if (startNumber >= finalNumber) {
-      clearInterval(timer);  // Stop the animation when final number is reached
-    }
-  }, incrementTime);
-}
+    const timer = setInterval(() => {
+      startNumber++;
+      numberElement.textContent = startNumber;
 
-// Use IntersectionObserver to trigger the animation when the section appears
-document.addEventListener('DOMContentLoaded', () => {
-  const observer = new IntersectionObserver((entries, observer) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        // Trigger the animation when the section is in view
-        animateNumberRolling(150, 2000, 'milestone-counter');  // 150 as final number, 2 seconds duration
-        observer.unobserve(entry.target);  // Stop observing once the animation has started
+      if (startNumber >= finalNumber) {
+        clearInterval(timer); // Stop the animation when final number is reached
       }
-    });
-  }, { threshold: 0.1 });  // Start when 10% of the element is visible
-  
-  // Observe the element with the ID 'milestone-counter'
-  const counterElement = document.getElementById('milestone-counter');
-  observer.observe(counterElement);
-});
+    }, incrementTime);
+  }
 
+  // Use IntersectionObserver to trigger the animation when the section appears
+  document.addEventListener('DOMContentLoaded', () => {
+    const observer = new IntersectionObserver((entries, observer) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          // Trigger the animation when the section is in view
+          animateNumberRolling(150, 2000, 'milestone-counter'); // 150 as final number, 2 seconds duration
+          observer.unobserve(entry.target); // Stop observing once the animation has started
+        }
+      });
+    }, {
+      threshold: 0.1
+    }); // Start when 10% of the element is visible
+
+    // Observe the element with the ID 'milestone-counter'
+    const counterElement = document.getElementById('milestone-counter');
+    observer.observe(counterElement);
+  });
 </script>
 <script>
-    const targetDate = new Date().getTime() + 3 * 24 * 60 * 60 * 1000; // 4 days from now
+  const targetDate = new Date().getTime() + 3 * 24 * 60 * 60 * 1000; // 4 days from now
 
-    function updateCountdown() {
-        const now = new Date().getTime();
-        const timeLeft = targetDate - now;
+  function updateCountdown() {
+    const now = new Date().getTime();
+    const timeLeft = targetDate - now;
 
-        if (timeLeft > 0) {
-            const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
-            const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
-            const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+    if (timeLeft > 0) {
+      const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
 
-            document.getElementById("days").textContent = days;
-            document.getElementById("hours").textContent = hours.toString().padStart(2, "0");
-            document.getElementById("minutes").textContent = minutes.toString().padStart(2, "0");
-            document.getElementById("seconds").textContent = seconds.toString().padStart(2, "0");
-        } else {
-            clearInterval(countdownInterval);
-            document.getElementById("countdown").innerHTML = "<p>Time's Up!</p>";
-        }
+      document.getElementById("days").textContent = days;
+      document.getElementById("hours").textContent = hours.toString().padStart(2, "0");
+      document.getElementById("minutes").textContent = minutes.toString().padStart(2, "0");
+      document.getElementById("seconds").textContent = seconds.toString().padStart(2, "0");
+    } else {
+      clearInterval(countdownInterval);
+      document.getElementById("countdown").innerHTML = "<p>Time's Up!</p>";
     }
+  }
 
-    const countdownInterval = setInterval(updateCountdown, 1000);
+  const countdownInterval = setInterval(updateCountdown, 1000);
 </script>
 <!-- Meta Pixel Code -->
 <script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '540437431813350');
-fbq('track', 'PageView');
+  ! function(f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function() {
+      n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window, document, 'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '540437431813350');
+  fbq('track', 'PageView');
 </script>
 <noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=540437431813350&ev=PageView&noscript=1"
-/></noscript>
+    src="https://www.facebook.com/tr?id=540437431813350&ev=PageView&noscript=1" /></noscript>
 <!-- End Meta Pixel Code -->

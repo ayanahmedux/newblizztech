@@ -138,8 +138,6 @@
 									<h4>Special offer until January 2025</h4>
 								</div>
 							</div>
-
-							hello
 						</div>
 					</div>
 					<div class="col-lg-6">

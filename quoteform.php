@@ -2,7 +2,7 @@
 <html>
     <head>
 		
-		<title>Apex Creative Design Agency</title>
+		<title>Blizz Tech Solutions</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
