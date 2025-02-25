@@ -5511,11 +5511,7 @@ section#logo-contact-form .logo-conactfomrinner {
     padding: 50px 30px;
     border-radius: 40px;
     background: #00000091;
-    position: absolute;
-    width: 70%;
-    left: 60px;
-    right: 0;
-    top: -110px
+  
 }
 
 section#logo-contact-form button#contact-submit {
