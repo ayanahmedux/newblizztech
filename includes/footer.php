@@ -784,7 +784,38 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     initializeCenter3();
     initializeCenterIndex();
 
-    
+    // Form Submit using AJAX (Multiple alerts fix)
+    $("#contact").off("submit").on("submit", function (event) {
+        event.preventDefault(); // Page reload hone se rokne ke liye
+
+        var formData = $(this).serialize(); // Form data lein
+
+        $.ajax({
+            type: "POST",
+            url: $(this).attr("action"), // Form action URL
+            data: formData,
+            success: function (response) {
+                alert("Form successfully submitted!"); // ✅ Only one alert will show
+                $("#contact")[0].reset(); // Form clear karein
+
+                // 🎯 Sirf specific slider ko reinitialize karna ho to yahan uncomment karein
+                // $(".center").slick("unslick");
+                // initializeCenter();
+
+                // $(".center2").slick("unslick");
+                // initializeCenter2();
+
+                // $(".center3").slick("unslick");
+                // initializeCenter3();
+
+                // $(".center-index").slick("unslick");
+                // initializeCenterIndex();
+            },
+            error: function () {
+                alert("Something went wrong!");
+            }
+        });
+    });
 });
 
 </script>
@@ -1400,4 +1431,62 @@ if (event.which == 27) { // esc
   $('.overlay').removeClass('shown');
 };
 });
+</script>
+
+<script>
+  $('.slider').slick({
+    autoplay: true,
+    autoplaySpeed: 3000
+});
+
+$("#myForm").submit(function(event) {
+    event.preventDefault();
+    $.ajax({
+        type: "POST",
+        url: "submit.php",
+        data: $(this).serialize(),
+        success: function(response) {
+            alert("Form submitted successfully!");
+            $('.slider').slick('setPosition'); // Slider ko update karna
+        }
+    });
+});
+var swiper = new Swiper('.swiper-container', {
+    loop: true,
+    autoplay: {
+        delay: 3000,
+    }
+});
+
+$("#myForm").submit(function(event) {
+    event.preventDefault();
+    $.ajax({
+        type: "POST",
+        url: "submit.php",
+        data: $(this).serialize(),
+        success: function(response) {
+            alert("Form submitted successfully!");
+            swiper.update(); // Slider ko update karna
+        }
+    });
+});
+
+  </script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $("#myForm").submit(function(event) {
+            event.preventDefault(); // Page reload hone se rokna
+            var formData = $(this).serialize(); // Form data lena
+
+            $.ajax({
+                type: "POST",
+                url: "submit.php", // Aapka form submit karne ka script
+                data: formData,
+                success: function(response) {
+                    alert("Form submitted successfully!");
+                }
+            });
+        });
+    });
 </script>
