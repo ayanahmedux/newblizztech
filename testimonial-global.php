@@ -157,48 +157,56 @@
 			</div>
 		</section>
 		<script>
-			$('.slider-nav')
-	.on('init', function(event, slick) {
-		$('.slider-nav .slick-slide.slick-current').addClass('is-active');
-	})
-	.slick({
-		slidesToShow: 7,
-		slidesToScroll: 7,
-		dots: false,
-		focusOnSelect: false,
-		infinite: false,
-		responsive: [{
-			breakpoint: 1024,
-			settings: {
-				slidesToShow: 5,
-				slidesToScroll: 5,
-			}
-		}, {
-			breakpoint: 640,
-			settings: {
-				slidesToShow: 4,
-				slidesToScroll: 4,
-		   }
-		}, {
-			breakpoint: 420,
-			settings: {
-				slidesToShow: 3,
-				slidesToScroll: 3,
-	   }
-		}]
-	});
+			$(document).ready(function () {
+    // Initialize slider navigation
+    $('.slider-nav')
+        .on('init', function (event, slick) {
+            $('.slider-nav .slick-slide.slick-current').addClass('is-active');
+        })
+        .slick({
+            slidesToShow: 7,
+            slidesToScroll: 7,
+            dots: false,
+            focusOnSelect: false,
+            infinite: false,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 5,
+                        slidesToScroll: 5,
+                    }
+                },
+                {
+                    breakpoint: 640,
+                    settings: {
+                        slidesToShow: 4,
+                        slidesToScroll: 4,
+                    }
+                },
+                {
+                    breakpoint: 420,
+                    settings: {
+                        slidesToShow: 3,
+                        slidesToScroll: 3,
+                    }
+                }
+            ]
+        });
 
-$('.slider-single').on('afterChange', function(event, slick, currentSlide) {
-	$('.slider-nav').slick('slickGoTo', currentSlide);
-	var currrentNavSlideElem = '.slider-nav .slick-slide[data-slick-index="' + currentSlide + '"]';
-	$('.slider-nav .slick-slide.is-active').removeClass('is-active');
-	$(currrentNavSlideElem).addClass('is-active');
+    // Sync navigation with the main slider
+    $('.slider-single').on('afterChange', function (event, slick, currentSlide) {
+        $('.slider-nav').slick('slickGoTo', currentSlide);
+        var currentNavSlideElem = '.slider-nav .slick-slide[data-slick-index="' + currentSlide + '"]';
+        $('.slider-nav .slick-slide.is-active').removeClass('is-active');
+        $(currentNavSlideElem).addClass('is-active');
+    });
+
+    // Click event for navigation slider
+    $('.slider-nav').on('click', '.slick-slide', function () {
+        var goToSingleSlide = $(this).data('slick-index');
+        $('.slider-single').slick('slickGoTo', goToSingleSlide);
+    });
 });
 
-$('.slider-nav').on('click', '.slick-slide', function(event) {
-	event.preventDefault();
-	var goToSingleSlide = $(this).data('slick-index');
-
-	$('.slider-single').slick('slickGoTo', goToSingleSlide);
-}); 
 		</script>
