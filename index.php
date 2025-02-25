@@ -1020,13 +1020,13 @@
                             to schedule a consultation and let's explore how we can help you achieve your goals</p>
                     </div>
                     <div class=container>
-                        <form class=innerpagescalltoaction method=post id=contact action="">
-                            <input class=form-control name=name placeholder=Name required>
-                            <input type=email class=form-control name=email placeholder=Email required>
-                            <input class=form-control name=phone placeholder=Phone required>
-                            <textarea class=form-control name=message rows=3 placeholder=Message></textarea>
-                            <button class="btn btn-primary" type=submit name=submit>Submit</button>
-                        </form>
+                    <form class="innerpagescalltoaction" method="post" action="">
+    <input class="form-control" name="name" placeholder="Name" required>
+    <input type="email" class="form-control" name="email" placeholder="Email" required>
+    <input class="form-control" name="phone" placeholder="Phone" required>
+    <textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
+    <button class="btn btn-primary" type="submit" name="submit">Submit</button>
+</form>
                     </div>
                 </div>
             </div>
