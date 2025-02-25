@@ -1135,3 +1135,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <noscript><img height="1" width="1" style="display:none"
     src="https://www.facebook.com/tr?id=540437431813350&ev=PageView&noscript=1" /></noscript>
 <!-- End Meta Pixel Code -->
+<!-- jQuery (Slick Slider ke liye zaroori hai) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Slick JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
