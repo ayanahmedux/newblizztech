@@ -784,38 +784,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     initializeCenter3();
     initializeCenterIndex();
 
-    // Form Submit using AJAX (Multiple alerts fix)
-    $("#contact").off("submit").on("submit", function (event) {
-        event.preventDefault(); // Page reload hone se rokne ke liye
-
-        var formData = $(this).serialize(); // Form data lein
-
-        $.ajax({
-            type: "POST",
-            url: $(this).attr("action"), // Form action URL
-            data: formData,
-            success: function (response) {
-                alert("Form successfully submitted!"); // ✅ Only one alert will show
-                $("#contact")[0].reset(); // Form clear karein
-
-                // 🎯 Sirf specific slider ko reinitialize karna ho to yahan uncomment karein
-                // $(".center").slick("unslick");
-                // initializeCenter();
-
-                // $(".center2").slick("unslick");
-                // initializeCenter2();
-
-                // $(".center3").slick("unslick");
-                // initializeCenter3();
-
-                // $(".center-index").slick("unslick");
-                // initializeCenterIndex();
-            },
-            error: function () {
-                alert("Something went wrong!");
-            }
-        });
-    });
+    
 });
 
 </script>
