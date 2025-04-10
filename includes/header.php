@@ -1,3 +1,50 @@
+<?php
+// Initialize an empty message variable for feedback
+$user_message = ""; 
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Sanitize and get form data
+    $name = htmlspecialchars(trim($_POST['name']));
+    $email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
+    $phone = htmlspecialchars(trim($_POST['phone']));
+    $user_message = htmlspecialchars(trim($_POST['message']));
+    $interests = isset($_POST['interests']) ? implode(", ", (array)$_POST['interests']) : 'None';
+
+    // Validate email
+    if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        die("Invalid email address.");
+    }
+
+    // Set up email details
+    $to = 'info@blizztechsolutions.com';
+    $subject = 'Quotation Form Submission';
+    $headers = "From: $name <$email>\r\n";
+    $headers .= "Reply-To: $email\r\n";
+    $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
+
+    // Email content
+    $body = "
+    <html>
+        <body>
+            <h2>QUERY FORM</h2>
+            <p><strong>Name:</strong> $name</p>
+            <p><strong>Email:</strong> $email</p>
+            <p><strong>Phone:</strong> $phone</p>
+   
+            <p><strong>Message:</strong> $user_message</p>
+        </body>
+    </html>";
+
+    // Send email & check if successful
+    if (mail($to, $subject, $body, $headers)) {
+        header("Location: thankyou.php");
+        exit(); 
+    } else {
+        error_log("Mail sending failed to $to");
+        $user_message = "Failed to send email. Please try again later.";
+    }
+}
+?>
 <section id="top-header">
 	<div class="header-top-nav">
 		<div class="custom-section">

@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <p><strong>Name:</strong> $name</p>
             <p><strong>Email:</strong> $email</p>
             <p><strong>Phone:</strong> $phone</p>
-            <p><strong>I'm interested in:</strong> $interests</p>
+   
             <p><strong>Message:</strong> $user_message</p>
         </body>
     </html>";
