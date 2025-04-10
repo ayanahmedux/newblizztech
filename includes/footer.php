@@ -67,7 +67,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         <div class="col-2 col-12-medium">
           <div class="floating_btn">
-            <a target="_blank" href="https://wa.link/n0q4ii">
+            <a target="_blank" href="https://wa.link/lrqp5j">
               <div class="contact_icon">
                 <i class="fa fa-whatsapp my-float"></i>
               </div>

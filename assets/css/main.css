@@ -3882,7 +3882,7 @@ section#what-canwe-about .gallery-item {
 section#recent-past .gallery-item img {
     width: 100%;
     object-fit: cover;
-    height: 360px;
+    height: 400px;
     object-position: top;
     transition: 1s all ease;
 }
