@@ -101,7 +101,7 @@
             </video>
         </section>
         <!-- LOGO ABOUT US START -->
-		<section id="four-days-left">
+		<!-- <section id="four-days-left">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-6">
@@ -147,7 +147,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
         <section id=intro-section-home>
             <div class=container>
                 <div class=row style="margin:0 auto">
