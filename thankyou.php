@@ -8,7 +8,7 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T85BXSH6"
             height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <h1>Thankyou For Submitted the Form!</h1>
+    <h1 style="color: #fff; text-align:center; padding: 40px 0px;">Thankyou For Submitted the Form!</h1>
 
     <?php include_once("testimonial-global.php") ?>
 
